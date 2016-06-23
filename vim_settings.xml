@@ -1,0 +1,19 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1466691152160">
+        <mark key="[" line="124" column="32" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+  </component>
+</application>
