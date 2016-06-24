@@ -3,27 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1466752175771">
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="[" line="64" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1466755949261">
+        <mark key="]" line="64" column="58" />
+        <mark key="^" line="64" column="58" />
+        <mark key="." line="64" column="58" />
+        <mark key="[" line="64" column="46" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/jni/hello-libs.cpp" timestamp="1466755372422">
+        <mark key="[" line="33" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICore.java" timestamp="1466751421345">
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/jni/hello-jnicallback.c" timestamp="1466754746948">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0VGV4dFNlbmQuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKFRleHRWaWV3KWZpbmRWaWV3QnlJZChSLmlkLmhlbGxvam5pTXNnKSkuc2V0VGV4dChzdHJpbmdGcm9tSk5JKCkpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICBwdWJsaWMgbmF0aXZlIHZvaWQgdGVzdCgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlZGl0VGV4dFNlbmQuc2V0Cg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAoKFRleHRWaWV3KWZpbmRWaWV3QnlJZChSLmlkLmhlbGxvam5pTXNnKSkuc2V0VGV4dChzdHJpbmdGcm9tSk5JKCkpOwo=</text>
       </register>
     </registers>
     <search>
