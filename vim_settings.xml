@@ -21,11 +21,8 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/jni/hello-libs.cpp" timestamp="1466775931225">
-        <mark key="]" line="140" column="18" />
-        <mark key="^" line="140" column="18" />
-        <mark key="." line="140" column="18" />
-        <mark key="[" line="153" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/jni/hello-libs.cpp" timestamp="1466779282797">
+        <mark key="[" line="245" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICore.java" timestamp="1466751421345">
         <mark key="]" line="9" column="0" />
@@ -67,37 +64,37 @@
     <jumps />
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">anN0cmluZwo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICoKICogICBhcHBzL3NhbXBsZXMvaGVsbG8tam5pL3Byb2plY3Qvc3JjL2NvbS9leGFtcGxlL2hlbGxvam5pL0hlbGxvSm5pLmphdmEK</text>
       </register>
-      <register name="1" type="2">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXh0ZXJuICJDIiBKTklFWFBPUlQganN0cmluZyBKTklDQUxMCg==</text>
+        <text encoding="base64">ICAgIC8vTWFpbkFjdGl2aXR5Ojp1cGRhdGVUaW1lcgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBwdWJsaWMgbmF0aXZlICBTdHJpbmcgc3RyaW5nRnJvbUpOSSgpOwoKICAgIHB1YmxpYyBuYXRpdmUgdm9pZCBzdGFydFRpY2tzKCk7CiAgICBwdWJsaWMgbmF0aXZlIHZvaWQgU3RvcFRpY2tzKCk7CgogICAgcHVibGljIG5hdGl2ZSBTdHJpbmcgIHN0cmluZ0Zyb21KTklMaWJzKCk7CgogICAgc3RhdGljIHsKICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoImhlbGxvLWxpYnMiKTsKICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnRzc2FwaWNvcmUnKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">anN0cmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudi0+Q2FsbFN0YXRpY09iamVjdE1ldGhvZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVudi0+Q2FsbFN0YXRpY09iamVjdE1ldGhvZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>__GPERF_HPP__</text>
