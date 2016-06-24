@@ -20,20 +20,35 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/jni/hello-jnicallback.c" timestamp="1466754746948">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/settings.gradle" timestamp="1466758194178">
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="[" line="3" column="10" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoKFRleHRWaWV3KWZpbmRWaWV3QnlJZChSLmlkLmhlbGxvam5pTXNnKSkuc2V0VGV4dChzdHJpbmdGcm9tSk5JKCkpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICBwdWJsaWMgbmF0aXZlIHZvaWQgdGVzdCgpOwo=</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBlZGl0VGV4dFNlbmQuc2V0Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>tssapicore</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW5jbHVkZSAnOnRzc2FwaWNvcmUnCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>tssapicore</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoKFRleHRWaWV3KWZpbmRWaWV3QnlJZChSLmlkLmhlbGxvam5pTXNnKSkuc2V0VGV4dChzdHJpbmdGcm9tSk5JKCkpOwo=</text>
+        <text encoding="base64">aW5jbHVkZSAnOnRzc2FwaWNvcmUnCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICBwdWJsaWMgbmF0aXZlIHZvaWQgdGVzdCgpOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>tssapicore</text>
       </register>
     </registers>
     <search>
