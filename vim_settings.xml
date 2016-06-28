@@ -59,17 +59,23 @@
         <mark key="." line="15" column="13" />
         <mark key="[" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/chronotest.h" timestamp="1467124547881">
+        <mark key="]" line="20" column="108" />
+        <mark key="^" line="20" column="108" />
+        <mark key="." line="20" column="108" />
+        <mark key="[" line="16" column="15" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/JniHandler.java" timestamp="1466772620870">
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="[" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467124117247">
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="41" column="34" />
-        <mark key="." line="43" column="0" />
-        <mark key="[" line="43" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467125498435">
+        <mark key="]" line="113" column="75" />
+        <mark key="^" line="113" column="3" />
+        <mark key="." line="113" column="0" />
+        <mark key="[" line="113" column="8" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/qdebug2logcat.h" timestamp="1467118056512">
         <mark key="]" line="2" column="0" />
@@ -129,43 +135,43 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHFEZWJ1ZygpIDw8ICJ1cm1zcF9TdGFydFJPU3BlYzogIiA8PCBRU3RyaW5nKChjb25zdCBjaGFyKilyZXR1cm5WYWx1ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>std::endl;</text>
+        <text>\n</text>
       </register>
       <register name="3" type="4">
-        <text>std</text>
+        <text>\n</text>
       </register>
       <register name="2" type="4">
-        <text>std::endl;</text>
+        <text>\n</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHFJbnN0YWxsTWVzc2FnZUhhbmRsZXIoYW5kcm9pZF9tZXNzYWdlX2hhbmRsZXIpOwo=</text>
+        <text encoding="base64">ICAgIHFEZWJ1ZygpIDw8ICJ1cm1zcF9TdGFydFJPU3BlYzogIiA8PCBRU3RyaW5nKChjb25zdCBjaGFyKilyZXR1cm5WYWx1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHFEZWJ1ZygpIDw8ICJ1cm1zcF9TdGFydFJPU3BlYzogcmV0dXJuIjsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>&quot;\n</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>\n</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHFJbnN0YWxsTWVzc2FnZUhhbmRsZXIoYW5kcm9pZF9tZXNzYWdlX2hhbmRsZXIpOwo=</text>
+      <register name="4" type="4">
+        <text>\n</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZSBQYWNrZXQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>SendDataCallback&quot;;</text>
       </register>
     </registers>
     <search>
