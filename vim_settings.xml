@@ -48,15 +48,16 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/qdebug2logcat.h" timestamp="1467111211023">
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="[" line="5" column="22" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/qdebug2logcat.h" timestamp="1467118056512">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467111041745">
-        <mark key="]" line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="8" column="27" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467118134467">
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/build.gradle" timestamp="1466759749290">
@@ -111,25 +112,25 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInFkZWJ1ZzJsb2djYXQuaCIK</text>
       </register>
       <register name="-" type="4">
         <text>g_vm</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDI4LzA2LzE2LgovLwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">I3VuZGVmIFFERUJVRzJMT0dDQVRfVEFHCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInFkZWJ1ZzJsb2djYXQuaCIK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2RlZmluZSAgTE9HX1RBRyAgICAiQVBJQ29yZUpOSSIK</text>
+        <text encoding="base64">I2RlZmluZSAgUURFQlVHMkxPR0NBVF9UQUcgICAgIlF0Igo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDI4LzA2LzE2LgovLwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -140,18 +141,17 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="8">
-        <text>\n
-\n
-\n
-\n</text>
+      <register name="4" type="2">
+        <text encoding="base64">I2lmZGVmIFFERUJVRzJMT0dDQVRfVEFHCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>void urmsp_Test();
-void urmsp_TestCallback(void (*cbFunction)(void));</text>
+      <register name="8" type="8">
+        <text>\n
+\n
+\n
+\n</text>
       </register>
     </registers>
     <search>
