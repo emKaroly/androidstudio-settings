@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateAndroidMonitorToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateFindToolWindow" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -12,6 +16,7 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="FileChooser.GotoModule" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="back_slash" second-keystroke="quote" />
