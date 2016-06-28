@@ -65,17 +65,17 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="43" column="44" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467124117247">
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="41" column="34" />
+        <mark key="." line="43" column="0" />
+        <mark key="[" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/qdebug2logcat.h" timestamp="1467118056512">
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="[" line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467123780166">
-        <mark key="]" line="37" column="36" />
-        <mark key="^" line="37" column="36" />
-        <mark key="." line="37" column="36" />
-        <mark key="[" line="37" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/build.gradle" timestamp="1466759749290">
         <mark key="]" line="33" column="39" />
@@ -89,13 +89,13 @@
         <mark key="." line="78" column="0" />
         <mark key="[" line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/jni/hello-jnicallback.c" timestamp="1466754746948">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1466762855669">
         <mark key="]" line="113" column="37" />
         <mark key="." line="124" column="0" />
         <mark key="[" line="113" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/jni/hello-jnicallback.c" timestamp="1466754746948">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/ThreadingTest.java" timestamp="1467030121004">
         <mark key="]" line="3" column="0" />
@@ -128,20 +128,20 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>std</text>
-      </register>
-      <register name="-" type="4">
-        <text>std</text>
-      </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHFJbnN0YWxsTWVzc2FnZUhhbmRsZXIoYW5kcm9pZF9tZXNzYWdlX2hhbmRsZXIpOwo=</text>
+      <register name="-" type="4">
+        <text>std::endl;</text>
       </register>
-      <register name="1" type="4">
+      <register name="3" type="4">
         <text>std</text>
+      </register>
+      <register name="2" type="4">
+        <text>std::endl;</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHFJbnN0YWxsTWVzc2FnZUhhbmRsZXIoYW5kcm9pZF9tZXNzYWdlX2hhbmRsZXIpOwo=</text>
@@ -159,13 +159,13 @@
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHFJbnN0YWxsTWVzc2FnZUhhbmRsZXIoYW5kcm9pZF9tZXNzYWdlX2hhbmRsZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdfY3R4LmphdmFWTS0+R2V0RW52KCh2b2lkICoqKSAmZW52LCBKTklfVkVSU0lPTl8xXzYpICE9IEpOSV9PSyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGVudi0+RGVsZXRlR2xvYmFsUmVmKGdfY3R4Lm1haW5BY3Rpdml0eUNseik7CiAgICBlbnYtPkRlbGV0ZUdsb2JhbFJlZihnX2N0eC5tYWluQWN0aXZpdHlPYmopOwogICAgZ19jdHgubWFpbkFjdGl2aXR5T2JqID0gTlVMTDsKICAgIGdfY3R4Lm1haW5BY3Rpdml0eUNseiA9IE5VTEw7</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
