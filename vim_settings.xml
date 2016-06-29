@@ -20,7 +20,7 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1467118337563">
+      <file name="/Dummy.txt" timestamp="1467185803586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1467118532718">
@@ -44,11 +44,11 @@
         <mark key="." line="140" column="0" />
         <mark key="[" line="113" column="8" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1467122973700">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1467185993457">
         <mark key="]" line="63" column="10" />
         <mark key="^" line="63" column="10" />
         <mark key="." line="63" column="10" />
-        <mark key="[" line="32" column="5" />
+        <mark key="[" line="163" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICoreJNI.java" timestamp="1467122473714">
         <mark key="[" line="17" column="0" />
@@ -103,10 +103,8 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/jni/hello-jnicallback.c" timestamp="1466754746948">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/ThreadingTest.java" timestamp="1467030121004">
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="[" line="2" column="24" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/ThreadingTest.java" timestamp="1467186591839">
+        <mark key="[" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.h" timestamp="1466759192842">
         <mark key="]" line="23" column="22" />
