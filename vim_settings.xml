@@ -8,11 +8,11 @@
         <mark key="^" line="217" column="3" />
         <mark key="." line="217" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMBuffer.cpp" timestamp="1467209461869">
-        <mark key="]" line="40" column="18" />
-        <mark key="^" line="32" column="17" />
-        <mark key="." line="37" column="0" />
-        <mark key="[" line="38" column="35" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMBuffer.cpp" timestamp="1467210374277">
+        <mark key="]" line="58" column="5" />
+        <mark key="^" line="32" column="18" />
+        <mark key="." line="58" column="0" />
+        <mark key="[" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICore.java" timestamp="1467103214059">
         <mark key="]" line="9" column="0" />
@@ -53,11 +53,11 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467207978659">
-        <mark key="]" line="84" column="61" />
-        <mark key="^" line="84" column="61" />
-        <mark key="." line="84" column="61" />
-        <mark key="[" line="84" column="67" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467210138188">
+        <mark key="]" line="87" column="48" />
+        <mark key="^" line="87" column="48" />
+        <mark key="." line="87" column="48" />
+        <mark key="[" line="85" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1467189311447">
         <mark key="[" line="88" column="24" />
@@ -171,44 +171,44 @@
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmpacket.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHN0ZDo6dW5pcXVlX2xvY2s8c3RkOjptdXRleD4gbGNrKG10eCk7CiAgICBjb25kLndhaXQobGNrLCBbdGhpc117IHJldHVybiAhcS5lbXB0eSgpOyB9KTsgICAgLy8gcHJldmVudCBzcHVyaW91cyB3YWtldXAKICAgIHZhbCA9IHEuZnJvbnQoKTsKICAgIHEucG9wX2Zyb250KCk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnQnVmZmVyLmxpc3RHZXQoc3RyT3V0KTsKICAgICAgICBxRGVidWcoKSA8PCAiQnVmZmVyIGRhdGE6ICIgPDwgUVN0cmluZzo6ZnJvbVN0ZFN0cmluZyhzdHJPdXQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>list</text>
       </register>
-      <register name="3" type="4">
-        <text>list</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>list</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHMuYXBwZW5kKHZhbCk7CiAgICBjb25kLm5vdGlmeV9vbmUoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>list</text>
-      </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHN0ZDo6dW5pcXVlX2xvY2s8c3RkOjptdXRleD4gbGNrKG10eCk7CiAgICBjb25kLndhaXQobGNrLCBbdGhpc117IHJldHVybiAhcS5lbXB0eSgpOyB9KTsgICAgLy8gcHJldmVudCBzcHVyaW91cyB3YWtldXAKICAgIHZhbCA9IHEuZnJvbnQoKTsKICAgIHEucG9wX2Zyb250KCk7</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBnQnVmZmVyLmxpc3RHZXQoc3RyT3V0KTsKICAgICAgICBxRGVidWcoKSA8PCAiQnVmZmVyIGRhdGE6ICIgPDwgUVN0cmluZzo6ZnJvbVN0ZFN0cmluZyhzdHJPdXQpOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>list</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">ClRTU1VSTUJ1ZmZlcjo6VFNTVVJNQnVmZmVyKCkgewoKfQ==</text>
+        <text>list</text>
       </register>
       <register name="5" type="4">
-        <text>//</text>
+        <text>list</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text>list</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">fSAgIHJldHVybiBmYWxzZTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>//</text>
+      </register>
+      <register name="8" type="4">
+        <text>list</text>
       </register>
     </registers>
     <search>
