@@ -8,11 +8,11 @@
         <mark key="^" line="217" column="3" />
         <mark key="." line="217" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMBuffer.cpp" timestamp="1467210763061">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMBuffer.cpp" timestamp="1467277903444">
         <mark key="]" line="51" column="0" />
         <mark key="^" line="22" column="8" />
         <mark key="." line="51" column="0" />
-        <mark key="[" line="51" column="0" />
+        <mark key="[" line="40" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICore.java" timestamp="1467103214059">
         <mark key="]" line="9" column="0" />
@@ -53,11 +53,11 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467210138188">
-        <mark key="]" line="87" column="48" />
-        <mark key="^" line="87" column="48" />
-        <mark key="." line="87" column="48" />
-        <mark key="[" line="85" column="27" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467277646496">
+        <mark key="]" line="88" column="23" />
+        <mark key="^" line="88" column="23" />
+        <mark key="." line="88" column="23" />
+        <mark key="[" line="88" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1467189311447">
         <mark key="[" line="88" column="24" />
@@ -172,43 +172,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBnQnVmZmVyLmxpc3RHZXQoc3RyT3V0KTsKICAgICAgICBxRGVidWcoKSA8PCAiQnVmZmVyIGxpc3REYXRhOiAiIDw8IFFTdHJpbmc6OmZyb21TdGRTdHJpbmcoc3RyT3V0KTsK</text>
       </register>
       <register name="-" type="4">
         <text>list</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBnQnVmZmVyLnN0cmluZ0dldChzdHJPdXQpOwogICAgICAgIHFEZWJ1ZygpIDw8ICJCdWZmZXIgc3RyaW5nRGF0YTogIiA8PCBRU3RyaW5nOjpmcm9tU3RkU3RyaW5nKHN0ck91dCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKHMgIT0gbnVsbHB0cil7Cg==</text>
+        <text encoding="base64">ICAgICBzdGQ6OnN0cmluZyBzdHJPdXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBnQnVmZmVyLmxpc3RHZXQoc3RyT3V0KTsKICAgICAgICBxRGVidWcoKSA8PCAiQnVmZmVyIGxpc3REYXRhOiAiIDw8IFFTdHJpbmc6OmZyb21TdGRTdHJpbmcoc3RyT3V0KTsK</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnQnVmZmVyLmxpc3RHZXQoc3RyT3V0KTsKICAgICAgICBxRGVidWcoKSA8PCAiQnVmZmVyIGRhdGE6ICIgPDwgUVN0cmluZzo6ZnJvbVN0ZFN0cmluZyhzdHJPdXQpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHN0ZDo6c3RyaW5nIHN0ck91dDsKICAgIHdoaWxlKGdCdWZmZXIubGlzdEhhc05leHQoKSl7CiAgICAgICAgZ0J1ZmZlci5saXN0R2V0KHN0ck91dCk7CiAgICAgICAgcURlYnVnKCkgPDwgIkJ1ZmZlciBsaXN0RGF0YTogIiA8PCBRU3RyaW5nOjpmcm9tU3RkU3RyaW5nKHN0ck91dCk7CiAgICAgICAgZ0J1ZmZlci5zdHJpbmdHZXQoc3RyT3V0KTsKICAgICAgICBxRGVidWcoKSA8PCAiQnVmZmVyIHN0cmluZ0RhdGE6ICIgPDwgUVN0cmluZzo6ZnJvbVN0ZFN0cmluZyhzdHJPdXQpOwogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmKHMgIT0gbnVsbHB0cil7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmKHMgIT0gbnVsbHB0cil7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKHMgIT0gbnVsbHB0cil7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKHMgIT0gbnVsbHB0cil7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKHMgIT0gbnVsbHB0cil7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
     </registers>
     <search>
