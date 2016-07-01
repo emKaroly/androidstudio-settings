@@ -15,8 +15,11 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1467364883805">
-        <mark key="[" line="115" column="90" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1467366593475">
+        <mark key="]" line="110" column="56" />
+        <mark key="^" line="110" column="24" />
+        <mark key="." line="110" column="25" />
+        <mark key="[" line="110" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmbuffer.h" timestamp="1467207684817">
         <mark key="]" line="16" column="0" />
@@ -56,6 +59,12 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Logs.h" timestamp="1467365473237">
+        <mark key="]" line="21" column="1" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="21" column="1" />
+        <mark key="[" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1467189311447">
         <mark key="[" line="88" column="24" />
@@ -190,44 +199,44 @@
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmpacket.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBRU3RyaW5nIGhleCA9IFFTdHJpbmc6OnNldAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;PAcket received succesfully: &quot;</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>&quot;PAcket received succesfully: &quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxRGVidWcoKSA8PCAiUGFja2V0IHJlY2l2ZWQgc3VjY2Vzc2Z1bGx5IjsK</text>
+      <register name="3" type="4">
+        <text>&quot;assemlbePacket: &quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3FEZWJ1ZygpIDw8ICJcblBhY2tldCByZWNpdmVkIHN1Y2Nlc3NmdWxseSIgPDwgcmVjZWl2ZWRQYWNrZXRRQkEudG9IZXgoKTsK</text>
+      <register name="2" type="4">
+        <text>&quot;Packet CRC error&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBRU3RyaW5nIGhleCA9IFFTdHJpbmc6OnNldAo=</text>
+      <register name="1" type="4">
+        <text>&quot;PAcket received succesfully: &quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c3RkOjp2ZWN0b3I8Y2hhcj4gSGV4VG9CeXRlcyhjb25zdCBzdGQ6OnN0cmluZyYgaGV4KSB7Cg==</text>
+      <register name="0" type="4">
+        <text>ssemlbePacket&quot;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>assemlbePacket</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHN0cmluZ190b19oZXgoY29uc3Qgc3RkOjpzdHJpbmcmIGlucHV0KTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">cURlYnVnKCkgPDwgIg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHN0cmluZ190b19oZXgoY29uc3Qgc3RkOjpzdHJpbmcmIGlucHV0KTsK</text>
+      <register name="5" type="4">
+        <text>&quot;asssemlbePacket&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJpdHMvc3RsX3ZlY3Rvci5oPgo=</text>
+      <register name="4" type="4">
+        <text>semlbePacket&quot;</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFFCeXRlQXJyYXkgc3RyaW5nc0lOOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">cURlYnVnKCkgPA==</text>
       </register>
     </registers>
     <search>
