@@ -15,11 +15,11 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1467379050347">
-        <mark key="]" line="138" column="27" />
-        <mark key="^" line="138" column="27" />
-        <mark key="." line="138" column="27" />
-        <mark key="[" line="113" column="50" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1467383410195">
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="28" column="38" />
+        <mark key="." line="138" column="0" />
+        <mark key="[" line="138" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmbuffer.h" timestamp="1467207684817">
         <mark key="]" line="16" column="0" />
@@ -54,11 +54,11 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467292853612">
-        <mark key="]" line="8" column="40" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="8" column="39" />
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467383189485">
+        <mark key="]" line="79" column="3" />
+        <mark key="^" line="79" column="3" />
+        <mark key="." line="79" column="3" />
+        <mark key="[" line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Logs.h" timestamp="1467365473237">
         <mark key="]" line="21" column="1" />
@@ -84,6 +84,12 @@
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/ThreadingTest.java" timestamp="1467186591839">
         <mark key="[" line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/bt/BluetoothCommunication.java" timestamp="1467382797515">
+        <mark key="]" line="112" column="13" />
+        <mark key="^" line="112" column="13" />
+        <mark key="." line="112" column="13" />
+        <mark key="[" line="112" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/jni/hello-libs.cpp" timestamp="1467188603005">
         <mark key="]" line="267" column="0" />
@@ -160,9 +166,10 @@
         <mark key="." line="124" column="0" />
         <mark key="[" line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.h" timestamp="1467379026705">
-        <mark key="]" line="53" column="74" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.h" timestamp="1467382268467">
+        <mark key="]" line="53" column="32" />
+        <mark key="^" line="53" column="32" />
+        <mark key="." line="53" column="32" />
         <mark key="[" line="53" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.h" timestamp="1466759192842">
@@ -200,43 +207,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3RkOjpzdHJpbmcgVFNTVVJNUGFja2V0ZXI6OkJ5dGVzVG9IRXgodW5zaWduZWQgY2hhciAqYXJyYXksIGludCBsZW4pewo=</text>
+        <text encoding="base64">ICAgIExPR0QoImFycmF5IHNpemU6ICVkIiwgYXJyYXkuc2l6ZSgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;PAcket received succesfully: &quot;</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;assemlbePacket: &quot;</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;Packet CRC error&quot;</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;PAcket received succesfully: &quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIExPR0QoImFycmF5IHNpemU6ICVkIiwgYXJyYXkuc2l6ZSgpKTsK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RkOjpzdHJpbmcgVFNTVVJNUGFja2V0ZXI6OkJ5dGVzVG9IRXgodW5zaWduZWQgY2hhciAqYXJyYXksIGludCBsZW4pewo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dEKCJhc3NlbWxiZVBhY2tldDogRGF0YTogJTBYIiwgYnl0ZSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>assemlbePacket</text>
+        <text>&quot;Packet CRC error&quot;</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cURlYnVnKCkgPDwgIg==</text>
+        <text>&quot;PAcket received succesfully: &quot;</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;asssemlbePacket&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vTE9HRCgiYXNzZW1sYmVQYWNrZXQiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dEKCJhc3NlbWxiZVBhY2tldDogUG9zaXRpb24gaW4gcGFja2V0OiAlZCIsIHBvc2l0aW9uSW5QYWNrZXQpOwogICAgICAgIExPR0QoImFzc2VtbGJlUGFja2V0OiBEYXRhOiAlMFgiLCBieXRlKTsKCiAgICAgICAgTE9HRCgiYXNzZW1sYmVQYWNrZXQ6IERhdGE6ICUwWCIsIHJlY2VpdmVkUGFja2V0UUJBLmZyb250KCkpOwo=</text>
+      </register>
+      <register name="9" type="4">
         <text>semlbePacket&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">cURlYnVnKCkgPA==</text>
+        <text>&quot;assemlbePacket: &quot;</text>
       </register>
     </registers>
     <search>
