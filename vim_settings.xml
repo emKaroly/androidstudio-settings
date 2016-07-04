@@ -15,10 +15,10 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.cpp" timestamp="1467644069663">
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.cpp" timestamp="1467654934711">
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
         <mark key="[" line="15" column="50" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1467643596985">
@@ -72,6 +72,11 @@
         <mark key="." line="26" column="0" />
         <mark key="[" line="37" column="34" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMMessage.h" timestamp="1467654702528">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Logs.h" timestamp="1467365473237">
         <mark key="]" line="21" column="1" />
         <mark key="^" line="3" column="0" />
@@ -108,9 +113,10 @@
         <mark key="." line="112" column="13" />
         <mark key="[" line="112" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1467644036238">
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1467654711686">
+        <mark key="]" line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="14" />
         <mark key="[" line="11" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/jni/hello-libs.cpp" timestamp="1467622774924">
@@ -238,29 +244,29 @@
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmpacket.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VFNTVVJNQ29yZTo6flRTU1VSTUNvcmUoKSB7CgogICAgTE9HRCgiRGVzdHJ1Y3RvciIpOwp9Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>Destructor</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDA0LzA3LzE2LgovLwoK</text>
       </register>
-      <register name="2" type="4">
-        <text>Destructor</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">VFNTVVJNQ29yZTo6flRTU1VSTUNvcmUoKSB7CgogICAgTE9HRCgiRGVzdHJ1Y3RvciIpOwp9Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TE9HRCgiRGVzdHJ1Y3RvciIpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>Destructor</text>
+        <text encoding="base64">ClRTU1VSTVJlYWRlcjo6VFNTVVJNUmVhZGVyKCkgewoKICAgIExPR0QoIkNvbnN0cnVjdG9yIik7Cn0=</text>
       </register>
-      <register name="6" type="4">
-        <text>TSSURMHost</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="4">
         <text>Destructor</text>
@@ -269,13 +275,13 @@
         <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ClRTU1VSTVJlYWRlcjo6VFNTVVJNUmVhZGVyKCkgewoKICAgIExPR0QoIkNvbnN0cnVjdG9yIik7Cn0=</text>
+        <text encoding="base64">VFNTVVJNQ29yZTo6flRTU1VSTUNvcmUoKSB7CgogICAgTE9HRCgiRGVzdHJ1Y3RvciIpOwp9Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ClRTU1VSTUhvc3Q6On5UU1NVUk1Ib3N0KCkgewoKfQ==</text>
+        <text>TSSURMHost</text>
       </register>
       <register name="8" type="4">
-        <text>TSSURMPacketer</text>
+        <text>Destructor</text>
       </register>
     </registers>
     <search>
