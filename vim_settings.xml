@@ -60,6 +60,11 @@
         <mark key="." line="20" column="30" />
         <mark key="[" line="20" column="109" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Test.h" timestamp="1467726808809">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="16" column="44" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/JniHandler.java" timestamp="1466772620870">
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
@@ -245,43 +250,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDA1LzA3LzE2LgovLwoK</text>
       </register>
       <register name="-" type="4">
         <text>Destructor</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDA0LzA3LzE2LgovLwoK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDA1LzA3LzE2LgovLwoK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TE9HRCgiRGVzdHJ1Y3RvciIpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ClRTU1VSTVJlYWRlcjo6VFNTVVJNUmVhZGVyKCkgewoKICAgIExPR0QoIkNvbnN0cnVjdG9yIik7Cn0=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Destructor</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">VFNTVVJNQ29yZTo6flRTU1VSTUNvcmUoKSB7CgogICAgTE9HRCgiRGVzdHJ1Y3RvciIpOwp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">VFNTVVJNQ29yZTo6flRTU1VSTUNvcmUoKSB7CgogICAgTE9HRCgiRGVzdHJ1Y3RvciIpOwp9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDA0LzA3LzE2LgovLwoK</text>
       </register>
       <register name="9" type="4">
-        <text>TSSURMHost</text>
+        <text>Destructor</text>
       </register>
       <register name="8" type="4">
-        <text>Destructor</text>
+        <text encoding="base64">ClRTU1VSTVJlYWRlcjo6VFNTVVJNUmVhZGVyKCkgewoKICAgIExPR0QoIkNvbnN0cnVjdG9yIik7Cn0=</text>
       </register>
     </registers>
     <search>
