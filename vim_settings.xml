@@ -94,10 +94,11 @@
         <mark key="." line="63" column="0" />
         <mark key="[" line="49" column="16" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1467885341444">
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="[" line="23" column="22" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1467887469749">
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="47" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="23" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.h" timestamp="1466759192842">
         <mark key="]" line="23" column="22" />
@@ -164,11 +165,11 @@
         <mark key="." line="20" column="30" />
         <mark key="[" line="20" column="109" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467885569718">
-        <mark key="]" line="118" column="4" />
-        <mark key="^" line="118" column="4" />
-        <mark key="." line="118" column="4" />
-        <mark key="[" line="122" column="9" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1467888192969">
+        <mark key="]" line="112" column="4" />
+        <mark key="^" line="111" column="5" />
+        <mark key="." line="112" column="4" />
+        <mark key="[" line="112" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Logs.h" timestamp="1467365473237">
         <mark key="]" line="21" column="1" />
@@ -257,29 +258,29 @@
       <jump line="5" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmpacket.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNldFNlbmREYXRhQ2FsbGJhY2sobXNnLmNfc3RyKCksbXNnLmxlbmd0aCgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>//</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>//</text>
       </register>
-      <register name="3" type="4">
-        <text>string</text>
-      </register>
-      <register name="2" type="4">
-        <text>string</text>
-      </register>
-      <register name="1" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHNldFNlbmREYXRhQ2FsbGJhY2sobXNnLmNfc3RyKCksbXNnLmxlbmd0aCgpKTsK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIExPR0QoIk1zZyBsZW5ndGg6ICVkIiwgbXNnLmxlbmd0aCgpKTsK</text>
+      </register>
+      <register name="1" type="4">
+        <text>//</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPR0QoKTsK</text>
+        <text encoding="base64">ICAgIC8vdW5zaWduZWQgY2hhciogdGVtcCA9IG5ldyB1bnNpZ25lZCBjaGFyW3BhY2tldFRlbXAubGVuZ3RoKCkgKyAxXTsK</text>
       </register>
       <register name="7" type="4">
-        <text>smg</text>
-      </register>
-      <register name="6" type="4">
         <text>string</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW50IHVybXNwX1N0YXJ0Uk9TcGVjKHVuc2lnbmVkIGNoYXIgZmxhZ3MsIHVuc2lnbmVkIGNoYXIgcmVzZXJ2ZWQsIHVuc2lnbmVkIGNoYXIgKnBhY2tldCwgaW50ICpwYWNrZXRMZW5ndGgpOwo=</text>
       </register>
       <register name="5" type="4">
         <text>string</text>
@@ -287,14 +288,14 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW50IHVybXNwX1N0YXJ0Uk9TcGVjKHVuc2lnbmVkIGNoYXIgZmxhZ3MsIHVuc2lnbmVkIGNoYXIgcmVzZXJ2ZWQsIHVuc2lnbmVkIGNoYXIgKnBhY2tldCwgaW50ICpwYWNrZXRMZW5ndGgpOwo=</text>
+      <register name="4" type="4">
+        <text>string</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDA3LzA3LzE2LgovLwoK</text>
+      <register name="9" type="4">
+        <text>smg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CklDb3JlOjpJQ29yZSgpIHsKCn0K</text>
+      <register name="8" type="4">
+        <text>string</text>
       </register>
     </registers>
     <search>
