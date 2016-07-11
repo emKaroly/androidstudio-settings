@@ -21,11 +21,11 @@
         <mark key="." line="1" column="18" />
         <mark key="[" line="26" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1468230096868">
-        <mark key="]" line="229" column="43" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="229" column="0" />
-        <mark key="[" line="216" column="38" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1468230894660">
+        <mark key="]" line="109" column="65" />
+        <mark key="^" line="108" column="15" />
+        <mark key="." line="109" column="0" />
+        <mark key="[" line="109" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmbuffer.h" timestamp="1467207684817">
         <mark key="]" line="16" column="0" />
@@ -266,7 +266,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6bG9ja19ndWFyZDxzdGQ6Om11dGV4PiBsY2sobV9tdHgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtX2NyY0NvZGVQYWNrZXQgPSBjcmMoYnl0ZSwgbV9jcmNDb2RlUGFja2V0KSkK</text>
       </register>
       <register name="-" type="4">
         <text>True</text>
@@ -281,7 +281,7 @@
         <text encoding="base64">ICAgIG1fUGFja2V0ZXIK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6bG9ja19ndWFyZDxzdGQ6Om11dGV4PiBsY2sobV9tdHgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtX2NyY0NvZGVQYWNrZXQgPSBjcmMoYnl0ZSwgbV9jcmNDb2RlUGFja2V0KSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0dEKCJQYWNrZXQgcmVjZWl2ZWQgc3VjY2Vzc2Z1bGx5Iik7Cg==</text>
