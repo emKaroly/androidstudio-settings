@@ -39,11 +39,11 @@
         <mark key="." line="54" column="0" />
         <mark key="[" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacket.cpp" timestamp="1468320759390">
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="12" column="24" />
-        <mark key="." line="14" column="0" />
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacket.cpp" timestamp="1468401952826">
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="[" line="12" column="56" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/ThreadingTest.java" timestamp="1467186591839">
         <mark key="[" line="13" column="25" />
@@ -66,25 +66,19 @@
         <mark key="." line="49" column="46" />
         <mark key="[" line="45" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/settings.gradle" timestamp="1466760194073">
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1467118532718">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.h" timestamp="1467897609387">
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1467899908156">
-        <mark key="]" line="19" column="57" />
-        <mark key="^" line="11" column="53" />
-        <mark key="." line="19" column="0" />
-        <mark key="[" line="12" column="0" />
+      <file name="/a.dummy" timestamp="1467118532718">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/settings.gradle" timestamp="1466760194073">
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSurmBuffer.h" timestamp="1467207721151">
         <mark key="]" line="7" column="12" />
@@ -92,15 +86,21 @@
         <mark key="." line="7" column="12" />
         <mark key="[" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.h" timestamp="1468317129424">
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="[" line="11" column="37" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1467899908156">
+        <mark key="]" line="19" column="57" />
+        <mark key="^" line="11" column="53" />
+        <mark key="." line="19" column="0" />
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1466762855669">
         <mark key="]" line="113" column="37" />
         <mark key="." line="124" column="0" />
         <mark key="[" line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.h" timestamp="1468317129424">
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="[" line="11" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1468229233909">
         <mark key="'" line="38" column="0" />
