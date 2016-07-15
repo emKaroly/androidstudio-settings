@@ -159,10 +159,11 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1468592519296">
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="[" line="46" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1468593145971">
+        <mark key="]" line="93" column="37" />
+        <mark key="^" line="93" column="37" />
+        <mark key="." line="93" column="37" />
+        <mark key="[" line="93" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/crcccitt.h" timestamp="1468403875713">
         <mark key="]" line="46" column="4" />
@@ -297,8 +298,8 @@
       <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y29weShzdGQ6OmJlZ2luKHRlbXApLHN0ZDo6ZW5kKHRlbXApLHN0ZDo6YmVnaW4obWVzc2FnZSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>array</text>
       </register>
       <register name="-" type="4">
         <text>array</text>
