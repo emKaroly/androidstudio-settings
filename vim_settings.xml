@@ -88,11 +88,11 @@
         <mark key="." line="7" column="12" />
         <mark key="[" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1468592315369">
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="57" />
-        <mark key="." line="20" column="35" />
-        <mark key="[" line="20" column="30" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1468830204480">
+        <mark key="]" line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="[" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1468586501540">
         <mark key="]" line="113" column="37" />
@@ -301,19 +301,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvLyBUT0RPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>array</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwgdm9pZCBTZW5kTXNnKHN0ZDo6dmVjdG9yPHVuc2lnbmVkIGNoYXI+IG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyBUT0RPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CkpOSUVYUE9SVCBqaW50IEpOSUNBTEwKSmF2YV9ldV90c3NfYXBpYW5kcm9pZF9UU1NBUElDb3JlSk5JX3VybXNwXzFDMUcyUmVhZChKTklFbnYgKmVudiwgam9iamVjdCBpbnN0YW5jZSwgamNoYXIgZmxhZ3MsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgamNoYXIgcmVzZXJ2ZWQsIGpzaG9ydCBvcFNwZWNJRCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqaW50IGFjY2Vzc1Bhc3N3b3JkLCBqY2hhciBNQiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqc2hvcnQgd29yZFBvaW50ZXIsIGpzaG9ydCB3b3JkQ291bnQpIHsK</text>
@@ -322,16 +322,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvLyBUT0RPCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZToK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
