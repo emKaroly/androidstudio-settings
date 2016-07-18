@@ -20,6 +20,11 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="FileChooser.GotoModule" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
   </action>
