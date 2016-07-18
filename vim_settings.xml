@@ -53,11 +53,11 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.h" timestamp="1468853459474">
-        <mark key="]" line="6" column="21" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.h" timestamp="1468867452089">
+        <mark key="]" line="3" column="18" />
         <mark key="^" line="14" column="34" />
-        <mark key="." line="6" column="0" />
-        <mark key="[" line="6" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ICore.cpp" timestamp="1467880618535">
         <mark key="]" line="4" column="1" />
@@ -97,22 +97,22 @@
         <mark key="." line="7" column="12" />
         <mark key="[" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1468853483104">
-        <mark key="]" line="7" column="18" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1468867496193">
+        <mark key="]" line="4" column="20" />
         <mark key="^" line="13" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="[" line="7" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1468586501540">
         <mark key="]" line="113" column="37" />
         <mark key="." line="124" column="0" />
         <mark key="[" line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.h" timestamp="1468851362854">
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="61" column="42" />
-        <mark key="." line="6" column="0" />
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.h" timestamp="1468867996846">
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="36" column="42" />
+        <mark key="." line="19" column="0" />
+        <mark key="[" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1468853452623">
         <mark key="'" line="37" column="0" />
@@ -161,11 +161,11 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1468851357052">
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1468867957996">
+        <mark key="]" line="101" column="0" />
         <mark key="^" line="5" column="69" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="1" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="[" line="90" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmbuffer.h" timestamp="1467207684817">
         <mark key="]" line="16" column="0" />
@@ -274,11 +274,11 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/structures.h" timestamp="1468852551126">
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="175" column="8" />
-        <mark key="." line="3" column="0" />
-        <mark key="[" line="4" column="30" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/structures.h" timestamp="1468868500884">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ICore.h" timestamp="1468592117779">
         <mark key="]" line="3" column="15" />
@@ -326,43 +326,63 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInRzc2FwaWNvcmUuaCIK</text>
+        <text encoding="base64">ICAgIC8vU3RydWN0dXJlcwo=</text>
       </register>
       <register name="-" type="4">
         <text>R</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkNoZWNrc3VtLmgiCiNpbmNsdWRlICJCeXRlVG9vbC5oIgo=</text>
+      <register name="3" type="4">
+        <text>t
+    {
+        unsigned char L;
+        unsigned char H;
+    }urmsp_bytes_t;
+
+    typedef union
+    {
+        urmsp_bytes_t		byte;
+        unsigned short 		word;
+    }urmsp_word_t;
+
+    typedef struct
+    {
+        unsigned char 		header;
+        urmsp_word_t 		command;
+        unsigned char		flags;
+        unsigned char 		reserved;
+        unsigned char		length;
+        std::string         data;
+    }packet_t;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNocm9ub3Rlc3QuaCIK</text>
+        <text encoding="base64">ICAgIHR5cGVkZWYgc3RydWMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInRzc2FwaWNvcmUuaCIK</text>
+        <text encoding="base64">ICAgIC8vU3RydWN0dXJlcwo=</text>
       </register>
       <register name="0" type="8">
         <text>TSSURMSP_STRUCTURES</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIklEZXZpY2UuaCIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CnZvaWQgVFNTVVJNUGFja2V0ZXI6OmV4ZWN1dGVDb21tYW5kKCkgewoKICAgIHN3aXRjaCAobV9SZWNlaXZlZFBhY2tldFN0cnVjdC5jb21tYW5kLndvcmQpewogICAgICAgIGNhc2UgVVJNU1BfTExSUFNUQVRVUzoKICAgICAgICAgICAgbV9MTFJQU3RhdHVzLmRhdGEgPSBtX1JlY2VpdmVkUGFja2V0U3RydWN0LmRhdGE7CiAgICAgICAgICAgIG1fTExSUFN0YXR1cy5yZWNlaXZlZCA9IHRydWU7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIG1fVGVtcFJlc3BvbnNlLmRhdGEgPSBtX1JlY2VpdmVkUGFja2V0U3RydWN0LmRhdGE7CiAgICAgICAgICAgIG1fVGVtcFJlc3BvbnNlLnJlY2VpdmVkID0gdHJ1ZTsKICAgICAgICAgICAgYnJlYWs7CiAgICB9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIklDb3JlLmgiCg==</text>
+        <text encoding="base64">ICAgIHZvaWQgZXhlY3V0ZUNvbW1hbmQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkJ5dGVUb29sLmgiCg==</text>
+        <text encoding="base64">ICAgIHBhY2tldF90ICAgICAgICAgICAgbV9SZWNlaXZlZFBhY2tldFN0cnVjdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIklDb3JlLmgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIklEZXZpY2UuaCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNocm9ub3Rlc3QuaCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtX1JlY2VpdmVkUGFja2V0U3RydWN0LmRhdGEuY2xlYXIoKTsK</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
