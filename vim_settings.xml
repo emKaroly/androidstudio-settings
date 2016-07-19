@@ -88,11 +88,11 @@
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/settings.gradle" timestamp="1466760194073">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/settings.gradle" timestamp="1468936934054">
         <mark key="]" line="3" column="0" />
         <mark key="^" line="5" column="20" />
         <mark key="." line="3" column="0" />
-        <mark key="[" line="3" column="0" />
+        <mark key="[" line="3" column="2" />
       </file>
       <file name="/a.dummy" timestamp="1468853229853">
         <mark key="[" line="0" column="0" />
@@ -132,10 +132,10 @@
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1468934650363">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1468937069141">
         <mark key="]" line="81" column="16" />
         <mark key="." line="124" column="0" />
-        <mark key="[" line="69" column="15" />
+        <mark key="[" line="125" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/settings.gradle" timestamp="1468935326192">
         <mark key="]" line="3" column="10" />
@@ -313,10 +313,10 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/build.gradle" timestamp="1468933053631">
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="[" line="21" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/build.gradle" timestamp="1468936430569">
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="39" column="0" />
+        <mark key="[" line="37" column="105" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMBuffer.h" timestamp="1467209332739">
         <mark key="]" line="20" column="9" />
@@ -335,11 +335,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/config.gradle" timestamp="1468933051407">
-        <mark key="]" line="10" column="1" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/config.gradle" timestamp="1468936420070">
+        <mark key="]" line="35" column="0" />
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ICore.h" timestamp="1468592117779">
         <mark key="]" line="3" column="15" />
@@ -390,7 +390,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gperf</text>
+        <text>ext.configuration.targetPlatforms = [
+        'armeabi-v7a'
+]</text>
       </register>
       <register name="-" type="4">
         <text>gperf</text>
@@ -404,8 +406,10 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOmdwZXJmJwo=</text>
+      <register name="0" type="4">
+        <text>ext.configuration.targetPlatforms = [
+        'armeabi-v7a'
+]</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
