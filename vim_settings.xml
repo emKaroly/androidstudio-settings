@@ -53,11 +53,10 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.h" timestamp="1468867452089">
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="14" column="34" />
-        <mark key="." line="3" column="0" />
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.h" timestamp="1468914997199">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ICore.cpp" timestamp="1467880618535">
         <mark key="]" line="4" column="1" />
@@ -326,63 +325,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlRTU1VSTU1lc3NhZ2UuaCIK</text>
-      </register>
-      <register name="-" type="4">
-        <text>R</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETyBjcmVhdGUgcGFja2V0IGNsYXNzIHRvIGVsaW1pbmF0ZSB0aGVzZSBzdHJ1Y3R1cmVzIEZPUkVWRVIhISEK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlRTU1VSTVJlYWRlci5oIgo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlRTU1VSTU1lc3NhZ2UuaCIK</text>
-      </register>
-      <register name="0" type="8">
-        <text>TSSURMSP_STRUCTURES</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>t
-    {
-        unsigned char L;
-        unsigned char H;
-    }urmsp_bytes_t;
-
-    typedef union
-    {
-        urmsp_bytes_t		byte;
-        unsigned short 		word;
-    }urmsp_word_t;
-
-    typedef struct
-    {
-        unsigned char 		header;
-        urmsp_word_t 		command;
-        unsigned char		flags;
-        unsigned char 		reserved;
-        unsigned char		length;
-        std::string         data;
-    }packet_t;</text>
+      <register name="-" type="4">
+        <text>ICore</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgSUNvcmU7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y2xhc3MgSURldmljZTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Y2xhc3MgSUNvcmU7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIklEZXZpY2UuaCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIklDb3JlLmgiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHR5cGVkZWYgc3RydWMK</text>
+        <text encoding="base64">I2luY2x1ZGUgIklDb3JlLmgiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vU3RydWN0dXJlcwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIklEZXZpY2UuaCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZXhlY3V0ZUNvbW1hbmQoKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgIlRTU1VSTVJlYWRlci5oIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhY2tldF90ICAgICAgICAgICAgbV9SZWNlaXZlZFBhY2tldFN0cnVjdDsK</text>
+        <text encoding="base64">I2luY2x1ZGUgIlRTU1VSTU1lc3NhZ2UuaCIK</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
