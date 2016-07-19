@@ -71,8 +71,10 @@
         <mark key="." line="49" column="46" />
         <mark key="[" line="45" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1468853229853">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.h" timestamp="1468915737852">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/settings.gradle" timestamp="1466760194073">
         <mark key="]" line="3" column="0" />
@@ -80,22 +82,11 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.h" timestamp="1468915737852">
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="[" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Checksum.cpp" timestamp="1468405413650">
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="[" line="30" column="53" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSurmBuffer.h" timestamp="1467207721151">
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="[" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1468918887615">
         <mark key="]" line="9" column="0" />
@@ -103,16 +94,22 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1468923378916">
-        <mark key="]" line="113" column="37" />
-        <mark key="." line="124" column="0" />
-        <mark key="[" line="112" column="48" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSurmBuffer.h" timestamp="1467207721151">
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="[" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.h" timestamp="1468915835723">
         <mark key="]" line="6" column="0" />
         <mark key="^" line="34" column="42" />
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1468924234460">
+        <mark key="]" line="113" column="37" />
+        <mark key="." line="124" column="0" />
+        <mark key="[" line="112" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1468918860092">
         <mark key="'" line="40" column="0" />
@@ -127,16 +124,16 @@
         <mark key="." line="23" column="22" />
         <mark key="[" line="23" column="113" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Checksum.h" timestamp="1468492307912">
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="[" line="9" column="42" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSCoreAPIWrapper.h" timestamp="1467110669024">
         <mark key="]" line="4" column="32" />
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Checksum.h" timestamp="1468492307912">
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/build.gradle" timestamp="1468586513102">
         <mark key="]" line="72" column="37" />
@@ -165,6 +162,11 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/build.gradle" timestamp="1468925455372">
+        <mark key="]" line="12" column="69" />
+        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="8" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1468915842321">
         <mark key="]" line="1" column="0" />
@@ -286,26 +288,28 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/config.gradle" timestamp="1468924947688">
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+        <mark key="[" line="9" column="41" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ICore.h" timestamp="1468592117779">
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="[" line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/config.gradle" timestamp="1468917271245">
-        <mark key="[" line="15" column="30" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/qdebug2logcat.h" timestamp="1467879025878">
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/main.cpp" timestamp="1468853660817">
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="[" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/qdebug2logcat.h" timestamp="1467879025878">
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/build.gradle" timestamp="1466759749290">
         <mark key="]" line="33" column="39" />
@@ -335,43 +339,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHFieXRlYXJyYXkuaD4K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZS1leHBlcmltZW50YWw6MC43LjAnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ICore</text>
+        <text>//</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3BwRmxhZ3MuYWRkKCItSSR7ZmlsZSgiL1VzZXJzL0t5bGUvUXQ1LjUuMC81LjUvYW5kcm9pZF9hcm12Ny9pbmNsdWRlL1F0Q29yZSIpfSIudG9TdHJpbmcoKSkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">I2luY2x1ZGUgPFFCeXRlQXJyYXk+Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHFieXRlYXJyYXkuaD4K</text>
       </register>
-      <register name="0" type="8">
-        <text>&quot;/Users/Kyle/Qt5.5.0/5.5/android_armv7/include/QtCore/qbytearray.h&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZFRvb2xzVmVyc2lvbiAgICAgICAgICAgOiAiMjMuMi4xIgo=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZS1leHBlcmltZW50YWw6MC43LjAnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgSURldmljZTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">I2luY2x1ZGUgIklEZXZpY2UuaCIK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y2xhc3MgSURldmljZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIklEZXZpY2UuaCIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIklEZXZpY2UuaCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3BwRmxhZ3MuYWRkKCItSSR7ZmlsZSgiL1VzZXJzL0t5bGUvUXQ1LjUuMC81LjUvYW5kcm9pZF9hcm12Ny9pbmNsdWRlL1F0Q29yZSIpfSIudG9TdHJpbmcoKSkK</text>
       </register>
-      <register name="9" type="8">
-        <text>&quot;-I${file(&quot;src/main/jni/libiconv/include&quot;)}&quot;.toString()</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y2xhc3MgSUNvcmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgSUNvcmU7Cg==</text>
+        <text encoding="base64">Y2xhc3MgSURldmljZTsK</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
