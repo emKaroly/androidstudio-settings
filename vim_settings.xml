@@ -193,11 +193,11 @@
         <mark key="." line="51" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/build.gradle" timestamp="1469001946647">
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/build.gradle" timestamp="1469003064211">
+        <mark key="]" line="100" column="1" />
+        <mark key="^" line="96" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="[" line="97" column="6" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICore.java" timestamp="1467103214059">
         <mark key="]" line="9" column="0" />
@@ -398,7 +398,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGNvbmZpZyA9IHJvb3RQcm9qZWN0LmV4dC5jb25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">Y2xlYW4gPDwgewogICAgcHJpbnRsbiAndHNzYXBpY29yZTpkb0ZpcnN0IDw8IENsZWFuJwogICAgZGVsZXRlICcuLi9kaXN0cmlidXRpb24vdHNzYXBpY29yZScKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>gperf</text>
@@ -413,7 +413,7 @@
         <text encoding="base64">ZGVmIGNvbmZpZyA9IHJvb3RQcm9qZWN0LmV4dC5jb25maWd1cmF0aW9uCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogIi4uL2NvbmZpZy5ncmFkbGUiCmRlZiBjb25maWcgPSBleHQuY29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">Y2xlYW4gPDwgewogICAgcHJpbnRsbiAndHNzYXBpY29yZTpkb0ZpcnN0IDw8IENsZWFuJwogICAgZGVsZXRlICcuLi9kaXN0cmlidXRpb24vdHNzYXBpY29yZScKfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZCA9ICdjb20uZXhhbXBsZS5oZWxsb2xpYnMnCg==</text>
