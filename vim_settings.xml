@@ -170,11 +170,10 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="9" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/build.gradle" timestamp="1469008095192">
-        <mark key="]" line="81" column="4" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="81" column="4" />
-        <mark key="[" line="81" column="4" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/build.gradle" timestamp="1469009727659">
+        <mark key="]" line="82" column="34" />
+        <mark key="." line="82" column="0" />
+        <mark key="[" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
@@ -396,23 +395,13 @@
       <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnRzc2FwaWNvcmUnKQo=</text>
-      </register>
-      <register name="2" type="8">
-        <text>//
-//
-//
-//
-//</text>
-      </register>
-      <register name="1" type="8">
+      <register name="3" type="8">
         <text>//
 //
 //
@@ -420,6 +409,12 @@
 //
 //
 //</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjMuNC4wJwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
       <register name="0" type="4">
         <text>from(config.qtCoreLib) {
@@ -429,30 +424,30 @@
 //        into 'lib/'
 //    }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRvICdsaWIvYXJtZWFiaS12N2EnCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmJ1aWxkIDw8IHsKICAgIGNvcHkgewogICAgICAgIGZyb20oY29uZmlnLnF0Q29yZUxpYikgeyAgICAKICAgICAgICB9CiAgICAgICAgaW50byAnLi4vZGlzdHJpYnV0aW9uL3Rzc2FwaWNvcmUvbGliL2FybWVhYmktdjdhJwogICAgICAgIGZyb20oJ2J1aWxkL291dHB1dHMvbmF0aXZlL3JlbGVhc2UvbGliJykgewogICAgICAgIH0KICAgICAgICBpbnRvICcuLi9kaXN0cmlidXRpb24vdHNzYXBpY29yZS8gICBsaWIvJwogICAgfQoKfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRvICdsaWIvJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmJ1aWxkIDw8IHsKICAgIGNvcHkgewogICAgICAgIGZyb20oY29uZmlnLnF0Q29yZUxpYikgeyAgICAKICAgICAgICB9CiAgICAgICAgaW50byAnLi4vZGlzdHJpYnV0aW9uL3Rzc2FwaWNvcmUvbGliL2FybWVhYmktdjdhJwogICAgICAgIGZyb20oJ2J1aWxkL291dHB1dHMvbmF0aXZlL3JlbGVhc2UvbGliJykgewogICAgICAgIH0KICAgICAgICBpbnRvICcuLi9kaXN0cmlidXRpb24vdHNzYXBpY29yZS8gICBsaWIvJwogICAgfQoKfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnRzc2FwaWNvcmUnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="8">
+      <register name="4" type="8">
         <text>//
 //
 //
 //
 //</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBmcm9tKGNvbmZpZy5xdENvcmVMaWIpIHsKICAgICAgICBpbnRvICdsaWIvYXJtZWFiaS12N2EnCiAgICB9CiAgICBmcm9tKCdidWlsZC9vdXRwdXRzL25hdGl2ZS9yZWxlYXNlL2xpYicpIHsKICAgICAgICBpbnRvICdsaWIvJwogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRvICdsaWIvYXJtZWFiaS12N2EnCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRvICdsaWIvJwo=</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
