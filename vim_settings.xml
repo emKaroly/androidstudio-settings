@@ -240,11 +240,11 @@
         <mark key="[" line="68" column="26" />
         <mark key="i" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1469104879578">
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="36" column="13" />
-        <mark key="." line="41" column="0" />
-        <mark key="[" line="39" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1469106209973">
+        <mark key="]" line="41" column="60" />
+        <mark key="^" line="41" column="60" />
+        <mark key="." line="41" column="60" />
+        <mark key="[" line="40" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/crcccitt.h" timestamp="1468403875713">
         <mark key="]" line="46" column="4" />
@@ -304,11 +304,11 @@
         <mark key="." line="42" column="0" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.cpp" timestamp="1469105295566">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.cpp" timestamp="1469106216603">
         <mark key="]" line="685" column="17" />
         <mark key="^" line="685" column="17" />
         <mark key="." line="685" column="17" />
-        <mark key="[" line="688" column="82" />
+        <mark key="[" line="691" column="81" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/bt/BluetoothCommunication.java" timestamp="1467382797515">
         <mark key="]" line="112" column="13" />
