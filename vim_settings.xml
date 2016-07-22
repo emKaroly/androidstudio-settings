@@ -20,11 +20,10 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.cpp" timestamp="1469176454750">
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.cpp" timestamp="1469178664190">
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICoreJNI.java" timestamp="1468827955485">
         <mark key="]" line="18" column="0" />
@@ -85,11 +84,11 @@
       <file name="/fragment.mm" timestamp="1469110892587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.h" timestamp="1469175308483">
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="68" />
-        <mark key="." line="23" column="0" />
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.h" timestamp="1469177883634">
+        <mark key="]" line="30" column="49" />
+        <mark key="^" line="30" column="49" />
+        <mark key="." line="30" column="49" />
+        <mark key="[" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/gperf/build.gradle" timestamp="1469002064009">
         <mark key="]" line="3" column="30" />
@@ -436,22 +435,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN5c3RlbV9lcnJvcj4K</text>
+        <text encoding="base64">ICAgIDogbV9FcnJvckNvZGUoU0VSSUFMUE9SVEVSUk9SKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;SERIAL PORT ERROR&quot;</text>
+        <text>unsigned short errorTypeCode, unsigned short errorMessageCode</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ClRTU1VSTUVycm9yTWVzc2FnZTo6VFNTVVJNRXJyb3JNZXNzYWdlKFRTU1VSTVNlcmlhbFBvcnRFcnJvciBlcnJvcikgewoKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN5c3RlbV9lcnJvcj4K</text>
+        <text encoding="base64">ICAgIDogbV9FcnJvckNvZGUoU0VSSUFMUE9SVEVSUk9SKSwK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldEVycm9yVHlwZVN0cmluZygpOwogICAgc2V0RXJyb3JNZXNzYWdlU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgIFRTU1VSTUVycm9yTWVzc2FnZSh1bnNpZ25lZCBzaG9ydCBlcnJvclR5cGVDb2RlLCB1bnNpZ25lZCBzaG9ydCBlcnJvck1lc3NhZ2VDb2RlKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -469,7 +468,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
