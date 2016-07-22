@@ -246,12 +246,12 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1469110053671">
-        <mark key="]" line="48" column="55" />
-        <mark key="^" line="130" column="17" />
-        <mark key="." line="130" column="17" />
-        <mark key="[" line="47" column="0" />
-        <mark key="i" line="24" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1469172717703">
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="105" column="17" />
+        <mark key="." line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="i" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1469170235116">
         <mark key="]" line="4" column="0" />
@@ -442,10 +442,10 @@
         <text>&quot;SERIAL PORT ERROR&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vZ19HZXREYXRhQ2FsbGJhY2socmV0dXJuVmFsdWUsbGVuZ3RoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZz4K</text>
+        <text encoding="base64">ICAgIC8vTE9HRCgidXJtc3BfU3RhcnRST1NwZWM6IENyZWF0ZWQgUGFja2V0IGxlbmd0aDogJTAgUGFja2V0IGdldERhdGE6ICUxIixwYWNrZXRUZW1wLmxlbmd0aCgpLHBhY2tldFRlbXAudG9IZXgoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -454,25 +454,25 @@
         <text encoding="base64">ICAgICpyZXN1bHRTdHJpbmdMZW5ndGggPSByZXN1bHRNc2cuZ2V0UmVzdWx0TWVzc2FnZVN0cmluZygpLnNpemUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKmVycm9yQ29kZVN0cmluZyA9IFFTdHJpbmcoVFNTVVJNUmVzdWx0TWVzc2FnZTo6bGxycHN0YXR1c0NvZGUoZXJyb3JDb2RlICYgMHhGRkZGKSkudG9TdGRTdHJpbmcoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKmVycm9yQ29kZVN0cmluZyA9ICJVTktOT1dOIEVSUk9SIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvLyBxRGVidWcoKSA8PCAidXJtc3BfU3RhcnRST1NwZWM6ICIgPDwgIlJlY2VpdmVkIFBhY2tldCBsZW5ndGgiIDw8ICpsZW5ndGgKICAgIC8vIDw8ICIgUGFja2V0IGdldERhdGE6ICIgPDwgUVN0cmluZyhyZWludGVycHJldF9jYXN0PGNoYXIqPihyZXR1cm5WYWx1ZSkpOwogICAgLy8gcURlYnVnKCkgPDwgInVybXNwX1N0YXJ0Uk9TcGVjOiAiIDw8IFFTdHJpbmcoKGNvbnN0IGNoYXIqKXJldHVyblZhbHVlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGNhc2UgMHgwMToKICAgICAgICAgICAgKmVycm9yQ29kZVN0cmluZyA9ICJDT01NVU5JQ0FUSU9OIFRJTUVPVVQiOwogICAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIDB4MDI6CiAgICAgICAgICAgICplcnJvckNvZGVTdHJpbmcgPSAiTk8gUkVTUE9OU0UgRlJPTSBSRUFERVIiOwogICAgICAgICAgICBicmVhazsKICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAqZXJyb3JDb2RlU3RyaW5nID0gIlVOS05PV04gRVJST1IiOwogICAgICAgICAgICBicmVhazs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIHFEZWJ1ZygpIDw8ICJ1cm1zcF9TdGFydFJPU3BlYzogIiA8PCBRU3RyaW5nOjpmcm9tU3RkU3RyaW5nKHN0ZDo6c3RyaW5nKChjb25zdCBjaGFyKilyZXR1cm5WYWx1ZSwqbGVuZ3RoKSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CnN0ZDo6c3RyaW5nIFRTU1VSTUVycm9yTWVzc2FnZTo6c2VyaWFsUG9ydEVycm9yQ29kZSh1bnNpZ25lZCBzaG9ydCBlcnJvckNvZGUpIHsKICAgICBzd2l0Y2goZXJyb3IpCiAgICB7CiAgICAgICAgY2FzZSAweDAxOgogICAgICAgICAgICByZXR1cm4gIkNPTU1VTklDQVRJT04gVElNRU9VVCI7CiAgICAgICAgY2FzZSAweDAyOgogICAgICAgICAgICByZXR1cm4gIk5PIFJFU1BPTlNFIEZST00gUkVBREVSIjsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgcmV0dXJuICJVTktOT1dOIEVSUk9SIjsKICAgIH0KfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
