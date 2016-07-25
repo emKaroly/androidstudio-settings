@@ -168,11 +168,11 @@
         <mark key="." line="111" column="4" />
         <mark key="[" line="122" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.h" timestamp="1469455059574">
-        <mark key="]" line="10" column="114" />
-        <mark key="^" line="10" column="81" />
-        <mark key="." line="10" column="81" />
-        <mark key="[" line="10" column="114" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.h" timestamp="1469457931472">
+        <mark key="]" line="23" column="31" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="23" column="0" />
+        <mark key="[" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1469454493602">
         <mark key="]" line="42" column="20" />
@@ -240,10 +240,11 @@
         <mark key="." line="12" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1469454634937">
-        <mark key="]" line="94" column="43" />
-        <mark key="." line="93" column="0" />
-        <mark key="[" line="17" column="10" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1469458430684">
+        <mark key="]" line="17" column="89" />
+        <mark key="^" line="17" column="89" />
+        <mark key="." line="17" column="89" />
+        <mark key="[" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmbuffer.h" timestamp="1467207684817">
         <mark key="]" line="16" column="0" />
@@ -251,11 +252,11 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1469455519775">
-        <mark key="]" line="25" column="32" />
-        <mark key="^" line="34" column="6" />
-        <mark key="." line="25" column="0" />
-        <mark key="[" line="25" column="8" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1469458211800">
+        <mark key="]" line="106" column="59" />
+        <mark key="^" line="106" column="58" />
+        <mark key="." line="106" column="58" />
+        <mark key="[" line="106" column="0" />
         <mark key="i" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1469197009604">
@@ -441,60 +442,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjx1bnNpZ25lZCBzaG9ydD4gcmV0VmVjKHRlbXBWZWMuYmVnaW4oKSx0ZW1wVmVjLmVuZCgpKTsK</text>
+        <text encoding="base64">ICAgIGF1dG8gc3RhcnQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>::chrono::high_resolution_clock::now()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dEKCJMTFJQIFJlY2VpdmVkOiAlZCBhZnRlcjogJWQgcyIgLG1MTFJQUmVjZWl2ZWQsaSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyB1bnNpZ25lZCBpbnQgICAgIG1fVGltZW91dCA9IDEwMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRTU1VSTUVycm9yTWVzc2FnZShUU1NVUk1TZXJpYWxQb3J0RXJyb3IpOwo=</text>
+        <text encoding="base64">aW50IHRpbWVTaW5jZUxhc3RQYWNrZXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjx1bnNpZ25lZCBzaG9ydD4gcmV0VmVjKHRlbXBWZWMuYmVnaW4oKSx0ZW1wVmVjLmVuZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPR0QoIm9uTXNnUmVjZWl2ZWQ6ICIpOwo=</text>
+        <text encoding="base64">ICAgIGF1dG8gc3RhcnQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsK</text>
       </register>
-      <register name="7" type="8">
-        <text>#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIGlfbWlsbGlzID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86Om1pbGxpc2Vjb25kcz4oZHVyKTsgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
-      <register name="6" type="8">
-        <text>#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dEKCJMTFJQIFJlY2VpdmVkOiAlZCBhZnRlcjogJWQgcyIgLG1MTFJQUmVjZWl2ZWQsaSk7Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">YXV0byBlbmQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsKYXV0byBkdXIgPSBlbmQgLSBzdGFydDsKYXV0byBpX21pbGxpcyA9IHN0ZDo6Y2hyb25vOjpkdXJhdGlvbl9jYXN0PHN0ZDo6Y2hyb25vOjptaWxsaXNlY29uZHM+KGR1cik7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFRTU1VSTUVycm9yTWVzc2FnZShUU1NVUk1TZXJpYWxQb3J0RXJyb3IpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGlfbWlsbGlzID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86Om1pbGxpc2Vjb25kcz4oZHVyKTsgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjx1bnNpZ25lZCBzaG9ydD4gcmV0VmVjKHRlbXBWZWMuYmVnaW4oKSx0ZW1wVmVjLmVuZCgpKTsK</text>
       </register>
       <register name="9" type="8">
-        <text>//((0x2000)|374)
-//((0x2000)|375)
-//((0x2000)|379)
-//((0x2000)|380)</text>
+        <text>#define URMSP_
+#define URMSP_
+#define URMSP_
+#define URMSP_
+#define URMSP_
+#define URMSP_</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
+        <text encoding="base64">YXV0byBlbmQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsKYXV0byBkdXIgPSBlbmQgLSBzdGFydDsKYXV0byBpX21pbGxpcyA9IHN0ZDo6Y2hyb25vOjpkdXJhdGlvbl9jYXN0PHN0ZDo6Y2hyb25vOjptaWxsaXNlY29uZHM+KGR1cik7</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
