@@ -59,11 +59,11 @@
         <mark key="." line="90" column="7" />
         <mark key="[" line="90" column="76" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacket.cpp" timestamp="1469453403884">
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="3" column="26" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacket.cpp" timestamp="1469456332986">
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="19" />
+        <mark key="." line="54" column="0" />
+        <mark key="[" line="54" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/tssurmsp.h" timestamp="1469199640953">
         <mark key="]" line="415" column="39" />
@@ -251,11 +251,11 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1469454204157">
-        <mark key="]" line="122" column="83" />
-        <mark key="^" line="120" column="46" />
-        <mark key="." line="120" column="0" />
-        <mark key="[" line="109" column="90" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1469455519775">
+        <mark key="]" line="25" column="32" />
+        <mark key="^" line="34" column="6" />
+        <mark key="." line="25" column="0" />
+        <mark key="[" line="25" column="8" />
         <mark key="i" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1469197009604">
@@ -293,11 +293,11 @@
         <mark key="." line="3" column="0" />
         <mark key="[" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacket.h" timestamp="1469095251030">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacket.h" timestamp="1469455741191">
         <mark key="]" line="24" column="0" />
         <mark key="^" line="23" column="3" />
         <mark key="." line="24" column="0" />
-        <mark key="[" line="36" column="27" />
+        <mark key="[" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1469113423291">
         <mark key="]" line="117" column="57" />
@@ -441,25 +441,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dEKCJTZW5kTXNnIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjx1bnNpZ25lZCBzaG9ydD4gcmV0VmVjKHRlbXBWZWMuYmVnaW4oKSx0ZW1wVmVjLmVuZCgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvIGlfbWlsbGlzID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86Om1pbGxpc2Vjb25kcz4oZHVyKTsgICAgICAgIHJldHVybiAwOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBMT0dEKCJMTFJQIFJlY2VpdmVkOiAlZCBhZnRlcjogJWQgcyIgLG1MTFJQUmVjZWl2ZWQsaSk7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIFRTU1VSTUVycm9yTWVzc2FnZShUU1NVUk1TZXJpYWxQb3J0RXJyb3IpOwo=</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6OnZlY3Rvcjx1bnNpZ25lZCBzaG9ydD4gcmV0VmVjKHRlbXBWZWMuYmVnaW4oKSx0ZW1wVmVjLmVuZCgpKTsK</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dEKCJTZW5kTXNnIik7Cg==</text>
+        <text encoding="base64">ICAgIExPR0QoIm9uTXNnUmVjZWl2ZWQ6ICIpOwo=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
+        <text>#define URMSP_
+#define URMSP_
+#define URMSP_
+#define URMSP_
+#define URMSP_
+#define URMSP_
+#define URMSP_
+#define URMSP_
+#define URMSP_
+#define URMSP_</text>
       </register>
       <register name="6" type="8">
         <text>#define URMSP_
@@ -467,34 +476,25 @@
 #define URMSP_
 #define URMSP_
 #define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
 #define URMSP_</text>
       </register>
       <register name="5" type="8">
-        <text>#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_
-#define URMSP_</text>
+        <text encoding="base64">YXV0byBlbmQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsKYXV0byBkdXIgPSBlbmQgLSBzdGFydDsKYXV0byBpX21pbGxpcyA9IHN0ZDo6Y2hyb25vOjpkdXJhdGlvbl9jYXN0PHN0ZDo6Y2hyb25vOjptaWxsaXNlY29uZHM+KGR1cik7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">YXV0byBlbmQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsKYXV0byBkdXIgPSBlbmQgLSBzdGFydDsKYXV0byBpX21pbGxpcyA9IHN0ZDo6Y2hyb25vOjpkdXJhdGlvbl9jYXN0PHN0ZDo6Y2hyb25vOjptaWxsaXNlY29uZHM+KGR1cik7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvIGlfbWlsbGlzID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86Om1pbGxpc2Vjb25kcz4oZHVyKTsgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJNTY2Cgk1NjcKICAgIDU3MQogICAgNTcy</text>
-      </register>
-      <register name="8" type="8">
         <text>//((0x2000)|374)
 //((0x2000)|375)
 //((0x2000)|379)
 //((0x2000)|380)</text>
+      </register>
+      <register name="8" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
