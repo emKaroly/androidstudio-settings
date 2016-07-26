@@ -240,11 +240,11 @@
         <mark key="." line="12" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1469528903413">
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="16" column="19" />
-        <mark key="." line="20" column="0" />
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.cpp" timestamp="1469539270256">
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="[" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmbuffer.h" timestamp="1467207684817">
         <mark key="]" line="16" column="0" />
@@ -442,43 +442,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETyByZW1vdmUgZHVwbGljaXQgYW5kIHRpbWVvdXQgZnJvbSBzd2l0Y2gK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>::chrono::high_resolution_clock::now()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vaWYoIXBhY2tldFRpbWVvdXQtPmlzQWN0aXZlKCkpCg==</text>
+        <text encoding="base64">ICAgIGlmKG1fQ3VycmVudFBhY2tldEZpZWxkID09IFVSTVNQX0hFQURFUil7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vbV9QYWNrZXRTdGF0dXMuY29tbWFuZFN0YXR1cyA9IFVSTVNQX0hFQURFUjsK</text>
+        <text encoding="base64">ICAgIH1lbHNlewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETyByZW1vdmUgZHVwbGljaXQgYW5kIHRpbWVvdXQgZnJvbSBzd2l0Y2gK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGF1dG8gc3RhcnQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcGFja2V0VGltZW91dC0+c3RhcnQoMTAwKTsK</text>
+        <text encoding="base64">ICAgIC8vaWYoIXBhY2tldFRpbWVvdXQtPmlzQWN0aXZlKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcGFja2V0VGltZW91dC0+c3RhcnQoMTAwKTsK</text>
+        <text encoding="base64">ICAgIC8vbV9QYWNrZXRTdGF0dXMuY29tbWFuZFN0YXR1cyA9IFVSTVNQX0hFQURFUjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcGFja2V0VGltZW91dC0+c3RvcCgpOwo=</text>
+        <text encoding="base64">ICAgIC8vVE9ETyByZW1vdmUgZHVwbGljaXQgYW5kIHRpbWVvdXQgZnJvbSBzd2l0Y2gK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbV9DdXJyZW50UGFja2V0RmllbGQgPSBVUk1TUF9IRUFERVI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtX3N0YXJ0VGltZSA9IHN0ZDo6Y2hyb25vOjpoaWdoX3Jlc29sdXRpb25fY2xvY2s6Om5vdygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcGFja2V0VGltZW91dC0+c3RhcnQoMTAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcGFja2V0VGltZW91dC0+c3RvcCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcGFja2V0VGltZW91dC0+c3RhcnQoMTAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbV9DdXJyZW50UGFja2V0RmllbGQgPSBVUk1TUF9IRUFERVI7Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
