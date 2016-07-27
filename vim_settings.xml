@@ -70,11 +70,11 @@
         <mark key="." line="415" column="39" />
         <mark key="[" line="408" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.h" timestamp="1468918826151">
-        <mark key="]" line="7" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.h" timestamp="1469612798097">
+        <mark key="]" line="23" column="51" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="7" column="0" />
-        <mark key="[" line="3" column="27" />
+        <mark key="[" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ICore.cpp" timestamp="1467880618535">
         <mark key="]" line="4" column="1" />
@@ -145,10 +145,11 @@
         <mark key="." line="7" column="12" />
         <mark key="[" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1469182348308">
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1469612825860">
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="19" column="56" />
+        <mark key="." line="20" column="0" />
+        <mark key="[" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1468933456627">
         <mark key="]" line="17" column="0" />
@@ -451,31 +452,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vQVBJIEZVTkNUSU9OUwogICAgcHVibGljIHZvaWQgY29ubmVjdENhbGxiYWNrcyhUU1NBUElDYWxsYmFjayBjYWxsYmFjayl7CgogICAgfTsK</text>
+        <text encoding="base64">ICAgIHR5cGVkZWYgdm9pZCgqQ2FsbGJhY2tGdW5jdGlvblBvaW50ZXIpKHZvaWQqLHVuc2lnbmVkIGludCwgdm9pZCopOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPR0QoInNldFNlbmREYXRhQ2FsbGJhY2siKTsK</text>
+        <text encoding="base64">ICAgIGludCAoKm1fU2VuZERhdGFDYWxsYmFjaykodW5zaWduZWQgY2hhciosIGludCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Sk5JRVhQT1JUIHZvaWQgSk5JQ0FMTApKYXZhX2V1X3Rzc19hcGlhbmRyb2lkX1RTU0FQSUNvcmVKTklfY29ubmVjdENhbGxiYWNrcwogICAgICAgIChKTklFbnYgKmVudiwgam9iamVjdCBpbnN0YW5jZV8sIGpvYmplY3QgaW5zdGFuY2UpOwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CnZvaWQgY29ubmVjdENhbGxiYWNrcyhDYWxsYmFja0Z1bmN0aW9uUG9pbnRlciBjYmYsIHZvaWQgKnRoaXopIHsKCn0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnZvaWQgY29ubmVjdENhbGxiYWNrcyhDYWxsYmFja0Z1bmN0aW9uUG9pbnRlciBjYmYsIHZvaWQgKnRoaXopIHsKCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vQVBJIEZVTkNUSU9OUwogICAgcHVibGljIHZvaWQgY29ubmVjdENhbGxiYWNrcyhUU1NBUElDYWxsYmFjayBjYWxsYmFjayl7CgogICAgfTsK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Sk5JRVhQT1JUIHZvaWQgSk5JQ0FMTApKYXZhX2V1X3Rzc19hcGlhbmRyb2lkX1RTU0FQSUNvcmVKTklfY29ubmVjdENhbGxiYWNrcwogICAgICAgIChKTklFbnYgKmVudiwgam9iamVjdCBpbnN0YW5jZV8sIGpvYmplY3QgaW5zdGFuY2UpCnsKCiAgICAvLyBUT0RPCgp9Cg==</text>
+        <text encoding="base64">Sk5JRVhQT1JUIHZvaWQgSk5JQ0FMTApKYXZhX2V1X3Rzc19hcGlhbmRyb2lkX1RTU0FQSUNvcmVKTklfY29ubmVjdENhbGxiYWNrcwogICAgICAgIChKTklFbnYgKmVudiwgam9iamVjdCBpbnN0YW5jZV8sIGpvYmplY3QgaW5zdGFuY2UpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
