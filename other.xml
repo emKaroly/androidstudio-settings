@@ -66,4 +66,7 @@
   <component name="DependencyUISettings">
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
 </application>
