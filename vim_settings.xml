@@ -51,10 +51,10 @@
         <mark key="." line="12" column="27" />
         <mark key="[" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacket.cpp" timestamp="1469786882919">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacket.cpp" timestamp="1469788642308">
         <mark key="]" line="212" column="0" />
         <mark key="." line="212" column="0" />
-        <mark key="[" line="212" column="0" />
+        <mark key="[" line="212" column="59" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/tssurmsp.h" timestamp="1469199640953">
         <mark key="]" line="415" column="39" />
@@ -236,11 +236,11 @@
         <mark key="." line="7" column="24" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1469784970204">
-        <mark key="]" line="131" column="3" />
-        <mark key="^" line="131" column="3" />
-        <mark key="." line="131" column="3" />
-        <mark key="[" line="131" column="3" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1469789032203">
+        <mark key="]" line="138" column="31" />
+        <mark key="^" line="138" column="31" />
+        <mark key="." line="138" column="31" />
+        <mark key="[" line="122" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ByteTool.cpp" timestamp="1468915934719">
         <mark key="]" line="1" column="0" />
@@ -411,7 +411,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HRCgiRVBDTCA6ICVkIixlLmVwY0xlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgIExPR0QoIkVwY2w6ICVkIixlcGNTdHJ1Y3QuZXBjTGVuZ3RoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>epcData</text>
@@ -426,7 +426,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HRCgiRVBDTCA6ICVkIixlLmVwY0xlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgIExPR0QoIkVwY2w6ICVkIixlcGNTdHJ1Y3QuZXBjTGVuZ3RoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybgo=</text>
