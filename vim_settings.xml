@@ -102,6 +102,9 @@
         <mark key="." line="371" column="7" />
         <mark key="[" line="373" column="7" />
       </file>
+      <file name="/a.dummy" timestamp="1470056177241">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.h" timestamp="1470043797078">
         <mark key="]" line="22" column="55" />
         <mark key="^" line="22" column="55" />
@@ -234,11 +237,11 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470055663698">
-        <mark key="]" line="92" column="34" />
-        <mark key="^" line="92" column="34" />
-        <mark key="." line="92" column="34" />
-        <mark key="[" line="153" column="36" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470056491149">
+        <mark key="]" line="131" column="18" />
+        <mark key="^" line="131" column="18" />
+        <mark key="." line="131" column="18" />
+        <mark key="[" line="104" column="24" />
         <mark key="i" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1469197009604">
@@ -282,10 +285,6 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="30" />
         <mark key="[" line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/com/lairdtech/bt/misc/DataManipulation.java" timestamp="1469781143638">
-        <mark key="]" line="54" column="76" />
-        <mark key="[" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1470046850220">
         <mark key="]" line="30" column="0" />
