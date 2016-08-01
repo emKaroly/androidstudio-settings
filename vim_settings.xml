@@ -243,11 +243,11 @@
         <mark key="." line="7" column="24" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1470040242098">
-        <mark key="]" line="44" column="66" />
-        <mark key="^" line="44" column="65" />
-        <mark key="." line="44" column="40" />
-        <mark key="[" line="44" column="40" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1470041212920">
+        <mark key="]" line="148" column="33" />
+        <mark key="^" line="147" column="64" />
+        <mark key="." line="148" column="33" />
+        <mark key="[" line="148" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ByteTool.cpp" timestamp="1468915934719">
         <mark key="]" line="1" column="0" />
@@ -328,11 +328,11 @@
       <file name="/Dummy.txt" timestamp="1469798083719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/jnistructures.h" timestamp="1470040024044">
-        <mark key="]" line="31" column="24" />
-        <mark key="^" line="31" column="24" />
-        <mark key="." line="31" column="24" />
-        <mark key="[" line="31" column="21" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/jnistructures.h" timestamp="1470041613511">
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="[" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSCoreAPIWrapper.cpp" timestamp="1467107734189">
         <mark key="]" line="140" column="0" />
@@ -432,46 +432,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>org/stackoverflow/data/BeanObject</text>
+        <text>setEpc</text>
       </register>
       <register name="/" type="4">
         <text>epcStruct</text>
       </register>
       <register name="-" type="4">
-        <text>org/stackoverflow/data/BeanObject</text>
+        <text>setEpc</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">dAogICAgamNsYXNzIGVwY0NsYXNzID0gZW52LT5GaW5kQ2xhc3MoImV1L3Rzcy9hcGljb21tb24vQzFHMkVwY190Iik7CiAgICBqbWV0aG9kSUQgY29uc3RydWN0b3IgPSBlbnYtPkdldE1ldGhvZElEKGVwY0NsYXNzLCAiPGluaXQ+IiwgIigpViIpOwogICAgam1ldGhvZElEIHNldEVwY0xlbmd0aCA9IGVudi0+R2V0TWV0aG9kSUQoZXBjQ2xhc3MsInNldEVwY0xlbmd0aCIsIihJKVYiKTsKICAgIGptZXRob2RJRCBzZXRFcGMgPSBlbnYtPkdldE1ldGhvZElEKGVwY0NsYXNzLCJzZXRFcGMiLCIoW0IpViIpOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGptZXRob2RJRCAgIHNldERhdGE7Cg==</text>
+        <text encoding="base64">ICAgIC8vSW5zdGFudGlhdGUgQzFHMkVwY190IGNsYXNzIG9iamVjCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBDMUcyV3JpdGVPcFNwZWNSZXN1bHQgewogICAgYnl0ZSAgICByZXN1bHQ7CiAgICBpbnQgICAgIHJlc2VydmVkOwogICAgaW50ICAgICB3b3JkQ291bnQ7Cn0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="4">
-        <text>eu/tss/apicommon/C1G2Epc_t</text>
+        <text>g_ctx.c1g2epc.epcClass,</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vU2V0IGFycmF5IGRhdGEK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CnB1YmxpYyBjbGFzcyBDMUcyV3JpdGVPcFNwZWNSZXN1bHQgewogICAgYnl0ZSAgICByZXN1bHQ7CiAgICBpbnQgICAgIHJlc2VydmVkOwogICAgaW50ICAgICB3b3JkQ291bnQ7Cn0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBldS50c3MuYXBpY29tbW9uOwo=</text>
+        <text encoding="base64">ICAgIGpjbGFzcyBlcGNDbGFzcyA9IGVudi0+RmluZENsYXNzKCJldS90c3MvYXBpY29tbW9uL0MxRzJFcGNfdCIpOwo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBDMUcyUmVhZE9wU3BlY1Jlc3VsdCB7CiAgICBieXRlICAgIHJlc3VsdDsKICAgIGludCAgICAgcmVzZXJ2ZWQ7CiAgICBpbnQgICAgIHdvcmRDb3VudDsKICAgIGJ5dGVbXSAgZGF0YTsKfQ==</text>
+        <text encoding="base64">ZQogICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CnR5cGVkZWYgc3RydWN0IGMxZzJlcGNfQ2xhc3MgewogICAgamNsYXNzICAgICAgZXBjQ2xhc3M7CiAgICBqbWV0aG9kSUQgICBjb25zdHJ1Y3RvcjsKICAgIGptZXRob2RJRCAgIHNldEVQQ0xlbmd0aDsKICAgIGptZXRob2RJRCAgIHNldEVQQzsKfSBDMUcyRXBjOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdfY3R4LmMxZzJlcGMuY29uc3RydWN0b3IgPSBlbnYtPkdldE1ldGhvZElEKGdfY3R4LmMxZzJlcGMuZXBjQ2xhc3MsICAiZ2V0Rm9vIiwgIihMamF2YS9sYW5nL1N0cmluZzspCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC8vIGpieXRlQXJyYXkgZXBjQXJyYXkgPSBlbnYtPk5ld0J5dGVBcnJheSgoKGMxZzJlcGNfdCopc3RydWN0UG9pbnRlciktPmVwY0xlbmd0aCAqIDIpOwogICAvLyBlbnYtPlNldEJ5dGVBcnJheVJlZ2lvbihlcGNBcnJheSwwLCgoYzFnMmVwY190KilzdHJ1Y3RQb2ludGVyKS0+ZXBjTGVuZ3RoICogMiwoamJ5dGUqKSgoYzFnMmVwY190KilzdHJ1Y3RQb2ludGVyKS0+ZXBjKTsKICAgLy8gZW52LT5DYWxsVm9pZE1ldGhvZChlcGNDbGFzc0luc3RhbmNlLCBzZXRFcGMsZXBjQXJyYXkpOwoKICAgLy8gLy9SZWxlYXNlIGFycmF5IHJlc291cmNlcwogICAvLyBlbnYtPlJlbGVhc2VCeXRlQXJyYXlFbGVtZW50cyhlcGNBcnJheSwgKGpieXRlICopICgoYzFnMmVwY190KilzdHJ1Y3RQb2ludGVyKS0+ZXBjLCBKTklfQUJPUlQpOwogICAvLyBlbnYtPkRlbGV0ZUxvY2FsUmVmKGVwY0FycmF5KTsKICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGptZXRob2RJRCAgIHNldERhdGE7Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
