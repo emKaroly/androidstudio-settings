@@ -234,11 +234,11 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470055096274">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470055663698">
         <mark key="]" line="92" column="34" />
         <mark key="^" line="92" column="34" />
         <mark key="." line="92" column="34" />
-        <mark key="[" line="91" column="80" />
+        <mark key="[" line="153" column="36" />
         <mark key="i" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1469197009604">
