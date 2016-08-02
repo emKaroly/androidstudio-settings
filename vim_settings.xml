@@ -203,11 +203,10 @@
         <mark key="." line="21" column="0" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1470141588593">
-        <mark key="]" line="293" column="0" />
-        <mark key="^" line="291" column="34" />
-        <mark key="." line="293" column="0" />
-        <mark key="[" line="218" column="18" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1470142344708">
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="[" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICallback.java" timestamp="1469712761794">
         <mark key="]" line="9" column="69" />
@@ -264,11 +263,11 @@
         <mark key="." line="7" column="24" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1470125003838">
-        <mark key="]" line="289" column="21" />
-        <mark key="^" line="289" column="21" />
-        <mark key="." line="289" column="21" />
-        <mark key="[" line="289" column="89" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1470142881780">
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="[" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ByteTool.cpp" timestamp="1468915934719">
         <mark key="]" line="1" column="0" />
@@ -452,8 +451,8 @@
       <register name="-" type="4">
         <text>:</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGxvZ1ZpZXcuc2V0VGV4dCgiIik7CiAgICAgICAgICAgICAgICBsb2dWaWV3LmFwcGVuZCgiXG5PbkVQQ1JlY2VpdmVkIik7CiAgICAgICAgICAgICAgICBsb2dWaWV3LmFwcGVuZCgiXG5FUENMZW5ndGg6ICIgKyBJbnRlZ2VyLnRvU3RyaW5nKGVwYy5nZXRFcGNMZW5ndGgoKSkpOwogICAgICAgICAgICAgICAgbG9nVmlldy5hcHBlbmQoIlxuRVBDOiAiICsgZXBjLmdldEVwY1N0cmluZygpKTsKIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIHByaXZhdGUgc3RhdGljIGNoYXJbXSBoZXhBcnJheSA9ICIwMTIzNDU2Nzg5QUJDREVGIi50b0NoYXJBcnJheSgpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -465,29 +464,29 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ1ZpZXcuc2V0VGV4dChyZXN1bHQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCJcbiBSZXNlcnZlZDogIiArIHJlc2VydmVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGxvZ1ZpZXcuc2V0VGV4dCgiIik7CiAgICAgICAgICAgICAgICBsb2dWaWV3LmFwcGVuZCgiXG5PbkVQQ1JlY2VpdmVkIik7CiAgICAgICAgICAgICAgICBsb2dWaWV3LmFwcGVuZCgiXG5FUENMZW5ndGg6ICIgKyBJbnRlZ2VyLnRvU3RyaW5nKGVwYy5nZXRFcGNMZW5ndGgoKSkpOwogICAgICAgICAgICAgICAgbG9nVmlldy5hcHBlbmQoIlxuRVBDOiAiICsgZXBjLmdldEVwY1N0cmluZygpKTsKIA==</text>
       </register>
-      <register name="5" type="4">
-        <text>logView.setText(&quot;&quot;);
-                logView.append(&quot;\nOnC1G2WriteOpSpecResult&quot;);
-                logView.append(&quot;\n Result: &quot; + Byte.toString(result.getResult()));
-                logView.append(&quot;\n Reserved: &quot; + result.getReserved());
-                logView.append(&quot;\n Data: &quot; + result.getWordCount());</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ1ZpZXcuc2V0VGV4dCgiIik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCJcbiBEYXRhOiAiICsgZ2V0RGF0YVN0cmluZygpKTsK</text>
+      <register name="8" type="4">
+        <text>logView.setText(&quot;&quot;);
+                logView.append(&quot;\nOnC1G2WriteOpSpecResult&quot;);
+                logView.append(&quot;\n Result: &quot; + Byte.toString(result.getResult()));
+                logView.append(&quot;\n Reserved: &quot; + result.getReserved());
+                logView.append(&quot;\n Data: &quot; + result.getWordCount());</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
