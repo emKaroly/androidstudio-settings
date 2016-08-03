@@ -56,16 +56,17 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.h" timestamp="1470228493425">
-        <mark key="]" line="63" column="13" />
-        <mark key="^" line="63" column="13" />
-        <mark key="." line="63" column="13" />
-        <mark key="[" line="63" column="8" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.h" timestamp="1470230128823">
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="[" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470228939181">
-        <mark key="]" line="690" column="30" />
-        <mark key="." line="690" column="0" />
-        <mark key="[" line="690" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470230117059">
+        <mark key="]" line="1051" column="31" />
+        <mark key="^" line="1051" column="31" />
+        <mark key="." line="1051" column="31" />
+        <mark key="[" line="1051" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1470218490661">
         <mark key="]" line="77" column="99" />
@@ -457,7 +458,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1QYWNrZXQuZGF0YSA9IHBhY2tldERhdGE7Cg==</text>
+        <text encoding="base64">dm9pZCBUU1NVUk1QYWNrZXROZXc6OnNldERhdGFHZXRSZWFkZXJDYXBhYmlsaXRpZXModW5zaWduZWQgY2hhciByZXF1ZXN0ZWREYXRhKQo=</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
@@ -472,7 +473,7 @@
         <text encoding="base64">ICAgIHJldHVybiBwYWNrZXREYXRhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYWNrZXREYXRhOwo=</text>
+        <text encoding="base64">dm9pZCBUU1NVUk1QYWNrZXROZXc6OnNldERhdGFHZXRSZWFkZXJDYXBhYmlsaXRpZXModW5zaWduZWQgY2hhciByZXF1ZXN0ZWREYXRhKQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1QYWNrZXQuZGF0YSA9IHBhY2tldERhdGE7Cg==</text>
