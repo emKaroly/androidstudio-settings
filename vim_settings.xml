@@ -56,8 +56,11 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.h" timestamp="1470221447515">
-        <mark key="[" line="0" column="20" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.h" timestamp="1470227567145">
+        <mark key="]" line="39" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="[" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470221120110">
         <mark key="[" line="0" column="17" />
@@ -464,50 +467,79 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>set</text>
       </register>
       <register name="/" type="4">
         <text>epcStruct</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>set</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly9URVNUX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCiAgICBwdWJsaWMgbmF0aXZlIFN0cmluZyB0ZXN0RnVuY3Rpb24oU3RyaW5nIHN0cmluZyk7CiAgICBwdWJsaWMgbmF0aXZlIHZvaWQgb25EYXRhUmVjZWl2ZWQoU3RyaW5nIHN0cmluZyk7CgogICAgcHVibGljIG5hdGl2ZSB2b2lkIHNlbmREYXRhSk5JKEJsdWV0b290aENvbW11bmljYXRpb24gYnQsIFN0cmluZyBzdHJpbmcpOwo=</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="8">
+        <text>packet
+packet
+packet
+packet
+packet
+      
+packet
+packet
+packet
+packet
+packet
+packet
+packet
+packet
+      
+packet
+packet
+packet
+packet
+packet
+packet
+packet
+packet
+packet
+packet
+packet
+packet
+packet
+packet
+packet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLwo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAvL0NhbGxiYWNrcwovLyAgICBwdWJsaWMgdm9pZCBPbkVQQ1JlY2VpdmVkKEMxRzJFcGNfdCBlcGMpewovLwovLyAgICAgICAgTG9nLmQoIlRTU0FQSSIsIkVQQ1JlY2VpdmVkIik7Ci8vICAgICAgICBpZihtQVBJQ2FsbGJhY2tzICE9IG51bGwpewovLyAgICAgICAgICAgIG1BUElDYWxsYmFja3MuT25FUENSZWNlaXZlZChlcGMpOwovLyAgICAgICAgfQovLyAgICB9Ci8vCi8vICAgIHB1YmxpYyB2b2lkIE9uQzFHMlJlYWRPcFNwZWNSZXN1bHQoQzFHMlJlYWRPcFNwZWNSZXN1bHRfdCByZXN1bHQpewovLwovLyAgICAgICAgTG9nLmQoIlRTU0FQSSIsIkMxRzJSZWFkT3BTcGVjUmVzdWx0X3QiKTsKLy8gICAgICAgIGlmKG1BUElDYWxsYmFja3MgIT0gbnVsbCl7Ci8vICAgICAgICAgICAgbUFQSUNhbGxiYWNrcy5PbkMxRzJSZWFkT3BTcGVjUmVzdWx0KHJlc3VsdCk7Ci8vICAgICAgICB9Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgT25DMUcyV3JpdGVPcFNwZWNSZXN1bHQoQzFHMldyaXRlT3BTcGVjUmVzdWx0X3QgcmVzdWx0KXsKLy8KLy8gICAgICAgIExvZy5kKCJUU1NBUEkiLCJDMUcyV3JpdGVPcFNwZWNSZXN1bHRfdCIpOwovLyAgICAgICAgaWYobUFQSUNhbGxiYWNrcyAhPSBudWxsKXsKLy8gICAgICAgICAgICBtQVBJQ2FsbGJhY2tzLk9uQzFHMldyaXRlT3BTcGVjUmVzdWx0KHJlc3VsdCk7Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ly9URVNUX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCiAgICBwdWJsaWMgbmF0aXZlIFN0cmluZyB0ZXN0RnVuY3Rpb24oU3RyaW5nIHN0cmluZyk7CiAgICBwdWJsaWMgbmF0aXZlIHZvaWQgb25EYXRhUmVjZWl2ZWQoU3RyaW5nIHN0cmluZyk7CgogICAgcHVibGljIG5hdGl2ZSB2b2lkIHNlbmREYXRhSk5JKEJsdWV0b290aENvbW11bmljYXRpb24gYnQsIFN0cmluZyBzdHJpbmcpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="8">
         <text>this.
 this.
 this.
 this.
 this.</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAvL0NhbGxiYWNrcwovLyAgICBwdWJsaWMgdm9pZCBPbkVQQ1JlY2VpdmVkKEMxRzJFcGNfdCBlcGMpewovLwovLyAgICAgICAgTG9nLmQoIlRTU0FQSSIsIkVQQ1JlY2VpdmVkIik7Ci8vICAgICAgICBpZihtQVBJQ2FsbGJhY2tzICE9IG51bGwpewovLyAgICAgICAgICAgIG1BUElDYWxsYmFja3MuT25FUENSZWNlaXZlZChlcGMpOwovLyAgICAgICAgfQovLyAgICB9Ci8vCi8vICAgIHB1YmxpYyB2b2lkIE9uQzFHMlJlYWRPcFNwZWNSZXN1bHQoQzFHMlJlYWRPcFNwZWNSZXN1bHRfdCByZXN1bHQpewovLwovLyAgICAgICAgTG9nLmQoIlRTU0FQSSIsIkMxRzJSZWFkT3BTcGVjUmVzdWx0X3QiKTsKLy8gICAgICAgIGlmKG1BUElDYWxsYmFja3MgIT0gbnVsbCl7Ci8vICAgICAgICAgICAgbUFQSUNhbGxiYWNrcy5PbkMxRzJSZWFkT3BTcGVjUmVzdWx0KHJlc3VsdCk7Ci8vICAgICAgICB9Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgT25DMUcyV3JpdGVPcFNwZWNSZXN1bHQoQzFHMldyaXRlT3BTcGVjUmVzdWx0X3QgcmVzdWx0KXsKLy8KLy8gICAgICAgIExvZy5kKCJUU1NBUEkiLCJDMUcyV3JpdGVPcFNwZWNSZXN1bHRfdCIpOwovLyAgICAgICAgaWYobUFQSUNhbGxiYWNrcyAhPSBudWxsKXsKLy8gICAgICAgICAgICBtQVBJQ2FsbGJhY2tzLk9uQzFHMldyaXRlT3BTcGVjUmVzdWx0KHJlc3VsdCk7Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
-      </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
