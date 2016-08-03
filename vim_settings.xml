@@ -57,11 +57,11 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="43" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1470214511111">
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="132" column="3" />
-        <mark key="." line="58" column="0" />
-        <mark key="[" line="58" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1470218310900">
+        <mark key="]" line="39" column="46" />
+        <mark key="^" line="39" column="46" />
+        <mark key="." line="39" column="46" />
+        <mark key="[" line="38" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMQPacketParser.h" timestamp="1469798157816">
         <mark key="]" line="12" column="27" />
@@ -470,12 +470,8 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>this.
-this.
-this.
-this.
-this.</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAvL0NhbGxiYWNrcwovLyAgICBwdWJsaWMgdm9pZCBPbkVQQ1JlY2VpdmVkKEMxRzJFcGNfdCBlcGMpewovLwovLyAgICAgICAgTG9nLmQoIlRTU0FQSSIsIkVQQ1JlY2VpdmVkIik7Ci8vICAgICAgICBpZihtQVBJQ2FsbGJhY2tzICE9IG51bGwpewovLyAgICAgICAgICAgIG1BUElDYWxsYmFja3MuT25FUENSZWNlaXZlZChlcGMpOwovLyAgICAgICAgfQovLyAgICB9Ci8vCi8vICAgIHB1YmxpYyB2b2lkIE9uQzFHMlJlYWRPcFNwZWNSZXN1bHQoQzFHMlJlYWRPcFNwZWNSZXN1bHRfdCByZXN1bHQpewovLwovLyAgICAgICAgTG9nLmQoIlRTU0FQSSIsIkMxRzJSZWFkT3BTcGVjUmVzdWx0X3QiKTsKLy8gICAgICAgIGlmKG1BUElDYWxsYmFja3MgIT0gbnVsbCl7Ci8vICAgICAgICAgICAgbUFQSUNhbGxiYWNrcy5PbkMxRzJSZWFkT3BTcGVjUmVzdWx0KHJlc3VsdCk7Ci8vICAgICAgICB9Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgT25DMUcyV3JpdGVPcFNwZWNSZXN1bHQoQzFHMldyaXRlT3BTcGVjUmVzdWx0X3QgcmVzdWx0KXsKLy8KLy8gICAgICAgIExvZy5kKCJUU1NBUEkiLCJDMUcyV3JpdGVPcFNwZWNSZXN1bHRfdCIpOwovLyAgICAgICAgaWYobUFQSUNhbGxiYWNrcyAhPSBudWxsKXsKLy8gICAgICAgICAgICBtQVBJQ2FsbGJhY2tzLk9uQzFHMldyaXRlT3BTcGVjUmVzdWx0KHJlc3VsdCk7Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -484,25 +480,29 @@ this.</text>
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJib3R0b20iCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvL0luc2VydCBzb21lIG1ldGhvZCBjYWxsIGhlcmUuCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldERhdGEoKXsKCiAgICAgICAgcmV0dXJuIG1UaHJlYWRpbmdUZXN0LmdldERhdGEoKTsKICAgIH0KCiAgICBwdWJsaWMgYnl0ZVtdIGdldERhdGFCeXRlKCl7CgogICAgICAgIHJldHVybiBtVGhyZWFkaW5nVGVzdC5nZXREYXRhQnl0ZSgpOwogICAgfQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL0luc2VydCBzb21lIG1ldGhvZCBjYWxsIGhlcmUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>this.
+this.
+this.
+this.
+this.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImJvdHRvbSIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldERhdGEoKXsKCiAgICAgICAgcmV0dXJuIG1UaHJlYWRpbmdUZXN0LmdldERhdGEoKTsKICAgIH0KCiAgICBwdWJsaWMgYnl0ZVtdIGdldERhdGFCeXRlKCl7CgogICAgICAgIHJldHVybiBtVGhyZWFkaW5nVGVzdC5nZXREYXRhQnl0ZSgpOwogICAgfQo=</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
@@ -532,6 +532,12 @@ this.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
