@@ -56,6 +56,12 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="43" column="44" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.h" timestamp="1470221447515">
+        <mark key="[" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470221120110">
+        <mark key="[" line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1470218490661">
         <mark key="]" line="77" column="99" />
         <mark key="^" line="77" column="99" />
@@ -246,12 +252,12 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470146959044">
-        <mark key="]" line="87" column="49" />
-        <mark key="^" line="87" column="49" />
-        <mark key="." line="87" column="49" />
-        <mark key="[" line="87" column="51" />
-        <mark key="i" line="30" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470221253541">
+        <mark key="]" line="66" column="4" />
+        <mark key="^" line="64" column="99" />
+        <mark key="." line="66" column="4" />
+        <mark key="[" line="66" column="4" />
+        <mark key="i" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1469197009604">
         <mark key="]" line="18" column="53" />
@@ -457,14 +463,14 @@
       <jump line="1" column="13" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2ReadOpSpecResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>epcStruct</text>
       </register>
       <register name="-" type="4">
-        <text>C1G2Write</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">Ly9URVNUX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCiAgICBwdWJsaWMgbmF0aXZlIFN0cmluZyB0ZXN0RnVuY3Rpb24oU3RyaW5nIHN0cmluZyk7CiAgICBwdWJsaWMgbmF0aXZlIHZvaWQgb25EYXRhUmVjZWl2ZWQoU3RyaW5nIHN0cmluZyk7CgogICAgcHVibGljIG5hdGl2ZSB2b2lkIHNlbmREYXRhSk5JKEJsdWV0b290aENvbW11bmljYXRpb24gYnQsIFN0cmluZyBzdHJpbmcpOwo=</text>
@@ -476,7 +482,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJib3R0b20iCg==</text>
+        <text encoding="base64">ICAgIC8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLwo=</text>
       </register>
       <register name="7" type="8">
         <text>this.
@@ -537,6 +543,9 @@ this.</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
