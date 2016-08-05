@@ -146,10 +146,11 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPct.cpp" timestamp="1470388702872">
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
-        <mark key="[" line="166" column="17" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPct.cpp" timestamp="1470389463245">
+        <mark key="]" line="167" column="26" />
+        <mark key="^" line="167" column="26" />
+        <mark key="." line="167" column="26" />
+        <mark key="[" line="167" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Checksum.cpp" timestamp="1468405413650">
         <mark key="]" line="17" column="0" />
@@ -509,14 +510,14 @@
       <jump line="1" column="13" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2ReadOpSpecResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dEKCJpc1ZhbGlkOiBoZWFkZXIgJXMiLCBCeXRlc1RvSGV4U3RyaW5nKGdldEhlYWRlcigpKS5jX3N0cigpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;mPacketData.size() = %d&quot;,mPacketData.size()</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>&quot;mPacketData.size() = %d&quot;,mPacketData.size()</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHVpbnQ4X3QgaGVhZGVyCg==</text>
@@ -527,8 +528,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMT0dEKCJpc1ZhbGlkOiBoZWFkZXIgJXMiLCBCeXRlc1RvSGV4U3RyaW5nKGdldEhlYWRlcigpKS5jX3N0cigpKTsK</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">I2luY2x1ZGUgPGlvbWFuaXA+CiNpbmNsdWRlIDxzc3RyZWFtPgojaW5jbHVkZSA8c3RkbGliLmg+Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dEKCJtUGFja2V0RGF0YS5zaXplKCkgPSAlZCIsbVBhY2tldERhdGEuc2l6ZSgpKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
