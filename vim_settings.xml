@@ -95,9 +95,9 @@
         <mark key="." line="7" column="0" />
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470306043064">
-        <mark key="]" line="162" column="62" />
-        <mark key="[" line="129" column="2" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470385873889">
+        <mark key="]" line="23" column="48" />
+        <mark key="[" line="19" column="2" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ICore.cpp" timestamp="1467880618535">
         <mark key="]" line="4" column="1" />
@@ -146,11 +146,11 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPct.cpp" timestamp="1470385098387">
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="[" line="159" column="27" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPct.cpp" timestamp="1470386039718">
+        <mark key="]" line="169" column="3" />
+        <mark key="^" line="169" column="3" />
+        <mark key="." line="169" column="3" />
+        <mark key="[" line="168" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Checksum.cpp" timestamp="1468405413650">
         <mark key="]" line="17" column="0" />
@@ -158,11 +158,11 @@
         <mark key="." line="17" column="0" />
         <mark key="[" line="30" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.cpp" timestamp="1470307507730">
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="[" line="53" column="36" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.cpp" timestamp="1470386857772">
+        <mark key="]" line="52" column="37" />
+        <mark key="^" line="52" column="37" />
+        <mark key="." line="52" column="37" />
+        <mark key="[" line="74" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmresultmessage.h" timestamp="1469097346920">
         <mark key="]" line="5" column="24" />
@@ -282,12 +282,12 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470221253541">
-        <mark key="]" line="66" column="4" />
-        <mark key="^" line="64" column="99" />
-        <mark key="." line="66" column="4" />
-        <mark key="[" line="66" column="4" />
-        <mark key="i" line="31" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470386690037">
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="63" column="99" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="i" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1469197009604">
         <mark key="]" line="18" column="53" />
@@ -361,11 +361,11 @@
         <mark key="." line="18" column="17" />
         <mark key="[" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.h" timestamp="1470307527163">
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="33" />
-        <mark key="." line="12" column="0" />
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.h" timestamp="1470386888891">
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="13" column="32" />
+        <mark key="[" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/bt/BluetoothCommunication.java" timestamp="1470057408122">
         <mark key="]" line="112" column="13" />
@@ -436,11 +436,11 @@
         <mark key="." line="64" column="6" />
         <mark key="[" line="64" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketer.cpp" timestamp="1470384945761">
-        <mark key="]" line="86" column="39" />
-        <mark key="^" line="86" column="39" />
-        <mark key="." line="86" column="39" />
-        <mark key="[" line="86" column="39" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketer.cpp" timestamp="1470386242747">
+        <mark key="]" line="90" column="67" />
+        <mark key="^" line="90" column="67" />
+        <mark key="." line="90" column="67" />
+        <mark key="[" line="90" column="61" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/config.gradle" timestamp="1470057840483">
         <mark key="]" line="35" column="0" />
@@ -510,47 +510,47 @@
       <jump line="1" column="13" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2ReadOpSpecResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fcGN0LnNldENvbW1hbmQobV90bXAgPDwgOCB8IGJ5dGUgJiAweEZGKTsK</text>
+      <register name="&quot;" type="4">
+        <text>auto</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
       </register>
       <register name="-" type="4">
-        <text>IntToString</text>
+        <text>auto</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnZvaWQgVFNTVVJNUGN0OjpzZXRDUkNIQnl0ZSh1aW50OF90IGJ5dGUpIHsKCiAgICBtUGFja2V0Q1JDWzBdID0gYnl0ZTsKfQoKdm9pZCBUU1NVUk1QY3Q6OnNldENSQ0xCeXRlKHVpbnQ4X3QgYnl0ZSkgewoKICAgIG1QYWNrZXRDUkNbMV0gPSBieXRlOwp9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fdG1wID0gYnl0ZTsK</text>
+        <text encoding="base64">ICAgIFRTU1VSTVBhY2tldE5ldyBwYWNrZXROZXcoVVJNU1BfU1RBUlRfUk9TUEVDLGZsYWdzLHJlc2VydmVkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fcGN0LnNldENvbW1hbmQobV90bXAgPDwgOCB8IGJ5dGUgJiAweEZGKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgInBhY2tldC9UU1NVUk1QYWNrZXROZXcuaCIK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fcGN0LnNldENvbW1hbmRCeXRlSChieXRlKTsK</text>
+        <text encoding="base64">c3RkOjpzdHJpbmcgQnl0ZXNUb0hleFN0cmluZyhhdXRvIHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fdG1wID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fdG1wID0gYnl0ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fdG1wID0gYnl0ZSA8PCA4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fcGN0LnNldENvbW1hbmQobV90bXAgPDwgOCB8IGJ5dGUgJiAweEZGKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnZvaWQgVFNTVVJNUGN0OjpzZXRDb21tYW5kSEJ5dGUodWludDhfdCBieXRlKSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">CnZvaWQgVFNTVVJNUGN0OjpzZXRDb21tYW5kTEJ5dGUodWludDhfdCBieXRlKSB7Cgp9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fcGN0LnNldAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CnZvaWQgVFNTVVJNUGN0OjpzZXRDUkNIQnl0ZSh1aW50OF90IGJ5dGUpIHsKCiAgICBtUGFja2V0Q1JDWzBdID0gYnl0ZTsKfQoKdm9pZCBUU1NVUk1QY3Q6OnNldENSQ0xCeXRlKHVpbnQ4X3QgYnl0ZSkgewoKICAgIG1QYWNrZXRDUkNbMV0gPSBieXRlOwp9</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
