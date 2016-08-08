@@ -198,11 +198,11 @@
         <mark key="." line="5" column="26" />
         <mark key="[" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.h" timestamp="1470651512915">
-        <mark key="]" line="89" column="35" />
-        <mark key="^" line="89" column="29" />
-        <mark key="." line="89" column="0" />
-        <mark key="[" line="89" column="28" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.h" timestamp="1470652215964">
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2WriteOpSpecResult.java" timestamp="1470139739322">
         <mark key="]" line="39" column="4" />
@@ -252,10 +252,11 @@
         <mark key="." line="6" column="3" />
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470651525296">
-        <mark key="]" line="933" column="1" />
-        <mark key="." line="929" column="0" />
-        <mark key="[" line="930" column="48" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470652237075">
+        <mark key="]" line="5" column="101" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
@@ -550,8 +551,8 @@
       <jump line="1" column="13" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2ReadOpSpecResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CnN0ZDo6dmVjdG9yPHVpbnQ4X3Q+IFRTU1VSTU1lc3NhZ2U6OmdldERhdGFRKCkgewogICAgcmV0dXJuIHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+KCk7Cn0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VFNTVVJNTWVzc2FnZTo6VFNTVVJNTWVzc2FnZShjb25zdCBzdGQ6OnZlY3Rvcjx1aW50OF90PiAmbWVzc2FnZURhdGEpIDogbU1lc3NhZ2VEYXRhKG1lc3NhZ2VEYXRhKSB7IH0K</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
@@ -559,14 +560,14 @@
       <register name="-" type="4">
         <text>TSSURMPACKET_H</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CnN0ZDo6dmVjdG9yPHVpbnQ4X3Q+IFRTU1VSTU1lc3NhZ2U6OmdldERhdGFRKCkgewogICAgcmV0dXJuIHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+KCk7Cn0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnN0ZDo6dmVjdG9yPHVpbnQ4X3Q+IFRTU1VSTU1lc3NhZ2U6OmdldERhdGFRKCkgewogICAgcmV0dXJuIHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+KCk7Cn0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">VFNTVVJNTWVzc2FnZTo6VFNTVVJNTWVzc2FnZShjb25zdCBzdGQ6OnZlY3Rvcjx1aW50OF90PiAmbWVzc2FnZURhdGEpIDogbU1lc3NhZ2VEYXRhKG1lc3NhZ2VEYXRhKSB7IH0K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+IGdldERhdGEoKTsK</text>
