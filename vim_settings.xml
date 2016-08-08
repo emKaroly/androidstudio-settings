@@ -198,6 +198,12 @@
         <mark key="." line="5" column="26" />
         <mark key="[" line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.h" timestamp="1470646309621">
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="14" column="4" />
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2WriteOpSpecResult.java" timestamp="1470139739322">
         <mark key="]" line="39" column="4" />
         <mark key="^" line="33" column="48" />
@@ -240,11 +246,16 @@
         <mark key="." line="4" column="30" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470467612987">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
         <mark key="]" line="6" column="3" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
-        <mark key="[" line="6" column="0" />
+        <mark key="[" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470645942363">
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="[" line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
@@ -546,13 +557,13 @@
         <text>\%VQbyteArray</text>
       </register>
       <register name="-" type="4">
-        <text>uint16_t crc</text>
+        <text>TSSAPITEST_TSSURMPACKETPARSER_H</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDI4LzA3LzE2LgovLwo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">c3RhdGljIApzdGF0aWMgCnN0YXRpYyAKc3RhdGljIApzdGF0aWMgCnN0YXRpYyAKc3RhdGljIApzdGF0aWMgCnN0YXRpYyAKc3RhdGljIApzdGF0aWMgCnN0YXRpYyAKc3RhdGljIApzdGF0aWMgCnN0YXRpYyAKc3RhdGljIApzdGF0aWMgCnN0YXRpYyAKc3RhdGljIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -561,25 +572,25 @@
         <text encoding="base64">ICAgIG1QYWNrZXRDUkNbMF0gPSBnZXRDUkMoKSA+PiA4ICYgMHhGRjsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CnZvaWQgVFNTVVJNUGFja2V0OjpnZXREYXRhU3RydWN0KHZvaWQgKnN0cnVjdFBvaW50ZXIpIHsKCiAgICBUU1NVUk1EYXRhU3RydWN0dXJlc1E6OmdldFN0cnVjdChzdHJ1Y3RQb2ludGVyLCBnZXRDb21tYW5kKCksIFFCeXRlQXJyYXkoKGNoYXIqKSBnZXREYXRhKCkuZGF0YSgpLCBnZXRMZW5ndGgoKSkpOwp9Cg==</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDAzLzA4LzE2LgovLwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDI4LzA3LzE2LgovLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBLYXJvbCBNb2xuw6FyIG9uIDAzLzA4LzE2LgovLwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2xlYXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CnZvaWQgVFNTVVJNUGFja2V0OjpjbGVhcigpIHsKCiAgICBzdGQ6OmZpbGwobVBhY2tldEZpZWxkcy5iZWdpbigpLG1QYWNrZXRGaWVsZHMuZW5kKCksMCk7CiAgICBtUGFja2V0RGF0YS5jbGVhcigpOwogICAgc3RkOjpmaWxsKG1QYWNrZXRDUkMuYmVnaW4oKSxtUGFja2V0Q1JDLmVuZCgpLDApOwp9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
