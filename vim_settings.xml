@@ -198,11 +198,11 @@
         <mark key="." line="5" column="26" />
         <mark key="[" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.h" timestamp="1470652215964">
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.h" timestamp="1470653267136">
+        <mark key="]" line="86" column="58" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="86" column="58" />
+        <mark key="[" line="86" column="58" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2WriteOpSpecResult.java" timestamp="1470139739322">
         <mark key="]" line="39" column="4" />
@@ -252,11 +252,11 @@
         <mark key="." line="6" column="3" />
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470652237075">
-        <mark key="]" line="5" column="101" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470653384744">
+        <mark key="]" line="868" column="92" />
+        <mark key="^" line="868" column="92" />
+        <mark key="." line="868" column="92" />
+        <mark key="[" line="868" column="82" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
@@ -551,14 +551,14 @@
       <jump line="1" column="13" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2ReadOpSpecResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VFNTVVJNTWVzc2FnZTo6VFNTVVJNTWVzc2FnZShjb25zdCBzdGQ6OnZlY3Rvcjx1aW50OF90PiAmbWVzc2FnZURhdGEpIDogbU1lc3NhZ2VEYXRhKG1lc3NhZ2VEYXRhKSB7IH0K</text>
+      <register name="&quot;" type="4">
+        <text>QByteArray data</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
       </register>
       <register name="-" type="4">
-        <text>TSSURMPACKET_H</text>
+        <text>QByteArray data</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">CnN0ZDo6dmVjdG9yPHVpbnQ4X3Q+IFRTU1VSTU1lc3NhZ2U6OmdldERhdGFRKCkgewogICAgcmV0dXJuIHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+KCk7Cn0=</text>
