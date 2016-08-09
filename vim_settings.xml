@@ -204,11 +204,11 @@
         <mark key="." line="5" column="26" />
         <mark key="[" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.h" timestamp="1470726053961">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.h" timestamp="1470726584541">
         <mark key="]" line="17" column="1" />
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
-        <mark key="[" line="16" column="0" />
+        <mark key="[" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2WriteOpSpecResult.java" timestamp="1470139739322">
         <mark key="]" line="39" column="4" />
@@ -258,11 +258,11 @@
         <mark key="." line="6" column="3" />
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470726250793">
-        <mark key="]" line="992" column="14" />
-        <mark key="^" line="992" column="14" />
-        <mark key="." line="992" column="14" />
-        <mark key="[" line="989" column="47" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470726761182">
+        <mark key="]" line="133" column="5" />
+        <mark key="^" line="133" column="5" />
+        <mark key="." line="133" column="5" />
+        <mark key="[" line="133" column="63" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
