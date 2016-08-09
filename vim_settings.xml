@@ -399,11 +399,11 @@
         <mark key="." line="33" column="48" />
         <mark key="[" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.h" timestamp="1470737100453">
-        <mark key="]" line="13" column="77" />
-        <mark key="^" line="57" column="60" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.h" timestamp="1470750578023">
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="51" column="60" />
+        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketer.h" timestamp="1469543997912">
         <mark key="]" line="17" column="31" />
@@ -423,11 +423,10 @@
         <mark key="." line="4" column="30" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470749568158">
-        <mark key="]" line="188" column="3" />
-        <mark key="^" line="188" column="3" />
-        <mark key="." line="188" column="3" />
-        <mark key="[" line="188" column="23" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470750735234">
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="671" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
@@ -575,7 +574,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVpbnQxNl90ICAgIG1Xb3JkQ291bnQgPSAweDY7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
@@ -584,10 +583,10 @@
         <text>testName</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0UGFzc2VkID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly9UU1NVUk1NZXNzYWdlOjpUU1NVUk1NZXNzYWdlKGNvbnN0IHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+ICZtZXNzYWdlRGF0YSkgOiBtTWVzc2FnZURhdGFQb2ludGVyKG1lc3NhZ2VEYXRhKSB7IH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -596,25 +595,25 @@
         <text encoding="base64">ICAgIHVpbnQxNl90ICAgIG1Xb3JkQ291bnQgPSAweDY7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5hcHBlbmQoIlxuTmV3IFBhY2tldDogIik7Cg==</text>
+        <text encoding="base64">Ly8gICAgVFNTVVJNTWVzc2FnZShjb25zdCBzdGQ6OnZlY3Rvcjx1aW50OF90PiAmbWVzc2FnZURhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5hcHBlbmQobmV3UGFja2V0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9UU1NVUk1NZXNzYWdlOjpUU1NVUk1NZXNzYWdlKCkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKG9sZFBhY2tldC5jb21wYXJlKG5ld1BhY2tldCkgPT0gMCl7Cg==</text>
+        <text encoding="base64">Ly99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9ICAgICAgICAiT2xkIFBhY2tldDogIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdC5hcHBlbmQob2xkUGFja2V0KTsK</text>
+        <text encoding="base64">Ly8gICAgVFNTVVJNTWVzc2FnZSgpOwo=</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
