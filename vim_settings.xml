@@ -423,11 +423,11 @@
         <mark key="." line="4" column="30" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470813811682">
-        <mark key="]" line="988" column="5" />
-        <mark key="^" line="988" column="5" />
-        <mark key="." line="988" column="5" />
-        <mark key="[" line="988" column="4" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470815277296">
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="[" line="46" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
