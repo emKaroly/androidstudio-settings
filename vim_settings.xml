@@ -423,11 +423,11 @@
         <mark key="." line="4" column="30" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470753987376">
-        <mark key="]" line="774" column="0" />
-        <mark key="^" line="717" column="27" />
-        <mark key="." line="774" column="0" />
-        <mark key="[" line="774" column="73" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470813811682">
+        <mark key="]" line="988" column="5" />
+        <mark key="^" line="988" column="5" />
+        <mark key="." line="988" column="5" />
+        <mark key="[" line="988" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
@@ -575,7 +575,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vV0FSTklORyBSZXdyaXRlIHRvIFNUTAo=</text>
+        <text encoding="base64">ICAgICAgICAvL1dBUk5JTkcgUmV3cml0ZSBmb3IgU1RMCg==</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
@@ -584,37 +584,37 @@
         <text>testName</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9UU1NVUk1NZXNzYWdlOjpUU1NVUk1NZXNzYWdlKGNvbnN0IHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+ICZtZXNzYWdlRGF0YSkgOiBtTWVzc2FnZURhdGFQb2ludGVyKG1lc3NhZ2VEYXRhKSB7IH0K</text>
+        <text encoding="base64">ICAgIC8vaWYoZ2V0RGF0YS5zaXplKCkgPiA1KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vV0FSTklORyBSZXdyaXRlIHRvIFNUTAo=</text>
+        <text encoding="base64">ICAgIC8vfQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vV0FSTklORyBSZXdyaXRlIHRvIFNUTAo=</text>
+        <text encoding="base64">ICAgICAgICAvL1dBUk5JTkcgUmV3cml0ZSBmb3IgU1RMCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9UU1NVUk1NZXNzYWdlOjpUU1NVUk1NZXNzYWdlKCkgewo=</text>
+        <text encoding="base64">ICAgIC8vV0FSTklORyBSZXdyaXRlIHRvIFNUTAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly99Cg==</text>
+        <text encoding="base64">ICAgIGMxZzJyZWFkb3BzcGVjcmVzdWx0LmRhdGEgPSB0bXAuZGF0YSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vYzFnMnJlYWRvcHNwZWNyZXN1bHQuZGF0YSA9IGRhdGEubWlkKDUsZ2V0RGF0YS5zaXplKCkgLSA1KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgVFNTVVJNTWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgVFNTVVJNTWVzc2FnZShjb25zdCBzdGQ6OnZlY3Rvcjx1aW50OF90PiAmbWVzc2FnZURhdGEpOwo=</text>
+        <text encoding="base64">Ly9UU1NVUk1NZXNzYWdlOjpUU1NVUk1NZXNzYWdlKGNvbnN0IHN0ZDo6dmVjdG9yPHVpbnQ4X3Q+ICZtZXNzYWdlRGF0YSkgOiBtTWVzc2FnZURhdGFQb2ludGVyKG1lc3NhZ2VEYXRhKSB7IH0K</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
