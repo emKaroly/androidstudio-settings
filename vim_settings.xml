@@ -85,11 +85,11 @@
         <mark key="." line="34" column="13" />
         <mark key="[" line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.cpp" timestamp="1470833791747">
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="[" line="6" column="24" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.cpp" timestamp="1470834545250">
+        <mark key="]" line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+        <mark key="." line="46" column="3" />
+        <mark key="[" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/gperf/build.gradle" timestamp="1468934326708">
         <mark key="]" line="16" column="64" />
@@ -192,11 +192,11 @@
         <mark key="." line="18" column="17" />
         <mark key="[" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.h" timestamp="1470833832219">
-        <mark key="]" line="11" column="53" />
-        <mark key="^" line="11" column="53" />
-        <mark key="." line="11" column="53" />
-        <mark key="[" line="11" column="66" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.h" timestamp="1470834423687">
+        <mark key="]" line="12" column="71" />
+        <mark key="^" line="12" column="71" />
+        <mark key="." line="12" column="71" />
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/bt/BluetoothCommunication.java" timestamp="1470057408122">
         <mark key="]" line="112" column="13" />
@@ -423,10 +423,11 @@
         <mark key="." line="4" column="30" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470834213177">
-        <mark key="]" line="765" column="0" />
-        <mark key="." line="765" column="0" />
-        <mark key="[" line="765" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470835237389">
+        <mark key="]" line="616" column="5" />
+        <mark key="^" line="616" column="5" />
+        <mark key="." line="616" column="5" />
+        <mark key="[" line="616" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
@@ -445,10 +446,10 @@
         <mark key="." line="51" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470826063232">
-        <mark key="]" line="182" column="17" />
-        <mark key="^" line="182" column="17" />
-        <mark key="." line="182" column="17" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470834565227">
+        <mark key="]" line="29" column="36" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="29" column="36" />
         <mark key="[" line="39" column="46" />
         <mark key="i" line="32" column="0" />
       </file>
@@ -574,46 +575,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1jcHkoYzFnMnJlYWRvcHNwZWNyZXN1bHQuZGF0YSwgQnl0ZXNWZWN0b3JUb0hleFN0cmluZyh0bXApLmNfc3RyKCksdG1wLnNpemUoKSoyKTsK</text>
+        <text encoding="base64">ICAgIC8vdGVtcERhdGEgPSBtTWVzc2FnZURhdGFRLm1pZCgxNCwgbU1lc3NhZ2VEYXRhUS5zaXplKCkpLmRhdGEoKTsK</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
       </register>
       <register name="-" type="4">
-        <text>tempData</text>
+        <text>c1g2getblockpermalockstatusopspecresult.permalockStatus</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL1dBUk5JTkcgUmV3cml0ZSBmb3IgU1RMCg==</text>
+        <text encoding="base64">ICAgIC8vV0FSTklORyBSZXdyaXRlIHRvIFNUTAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyICp0ZW1wRGF0YTsK</text>
+        <text encoding="base64">ICAgIGNoYXIgKnRlbXBEYXRhOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1jcHkoYzFnMnJlYWRvcHNwZWNyZXN1bHQuZGF0YSwgQnl0ZXNWZWN0b3JUb0hleFN0cmluZyh0bXApLmNfc3RyKCksdG1wLnNpemUoKSoyKTsK</text>
+        <text encoding="base64">ICAgIC8vdGVtcERhdGEgPSBtTWVzc2FnZURhdGFRLm1pZCgxNCwgbU1lc3NhZ2VEYXRhUS5zaXplKCkpLmRhdGEoKTsK</text>
       </register>
-      <register name="0" type="4">
-        <text>BytesVectorToHexString(tmp).c_str()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZyB0bXBzID0gdG9IZXhTdHJpbmcoKm1NZXNzYWdlRGF0YVBvaW50ZXIsNSk7CiAgICAgICAgbWVtY3B5KGMxZzJnZXRibG9ja3Blcm1hbG9ja3N0YXR1c29wc3BlY3Jlc3VsdC5wZXJtYWxvY2tTdGF0dXMsIHRtcHMuY19zdHIoKSwgdG1wcy5zaXplKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvcihhdXRvIGkgOiBtTWVzc2FnZURhdGFQb2ludGVyLT5hdCg1KSl7Cg==</text>
+        <text encoding="base64">ICAgIC8vV0FSTklORyBSZXdyaXRlIGZvciBTVEwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCB4ID0gMDsK</text>
+        <text encoding="base64">ICAgIGNoYXIgKnRlbXBEYXRhOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGMxZzJyZWFkb3BzcGVjcmVzdWx0LmRhdGEgPSBCeXRlc1ZlY3RvclRvSGV4U3RyaW5nKHRtcCkuY19zdHIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1NZXNzYWdlRGF0YVBvaW50ZXItPnNpemUoKQo=</text>
+        <text encoding="base64">ICAgIC8vdGVtcERhdGEgPSBtTWVzc2FnZURhdGFRLm1pZCg1LCBtTWVzc2FnZURhdGFRLnNpemUoKSkudG9IZXgoKS5kYXRhKCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vdGVtcERhdGEgPSBtTWVzc2FnZURhdGFRLm1pZCg1LCBtTWVzc2FnZURhdGFRLnNpemUoKSkudG9IZXgoKS5kYXRhKCk7Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
