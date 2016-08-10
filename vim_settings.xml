@@ -446,11 +446,11 @@
         <mark key="." line="51" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470820154427">
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="62" column="19" />
-        <mark key="." line="66" column="0" />
-        <mark key="[" line="66" column="6" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470822067115">
+        <mark key="]" line="66" column="36" />
+        <mark key="^" line="66" column="36" />
+        <mark key="." line="66" column="36" />
+        <mark key="[" line="66" column="45" />
         <mark key="i" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmbuffer.h" timestamp="1467207684817">
@@ -575,7 +575,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vcyA8PCA3IHwgaSA8PCA2IHwgKHJlc2VydmVkMiAmIDB4M0YpOwo=</text>
+        <text encoding="base64">ICAgIExPR0QoInVybXNwX1N0YXJ0Uk9TcGVjOiBTZW5kRGF0YUNhbGxiYWNrIik7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
@@ -592,8 +592,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vcyA8PCA3IHwgaSA8PCA2IHwgKHJlc2VydmVkMiAmIDB4M0YpOwo=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dGlkIDw8IDYgfCBtIDw8IDUgfCAoKHIgJiAweDAzKSA8PCAzKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIExPR0QoInVybXNwX1N0YXJ0Uk9TcGVjOiBTZW5kRGF0YUNhbGxiYWNrIik7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
