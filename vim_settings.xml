@@ -423,11 +423,11 @@
         <mark key="." line="4" column="30" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470818464931">
-        <mark key="]" line="249" column="0" />
-        <mark key="^" line="248" column="39" />
-        <mark key="." line="249" column="0" />
-        <mark key="[" line="249" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470819895789">
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="[" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
@@ -575,7 +575,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhY2tldERhdGFbMTBdID0gd29yZENvdW50Owo=</text>
+        <text encoding="base64">ICAgIHBhY2tldERhdGFbMF0gPSByT1NwZWNTdGFydFRyaWdnZXJUeXBlOwo=</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
@@ -584,37 +584,37 @@
         <text>0x00</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhY2tldERhdGFbOF0gPSB3b3JkUG9pbnRlciAlIDB4RkY7Cg==</text>
+        <text encoding="base64">ICAgIHBhY2tldERhdGFbN10gPSBiaXRDb3VudCA+PiA4Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhY2tldERhdGFbOV0gPSAweDAwOwo=</text>
+        <text encoding="base64">ICAgIHBhY2tldERhdGFbOF0gPSBiaXRDb3VudCAlIDB4RkY7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhY2tldERhdGFbMTBdID0gd29yZENvdW50Owo=</text>
+        <text encoding="base64">ICAgIHBhY2tldERhdGFbMF0gPSByT1NwZWNTdGFydFRyaWdnZXJUeXBlOwo=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YnV6emVyIDw8IDQgfCAocHVzaEJ1dHRvbiAmIDB4MEYp</text>
+        <text encoding="base64">dGlkIDw8IDYgfCBtIDw8IDUgfCAoKHIgJiAweDAzKSA8PCAzKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhY2tldERhdGFbOF0gPSB3b3JkUG9pbnRlciAmIDB4RkY7Cg==</text>
+        <text encoding="base64">ICAgIHBhY2tldERhdGFbOV0gPSBzdG9yZWRNZXNzYWdlTGVuZ3RoOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhY2tldERhdGFbOV0gPSBiaXRDb3VudCA+PiA4Owo=</text>
+        <text encoding="base64">ICAgIHBhY2tldERhdGFbNl0gPSB1IDw8IDcgfCBlIDw8IDY7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhY2tldERhdGFbMTBdID0gYml0Q291bnQgJiAweEZGOwo=</text>
+        <text encoding="base64">ICAgIHBhY2tldERhdGFbN10gPSBlcGNMZW5ndGg7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhY2tldERhdGFbN10gPSB3b3JkUG9pbnRlciA+PiA4Owo=</text>
+        <text encoding="base64">ICAgIHBhY2tldERhdGFbOF0gPSB0aWQgPDwgNiB8IG0gPDwgNSB8ICgociAmIDB4MDMpIDw8IDMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhY2tldERhdGFbNl0gPSAweDAwOwo=</text>
+        <text encoding="base64">ICAgIHBhY2tldERhdGFbN10gPSBjc2k7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhY2tldERhdGFbN10gPSB3b3JkUG9pbnRlciA+PiA4Owo=</text>
+        <text encoding="base64">ICAgIHBhY2tldERhdGFbOF0gPSBzdG9yZWRNZXNzYWdlTGVuZ3RoID4+IDg7Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
