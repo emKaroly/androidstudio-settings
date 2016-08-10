@@ -446,12 +446,12 @@
         <mark key="." line="51" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470834565227">
-        <mark key="]" line="29" column="36" />
-        <mark key="^" line="29" column="36" />
-        <mark key="." line="29" column="36" />
-        <mark key="[" line="39" column="46" />
-        <mark key="i" line="32" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1470836939678">
+        <mark key="]" line="38" column="59" />
+        <mark key="^" line="38" column="59" />
+        <mark key="." line="38" column="59" />
+        <mark key="[" line="38" column="59" />
+        <mark key="i" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmbuffer.h" timestamp="1467207684817">
         <mark key="]" line="16" column="0" />
@@ -575,7 +575,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vdGVtcERhdGEgPSBtTWVzc2FnZURhdGFRLm1pZCgxNCwgbU1lc3NhZ2VEYXRhUS5zaXplKCkpLmRhdGEoKTsK</text>
+        <text encoding="base64">ICAgIGMxZzJyZWFkb3BzcGVjcmVzdWx0X3QgcmVhZFJlc3VsdDsK</text>
       </register>
       <register name="/" type="4">
         <text>\%VQbyteArray</text>
@@ -584,37 +584,37 @@
         <text>c1g2getblockpermalockstatusopspecresult.permalockStatus</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vV0FSTklORyBSZXdyaXRlIHRvIFNUTAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wYWNrZXQuZ2V0RGF0YVN0cnVjdCgmcmVhZFJlc3VsdCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYXIgKnRlbXBEYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HRChwYWNrZXQudG9TdHJpbmcoKS5jX3N0cigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vdGVtcERhdGEgPSBtTWVzc2FnZURhdGFRLm1pZCgxNCwgbU1lc3NhZ2VEYXRhUS5zaXplKCkpLmRhdGEoKTsK</text>
+        <text encoding="base64">ICAgIGMxZzJyZWFkb3BzcGVjcmVzdWx0X3QgcmVhZFJlc3VsdDsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZyB0bXBzID0gdG9IZXhTdHJpbmcoKm1NZXNzYWdlRGF0YVBvaW50ZXIsNSk7CiAgICAgICAgbWVtY3B5KGMxZzJnZXRibG9ja3Blcm1hbG9ja3N0YXR1c29wc3BlY3Jlc3VsdC5wZXJtYWxvY2tTdGF0dXMsIHRtcHMuY19zdHIoKSwgdG1wcy5zaXplKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vV0FSTklORyBSZXdyaXRlIGZvciBTVEwK</text>
+        <text encoding="base64">ICAgIGMxZzJyZWFkb3BzcGVjcmVzdWx0X3QgcmVhZFJlc3VsdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYXIgKnRlbXBEYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wYWNrZXQuZ2V0RGF0YVN0cnVjdCgmcmVhZFJlc3VsdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HRChwYWNrZXQudG9TdHJpbmcoKS5jX3N0cigpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vdGVtcERhdGEgPSBtTWVzc2FnZURhdGFRLm1pZCg1LCBtTWVzc2FnZURhdGFRLnNpemUoKSkudG9IZXgoKS5kYXRhKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhZFJlc3VsdCA9IHBhY2tldC5kYXRhKCkuYzFnMlJlYWRPcHNwZWNSZXN1bHQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYXIgKnRlbXBEYXRhOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vdGVtcERhdGEgPSBtTWVzc2FnZURhdGFRLm1pZCg1LCBtTWVzc2FnZURhdGFRLnNpemUoKSkudG9IZXgoKS5kYXRhKCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vdGVtcERhdGEgPSBtTWVzc2FnZURhdGFRLm1pZCgxNCwgbU1lc3NhZ2VEYXRhUS5zaXplKCkpLmRhdGEoKTsK</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
