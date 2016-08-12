@@ -75,11 +75,11 @@
         <mark key="." line="15" column="13" />
         <mark key="[" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.h" timestamp="1470146996659">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.h" timestamp="1471012162001">
         <mark key="]" line="34" column="13" />
         <mark key="^" line="34" column="13" />
         <mark key="." line="34" column="13" />
-        <mark key="[" line="34" column="15" />
+        <mark key="[" line="40" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.cpp" timestamp="1470908562908">
         <mark key="]" line="31" column="12" />
@@ -147,11 +147,11 @@
         <mark key="." line="13" column="3" />
         <mark key="[" line="113" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1471008744210">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1471011086127">
         <mark key="]" line="308" column="29" />
         <mark key="^" line="308" column="29" />
         <mark key="." line="308" column="29" />
-        <mark key="[" line="314" column="14" />
+        <mark key="[" line="316" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ByteTool.cpp" timestamp="1468915934719">
         <mark key="]" line="1" column="0" />
@@ -470,10 +470,11 @@
         <mark key="." line="18" column="53" />
         <mark key="[" line="18" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1471010124605">
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="[" line="122" column="5" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1471011785534">
+        <mark key="]" line="121" column="3" />
+        <mark key="^" line="121" column="3" />
+        <mark key="." line="121" column="3" />
+        <mark key="[" line="121" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Logs.h" timestamp="1467365473237">
         <mark key="]" line="21" column="1" />
