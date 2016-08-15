@@ -1,6 +1,7 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="shift meta 9" />
@@ -13,9 +14,6 @@
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="ActivateRunToolWindow" />
-  <action id="ActivateTODOToolWindow">
-    <keyboard-shortcut first-keystroke="meta 0" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
