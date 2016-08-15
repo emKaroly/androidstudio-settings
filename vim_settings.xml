@@ -43,6 +43,11 @@
         <mark key="." line="241" column="0" />
         <mark key="[" line="224" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1471270096274">
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="20" column="2" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470230117059">
         <mark key="]" line="1051" column="31" />
         <mark key="^" line="1051" column="31" />
@@ -160,6 +165,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
         <mark key="[" line="113" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/Main_Fragment.java" timestamp="1471270672535">
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1471255930595">
         <mark key="]" line="323" column="57" />
@@ -447,13 +457,6 @@
         <mark key="." line="4" column="30" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1470924966920">
-        <mark key="'" line="582" column="50" />
-        <mark key="]" line="605" column="18" />
-        <mark key="^" line="605" column="18" />
-        <mark key="." line="605" column="18" />
-        <mark key="[" line="604" column="50" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.c" timestamp="1466760046621">
         <mark key="]" line="20" column="19" />
         <mark key="^" line="281" column="0" />
@@ -580,10 +583,19 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471268214316">
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471270403701">
+        <mark key="]" line="53" column="7" />
+        <mark key="^" line="53" column="7" />
+        <mark key="." line="53" column="7" />
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1471270501593">
+        <mark key="[" line="24" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1471270722117">
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="[" line="41" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="]" line="8" column="5" />
@@ -615,7 +627,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guYnQuQmx1ZXRvb3RoQWRhcHRlckhlbHBlcjsKaW1wb3J0IGNvbS5sYWlyZHRlY2gudWkuQmx1ZXRvb3RoQWRhcHRlckhlbHBlckludGVyZmFjZTsKaW1wb3J0IGNvbS5sYWlyZHRlY2gudWkuQ29tbW9uQnRJbnRlcmZhY2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5zZXR0aW5ncy5NUVRUU2V0dGluZ3M7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -624,45 +636,37 @@
         <text>,resultType,resultCode)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bXBvcnQgZXUudHNzLmNsb3VkY2xpZW50LlI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5tcXR0Lk1RVFRJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bXBvcnQgZXUudHNzLmNsb3VkY2xpZW50LlI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5zZXR0aW5ncy5DbGllbnRTZXR0aW5nczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guYnQuQmx1ZXRvb3RoQWRhcHRlckhlbHBlcjsKaW1wb3J0IGNvbS5sYWlyZHRlY2gudWkuQmx1ZXRvb3RoQWRhcHRlckhlbHBlckludGVyZmFjZTsKaW1wb3J0IGNvbS5sYWlyZHRlY2gudWkuQ29tbW9uQnRJbnRlcmZhY2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5zZXR0aW5ncy5NUVRUU2V0dGluZ3M7Cg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRzIE1RVFRJbnRlcmZhY2UsIEZURElJbnRlcmZhY2UsCiAgICAgICAgQmx1ZXRvb3RoQWRhcHRlckhlbHBlckNhbGxiYWNrLAogICAgICAgIEJsdWV0b290aEFkYXB0ZXJIZWxwZXJJbnRlcmZhY2UsCiAgICAgICAgRm91bmREZXZpY2VEaWFsb2dDYWxsYmFjaywKICAgICAgICBDb21tb25CdEludGVyZmFjZXsKCiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgVEFHID0gIk1haW5BY3Rpdml0IjsKCiAgICBGVERJU2VyaWFsUG9ydCBzZXJpYWxQb3J0ID0gbnVsbDsKICAgIE1RVFRDYWxsQmFjayBtcXRDYiA9IG51bGw7CiAgICBNUVRUQ2xpZW50IG1xdCA9IG51bGw7CiAgICBUU1NBUElCTEUgdHNzYXBpYmxlID0gbnVsbDsKCiAgICBwcml2YXRlIFN0cmluZyBjdXJyZW50RnJhZ21lbnQgPSBudWxsOwogICAgcHJpdmF0ZSBGcmFnbWVudCBjdXJyZW50RnJhZyA9IG51bGw7CiAgICBNYWluX0ZyYWdtZW50IG1GcmFnTWFpbiA9IG51bGw7CiAgICBNUVRUU2V0dGluZ3NfRnJhZ21lbnQgbUZyYWdNUVRUU2V0dGluZ3MgPSBudWxsOwogICAgQkxFU2V0dGluZ3NfRnJhZ21lbnQgYmxlU2V0dGluZ3NGcmFnID0gbnVsbDsKCiAgICAvL0JsdWV0b290aAogICAgcHJpdmF0ZSBCbHVldG9vdGhBZGFwdGVySGVscGVyIGJ0YSA9IG51bGw7CiAgICBwcml2YXRlIEZvdW5kRGV2aWNlc0RpYWxvZyBmZGQgPSBudWxsOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAvL05ldyBCbHVldG9vdGggQWRhcHRlciBIZWxwZXIgQ2FsbGJhY2tzCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGlzY292ZXJ5U3RvcCgpIHsKCiAgICAgICAgLy8gTm90IHVzZWQsIHRoaXMgaXMgZm9yIEJUIGNsYXNzaWMKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGlzY292ZXJ5RGV2aWNlRm91bmQoQmx1ZXRvb3RoRGV2aWNlIGRldmljZSwgaW50IHJzc2kpIHsKCiAgICAgICAgLy8gTm90IHVzZWQsIHRoaXMgaXMgZm9yIEJUIGNsYXNzaWMKICAgICAgICBMb2cuZCgiTWFpbkFjdGl2aXR5IiwgIkRpc2NvdmVyeURldmljZUZvdW5kOiAiICsgZGV2aWNlLmdldE5hbWUoKSk7CiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5mdGRpLkZURElJbnRlcmZhY2U7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>import com.lairdtech.bt.BluetoothAdapterHelper;
-import com.lairdtech.bt.BluetoothAdapterHelperCallback;
-import com.lairdtech.ui.BluetoothAdapterHelperInterface;
-import com.lairdtech.ui.FoundDeviceDialogCallback;
-import com.lairdtech.ui.FoundDevicesDialog;
-import com.lairdtech.ui.CommonBtInterface;
-import eu.tss.api.TSSAPIBLE;
-import eu.tss.api.bt.BluetoothCommunicationCallbacks;
-i</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5tcXR0Lk1RVFRJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYmx1ZXRvb3RoLkJsdWV0b290aERldmljZTsK</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5SOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uQmxlU3RvcFNjYW4oKSB7CiAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5SOwo=</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
