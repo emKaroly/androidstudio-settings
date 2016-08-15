@@ -27,6 +27,10 @@
         <mark key="." line="17" column="1" />
         <mark key="[" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/AndroidManifest.xml" timestamp="1471264946731">
+        <mark key="]" line="40" column="72" />
+        <mark key="[" line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/JniHandler.java" timestamp="1466772620870">
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
@@ -585,7 +589,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOyAK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQkxVRVRPT1RIIi8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkJMVUVUT09USF9BRE1JTiIvPgo=</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -603,7 +607,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOyAK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBuYXRpdmUgU3RyaW5nIGdldFJlc3VsdFN0cmluZyhpbnQgcmVzdWx0VHlwZSwgaW50IHJlc3VsdENvZGUpOwo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQkxVRVRPT1RIIi8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkJMVUVUT09USF9BRE1JTiIvPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGNoYXIqICBlcnJvclR5cGVTdHJpbmcgPSAwOwo=</text>
