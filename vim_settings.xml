@@ -653,11 +653,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471344377942">
-        <mark key="]" line="121" column="47" />
-        <mark key="^" line="121" column="47" />
-        <mark key="." line="121" column="47" />
-        <mark key="[" line="105" column="53" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471350572272">
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="111" column="3" />
+        <mark key="." line="61" column="0" />
+        <mark key="[" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1471335584000">
         <mark key="]" line="26" column="47" />
@@ -708,8 +708,8 @@
       <jump line="582" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICA8aXRlbQogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2Nsb3VkIgogICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL2ljX2Nsb3VkX3F1ZXVlX3doaXRlXzQ4ZHAiCiAgICAgICAgYW5kcm9pZDp0aXRsZT0iQHN0cmluZy9hY3Rpb25fY2xvdWQiCiAgICAgICAgYXBwOnNob3dBc0FjdGlvbj0iYWx3YXlzIj4KICAgICAgICA8bWVudT4KICAgICAgICAgICAgPGl0ZW0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2Nsb3VkX2Nvbm5lY3QiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19jbG91ZF9xdWV1ZV9ibGFja180OGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0aXRsZT0iQHN0cmluZy9hY3Rpb25fY29uIi8+CiAgICAgICAgICAgIDxpdGVtCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGlvbl9jbG91ZF9kaXNjb25uZWN0IgogICAgICAgICAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvaWNfY2xvdWRfb2ZmX2JsYWNrXzQ4ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9kYyIvPgogICAgICAgICAgICA8aXRlbQogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpb25fY2xvdWRfc2V0dGluZ3MiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19jbG91ZF9ibGFja180OGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0aXRsZT0iQHN0cmluZy9hY3Rpb25fc2V0dGluZ3MiLz4KICAgICAgICA8L21lbnU+CiAgICA8L2l0ZW0+Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL0FkZCBpY29uIHRvIHRvb2xiYXIK</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -718,37 +718,44 @@
         <text>action_usb_disconect</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2dldFN1cHBvcnRBY3Rpb25CYXIoKS5zZXRJY29uKFIubWlwbWFwLmljX2xhdW5jaGVyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWN0aW9uX3NldHRpbmdzIj5TZXR0aW5nczwvc3RyaW5nPgo8L3Jlc291cmNlcz4K</text>
+        <text encoding="base64">ICAgICAgICAvL2dldFN1cHBvcnRBY3Rpb25CYXIoKS5zZXREaXNwbGF5U2hvd0hvbWVFbmFibGVkKHRydWUpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICA8aXRlbQogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2Nsb3VkIgogICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL2ljX2Nsb3VkX3F1ZXVlX3doaXRlXzQ4ZHAiCiAgICAgICAgYW5kcm9pZDp0aXRsZT0iQHN0cmluZy9hY3Rpb25fY2xvdWQiCiAgICAgICAgYXBwOnNob3dBc0FjdGlvbj0iYWx3YXlzIj4KICAgICAgICA8bWVudT4KICAgICAgICAgICAgPGl0ZW0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2Nsb3VkX2Nvbm5lY3QiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19jbG91ZF9xdWV1ZV9ibGFja180OGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0aXRsZT0iQHN0cmluZy9hY3Rpb25fY29uIi8+CiAgICAgICAgICAgIDxpdGVtCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGlvbl9jbG91ZF9kaXNjb25uZWN0IgogICAgICAgICAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvaWNfY2xvdWRfb2ZmX2JsYWNrXzQ4ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9kYyIvPgogICAgICAgICAgICA8aXRlbQogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpb25fY2xvdWRfc2V0dGluZ3MiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19jbG91ZF9ibGFja180OGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0aXRsZT0iQHN0cmluZy9hY3Rpb25fc2V0dGluZ3MiLz4KICAgICAgICA8L21lbnU+CiAgICA8L2l0ZW0+Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvL0FkZCBpY29uIHRvIHRvb2xiYXIK</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PGl0ZW0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2Nsb3VkX2Rpc2Nvbm5lY3QiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19jbG91ZF9vZmZfYmxhY2tfNDhkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IkBzdHJpbmcvYWN0aW9uX2RjIi8+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWN0aW9uX3NldHRpbmdzIj5TZXR0aW5nczwvc3RyaW5nPgo=</text>
+      <register name="7" type="4">
+        <text>//        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+//        fab.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                Snackbar.make(view, &quot;Replace with your own action kokotkooo&quot;, Snackbar.LENGTH_LONG)
+//                        .setAction(&quot;Action&quot;, null).show();
+//            }
+//        });</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWN0aW9uX2NvbiI+Q29ubmVjdDwvc3RyaW5nPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWN0aW9uX2Nsb3VkIj5DbG91ZDwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICAvL3NldFN1cHBvcnRBY3Rpb25CYXIodG9vbGJhcik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWN0aW9uX2JsdWV0b290aCI+Qmx1ZXRvb3RoPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIFRvb2xiYXIgdG9vbGJhciA9IChUb29sYmFyKSBmaW5kVmlld0J5SWQoUi5pZC50b29sYmFyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWN0aW9uX2JsZXNldHRpbmdzIj5CTEUgU2V0dGluZ3M8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICAvL2RlY29yVmlldy5zZXRTeXN0ZW1VaVZpc2liaWxpdHkodWlPcHRpb25zKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWN0aW9uX21haW4iPk1haW4gU2NyZWVuPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2ludCB1aU9wdGlvbnMgPSBWaWV3LlNZU1RFTV9VSV9GTEFHX0hJREVfTkFWSUdBVElPTiB8IFZpZXcuU1lTVEVNX1VJX0ZMQUdfRlVMTFNDUkVFTjsK</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
