@@ -222,6 +222,9 @@
         <mark key="." line="125" column="7" />
         <mark key="[" line="124" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/values-v21/styles.xml" timestamp="1471338688727">
+        <mark key="[" line="8" column="45" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmpacket.h" timestamp="1468316600553">
         <mark key="]" line="6" column="14" />
         <mark key="^" line="6" column="14" />
@@ -358,6 +361,12 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/main_layout.xml" timestamp="1471339093833">
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="[" line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.h" timestamp="1470230128823">
         <mark key="]" line="6" column="20" />
         <mark key="^" line="6" column="20" />
@@ -382,9 +391,9 @@
         <mark key="." line="415" column="39" />
         <mark key="[" line="408" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/menu/main.xml" timestamp="1471271441196">
-        <mark key="]" line="7" column="36" />
-        <mark key="[" line="7" column="16" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/menu/main.xml" timestamp="1471339295347">
+        <mark key="]" line="13" column="36" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketFactory.h" timestamp="1470394221064">
         <mark key="]" line="16" column="0" />
@@ -431,6 +440,12 @@
       </file>
       <file name="/a.dummy" timestamp="1470305978796">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/fragment_mqttsettings.xml" timestamp="1471339070603">
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="[" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Checksum.cpp" timestamp="1468405413650">
         <mark key="]" line="17" column="0" />
@@ -601,11 +616,11 @@
         <mark key="." line="97" column="81" />
         <mark key="[" line="97" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471266072689">
+      <file name="/Dummy.txt" timestamp="1471338606633">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/fragment_main.xml" timestamp="1471333768066">
-        <mark key="[" line="4" column="62" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/fragment_main.xml" timestamp="1471339052372">
+        <mark key="[" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSCoreAPIWrapper.cpp" timestamp="1467107734189">
         <mark key="]" line="140" column="0" />
@@ -649,11 +664,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471336691974">
-        <mark key="]" line="161" column="43" />
-        <mark key="^" line="90" column="7" />
-        <mark key="." line="160" column="0" />
-        <mark key="[" line="161" column="43" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471337183959">
+        <mark key="]" line="94" column="12" />
+        <mark key="^" line="94" column="12" />
+        <mark key="." line="94" column="12" />
+        <mark key="[" line="94" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1471335584000">
         <mark key="]" line="26" column="47" />
