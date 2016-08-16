@@ -649,11 +649,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471335727257">
-        <mark key="]" line="103" column="5" />
-        <mark key="^" line="89" column="3" />
-        <mark key="." line="89" column="4" />
-        <mark key="[" line="60" column="8" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471336691974">
+        <mark key="]" line="161" column="43" />
+        <mark key="^" line="90" column="7" />
+        <mark key="." line="160" column="0" />
+        <mark key="[" line="161" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1471335584000">
         <mark key="]" line="26" column="47" />
@@ -705,7 +705,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyNC4xLjEnCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OmRlc2lnbjoyNC4xLjEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgMjoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlNFQ1RJT04gVGhyZWUiOwo=</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -723,7 +723,7 @@
         <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyNC4xLjEnCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OmRlc2lnbjoyNC4xLjEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgMjoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlNFQ1RJT04gVGhyZWUiOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
