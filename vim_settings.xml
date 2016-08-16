@@ -654,11 +654,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471352492847">
-        <mark key="]" line="106" column="69" />
-        <mark key="^" line="136" column="63" />
-        <mark key="." line="106" column="0" />
-        <mark key="[" line="106" column="28" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471354885049">
+        <mark key="]" line="107" column="7" />
+        <mark key="^" line="107" column="7" />
+        <mark key="." line="107" column="7" />
+        <mark key="[" line="106" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1471335584000">
         <mark key="]" line="26" column="47" />
@@ -669,6 +669,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="[" line="41" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/java/eu/tss/apidemo_android/MainActivity.java" timestamp="1471353994211">
+        <mark key="]" line="84" column="4" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="]" line="8" column="5" />
@@ -705,7 +710,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJGcmFnbWVudCBnZXRJdGVtOiAiICsgSW50ZWdlci50b1N0cmluZyhwb3NpdGlvbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIm9uT3B0aW9uc0l0ZW1TZWxlY3RlZDogIiArIEludGVnZXIudG9TdHJpbmcoaWQpKTsK</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -714,44 +719,37 @@
         <text>action_usb_disconect</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2dldFN1cHBvcnRBY3Rpb25CYXIoKS5zZXRJY29uKFIubWlwbWFwLmljX2xhdW5jaGVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2dldFN1cHBvcnRBY3Rpb25CYXIoKS5zZXREaXNwbGF5U2hvd0hvbWVFbmFibGVkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIm9uT3B0aW9uc0l0ZW1TZWxlY3RlZDogIiArIEludGVnZXIudG9TdHJpbmcoaWQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL0FkZCBpY29uIHRvIHRvb2xiYXIK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIm9uT3B0aW9uc0l0ZW1TZWxlY3RlZDogIiArIEludGVnZXIudG9TdHJpbmcoaWQpKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJGcmFnbWVudCBnZXRJdGVtOiAiICsgSW50ZWdlci50b1N0cmluZyhwb3NpdGlvbikpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>//        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-//        fab.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Snackbar.make(view, &quot;Replace with your own action kokotkooo&quot;, Snackbar.LENGTH_LONG)
-//                        .setAction(&quot;Action&quot;, null).show();
-//            }
-//        });</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbS5iZWdpblRyYW5zYWN0aW9uKCkucmVwbGFjZShSLmlkLmNvbnRhaW5lciwgZnJhZykuY29tbWl0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NldFN1cHBvcnRBY3Rpb25CYXIodG9vbGJhcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyYWcgPSBtU2VjdGlvbnNQYWdlckFkYXB0ZXIuZ2V0SXRlbShpZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIFRvb2xiYXIgdG9vbGJhciA9IChUb29sYmFyKSBmaW5kVmlld0J5SWQoUi5pZC50b29sYmFyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZtLmJlZ2luVHJhbnNhY3Rpb24oKS5yZXBsYWNlKFIuaWQuY29udGFpbmVyLCBmcmFnKS5jb21taXQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RlY29yVmlldy5zZXRTeXN0ZW1VaVZpc2liaWxpdHkodWlPcHRpb25zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL2ludCB1aU9wdGlvbnMgPSBWaWV3LlNZU1RFTV9VSV9GTEFHX0hJREVfTkFWSUdBVElPTiB8IFZpZXcuU1lTVEVNX1VJX0ZMQUdfRlVMTFNDUkVFTjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
