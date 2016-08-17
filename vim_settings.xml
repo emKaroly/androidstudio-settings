@@ -566,11 +566,11 @@
         <mark key="." line="18" column="53" />
         <mark key="[" line="18" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1471463310395">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1471463930736">
         <mark key="]" line="155" column="31" />
         <mark key="^" line="155" column="31" />
         <mark key="." line="155" column="31" />
-        <mark key="[" line="155" column="37" />
+        <mark key="[" line="39" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1471255487346">
         <mark key="]" line="139" column="11" />
@@ -668,11 +668,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471463489145">
-        <mark key="]" line="107" column="41" />
-        <mark key="^" line="107" column="41" />
-        <mark key="." line="107" column="41" />
-        <mark key="[" line="107" column="43" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471464087713">
+        <mark key="]" line="101" column="49" />
+        <mark key="^" line="97" column="45" />
+        <mark key="." line="101" column="0" />
+        <mark key="[" line="101" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/java/eu/tss/apidemo_android/MainActivity.java" timestamp="1471355548167">
         <mark key="]" line="84" column="4" />
@@ -724,7 +724,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRGF0YVJlY2VpdmVkKCJDbG91ZCBTZXR0aW5ncyIpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -741,8 +741,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y2FzZSBSLmlkLmJ1dHRvblNpbmdsZVRhZzoKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRGF0YVJlY2VpdmVkKCJDbG91ZCBTZXR0aW5ncyIpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyBJbmZsYXRlIHRoZSBsYXlvdXQgZm9yIHRoaXMgZnJhZ21lbnQK</text>
