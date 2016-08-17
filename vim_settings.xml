@@ -668,11 +668,10 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471464087713">
-        <mark key="]" line="101" column="49" />
-        <mark key="^" line="97" column="45" />
-        <mark key="." line="101" column="0" />
-        <mark key="[" line="101" column="46" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471465122935">
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="[" line="112" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/java/eu/tss/apidemo_android/MainActivity.java" timestamp="1471355548167">
         <mark key="]" line="84" column="4" />
@@ -724,7 +723,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRGF0YVJlY2VpdmVkKCJDbG91ZCBTZXR0aW5ncyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZnJhZ21lbnQ7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -732,41 +731,38 @@
       <register name="-" type="4">
         <text>mButtonSend</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGlmIChtTGlzdGVuZXIgIT0gbnVsbCkgewogICAgICAgICAgICBtTGlzdGVuZXIub25GcmFnbWVudEludGVyYWN0aW9uKG1FZGl0VGV4dERhdGEuZ2V0VGV4dCgpLnRvU3RyaW5nKCksCiAgICAgICAgICAgICAgICAgICAgbVNwaW5uZXJNZW1vcnlCYW5rLmdldFNlbGVjdGVkSXRlbSgpLnRvU3RyaW5nKCksCiAgICAgICAgICAgICAgICAgICAgbU51bWJlclBpY2tlcldvcmRQb2ludGVyLmdldFZhbHVlKCksCiAgICAgICAgICAgICAgICAgICAgbU51bWJlclBpY2tlcldvcmRDb3VudC5nZXRWYWx1ZSgpLAogICAgICAgICAgICAgICAgICAgIG1TcGlubmVyQ29tbWFuZC5nZXRTZWxlY3RlZEl0ZW0oKS50b1N0cmluZygpKTsKICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGFnID0gbWFrZUZyYWdtZW50TmFtZShtVmlld1BhZ2VyLmdldElkKCksIG1TZWN0aW9uc1BhZ2VyQWRhcHRlci5nZXRJdGVtSWQoMSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZnJhZ21lbnQ7Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRGF0YVJlY2VpdmVkKCJDbG91ZCBTZXR0aW5ncyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJbmZsYXRlIHRoZSBsYXlvdXQgZm9yIHRoaXMgZnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUxpc3RlbmVyICE9IG51bGwpIHsKICAgICAgICAgICAgbUxpc3RlbmVyLm9uRnJhZ21lbnRJbnRlcmFjdGlvbigsIHVyaSwgLCAsICwgKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtRWRpdFRleHREYXRhLnNldE9uQ2xpY2tMaXN0ZW5lcih0aGlzKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGlmIChtTGlzdGVuZXIgIT0gbnVsbCkgewogICAgICAgICAgICBtTGlzdGVuZXIub25GcmFnbWVudEludGVyYWN0aW9uKG1FZGl0VGV4dERhdGEuZ2V0VGV4dCgpLnRvU3RyaW5nKCksCiAgICAgICAgICAgICAgICAgICAgbVNwaW5uZXJNZW1vcnlCYW5rLmdldFNlbGVjdGVkSXRlbSgpLnRvU3RyaW5nKCksCiAgICAgICAgICAgICAgICAgICAgbU51bWJlclBpY2tlcldvcmRQb2ludGVyLmdldFZhbHVlKCksCiAgICAgICAgICAgICAgICAgICAgbU51bWJlclBpY2tlcldvcmRDb3VudC5nZXRWYWx1ZSgpLAogICAgICAgICAgICAgICAgICAgIG1TcGlubmVyQ29tbWFuZC5nZXRTZWxlY3RlZEl0ZW0oKS50b1N0cmluZygpKTsKICAgICAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtRWRpdFRleHREYXRhLnNldE9uQ2xpY2tMaXN0ZW5lcih0aGlzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>ton = (Button) container.findViewById(R.id.buttonScan);
-        //mConnectButton = (Button) container.findViewById(R.id.buttonConnect);
-        //mDisconnectButton = (Button) container.findViewById(R.id.buttonDisconnect);
-        //mSendButton = (Button) container.findViewById(R.id.buttonSend);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBJbmZsYXRlIHRoZSBsYXlvdXQgZm9yIHRoaXMgZnJhZ21lbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL21TY2FuQnV0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUxpc3RlbmVyICE9IG51bGwpIHsKICAgICAgICAgICAgbUxpc3RlbmVyLm9uRnJhZ21lbnRJbnRlcmFjdGlvbigsIHVyaSwgLCAsICwgKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
