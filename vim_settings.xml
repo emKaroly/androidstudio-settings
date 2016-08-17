@@ -560,11 +560,11 @@
         <mark key="." line="18" column="53" />
         <mark key="[" line="18" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1471442768655">
-        <mark key="]" line="127" column="41" />
-        <mark key="^" line="127" column="41" />
-        <mark key="." line="127" column="41" />
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1471444180672">
+        <mark key="]" line="73" column="11" />
+        <mark key="^" line="73" column="11" />
+        <mark key="." line="73" column="11" />
+        <mark key="[" line="73" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1471255487346">
         <mark key="]" line="139" column="11" />
@@ -717,14 +717,14 @@
       <jump line="582" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29udGFpbmVyLCA=</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">Y29udGFpbmVyLCA=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAvLy8K</text>
@@ -736,7 +736,7 @@
         <text encoding="base64">ICAgICAgICA8aXRlbT5BSVNwZWNTdG9wVHJpZ2dlcjwvaXRlbT4K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5mcmFnbWVudF9tYWluLCBjb250YWluZXIsIGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
