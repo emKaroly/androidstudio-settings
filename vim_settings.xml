@@ -566,11 +566,11 @@
         <mark key="." line="18" column="53" />
         <mark key="[" line="18" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1471459968658">
-        <mark key="]" line="77" column="7" />
-        <mark key="^" line="77" column="7" />
-        <mark key="." line="77" column="7" />
-        <mark key="[" line="77" column="7" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1471461941427">
+        <mark key="]" line="145" column="21" />
+        <mark key="^" line="145" column="21" />
+        <mark key="." line="145" column="21" />
+        <mark key="[" line="145" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1471255487346">
         <mark key="]" line="139" column="11" />
@@ -618,7 +618,7 @@
         <mark key="." line="97" column="81" />
         <mark key="[" line="97" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471441612160">
+      <file name="/Dummy.txt" timestamp="1471462158134">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/fragment_main.xml" timestamp="1471440190397">
@@ -647,7 +647,7 @@
         <mark key="." line="8" column="7" />
         <mark key="[" line="6" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1471358179816">
+      <file name="/fragment.java" timestamp="1471462158125">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/qdebug2logcat.h" timestamp="1467879025878">
@@ -723,47 +723,50 @@
       <jump line="582" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIG1TcGlubmVyTWVtb3J5QmFuayA9IChTcGlubmVyKWNtZExheW91dC5maW5kVmlld0J5SWQoUi5pZC5zcGlubmVyTWVtb3J5QmFuayk7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>mButtonSend</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1MaXN0ZW5lci5vbkZyYWdtZW50SW50ZXJhY3Rpb24oImtrdGluYSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobUxpc3RlbmVyICE9IG51bGwpIHsKICAgICAgICAgICAgbUxpc3RlbmVyLm9uRnJhZ21lbnRJbnRlcmFjdGlvbigsIHVyaSwgLCAsICwgKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYobUxpc3RlbmVyICE9IG51bGwpewo=</text>
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBtRWRpdFRleHREYXRhLnNldE9uQ2xpY2tMaXN0ZW5lcih0aGlzKTsK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWN0aW9uX3NldHRpbmdzIj5TZXR0aW5nczwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgIG1TcGlubmVyTWVtb3J5QmFuayA9IChTcGlubmVyKWNtZExheW91dC5maW5kVmlld0J5SWQoUi5pZC5zcGlubmVyTWVtb3J5QmFuayk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywib25PcHRpb25zSXRlbVNlbGVjdGVkOiAiICsgImFjdGlvbl9ibHVldG9vdGhfc2V0dGluZ3MiKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text>ton = (Button) container.findViewById(R.id.buttonScan);
+        //mConnectButton = (Button) container.findViewById(R.id.buttonConnect);
+        //mDisconnectButton = (Button) container.findViewById(R.id.buttonDisconnect);
+        //mSendButton = (Button) container.findViewById(R.id.buttonSend);</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywib25PcHRpb25zSXRlbVNlbGVjdGVkOiAiICsgImFjdGlvbl9jbG91ZF9zZXR0aW5ncyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL21TY2FuQnV0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLmFjdGlvbl9jbG91ZF9zZXR0aW5nczoKICAgICAgICAgICAgICAgIG1WaWV3UGFnZXIuc2V0Q3VycmVudEl0ZW0oMCk7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBJbmZsYXRlIHRoZSBsYXlvdXQgZm9yIHRoaXMgZnJhZ21lbnQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxOdW1iZXJQaWNrZXIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjUwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL251bWJlclBpY2tlcjMiIC8+CiAgICAgICAgPC9OdW1iZXJQaWNrZXI+</text>
+      <register name="9" type="2">
+        <text encoding="base64">aWYobUxpc3RlbmVyICE9IG51bGwpewo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkRhdGE6IgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRWaWV3NCIgLz4K</text>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
