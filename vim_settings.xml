@@ -655,10 +655,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471428311916">
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="[" line="153" column="23" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471429680582">
+        <mark key="]" line="154" column="25" />
+        <mark key="^" line="154" column="25" />
+        <mark key="." line="154" column="25" />
+        <mark key="[" line="154" column="118" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/java/eu/tss/apidemo_android/MainActivity.java" timestamp="1471355548167">
         <mark key="]" line="84" column="4" />
@@ -710,7 +711,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnJhZ21lbnQgZnJhZ21lbnQgPSBudWxsOwo=</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -719,19 +720,19 @@
         <text>/</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZm0uYmVnaW5UcmFuc2FjdGlvbigpLnJlcGxhY2UoUi5pZC5jb250YWluZXIsIGZyYWcpLmNvbW1pdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZyYWdtZW50Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnJhZ21lbnQgZnJhZ21lbnQgPSBudWxsOwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1WaWV3UGFnZXIuc2V0Q3VycmVudEl0ZW0oaWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGcmFnbWVudE1hbmFnZXIgZm0gPSBnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZm0uYmVnaW5UcmFuc2FjdGlvbigpLnJlcGxhY2UoUi5pZC5jb250YWluZXIsIGZyYWcpLmNvbW1pdCgpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZnJhZyA9IG1TZWN0aW9uc1BhZ2VyQWRhcHRlci5nZXRJdGVtKGlkKTsK</text>
@@ -743,13 +744,13 @@
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZnJhZyA9IG1TZWN0aW9uc1BhZ2VyQWRhcHRlci5nZXRJdGVtKGlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmbS5iZWdpblRyYW5zYWN0aW9uKCkucmVwbGFjZShSLmlkLmNvbnRhaW5lciwgZnJhZykuY29tbWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGcmFnbWVudE1hbmFnZXIgZm0gPSBnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGcmFnbWVudCBmcmFnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZnJhZyA9IG1TZWN0aW9uc1BhZ2VyQWRhcHRlci5nZXRJdGVtKGlkKTsK</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
