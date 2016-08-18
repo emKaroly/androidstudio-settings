@@ -672,11 +672,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471521057201">
-        <mark key="]" line="98" column="11" />
-        <mark key="^" line="98" column="11" />
-        <mark key="." line="98" column="11" />
-        <mark key="[" line="98" column="11" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471527510845">
+        <mark key="]" line="189" column="50" />
+        <mark key="^" line="189" column="50" />
+        <mark key="." line="189" column="50" />
+        <mark key="[" line="191" column="41" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/java/eu/tss/apidemo_android/MainActivity.java" timestamp="1471355548167">
         <mark key="]" line="84" column="4" />
@@ -728,7 +728,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dWaWV3LnNldE1vdmVtZW50TWV0aG9kKG5ldyBTY3JvbGxpbmdNb3ZlbWVudE1ldGhvZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JDb2RlID0gdHNzYXBpYmxlLnVybXNwX0FJU3BlY1N0b3BUcmlnZ2VyKChieXRlKTAsKGJ5dGUpMCwoYnl0ZSkwLDApOwogICAgICAgICAgICAgICAgICAgICAgICBlcnJvckNvZGUgPSAgdHNzYXBpYmxlLnVybXNwX1N0YXJ0Uk9TcGVjKChieXRlKTAsKGJ5dGUpMCk7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -737,37 +737,37 @@
         <text>ByTag(t</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JDb2RlID0gdHNzYXBpYmxlLnVybXNwX0FJU3BlY1N0b3BUcmlnZ2VyKChieXRlKTAsKGJ5dGUpMCwoYnl0ZSkwLDApOwogICAgICAgICAgICAgICAgICAgICAgICBlcnJvckNvZGUgPSAgdHNzYXBpYmxlLnVybXNwX1N0YXJ0Uk9TcGVjKChieXRlKTAsKGJ5dGUpMCk7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dWaWV3LnNldE1vdmVtZW50TWV0aG9kKG5ldyBTY3JvbGxpbmdNb3ZlbWVudE1ldGhvZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JDb2RlID0gdHNzYXBpYmxlLnVybXNwX1N0b3BST1NwZWMoKGJ5dGUpMCwoYnl0ZSkwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBydW5PblVpVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBydW5PblVpVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
