@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/command_c1g2write.xml" timestamp="1471457399189">
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="[" line="28" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/command_c1g2write.xml" timestamp="1471510331429">
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="19" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketParser.h" timestamp="1469697566662">
         <mark key="]" line="0" column="0" />
@@ -79,11 +79,11 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/AndroidManifest.xml" timestamp="1471267738686">
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="19" column="11" />
-        <mark key="." line="7" column="0" />
-        <mark key="[" line="9" column="31" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/AndroidManifest.xml" timestamp="1471511079498">
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPIBLE.java" timestamp="1470123416840">
         <mark key="]" line="40" column="6" />
@@ -572,10 +572,10 @@
         <mark key="[" line="18" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1471505577591">
-        <mark key="]" line="85" column="40" />
-        <mark key="^" line="85" column="40" />
-        <mark key="." line="85" column="40" />
-        <mark key="[" line="141" column="10" />
+        <mark key="]" line="83" column="40" />
+        <mark key="^" line="83" column="40" />
+        <mark key="." line="83" column="40" />
+        <mark key="[" line="139" column="10" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1471255487346">
         <mark key="]" line="139" column="11" />
@@ -626,10 +626,10 @@
       <file name="/Dummy.txt" timestamp="1471462594942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/fragment_main.xml" timestamp="1471463666633">
-        <mark key="]" line="4" column="46" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="2" column="34" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/fragment_main.xml" timestamp="1471510027316">
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSCoreAPIWrapper.cpp" timestamp="1467107734189">
         <mark key="]" line="140" column="0" />
@@ -689,10 +689,10 @@
         <mark key="." line="21" column="0" />
         <mark key="[" line="41" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1471335584000">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1471510751431">
         <mark key="]" line="26" column="47" />
         <mark key="." line="25" column="0" />
-        <mark key="[" line="25" column="0" />
+        <mark key="[" line="33" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="]" line="8" column="5" />
@@ -729,7 +729,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgo=</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -738,37 +738,37 @@
         <text>ByTag(t</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL01haW5GcmFnbWVudCBtZiA9IChNYWluRnJhZ21lbnQpZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLmZpbmRGcmFnbWVudEJ5SWQoUi5pZC5jb250YWluZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJqc2hkZmtqZHNoZmsiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb2N1c2FibGU9ImZhbHNlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtRWRpdFRleHREYXRhID0gKEVkaXRUZXh0KWNtZExheW91dC5maW5kVmlld0J5SWQoUi5pZC5lZGl0VGV4dERhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL01haW5GcmFnbWVudCBtZiA9IChNYWluRnJhZ21lbnQpZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLmZpbmRGcmFnbWVudEJ5SWQoUi5pZC5jb250YWluZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQSB7QGxpbmsgRnJhZ21lbnRQYWdlckFkYXB0ZXJ9IHRoYXQgcmV0dXJucyBhIGZyYWdtZW50IGNvcnJlc3BvbmRpbmcgdG8KICAgICAqIG9uZSBvZiB0aGUgc2VjdGlvbnMvdGFicy9wYWdlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBLeWxlIG9uIDE4LzA4LzE2Lgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSB7QGxpbmsgRnJhZ21lbnRQYWdlckFkYXB0ZXJ9IHRoYXQgcmV0dXJucyBhIGZyYWdtZW50IGNvcnJlc3BvbmRpbmcgdG8KICAgICAqIG9uZSBvZiB0aGUgc2VjdGlvbnMvdGFicy9wYWdlcy4K</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
