@@ -589,11 +589,11 @@
         <mark key="." line="7" column="24" />
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1471547253666">
-        <mark key="]" line="163" column="74" />
-        <mark key="^" line="163" column="74" />
-        <mark key="." line="163" column="74" />
-        <mark key="[" line="162" column="69" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1471607594993">
+        <mark key="]" line="185" column="0" />
+        <mark key="^" line="184" column="66" />
+        <mark key="." line="185" column="0" />
+        <mark key="[" line="185" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1471544048628">
         <mark key="]" line="139" column="11" />
@@ -686,10 +686,10 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471596362330">
-        <mark key="]" line="177" column="43" />
-        <mark key="." line="177" column="0" />
-        <mark key="[" line="177" column="16" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471608307776">
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
+        <mark key="[" line="224" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1471510751431">
         <mark key="]" line="26" column="47" />
@@ -741,7 +741,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1fRXJyb3JDb2RlID0gbV9FcnJvclR5cGVDb2RlIDw8IDE2IHwgbV9FcnJvck1lc3NhZ2VDb2RlICYgMHhGRkZGOwo=</text>
+        <text encoding="base64">ICAgICAgICB0Lgo=</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -750,37 +750,37 @@
         <text>jstring</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUxpc3RlbmVyLm9uU2VuZENvbW1hbmQoIiIsMCwwLDAsIlN0YXJ0Uk9TcGVjIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRTU1VSTUVycm9yTWVzc2FnZShUU1NVUk1FcnJvclR5cGUgZXJyb3JUeXBlQ29kZSwgdW5zaWduZWQgc2hvcnQgZXJyb3JNZXNzYWdlQ29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0Lgo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1fRXJyb3JDb2RlID0gbV9FcnJvclR5cGVDb2RlIDw8IDE2IHwgbV9FcnJvck1lc3NhZ2VDb2RlICYgMHhGRkZGOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JDb2RlID0gIHRzc2FwaWJsZS51cm1zcF9TdGFydFJPU3BlYygoYnl0ZSkwLChieXRlKTApOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldEVycm9yVHlwZVN0cmluZygpOwogICAgc2V0RXJyb3JNZXNzYWdlU3RyaW5nKCk7CiAgICBzZXRFcnJvck1lc3NhZ2VTdHJpbmcoKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRXZlbnQoZmluYWwgU3RyaW5nIGV2ZW50KSB7CgogICAgICAgIFRocmVhZCB0ID0gbmV3IFRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGludCBlcnJvckNvZGUgPSAwOwogICAgICAgICAgICAgICAgc3dpdGNoIChldmVudCl7CiAgICAgICAgICAgICAgICAgICAgY2FzZSAiU2luZ2xlVGFnIjoKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JDb2RlID0gIHRzc2FwaWJsZS51cm1zcF9TdGFydFJPU3BlYygoYnl0ZSkwLChieXRlKTApOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICJTdG9wIjoKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JDb2RlID0gdHNzYXBpYmxlLnVybXNwX1N0b3BST1NwZWMoKGJ5dGUpMCwoYnl0ZSkwKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSAiTXVsdGlUYWciOgogICAgICAgICAgICAgICAgICAgICAgICB0c3NhcGlibGUudXJtc3BfQUlTcGVjU3RvcFRyaWdnZXIoKGJ5dGUpMCwoYnl0ZSkwLChieXRlKTAsMCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yQ29kZSA9IHRzc2FwaWJsZS51cm1zcF9TdGFydFJPU3BlYygoYnl0ZSkwLChieXRlKTApOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmKGVycm9yQ29kZSAhPSAwKXsKICAgICAgICAgICAgICAgICAgICAvL2xvZ01lc3NhZ2UodHNzYXBpYmxlLmdldEVycm9yU3RyaW5nKGVycm9yQ29kZSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgICAgdC5zdGFydCgpOwoKICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ClRTU1VSTUVycm9yTWVzc2FnZTo6VFNTVVJNRXJyb3JNZXNzYWdlKFRTU1VSTUVycm9yVHlwZSBlcnJvclR5cGVDb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bnNpZ25lZCBzaG9ydCBlcnJvck1lc3NhZ2VDb2RlKSB7Cgp9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VFNTVVJNRXJyb3JNZXNzYWdlOjpUU1NVUk1FcnJvck1lc3NhZ2UoVFNTVVJNRXJyb3JUeXBlIGVycm9yVHlwZUNvZGUsIHVuc2lnbmVkIHNob3J0IGVycm9yTWVzc2FnZUNvZGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OiBtX0Vycm9yVHlwZUNvZGV7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldEVycm9yVHlwZVN0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiRnJhZ21lbnQiLEludGVnZXIudG9TdHJpbmcodmlldy5nZXRJZCgpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldEVycm9yTWVzc2FnZVN0cmluZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
