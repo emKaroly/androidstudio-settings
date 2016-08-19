@@ -158,11 +158,11 @@
         <mark key="." line="6" column="3" />
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1471547242124">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1471604563574">
         <mark key="]" line="222" column="15" />
         <mark key="^" line="222" column="15" />
         <mark key="." line="222" column="15" />
-        <mark key="[" line="217" column="58" />
+        <mark key="[" line="224" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICallback.java" timestamp="1469712761794">
         <mark key="]" line="9" column="69" />
@@ -193,11 +193,11 @@
         <mark key="." line="20" column="0" />
         <mark key="[" line="51" column="8" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1471545907375">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1471605123270">
         <mark key="]" line="309" column="53" />
         <mark key="^" line="309" column="53" />
         <mark key="." line="309" column="53" />
-        <mark key="[" line="309" column="4" />
+        <mark key="[" line="345" column="60" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/ByteTool.cpp" timestamp="1468915934719">
         <mark key="]" line="1" column="0" />
@@ -571,8 +571,8 @@
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1471600857211">
         <mark key="]" line="6" column="22" />
-        <mark key="." line="35" column="0" />
-        <mark key="[" line="59" column="43" />
+        <mark key="." line="36" column="0" />
+        <mark key="[" line="60" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/gradle/wrapper/gradle-wrapper.properties" timestamp="1471418895430">
         <mark key="[" line="5" column="70" />
