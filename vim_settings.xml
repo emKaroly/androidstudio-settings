@@ -79,11 +79,11 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/AndroidManifest.xml" timestamp="1471612343482">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/AndroidManifest.xml" timestamp="1471612835477">
         <mark key="]" line="11" column="43" />
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
-        <mark key="[" line="11" column="42" />
+        <mark key="[" line="11" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPIBLE.java" timestamp="1470123416840">
         <mark key="]" line="40" column="6" />
@@ -686,10 +686,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471608307776">
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
-        <mark key="[" line="224" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471613207760">
+        <mark key="]" line="56" column="5" />
+        <mark key="^" line="56" column="5" />
+        <mark key="." line="56" column="5" />
+        <mark key="[" line="54" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1471510751431">
         <mark key="]" line="26" column="47" />
