@@ -523,11 +523,11 @@
         <mark key="." line="17" column="31" />
         <mark key="[" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/command_c1g2read.xml" timestamp="1471675266693">
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="0" />
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/command_c1g2read.xml" timestamp="1471683972054">
+        <mark key="]" line="1" column="66" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="8" />
+        <mark key="[" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.h" timestamp="1466759192842">
         <mark key="]" line="23" column="22" />
@@ -741,14 +741,14 @@
       <jump line="582" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkYXRhPgogICAgICAgIDx2YXJpYWJsZSBuYW1lID0gImMxZzJyZWFkX3AiCiAgICAgICAgICAgIHR5cGUgPSAiZXUudHNzY29tcGFueS5jbG91ZGNsaWVudC5iaW5kaW5ncy5DMUcyUmVhZFBhcmFtZXRlcnMiLz4KICAgIDwvZGF0YT4K</text>
+      <register name="&quot;" type="4">
+        <text>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
       </register>
       <register name="-" type="4">
-        <text>OnFragmentInteractionListener</text>
+        <text>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">PGRhdGE+CiAgICAKPC9kYXRhPgo=</text>
