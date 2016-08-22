@@ -113,11 +113,11 @@
         <mark key="." line="34" column="13" />
         <mark key="[" line="36" column="214" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTClient.java" timestamp="1471852943558">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTClient.java" timestamp="1471856080635">
         <mark key="]" line="157" column="0" />
         <mark key="^" line="149" column="48" />
         <mark key="." line="157" column="0" />
-        <mark key="[" line="157" column="0" />
+        <mark key="[" line="166" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.cpp" timestamp="1470908562908">
         <mark key="]" line="31" column="12" />
@@ -406,6 +406,9 @@
         <mark key="." line="415" column="39" />
         <mark key="[" line="408" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
+        <mark key="[" line="60" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/menu/main.xml" timestamp="1471551326299">
         <mark key="]" line="61" column="51" />
         <mark key="^" line="58" column="11" />
@@ -647,7 +650,7 @@
         <mark key="." line="97" column="81" />
         <mark key="[" line="97" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471611496116">
+      <file name="/Dummy.txt" timestamp="1471856788425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSCoreAPIWrapper.cpp" timestamp="1467107734189">
@@ -671,7 +674,7 @@
         <mark key="." line="8" column="7" />
         <mark key="[" line="6" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1471674637411">
+      <file name="/fragment.java" timestamp="1471856788434">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/qdebug2logcat.h" timestamp="1467879025878">
@@ -692,10 +695,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471852560005">
-        <mark key="]" line="470" column="0" />
-        <mark key="." line="470" column="0" />
-        <mark key="[" line="470" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471856551182">
+        <mark key="]" line="195" column="26" />
+        <mark key="^" line="198" column="15" />
+        <mark key="." line="195" column="0" />
+        <mark key="[" line="200" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/java/eu/tss/apidemo_android/MainActivity.java" timestamp="1471355548167">
         <mark key="]" line="84" column="4" />
@@ -747,7 +751,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3QoKTsK</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -756,9 +760,30 @@
         <text>onCreate</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3QoKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm5lY3QoKTsK</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgTG9nLmQoVEFHLCJvbkFjdGl2aXR5Q3JlYXRlZCIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbXF0Lgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50Lgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZXRTdGF0dXNNZXNzYWdlKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="4" type="4">
         <text>try {
             client.disconnect();
         } catch (MqttException e) {
@@ -766,32 +791,11 @@
             e.printStackTrace();
         }</text>
       </register>
-      <register name="1" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTG9nLmQoVEFHLCJvbkFjdGl2aXR5Q3JlYXRlZCIpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2V0TVFUVENsaWVudCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXF0Lgo=</text>
-      </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50Lgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBWaWV3IG9uQ3JlYXRlVmlldyhMYXlvdXRJbmZsYXRlciBpbmZsYXRlciwgVmlld0dyb3VwIGNvbnRhaW5lciwgQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewoKICAgICAgICBMb2cuZChUQUcsIm9uQ3JlYXRlVmlldyIpOwogICAgICAgIHJldHVybiBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmZyYWdtZW50X21xdHRzZXR0aW5ncywgY29udGFpbmVyLCBmYWxzZSk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkFjdGl2aXR5Q3JlYXRlZChzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
+        <text encoding="base64">c2V0TVFUVENsaWVudCgpOwo=</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
