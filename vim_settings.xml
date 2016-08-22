@@ -712,11 +712,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471874195387">
-        <mark key="]" line="297" column="0" />
-        <mark key="^" line="293" column="76" />
-        <mark key="." line="297" column="0" />
-        <mark key="[" line="296" column="24" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471875470876">
+        <mark key="]" line="171" column="5" />
+        <mark key="^" line="171" column="5" />
+        <mark key="." line="171" column="5" />
+        <mark key="[" line="171" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/java/eu/tss/apidemo_android/MainActivity.java" timestamp="1471355548167">
         <mark key="]" line="84" column="4" />
@@ -768,8 +768,8 @@
       <jump line="582" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKGludGVybmV0KTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICB0cnkgewogICAgICAgICAgICBJbmV0QWRkcmVzcy5nZXRCeU5hbWUodXJsKS5pc1JlYWNoYWJsZSgyMDAwKTsgLy9SZXBsYWNlIHdpdGggeW91ciBuYW1lCiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -778,37 +778,47 @@
         <text>mqtt</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uU3RvcCgpIHsKICAgICAgICBMb2cuZChUQUcsIm9uU3RvcCIpOwogICAgICAgIHN1cGVyLm9uU3RvcCgpOwogICAgfQoKIA==</text>
+        <text>try {
+            InetAddress ipAddr = InetAddress.getByName(url); //You can replace it with your name
+            return !ipAddr.equals(&quot;&quot;);
+
+        } catch (Exception e) {
+            return false;
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKGludGVybmV0KTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICB0cnkgewogICAgICAgICAgICBJbmV0QWRkcmVzcy5nZXRCeU5hbWUodXJsKS5pc1JlYWNoYWJsZSgyMDAwKTsgLy9SZXBsYWNlIHdpdGggeW91ciBuYW1lCiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKGludGVybmV0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKGludGVybmV0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihidGEuKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKGludGVybmV0KTsK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IG1xdHQuc2V0U2V0dGluZ3ModHdCcm9rZXJVcmwuZ2V0VGV4dCgpLnRvU3RyaW5nKCksCiAgICAgICAgICAgICAgICB0d0NsaWVudElELmdldFRleHQoKS50b1N0cmluZygpLAogICAgICAgICAgICAgICAgdHdUb3BpYy5nZXRUZXh0KCkudG9TdHJpbmcoKSwKICAgICAgICAgICAgICAgIHR3VXNlck5hbWUuZ2V0VGV4dCgpLnRvU3RyaW5nKCksCiAgICAgICAgICAgICAgICB0d1Bhc3N3b3JkLmdldFRleHQoKS50b1N0cmluZygpLAogICAgICAgICAgICAgICAgdHdNZXNzYWdlLmdldFRleHQoKS50b1N0cmluZygpKTs=</text>
+        <text>ate boolean isDataAvailable() {
+        ConnectivityManager conxMgr = (ConnectivityManager) getSystemService(CONNECTIVITY_SERVICE);
+
+        NetworkInfo mobileNwInfo = conxMgr.getNetworkInfo(ConnectivityManager.TYPE_MOBILE);
+        N</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZldHdvcmtJbmZvIHdpZmlOd0luZm8gPSBjb254TWdyLmdldE5ldHdvCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uU3RvcCgpIHsKICAgICAgICBMb2cuZChUQUcsIm9uU3RvcCIpOwogICAgICAgIHN1cGVyLm9uU3RvcCgpOwogICAgfQoKIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0RGVmYXVsdFNldHRpbmdzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
