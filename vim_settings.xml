@@ -712,11 +712,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471875470876">
-        <mark key="]" line="171" column="5" />
-        <mark key="^" line="171" column="5" />
-        <mark key="." line="171" column="5" />
-        <mark key="[" line="171" column="5" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471876324216">
+        <mark key="]" line="297" column="0" />
+        <mark key="^" line="296" column="55" />
+        <mark key="." line="297" column="0" />
+        <mark key="[" line="329" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/java/eu/tss/apidemo_android/MainActivity.java" timestamp="1471355548167">
         <mark key="]" line="84" column="4" />
@@ -768,8 +768,8 @@
       <jump line="582" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICB0cnkgewogICAgICAgICAgICBJbmV0QWRkcmVzcy5nZXRCeU5hbWUodXJsKS5pc1JlYWNoYWJsZSgyMDAwKTsgLy9SZXBsYWNlIHdpdGggeW91ciBuYW1lCiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL2xvZ01lc3NhZ2UoY2xvdWQpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -777,45 +777,35 @@
       <register name="-" type="4">
         <text>mqtt</text>
       </register>
-      <register name="3" type="4">
-        <text>try {
-            InetAddress ipAddr = InetAddress.getByName(url); //You can replace it with your name
-            return !ipAddr.equals(&quot;&quot;);
-
-        } catch (Exception e) {
-            return false;
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKG5ldHdvcmspOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL2xvZ01lc3NhZ2UoaW50ZXJuZXQpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICB0cnkgewogICAgICAgICAgICBJbmV0QWRkcmVzcy5nZXRCeU5hbWUodXJsKS5pc1JlYWNoYWJsZSgyMDAwKTsgLy9SZXBsYWNlIHdpdGggeW91ciBuYW1lCiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvL2xvZ01lc3NhZ2UoY2xvdWQpOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKGludGVybmV0KTsK</text>
+        <text encoding="base64">ICAgICAgICBjaGVja0ludGVybmV0QXZhaWxhYmxlKCJodHRwczovL3d3dy5nb29nbGUuc2siKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKGludGVybmV0KTsK</text>
+        <text encoding="base64">ICAgICAgICBjaGVja0ludGVybmV0QXZhaWxhYmxlKCJodHRwczovL3d3dy5nb29nbGUuc2siKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKGludGVybmV0KTsK</text>
+        <text encoding="base64">ICAgICAgICAvL1N0cmluZyBpbnRlcm5ldCA9ICgiXG5JbnRlcm5ldDogIiArIChpc0ludGVybmV0QXZhaWxhYmxlKCJodHRwczovL3d3dy5nb29nbGUuc2siKSA/ICJBd2FpbGFibGUiIDogIlVuYXdhaWxhYmxlIikpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>ate boolean isDataAvailable() {
-        ConnectivityManager conxMgr = (ConnectivityManager) getSystemService(CONNECTIVITY_SERVICE);
-
-        NetworkInfo mobileNwInfo = conxMgr.getNetworkInfo(ConnectivityManager.TYPE_MOBILE);
-        N</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL1N0cmluZyBjbG91ZCA9ICgiXG5DbG91ZDogIiArIChpc0ludGVybmV0QXZhaWxhYmxlKCJodHRwOi8vdGVzdGFwcC5yZmlkLm1lbnUvIikgPyAiQXdhaWxhYmxlIiA6ICJVbmF3YWlsYWJsZSIpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZldHdvcmtJbmZvIHdpZmlOd0luZm8gPSBjb254TWdyLmdldE5ldHdvCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKG5ldHdvcmspOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uU3RvcCgpIHsKICAgICAgICBMb2cuZChUQUcsIm9uU3RvcCIpOwogICAgICAgIHN1cGVyLm9uU3RvcCgpOwogICAgfQoKIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
