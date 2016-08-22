@@ -695,10 +695,11 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471861768614">
-        <mark key="]" line="278" column="0" />
-        <mark key="." line="278" column="0" />
-        <mark key="[" line="278" column="42" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471863360786">
+        <mark key="]" line="423" column="93" />
+        <mark key="^" line="421" column="92" />
+        <mark key="." line="423" column="0" />
+        <mark key="[" line="422" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/java/eu/tss/apidemo_android/MainActivity.java" timestamp="1471355548167">
         <mark key="]" line="84" column="4" />
@@ -750,7 +751,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbGxycCA9ICJ7ImQiOnsiMCI6IjAifX0iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVTdGF0dXMgPSB3cml0ZVN0YXR1cy5yZXBsYWNlKCJSRVNVTFQiLEludGVnZXIudG9TdHJpbmcocmVzdWx0LmdldFJlc3VsdCgpKSk7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>memcpy</text>
@@ -768,7 +769,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbGxycCA9ICJ7ImQiOnsiMCI6IjAifX0iOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dNZXNzYWdlKCJcbk1lc3NhZ2UgQXJyaXZlZDogIiArIGFyZzAgKyAiICIgKyBtc2cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVTdGF0dXMgPSB3cml0ZVN0YXR1cy5yZXBsYWNlKCJSRVNVTFQiLEludGVnZXIudG9TdHJpbmcocmVzdWx0LmdldFJlc3VsdCgpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LnN1Ygo=</text>
