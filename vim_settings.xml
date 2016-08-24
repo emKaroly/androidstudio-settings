@@ -711,15 +711,16 @@
         <mark key="." line="33" column="39" />
         <mark key="[" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1471876918672">
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1472023438626">
+        <mark key="'" line="286" column="39" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="337" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1471675034804">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1472022818983">
         <mark key="]" line="29" column="47" />
         <mark key="." line="28" column="0" />
-        <mark key="[" line="5" column="0" />
+        <mark key="[" line="12" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1471872899843">
         <mark key="]" line="155" column="0" />
@@ -764,49 +765,52 @@
       <jump line="906" column="74" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
       <jump line="907" column="6" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
       <jump line="582" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
+      <jump line="62" column="10" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
+      <jump line="287" column="8" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
+      <jump line="282" column="39" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nW10gZ2V0U3Vic3JpYmVkX3RvcGljcygpIHsKICAgICAgICByZXR1cm4gc3Vic3JpYmVkX3RvcGljczsKICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuTm90aWZpY2F0aW9uQ29tcGF0Owo=</text>
       </register>
       <register name="/" type="4">
-        <text>memcpy</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
         <text>mqtt</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLk5vdGlmaWNhdGlvbk1hbmFnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN1YnNyaWJlZF90b3BpY3MgPSBzdWJzcmliZWRfdG9waWNzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubWVkaWEuUmluZ3RvbmVNYW5hZ2VyOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nW10gZ2V0U3Vic3JpYmVkX3RvcGljcygpIHsKICAgICAgICByZXR1cm4gc3Vic3JpYmVkX3RvcGljczsKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuTm90aWZpY2F0aW9uQ29tcGF0Owo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRvcGljOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LlVyaTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmV0LkluZXRBZGRyZXNzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRTZXR0aW5ncyhTdHJpbmcgdXJsLCBTdHJpbmcgaWQsIFN0cmluZyB0b3BpYywgU3RyaW5nIHVzZXIsIFN0cmluZyBwYXNzd29yZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgQlJPS0VSX1VSTCA9IHVybDsKICAgICAgICBDTElFTlRfSUQgPSBpZDsKICAgICAgICBUT1BJQyA9IHRvcGljOwoKICAgICAgICBVU0VSX05BTUUgPSB1c2VyOwogICAgICAgIFBBU1NXT1JEID0gcGFzc3dvcmQ7CgogICAgICAgIE1FU1NBR0UgPSBtZXNzYWdlOwoKICAgICAgICBkaXNjb25uZWN0KCk7CiAgICAgICAgY3JlYXRlQ2xpZW50KCk7CiAgICB9Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnN1YnNyaWJlZF90b3BpY3MgPSBzdWJzcmliZWRfdG9waWNzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nW10gZ2V0U3Vic3JpYmVkX3RvcGljcygpIHsKICAgICAgICByZXR1cm4gc3Vic3JpYmVkX3RvcGljczsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMuY29tbW9uLmFwaS5Hb29nbGVBcGlDbGllbnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LkluZXRBZGRyZXNzOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0Lk5ldHdvcmtJbmZvOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRTZXR0aW5ncyhTdHJpbmcgdXJsLCBTdHJpbmcgaWQsIFN0cmluZyB0b3BpYywgU3RyaW5nIHVzZXIsIFN0cmluZyBwYXNzd29yZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgQlJPS0VSX1VSTCA9IHVybDsKICAgICAgICBDTElFTlRfSUQgPSBpZDsKICAgICAgICBUT1BJQyA9IHRvcGljOwoKICAgICAgICBVU0VSX05BTUUgPSB1c2VyOwogICAgICAgIFBBU1NXT1JEID0gcGFzc3dvcmQ7CgogICAgICAgIE1FU1NBR0UgPSBtZXNzYWdlOwoKICAgICAgICBkaXNjb25uZWN0KCk7CiAgICAgICAgY3JlYXRlQ2xpZW50KCk7CiAgICB9Cg==</text>
       </register>
       <register name="z" type="4">
         <text>n</text>
@@ -816,9 +820,9 @@
       </register>
     </registers>
     <search>
-      <last-search>memcpy</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>memcpy</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-substitute>\%VQbyteArray</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
@@ -828,6 +832,7 @@
         <entry>epcStruct</entry>
         <entry>\%VQbyteArray</entry>
         <entry>memcpy</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
