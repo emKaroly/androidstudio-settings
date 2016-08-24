@@ -283,8 +283,8 @@
         <mark key="^" line="71" column="91" />
         <mark key="." line="97" column="81" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/config.gradle" timestamp="1470057840483">
-        <mark key="[" line="6" column="40" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/config.gradle" timestamp="1472044854422">
+        <mark key="[" line="7" column="40" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
@@ -512,11 +512,11 @@
         <mark key="^" line="64" column="25" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/bt/BluetoothCommunication.java" timestamp="1472043824476">
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="22" column="40" />
-        <mark key="^" line="22" column="40" />
-        <mark key="." line="22" column="40" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/bt/BluetoothCommunication.java" timestamp="1472045965092">
+        <mark key="[" line="125" column="12" />
+        <mark key="]" line="125" column="12" />
+        <mark key="." line="125" column="12" />
+        <mark key="^" line="125" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/menu/main.xml" timestamp="1471551326299">
         <mark key="[" line="59" column="50" />
@@ -648,11 +648,10 @@
       <file name="/Dummy.txt" timestamp="1471856788425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/TSSAPILogLevel.java" timestamp="1472043428722">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/TSSAPILogLevel.java" timestamp="1472045960113">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMQPacketParser.cpp" timestamp="1470122732434">
         <mark key="[" line="377" column="54" />
@@ -778,60 +777,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgYm9vbGVhbiBFUlJPUiA9IExPR0xFVkVMID4gMDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MK</text>
       </register>
       <register name="-" type="4">
-        <text>mqtt</text>
+        <text>BluetoothCommunication</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgYm9vbGVhbiBFUlJPUiA9IExPR0xFVkVMID4gMDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgYm9vbGVhbiBMT0dfV0FSTklORyA9IExPR0xFVkVMID4gMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>/**
- * Created by Kyle on 24/08/16.
- */</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZCA9IFRocmVhZC5jdXJyZW50VGhyZWFkKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJvblVpVXBsb2FkZWQgLSBUaHJlYWQ6ICIgKyB0aHJkLmdldE5hbWUoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1QYWNrZXQgPSBudWxsOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBjb25zdHJ1Y3RQYWNrZXQoU3RyaW5nIGRhdGEpIHsKICAgICAgICBTdHJpbmcgaGVhZGVyID0gZGF0YS5zdWJzdHJpbmcoMCwgMik7CiAgICAgICAgaWYgKGhlYWRlci5lcXVhbHMoIjU1IikpIHsKICAgICAgICAgICAgbVBhY2tldCA9IGRhdGE7CiAgICAgICAgICAgIHJldHVybiAiIjsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBtUGFja2V0ID0gbVBhY2tldCArIGRhdGE7CiAgICAgICAgICAgIHJldHVybiBtUGFja2V0OwogICAgICAgIH0KICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGlhbmRyb2lkLkJ1aWxkQ29uZmlnOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>}
-
-    private String constructPacket(String data) {
-        String header = data.substring(0, 2);
-        if (header.equals(&quot;55&quot;)) {
-            mPacket = data;
-            return &quot;&quot;;
-        } else {
-            mPacket = mPacket + data;
-            return mPacket;
-        }
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL05vdGUgUmVhZHkgdG8gc2VuZCBuZXcgZ2V0RGF0YQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBidGNiLmxvZ01lc3NhZ2UoIlVwbG9hZGVkIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBCdWlsZENvbmZpZy4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
         <text>/**
- * Created by Kyle on 26/04/16.
+ * Created by Kyle on 24/08/16.
  */</text>
       </register>
       <register name="y" type="4">
