@@ -144,11 +144,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1471604563574">
-        <mark key="[" line="224" column="31" />
-        <mark key="]" line="222" column="15" />
-        <mark key="^" line="222" column="15" />
-        <mark key="." line="222" column="15" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1472051074895">
+        <mark key="[" line="46" column="41" />
+        <mark key="]" line="46" column="40" />
+        <mark key="^" line="46" column="40" />
+        <mark key="." line="46" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPct.h" timestamp="1470232344237">
         <mark key="[" line="2" column="0" />
@@ -236,8 +236,8 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1469022081985">
-        <mark key="[" line="122" column="10" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1472051012549">
+        <mark key="[" line="110" column="48" />
         <mark key="]" line="111" column="4" />
         <mark key="^" line="114" column="0" />
         <mark key="." line="111" column="4" />
@@ -600,6 +600,9 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/AndroidManifest.xml" timestamp="1472050863709">
+        <mark key="[" line="10" column="33" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1471269076999">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -783,7 +786,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>BluetoothCommunication</text>
@@ -795,34 +798,34 @@
         <text encoding="base64">ICAgICAgICBpZihUU1NBUElMb2dMZXZlbC5MT0dfREVCVUcpIExvZy5kKFRBRywgImNvbm5lY3REZXZpY2UiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJkYXRhUmVjZWl2ZWQgIiArIG1zZyArICIgLSBUaHJlYWQ6ICIgKyB0aHJkLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZCA9IFRocmVhZC5jdXJyZW50VGhyZWFkKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJsb2dNZXNzYWdlOiAiICsgbXNnICsgIiAtIFRocmVhZDogIiArIHRocmQuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZCA9IFRocmVhZC5jdXJyZW50VGhyZWFkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJkYXRhUmVjZWl2ZWQgIiArIG1zZyArICIgLSBUaHJlYWQ6ICIgKyB0aHJkLmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZCA9IFRocmVhZC5jdXJyZW50VGhyZWFkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihUU1NBUElMb2dMZXZlbC5MT0dfREVCVUcpIExvZy5kKFRBRywgIm9uVWlDb25uZWN0ZWQgLSBDdXJyZW50IFRocmVhZDogIiArIHRocmQuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJsb2dNZXNzYWdlOiAiICsgbXNnICsgIiAtIFRocmVhZDogIiArIHRocmQuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZCA9IFRocmVhZC5jdXJyZW50VGhyZWFkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gIHRyeSB7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
