@@ -70,10 +70,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1472041341083">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1472113490781">
         <mark key="'" line="306" column="39" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="373" column="7" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="48" />
         <mark key="." line="373" column="7" />
         <mark key="^" line="373" column="7" />
       </file>
@@ -150,11 +150,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1472051074895">
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="46" column="40" />
-        <mark key="^" line="46" column="40" />
-        <mark key="." line="46" column="40" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1472113540765">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="48" />
+        <mark key="^" line="47" column="40" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPct.h" timestamp="1470232344237">
         <mark key="[" line="2" column="0" />
@@ -205,6 +205,9 @@
         <mark key="^" line="281" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/AndroidManifest.xml" timestamp="1472112979707">
+        <mark key="[" line="1" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/activity_main.xml" timestamp="1471335483481">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -242,8 +245,8 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1472051012549">
-        <mark key="[" line="110" column="48" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1472113506535">
+        <mark key="[" line="110" column="51" />
         <mark key="]" line="111" column="4" />
         <mark key="^" line="114" column="0" />
         <mark key="." line="111" column="4" />
@@ -254,8 +257,8 @@
         <mark key="^" line="9" column="69" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1472022818983">
-        <mark key="[" line="12" column="26" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1472113363463">
+        <mark key="[" line="27" column="49" />
         <mark key="]" line="29" column="47" />
         <mark key="." line="28" column="0" />
       </file>
@@ -797,7 +800,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>BluetoothCommunication</text>
@@ -806,7 +809,7 @@
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihUU1NBUElMb2dMZXZlbC5MT0dfREVCVUcpIExvZy5kKFRBRywgImNvbm5lY3REZXZpY2UiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SOwo=</text>
