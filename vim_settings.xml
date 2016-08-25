@@ -98,6 +98,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/com/lairdtech/ui/ListFoundDevicesHandler.java" timestamp="1472111718214">
+        <mark key="[" line="99" column="45" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="99" column="44" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMResultMessage.cpp" timestamp="1471008302685">
         <mark key="[" line="639" column="8" />
         <mark key="]" line="639" column="53" />
@@ -355,6 +361,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="10" column="18" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/res/layout/clientidspinner.xml" timestamp="1472111245196">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmbuffer.cpp" timestamp="1467207434954">
         <mark key="[" line="24" column="0" />
@@ -786,7 +797,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SOwo=</text>
       </register>
       <register name="-" type="4">
         <text>BluetoothCommunication</text>
@@ -798,34 +809,34 @@
         <text encoding="base64">ICAgICAgICBpZihUU1NBUElMb2dMZXZlbC5MT0dfREVCVUcpIExvZy5kKFRBRywgImNvbm5lY3REZXZpY2UiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6Y2FwaXRhbGl6ZT0iY2hhcmFjdGVycyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJkYXRhUmVjZWl2ZWQgIiArIG1zZyArICIgLSBUaHJlYWQ6ICIgKyB0aHJkLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZCA9IFRocmVhZC5jdXJyZW50VGhyZWFkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJsb2dNZXNzYWdlOiAiICsgbXNnICsgIiAtIFRocmVhZDogIiArIHRocmQuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJkYXRhUmVjZWl2ZWQgIiArIG1zZyArICIgLSBUaHJlYWQ6ICIgKyB0aHJkLmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZCA9IFRocmVhZC5jdXJyZW50VGhyZWFkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJsb2dNZXNzYWdlOiAiICsgbXNnICsgIiAtIFRocmVhZDogIiArIHRocmQuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
