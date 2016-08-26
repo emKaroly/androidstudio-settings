@@ -98,8 +98,8 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/com/lairdtech/ui/ListFoundDevicesHandler.java" timestamp="1472115582574">
-        <mark key="[" line="39" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/com/lairdtech/ui/ListFoundDevicesHandler.java" timestamp="1472198608689">
+        <mark key="[" line="21" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
@@ -149,11 +149,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1472195936562">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-        <mark key="^" line="42" column="1" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1472197316941">
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="74" column="22" />
+        <mark key="." line="74" column="22" />
+        <mark key="^" line="74" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPct.h" timestamp="1470232344237">
         <mark key="[" line="2" column="0" />
@@ -204,8 +204,8 @@
         <mark key="^" line="281" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/AndroidManifest.xml" timestamp="1472115053923">
-        <mark key="[" line="1" column="31" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/AndroidManifest.xml" timestamp="1472198397918">
+        <mark key="[" line="1" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/activity_main.xml" timestamp="1471335483481">
         <mark key="[" line="2" column="0" />
@@ -244,14 +244,20 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/MyApplication/app/build.gradle" timestamp="1472197161288">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="16" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/MyApplication/build.gradle" timestamp="1472196960903">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="8" column="69" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1472196995732">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="45" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1472197150030">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="63" />
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
@@ -296,11 +302,11 @@
         <mark key="^" line="71" column="91" />
         <mark key="." line="97" column="81" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/config.gradle" timestamp="1472196902780">
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/config.gradle" timestamp="1472197357515">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructuresQ.cpp" timestamp="1470908206971">
         <mark key="[" line="664" column="0" />
@@ -667,6 +673,11 @@
         <mark key="^" line="12" column="71" />
         <mark key="." line="12" column="71" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/gradle/wrapper/gradle-wrapper.properties" timestamp="1472197346418">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMQPacketParser.cpp" timestamp="1470398928554">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -690,6 +701,10 @@
         <mark key="[" line="377" column="54" />
         <mark key="]" line="379" column="0" />
         <mark key="." line="379" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/MyApplication/gradle/wrapper/gradle-wrapper.properties" timestamp="1472197205135">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="79" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1471613663306">
         <mark key="[" line="262" column="2" />
@@ -810,7 +825,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmFuZHJvaWQubW9kZWwuYXBwbGljYXRpb24nCg==</text>
+        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtMi4xNC1hbGwuemlwCg==</text>
       </register>
       <register name="-" type="4">
         <text>BluetoothCommunication</text>
@@ -819,37 +834,64 @@
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmFuZHJvaWQubW9kZWwuYXBwbGljYXRpb24nCg==</text>
+        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtMi4xNC4xLWFsbC56aXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Nwo=</text>
+        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtMi4xNC1hbGwuemlwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny4K</text>
+        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtMi4xNC1hbGwuemlwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2d1YXJkRmlsZXMgZ2V0RGVmYXVsdFByb2d1YXJkRmlsZSgncHJvZ3VhcmQtYW5kcm9pZC50eHQnKSwgJ3Byb2d1YXJkLXJ1bGVzLnBybycK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSLgo=</text>
+      <register name="4" type="4">
+        <text>dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:24.2.0'
+}</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYmx1ZXRvb3RoLkJsdWV0b290aERldmljZTsKaW1wb3J0IGFuZHJvaWQuY29udGVudC5EaWFsb2dJbnRlcmZhY2U7CmltcG9ydCBhbmRyb2lkLm9zLkJ1bmRsZTsKaW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLktlZXA7CmltcG9ydCBhbmRyb2lkLnRleHQubWV0aG9kLlNjcm9sbGluZ01vdmVtZW50TWV0aG9kOwppbXBvcnQgYW5kcm9pZC51dGlsLkxvZzsKaW1wb3J0IGFuZHJvaWQudmlldy5WaWV3OwppbXBvcnQgYW5kcm9pZC53aWRnZXQuQXJyYXlBZGFwdGVyOwppbXBvcnQgYW5kcm9pZC53aWRnZXQuQnV0dG9uOwppbXBvcnQgYW5kcm9pZC53aWRnZXQuRWRpdFRleHQ7CmltcG9ydCBhbmRyb2lkLndpZGdldC5OdW1iZXJQaWNrZXI7CmltcG9ydCBhbmRyb2lkLndpZGdldC5TcGlubmVyOwppbXBvcnQgYW5kcm9pZC53aWRnZXQuVGV4dFZpZXc7CgppbXBvcnQgY29tLmxhaXJkdGVjaC5idC5CbHVldG9vdGhBZGFwdGVySGVscGVyOwppbXBvcnQgY29tLmxhaXJkdGVjaC5idC5CbHVldG9vdGhBZGFwdGVySGVscGVyQ2FsbGJhY2s7CmltcG9ydCBjb20ubGFpcmR0ZWNoLnVpLkZvdW5kRGV2aWNlRGlhbG9nQ2FsbGJhY2s7CmltcG9ydCBjb20ubGFpcmR0ZWNoLnVpLkZvdW5kRGV2aWNlc0RpYWxvZzsKCmltcG9ydCBldS50c3MuYXBpLlRTU0FQSUJMRTsKaW1wb3J0IGV1LnRzcy5yZXN1bHRzLkMxRzJFcGM7CmltcG9ydCBldS50c3MucmVzdWx0cy5DMUcyUmVhZE9wU3BlY1Jlc3VsdDsKaW1wb3J0IGV1LnRzcy5yZXN1bHRzLkMxRzJXcml0ZU9wU3BlY1Jlc3VsdDsKaW1wb3J0IGV1LnRzcy5hcGkuVFNTQVBJQ2FsbGJhY2s7Cg==</text>
+        <text>android {
+    compileSdkVersion 24
+    buildToolsVersion &quot;24.0.2&quot;
+
+    defaultConfig {
+        applicationId &quot;eu.tsscompany.myapplication&quot;
+        minSdkVersion 15
+        targetSdkVersion 24
+        versionCode 1
+        versionName &quot;1.0&quot;
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:24.2.0'
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Nwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5SOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuZHJvaWQ6Y2FwaXRhbGl6ZT0iY2hhcmFjdGVycyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSLgo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
