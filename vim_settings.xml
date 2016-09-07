@@ -267,7 +267,8 @@
         <mark key="^" line="9" column="69" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1472474196010">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1473248945550">
+        <mark key="'" line="22" column="0" />
         <mark key="[" line="4" column="27" />
         <mark key="]" line="29" column="47" />
         <mark key="." line="28" column="0" />
@@ -822,6 +823,7 @@
       <jump line="62" column="10" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
       <jump line="287" column="8" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
       <jump line="282" column="39" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
