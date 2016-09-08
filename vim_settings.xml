@@ -736,12 +736,12 @@
         <mark key="^" line="99" column="118" />
         <mark key="." line="99" column="118" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1473345243005">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1473346712727">
         <mark key="h" line="411" column="36" />
-        <mark key="[" line="284" column="17" />
-        <mark key="]" line="284" column="3" />
-        <mark key="." line="284" column="3" />
-        <mark key="^" line="284" column="3" />
+        <mark key="[" line="289" column="43" />
+        <mark key="]" line="289" column="43" />
+        <mark key="." line="289" column="43" />
+        <mark key="^" line="285" column="41" />
       </file>
       <file name="/fragment.mm" timestamp="1470833744783">
         <mark key="[" line="0" column="0" />
@@ -828,8 +828,8 @@
       <jump line="22" column="0" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExPR0QoInVybXNwX0FJU3BlY1N0b3BUcmlnZ2VyOiBTZW5kRGF0YUNhbGxiYWNrIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
