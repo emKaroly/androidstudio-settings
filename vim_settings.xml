@@ -416,11 +416,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1473344017564">
-        <mark key="[" line="123" column="4" />
-        <mark key="]" line="123" column="7" />
-        <mark key="." line="123" column="7" />
-        <mark key="^" line="123" column="7" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1473669536404">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Logs.h" timestamp="1467365473237">
         <mark key="[" line="21" column="1" />
@@ -748,11 +748,12 @@
         <mark key="^" line="99" column="118" />
         <mark key="." line="99" column="118" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1473428599830">
-        <mark key="h" line="871" column="36" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1473669639469">
+        <mark key="h" line="873" column="36" />
+        <mark key="[" line="977" column="81" />
+        <mark key="]" line="977" column="82" />
+        <mark key="^" line="977" column="82" />
+        <mark key="." line="977" column="82" />
       </file>
       <file name="/fragment.mm" timestamp="1470833744783">
         <mark key="[" line="0" column="0" />
@@ -842,47 +843,47 @@
       <jump line="876" column="57" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCJcbiBEYXRhOiAiICsgZ2V0RGF0YVN0cmluZygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>waitForResponse</text>
       </register>
       <register name="-" type="4">
-        <text>urmsp_GetROSpecs</text>
+        <text>waitForResponse</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEMxRzJWMkF1dGhlbnRpY2F0ZUFuZFJlcGx5T3BTcGVjUmVzdWx0X3QgICAgICAgICAgICAgICAgYzFnMnYyYXV0aGVudGljYXRlYW5kcmVwbHk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IExPR0QoIkZMT1c6IHdhaXRGb3JSZXNwb25zZSIpOwogICAgYXV0byBzdGFydCA9IHN0ZDo6Y2hyb25vOjpoaWdoX3Jlc29sdXRpb25fY2xvY2s6Om5vdygpOwoKICAgIGludCByZXRWYWwgPSAtMTsKICAgIHN0ZDo6dW5pcXVlX2xvY2s8c3RkOjptdXRleD4gbGsobU11dGV4KTsKCiAgICBpZihtQ1Yud2FpdF9mb3IobGssIHN0ZDo6Y2hyb25vOjptaWxsaXNlY29uZHModGltZW91dCksIFt0aGlzXSgpe3JldHVybiBtTExSUFJlY2VpdmVkID09IHRydWU7fSkpewogICAgICAgIHJldFZhbCA9IDA7CiAgICB9CgogICAgYXV0byBlbmQgPSBzdGQ6OmNocm9ubzo6aGlnaF9yZXNvbHV0aW9uX2Nsb2NrOjpub3coKTsKICAgIGF1dG8gZHVyID0gZW5kIC0gc3RhcnQ7CiAgICBhdXRvIGlfbWlsbGlzID0gc3RkOjpjaHJvbm86OmR1cmF0aW9uX2Nhc3Q8c3RkOjpjaHJvbm86Om1pbGxpc2Vjb25kcz4oZHVyKTsKCiAgICBMT0dEKCJGTE9XOiBMTFJQIFN0YXR1czogJXMgYWZ0ZXI6ICVkIG1zIiwKICAgICAgICAgcmV0VmFsID09IDAgPyAiUmVjZWl2ZWQ6IiA6ICJUaW1lb3V0OiIgLAogICAgICAgICBpX21pbGxpcy5jb3VudCgpKTsKCiAgICByZXR1cm4gcmV0VmFsOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCJcbiBEYXRhOiAiICsgZ2V0RGF0YVN0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCJcbiBXb3JkQ291bnQ6ICIgKyB3b3JkQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmludCBUU1NVUk1SZWFkZXI6OnJlY2VpdmVQYWNrZXQoVFNTVVJNUGFja2V0ICpwYWNrZXQsIGludCBjb21tYW5kVHlwZSwgaW50IHRpbWVvdXQpIHsKICAgIHJldHVybiAwOwp9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCJcbiBEYXRhOiAiICsgZ2V0RGF0YVN0cmluZygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldERhdGEoYnl0ZVtdIGRhdGEpIHsK</text>
+        <text encoding="base64">ICAgICAgICBzdHIuYXBwZW5kKCJcbiBXb3JkQ291bnQ6ICIgKyB3b3JkQ291bnQpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0V29yZENvdW50KCkgewogICAgICAgIHJldHVybiB3b3JkQ291bnQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0V29yZENvdW50KGludCB3b3JkQ291bnQpIHsKICAgICAgICB0aGlzLndvcmRDb3VudCA9IHdvcmRDb3VudDsKICAgIH0KCiAgICBwdWJsaWMgYnl0ZVtdIGdldERhdGEoKSB7CiAgICAgICAgcmV0dXJuIGRhdGE7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXREYXRhU3RyaW5nKCkgewogICAgICAgIFN0cmluZyBkYXRhU3RyaW5nID0gbmV3IFN0cmluZyhkYXRhLCBDaGFyc2V0LmZvck5hbWUoIlVURi04IikpOwogICAgICAgIHJldHVybiBkYXRhU3RyaW5nLnRvVXBwZXJDYXNlKCk7CiAgICB9Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJ5dGVbXSAgZGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
