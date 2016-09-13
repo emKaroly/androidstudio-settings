@@ -76,6 +76,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1473746113345">
+        <mark key="'" line="306" column="39" />
+        <mark key="[" line="119" column="51" />
+        <mark key="]" line="119" column="51" />
+        <mark key="." line="119" column="51" />
+        <mark key="^" line="373" column="7" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2KillOpSpecResult.java" timestamp="1473667586188">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -860,11 +867,11 @@
       <jump line="103" column="10" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludCB1cm1zcF9SRlRyYW5zbWl0dGVyKHVuc2lnbmVkIGNoYXIgZmxhZ3MsIHVuc2lnbmVkIGNoYXIgcmVzZXJ2ZWQsIHVuc2lnbmVkIHNob3J0IGhvcFRhYmxlSUQsCg==</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjMWcybG9ja1w+</text>
