@@ -468,12 +468,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/TSSAPI.java" timestamp="1473769000992">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/TSSAPI.java" timestamp="1473773461668">
         <mark key="'" line="65" column="41" />
         <mark key="[" line="51" column="47" />
-        <mark key="]" line="50" column="67" />
-        <mark key="." line="50" column="67" />
-        <mark key="^" line="50" column="67" />
+        <mark key="]" line="51" column="87" />
+        <mark key="." line="51" column="87" />
+        <mark key="^" line="51" column="87" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470912312501">
         <mark key="[" line="5" column="0" />
@@ -547,11 +547,11 @@
         <mark key="^" line="108" column="93" />
         <mark key="." line="108" column="93" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1473768502813">
-        <mark key="[" line="683" column="76" />
-        <mark key="]" line="683" column="115" />
-        <mark key="^" line="683" column="115" />
-        <mark key="." line="683" column="115" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1473773899688">
+        <mark key="[" line="676" column="62" />
+        <mark key="]" line="676" column="124" />
+        <mark key="^" line="684" column="115" />
+        <mark key="." line="676" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/TSSAPICallback.java" timestamp="1471512766002">
         <mark key="[" line="3" column="31" />
@@ -735,7 +735,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgImNsYXNzIGV1LnRzcy5yZXN1bHRzLkMxRzJFcGMiOgogICAgICAgICAgICAgICAgICAgIG1BUElDYWxsYmFja3MuT25FUENSZWNlaXZlZCgoQzFHMkVwYykgb2JqZWN0KTsKICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIExPR0QoIkdlbmVyYWxEZXZpY2VDYXBhYmlsaXRpZXMgLSBmaXJtd2FyZVZlcnNpb25CeXRlQ291bnQ6ICVkIixnZXRSZWFkZXJDYXBhYmlsaXRpZXNSZXNwb25zZS5maXJtd2FyZVZlcnNpb25CeXRlQ291bnQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>apicommon</text>
@@ -744,7 +744,7 @@
         <text encoding="base64">XDxhcGljb21tb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgImNsYXNzIGV1LnRzcy5yZXN1bHRzLkMxRzJFcGMiOgogICAgICAgICAgICAgICAgICAgIG1BUElDYWxsYmFja3MuT25FUENSZWNlaXZlZCgoQzFHMkVwYykgb2JqZWN0KTsKICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIExPR0QoIkdlbmVyYWxEZXZpY2VDYXBhYmlsaXRpZXMgLSBmaXJtd2FyZVZlcnNpb25CeXRlQ291bnQ6ICVkIixnZXRSZWFkZXJDYXBhYmlsaXRpZXNSZXNwb25zZS5maXJtd2FyZVZlcnNpb25CeXRlQ291bnQpOwo=</text>
       </register>
       <register name="1" type="8">
         <text>//
