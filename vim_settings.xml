@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.h" timestamp="1473748412002">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="93" />
-        <mark key="^" line="36" column="73" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.h" timestamp="1473853000913">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="121" />
+        <mark key="^" line="41" column="3" />
+        <mark key="." line="41" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2WriteOpSpecResult.java" timestamp="1473851565761">
         <mark key="[" line="35" column="22" />
@@ -25,11 +25,11 @@
         <mark key="^" line="1051" column="31" />
         <mark key="." line="1051" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/TSSAPICoreJNI.java" timestamp="1473748619070">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="84" />
-        <mark key="." line="19" column="71" />
-        <mark key="^" line="19" column="71" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/TSSAPICoreJNI.java" timestamp="1473853072875">
+        <mark key="[" line="18" column="100" />
+        <mark key="]" line="18" column="90" />
+        <mark key="." line="18" column="90" />
+        <mark key="^" line="18" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTClient.java" timestamp="1471877211186">
         <mark key="[" line="49" column="36" />
@@ -544,6 +544,12 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" timestamp="1473853150026">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="75" column="25" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/bt/BluetoothCommunication.java" timestamp="1472047497377">
         <mark key="[" line="34" column="56" />
         <mark key="]" line="34" column="58" />
@@ -603,11 +609,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1473748124334">
-        <mark key="[" line="108" column="95" />
-        <mark key="]" line="108" column="93" />
-        <mark key="^" line="108" column="93" />
-        <mark key="." line="108" column="93" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1473852909336">
+        <mark key="[" line="144" column="52" />
+        <mark key="]" line="145" column="3" />
+        <mark key="^" line="145" column="3" />
+        <mark key="." line="145" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/build.gradle" timestamp="1471335577089">
         <mark key="[" line="34" column="0" />
@@ -746,10 +752,11 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1473850964502">
-        <mark key="[" line="221" column="244" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1473853443301">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="^" line="421" column="46" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -842,47 +849,47 @@
       <jump line="81" column="19" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvbmcgY0xvbmcgPSAwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>retValue;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1N0cmluZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbW9kZWxOYW1lU3RyaW5nID0gbmV3IFN0cmluZyhtb2RlbE5hbWUsIENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>Java_eu_tss_api_TSSAPICoreJNI_urmsp_1C1G2LockPayload</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGxvbmcgY0xvbmcgPSAwOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHVuc2lnbmVkIGludCBjSW50ID0gMDsK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAogCiAKIAogCiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGpsb25nIGpMb25nSW50ID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbW9kZWxOYW1lU3RyaW5nID0gbmV3IFN0cmluZyhtb2RlbE5hbWUsIENoYXJzZXQuZm9yTmFtZSgiVVRGLTgiKSk7Cg==</text>
+        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmppbnQgSk5JQ0FMTCBKYXZhX2V1X3Rzc19hcGlfVFNTQVBJQ29yZUpOSV91cm1zcF8xQzFHMkxvY2tQYXlsb2FkKEpOSUVudiAqZW52LCBqb2JqZWN0IGluc3RhbmNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqYnl0ZSBmbGFncywgamJ5dGUgcmVzZXJ2ZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpieXRlIHByaXZpbGVnZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgamJ5dGUgZGF0YUZpZWxkKSB7CiAgICByZXR1cm4gMDsKfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly9jSW50ID0gKChnZW5lcmFsRGV2aWNlQ2FwYWJpbGl0aWVzX3QqKXN0cnVjdFBvaW50ZXIpLT5kZXZpY2VNYW51ZmFjdHVyZXJOYW1lOwogICAgICAgICAgICAvL2NMb25nID0gY0ludDsKICAgICAgICAgICAgLy9qTG9uZ0ludCA9IGNMb25nOwogICAgICAgICAgICAvL2pMb25nSW50ID0gKGxvbmcpKChnZW5lcmFsRGV2aWNlQ2FwYWJpbGl0aWVzX3QqKXN0cnVjdFBvaW50ZXIpLT5kZXZpY2VNYW51ZmFjdHVyZXJOYW1lOwogICAgICAgICAgICAvL0xPR0QoIkdFTkVSQUxERVZJQ0VDQVBBQklMSVRJRVMiKTsKICAgICAgICAgICAgLy9MT0dEKCJHRU5FUkFMREVWSUNFQ0FQQUJJTElUSUVTIik7CiAgICAgICAgICAgIC8vTE9HRCgiR0VORVJBTERFVklDRUNBUEFCSUxJVElFUyIpOwogICAgICAgICAgICAvL0xPR0QoIkdFTkVSQUxERVZJQ0VDQVBBQklMSVRJRVMiKTsKICAgICAgICAgICAgLy9MT0dEKCJHRU5FUkFMREVWSUNFQ0FQQUJJTElUSUVTIGNJbnQgJWQiLGNJbnQpOwogICAgICAgICAgICAvL0xPR0QoIkdFTkVSQUxERVZJQ0VDQVBBQklMSVRJRVMgY0xvbmcgJWQiLGNMb25nKTsKICAgICAgICAgICAgLy9MT0dEKCJHRU5FUkFMREVWSUNFQ0FQQUJJTElUSUVTIGpsb25nICVsZCIsakxvbmdJbnQpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HRCgiR0VORVJBTERFVklDRUNBUEFCSUxJVElFUyBqbG9uZyAlZCIsakxvbmdJbnQpOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U2xlZXAoMTAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
