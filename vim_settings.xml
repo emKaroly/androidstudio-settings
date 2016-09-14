@@ -654,11 +654,10 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1473844104745">
-        <mark key="[" line="224" column="48" />
-        <mark key="]" line="224" column="59" />
-        <mark key="." line="224" column="0" />
-        <mark key="^" line="221" column="29" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1473844933056">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -745,7 +744,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HRCgiR0VORVJBTERFVklDRUNBUEFCSUxJVElFUyBjSW50ICVkIixjSW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY0xvbmcgPSBjSW50Owo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KGpsb25nKSgoZ2VuZXJhbERldmljZUNhcGFiaWxpdGllc190KilzdHJ1Y3RQb2ludGVyKS0+ZGV2aWNlTWFudWZhY3R1cmVyTmFtZQ==</text>
@@ -756,20 +755,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HRCgiR0VORVJBTERFVklDRUNBUEFCSUxJVElFUyBjSW50ICVkIixjSW50KTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY0xvbmcgPSBjSW50Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY0ludCA9IGNJbnQ7Cg==</text>
+      </register>
+      <register name="3" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//</text>
+      </register>
+      <register name="4" type="8">
         <text>//
 //
 //
@@ -777,26 +782,20 @@
 //
 //</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKGdlbmVyYWxEZXZpY2VDYXBhYmlsaXRpZXNfdCopc3RydWN0UG9pbnRlciktPmZpcm13YXJlVmVyc2lvbkJ5dGVDb3VudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52LT5DYWxsVm9pZE1ldGhvZChjbGFzc0luc3RhbmNlLCBnX2N0eC5nZW5lcmFsZGV2aWNlY2FwYWJpbGl0aWVzLnNldFJlYWRlckZpcm13YXJlVmVyc2lvbiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKGdlbmVyYWxEZXZpY2VDYXBhYmlsaXRpZXNfdCopc3RydWN0UG9pbnRlciktPm1vZGVsTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKGdlbmVyYWxEZXZpY2VDYXBhYmlsaXRpZXNfdCopc3RydWN0UG9pbnRlciktPmZpcm13YXJlVmVyc2lvbkJ5dGVDb3VudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52LT5DYWxsVm9pZE1ldGhvZChjbGFzc0luc3RhbmNlLCBnX2N0eC5nZW5lcmFsZGV2aWNlY2FwYWJpbGl0aWVzLnNldE1vZGVsTmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW52LT5DYWxsVm9pZE1ldGhvZChjbGFzc0luc3RhbmNlLCBnX2N0eC5nZW5lcmFsZGV2aWNlY2FwYWJpbGl0aWVzLnNldFJlYWRlckZpcm13YXJlVmVyc2lvbiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETyBSZXR1cm4gdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKGdlbmVyYWxEZXZpY2VDYXBhYmlsaXRpZXNfdCopc3RydWN0UG9pbnRlciktPm1vZGVsTmFtZSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
