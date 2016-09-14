@@ -654,11 +654,11 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1473763555457">
-        <mark key="[" line="212" column="12" />
-        <mark key="]" line="212" column="12" />
-        <mark key="." line="212" column="12" />
-        <mark key="^" line="212" column="12" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1473840195158">
+        <mark key="[" line="221" column="49" />
+        <mark key="]" line="221" column="64" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="223" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -744,17 +744,17 @@
       <jump line="81" column="19" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toString</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HRCgiR0VORVJBTERFVklDRUNBUEFCSUxJVElFUyBqbG9uZyAlZCIsakxvbmdJbnQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text encoding="base64">KGpsb25nKSgoZ2VuZXJhbERldmljZUNhcGFiaWxpdGllc190KilzdHJ1Y3RQb2ludGVyKS0+ZGV2aWNlTWFudWZhY3R1cmVyTmFtZQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1N0cmluZ1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TG9uZy50b1N0cmluZygoYnl0ZSlkZXZpY2VNYW51ZmFjdHVyZXJOYW1lID4+IDMyKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTE9HRCgiR0VORVJBTERFVklDRUNBUEFCSUxJVElFUyBqbG9uZyAlZCIsakxvbmdJbnQpOwo=</text>
       </register>
       <register name="1" type="8">
         <text>//
