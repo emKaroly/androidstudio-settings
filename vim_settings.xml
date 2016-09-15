@@ -81,12 +81,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1473946355933">
-        <mark key="'" line="313" column="39" />
-        <mark key="[" line="318" column="53" />
-        <mark key="]" line="318" column="34" />
-        <mark key="^" line="318" column="34" />
-        <mark key="." line="318" column="34" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1473948696116">
+        <mark key="'" line="317" column="39" />
+        <mark key="[" line="424" column="0" />
+        <mark key="]" line="424" column="0" />
+        <mark key="^" line="317" column="21" />
+        <mark key="." line="424" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1473851579281">
         <mark key="[" line="51" column="22" />
@@ -584,10 +584,11 @@
         <mark key="^" line="34" column="58" />
         <mark key="." line="34" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/menu/main.xml" timestamp="1473941203139">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/menu/main.xml" timestamp="1473948479154">
+        <mark key="[" line="74" column="48" />
+        <mark key="]" line="76" column="54" />
+        <mark key="." line="76" column="54" />
+        <mark key="^" line="76" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.cpp" timestamp="1470911515260">
         <mark key="[" line="29" column="38" />
@@ -718,7 +719,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473943959496">
+      <file name="/Dummy.txt" timestamp="1473947267184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/TSSAPILogLevel.java" timestamp="1472045960113">
@@ -821,7 +822,7 @@
         <mark key="]" line="25" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1473683557075">
+      <file name="/fragment.java" timestamp="1473947357086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
@@ -885,47 +886,51 @@
       <jump line="58" column="16" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MenuIconChanger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>action_cloud_settings</text>
       </register>
       <register name="/" type="4">
         <text>00</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgdHJ5IHsKICAgICAgICAgIC8vICAgICAgICAgIExvZy5kKFRBRyxzdGF0ZS50b1N0cmluZygpKTsKICAgICAgICAgIC8vICAgICAgICAgIExvZy5kKFRBRyxJbnRlZ2VyLnRvU3RyaW5nKHN0YXRlLm9yZGluYWwoKSkpOwogICAgICAgICAgLy8gICAgICAgICAgcHVibGlzaFByb2dyZXNzKHN0YXRlLm9yZGluYWwoKSk7CiAgICAgICAgICAvLyAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAvLyAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgIC8vICAgICAgICAgIFRocmVhZC5pbnRlcnJ1cHRlZCgpOwogICAgICAgICAgLy8gICAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIk1lbnVJY29uQ2hhbmdlciIsIkJ0U3RhdGU6ICIgKyBidFN0YXRlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>logMessage(&quot;\nTesting connectivity...&quot;);
+        String network = (&quot;\nNetwork: &quot; + (isNetworkConnected() ? &quot;Available&quot; : &quot;Unavailable&quot;));
+        logMessage(network);
+        checkInternetAvailable(&quot;https://www.google.sk&quot;);
+        checkInternetAvailable(&quot;http://testapp.rfid.menu&quot;);</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">YW5kcm9pZDpuYW1lPSJhbmRyb2lkOm1pbldpZHRoIj4wZGlwCm5hbWU9ImFuZHJvaWQ6cGFkZGluZ0xlZnQiPjBkaXA8L2l0ZQpuYW1lPSJhbmRyb2lkOnBhZGRpbmdSaWdodCI+MGRpcDwvaXQ=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1WaWV3UGFnZXIuc2V0Q3VycmVudEl0ZW0oMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6YWN0aW9uQnV0dG9uU3R5bGUiPkBzdHlsZS9BY3Rpb25CdXR0b25TdHlsZTwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IiIvPgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvaXRlbT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGlvbl9ibHVldG9vdGhCYXR0ZXJ5IgogICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL2JhdHRlcnlfMDBfd2hpdGUiCiAgICAgICAgYW5kcm9pZDp0aXRsZT0iQHN0cmluZy9hY3Rpb25fYmx1ZXRvb3RoQmF0dGVyeSIKICAgICAgICBhcHA6c2hvd0FzQWN0aW9uPSJhbHdheXMiPgo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgQ29ubmVjdGl2aXR5Q2hlY2tlcihDb25uZWN0aXZpdHlNYW5hZ2VyIG1Db25uZWN0aXZpdHlNYW5hZ2VyKSB7CiAgICAgICAgdGhpcy5tQ29ubmVjdGl2aXR5TWFuYWdlciA9IG1Db25uZWN0aXZpdHlNYW5hZ2VyOwogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID5Ac3R5bGUvQWN0aW9uQnV0dG9uU3R5bGUK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29ubmVjdGl2aXR5TWFuYWdlciBtQ29ubmVjdGl2aXR5TWFuYWdlcjsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
