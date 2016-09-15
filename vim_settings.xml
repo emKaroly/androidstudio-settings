@@ -612,11 +612,10 @@
         <mark key="^" line="33" column="48" />
         <mark key="." line="33" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/command_c1g2read.xml" timestamp="1473969465313">
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="1" column="66" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="8" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/command_c1g2read.xml" timestamp="1473972373750">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/build.gradle" timestamp="1471425000128">
         <mark key="[" line="3" column="18" />
@@ -878,8 +877,8 @@
       <jump line="58" column="16" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MenuIconChanger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICBpZiAobVNwaW5uZXJDb21tYW5kLmdldFNlbGVjdGVkSXRlbSgpLnRvU3RyaW5nKCkuZXF1YWxzKCJDMUcyV3JpdGUiKSkgewogICAgICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU3Bpbm5lcjogQzFHMldyaXRlIik7CiAgICAgICAgICAgICAgICAgICAgVmlldyBjbWRMYXlvdXQgPSBtTGF5b3V0SW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5jb21tYW5kX2MxZzJ3cml0ZSxmcmFtZUxheW91dENvbW1hbmQsZmFsc2UpOwogICAgICAgICAgICAgICAgICAgIGZyYW1lTGF5b3V0Q29tbWFuZC5yZW1vdmVBbGxWaWV3cygpOwogICAgICAgICAgICAgICAgICAgIGZyYW1lTGF5b3V0Q29tbWFuZC5hZGRWaWV3KGNtZExheW91dCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAobVNwaW5uZXJDb21tYW5kLmdldFNlbGVjdGVkSXRlbSgpLnRvU3RyaW5nKCkuZXF1YWxzKCJDMUcyUmVhZCIpKSB7CgogICAgICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU3Bpbm5lcjogQzFHMlJlYWQiKTsKICAgICAgICAgICAgICAgICAgICBWaWV3IGNtZExheW91dCA9IG1MYXlvdXRJbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmNvbW1hbmRfYzFnMnJlYWQsZnJhbWVMYXlvdXRDb21tYW5kLGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICBmcmFtZUxheW91dENvbW1hbmQucmVtb3ZlQWxsVmlld3MoKTsKICAgICAgICAgICAgICAgICAgICBmcmFtZUxheW91dENvbW1hbmQuYWRkVmlldyhjbWRMYXlvdXQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2Cg==</text>
       </register>
       <register name="-" type="4">
         <text>; = (FrameLayout)mainFrag.findViewById(R.id.frameLayoutCommand)</text>
@@ -891,7 +890,7 @@
         <text encoding="base64">ICAgICBpZiAobVNwaW5uZXJDb21tYW5kLmdldFNlbGVjdGVkSXRlbSgpLnRvU3RyaW5nKCkuZXF1YWxzKCJDMUcyV3JpdGUiKSkgewogICAgICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU3Bpbm5lcjogQzFHMldyaXRlIik7CiAgICAgICAgICAgICAgICAgICAgVmlldyBjbWRMYXlvdXQgPSBtTGF5b3V0SW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5jb21tYW5kX2MxZzJ3cml0ZSxmcmFtZUxheW91dENvbW1hbmQsZmFsc2UpOwogICAgICAgICAgICAgICAgICAgIGZyYW1lTGF5b3V0Q29tbWFuZC5yZW1vdmVBbGxWaWV3cygpOwogICAgICAgICAgICAgICAgICAgIGZyYW1lTGF5b3V0Q29tbWFuZC5hZGRWaWV3KGNtZExheW91dCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAobVNwaW5uZXJDb21tYW5kLmdldFNlbGVjdGVkSXRlbSgpLnRvU3RyaW5nKCkuZXF1YWxzKCJDMUcyUmVhZCIpKSB7CgogICAgICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU3Bpbm5lcjogQzFHMlJlYWQiKTsKICAgICAgICAgICAgICAgICAgICBWaWV3IGNtZExheW91dCA9IG1MYXlvdXRJbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmNvbW1hbmRfYzFnMnJlYWQsZnJhbWVMYXlvdXRDb21tYW5kLGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICBmcmFtZUxheW91dENvbW1hbmQucmVtb3ZlQWxsVmlld3MoKTsKICAgICAgICAgICAgICAgICAgICBmcmFtZUxheW91dENvbW1hbmQuYWRkVmlldyhjbWRMYXlvdXQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGcmFtZUxheW91dCBmcmFtZUxheW91dENvbW1hbmQgPSAoRnJhbWVMYXlvdXQpbWFpbkZyYWcuZmluZFZpZXdCeUlkKFIuaWQuZnJhbWVMYXlvdXRDb21tYW5kKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -900,25 +899,25 @@
         <text encoding="base64">ICAgICAgICBGcmFtZUxheW91dCBmcmFtZUxheW91dENvbW1hbmQgPSAoRnJhbWVMYXlvdXQpbWFpbkZyYWcuZmluZFZpZXdCeUlkKFIuaWQuZnJhbWVMYXlvdXRDb21tYW5kKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBGcmFtZUxheW91dCBmcmFtZUxheW91dENvbW1hbmQgPSAoRnJhbWVMYXlvdXQpbWFpbkZyYWcuZmluZFZpZXdCeUlkKFIuaWQuZnJhbWVMYXlvdXRDb21tYW5kKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtU3Bpbm5lckNvbW1hbmQuZ2V0U2VsZWN0ZWRJdGVtKCkudG9TdHJpbmcoKS5lcXVhbHMoIkMxRzJSZWFkIikpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpZXcgbWFpbkZyYWcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmZyYWdtZW50X21haW4sIGNvbnRhaW5lciwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtU3Bpbm5lckNvbW1hbmQuZ2V0U2VsZWN0ZWRJdGVtKCkudG9TdHJpbmcoKS5lcXVhbHMoIkMxRzJSZWFkIikpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpZXcgbWFpbkZyYWcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmZyYWdtZW50X21haW4sIGNvbnRhaW5lciwgZmFsc2UpOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBtU3Bpbm5lCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ckNvbW1hbmQuc2V0T25JdGVtQ2xpY2tMaXN0ZW5lcihuZXcgQWRhcHRlclZpZXcuT25JdGVtQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uSXRlbUNsaWNrKEFkYXB0ZXJWaWV3PD8+IGFkYXB0ZXJWaWV3LCBWaWV3IHZpZXcsIGludCBpLCBsb25nIGwpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
