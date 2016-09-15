@@ -81,12 +81,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1473948696116">
-        <mark key="'" line="317" column="39" />
-        <mark key="[" line="424" column="0" />
-        <mark key="]" line="424" column="0" />
-        <mark key="^" line="317" column="21" />
-        <mark key="." line="424" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1473949337722">
+        <mark key="'" line="289" column="39" />
+        <mark key="[" line="353" column="48" />
+        <mark key="]" line="353" column="30" />
+        <mark key="^" line="353" column="30" />
+        <mark key="." line="353" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1473851579281">
         <mark key="[" line="51" column="22" />
@@ -822,7 +822,7 @@
         <mark key="]" line="25" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1473947357086">
+      <file name="/fragment.java" timestamp="1473949433688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
@@ -886,8 +886,8 @@
       <jump line="58" column="16" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MenuIconChanger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIEJhdHRlcnlDeWNsZXIgZXh0ZW5kcyBBc3luY1Rhc2s8U3RyaW5nLCBJbnRlZ2VyLCBTdHJpbmc+IHsKCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHJvdGVjdGVkIFN0cmluZyBkb0luQmFja2dyb3VuZChTdHJpbmcuLi4gcGFyYW1zKSB7CiAgICAgICAgICAgIGZvcihpbnQgeCA9MDsgeCA8IDEwMDsgKyt4KXsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLEludGVnZXIudG9TdHJpbmcoeCkpOwogICAgICAgICAgICAgICAgICAgIHB1Ymxpc2hQcm9ncmVzcyh4KTsKICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNTApOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIFRocmVhZC5pbnRlcnJ1cHRlZCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vICBmb3IoTWVudUljb25DaGFuZ2VyLkJsdWV0b290aEJhdHRlcnlTdGF0ZSBzdGF0ZSA6IE1lbnVJY29uQ2hhbmdlci5CbHVldG9vdGhCYXR0ZXJ5U3RhdGUudmFsdWVzKCkpewogICAgICAgICAgICAvLyAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vICAgICAgICAgIExvZy5kKFRBRyxzdGF0ZS50b1N0cmluZygpKTsKICAgICAgICAgICAgLy8gICAgICAgICAgTG9nLmQoVEFHLEludGVnZXIudG9TdHJpbmcoc3RhdGUub3JkaW5hbCgpKSk7CiAgICAgICAgICAgIC8vICAgICAgICAgIHB1Ymxpc2hQcm9ncmVzcyhzdGF0ZS5vcmRpbmFsKCkpOwogICAgICAgICAgICAvLyAgICAgICAgICBUaHJlYWQuaW50ZXJydXB0ZWQoKTsKICAgICAgICAgICAgLy8gICAgICB9CiAgICAgICAgICAgIC8vICB9CiAgICAgICAgICAgIHJldHVybiAiRXhlY3V0ZWQiOwogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>action_cloud_settings</text>
@@ -898,24 +898,20 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIEJhdHRlcnlDeWNsZXIgZXh0ZW5kcyBBc3luY1Rhc2s8U3RyaW5nLCBJbnRlZ2VyLCBTdHJpbmc+IHsKCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHJvdGVjdGVkIFN0cmluZyBkb0luQmFja2dyb3VuZChTdHJpbmcuLi4gcGFyYW1zKSB7CiAgICAgICAgICAgIGZvcihpbnQgeCA9MDsgeCA8IDEwMDsgKyt4KXsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLEludGVnZXIudG9TdHJpbmcoeCkpOwogICAgICAgICAgICAgICAgICAgIHB1Ymxpc2hQcm9ncmVzcyh4KTsKICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNTApOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIFRocmVhZC5pbnRlcnJ1cHRlZCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vICBmb3IoTWVudUljb25DaGFuZ2VyLkJsdWV0b290aEJhdHRlcnlTdGF0ZSBzdGF0ZSA6IE1lbnVJY29uQ2hhbmdlci5CbHVldG9vdGhCYXR0ZXJ5U3RhdGUudmFsdWVzKCkpewogICAgICAgICAgICAvLyAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vICAgICAgICAgIExvZy5kKFRBRyxzdGF0ZS50b1N0cmluZygpKTsKICAgICAgICAgICAgLy8gICAgICAgICAgTG9nLmQoVEFHLEludGVnZXIudG9TdHJpbmcoc3RhdGUub3JkaW5hbCgpKSk7CiAgICAgICAgICAgIC8vICAgICAgICAgIHB1Ymxpc2hQcm9ncmVzcyhzdGF0ZS5vcmRpbmFsKCkpOwogICAgICAgICAgICAvLyAgICAgICAgICBUaHJlYWQuaW50ZXJydXB0ZWQoKTsKICAgICAgICAgICAgLy8gICAgICB9CiAgICAgICAgICAgIC8vICB9CiAgICAgICAgICAgIHJldHVybiAiRXhlY3V0ZWQiOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>logMessage(&quot;\nTesting connectivity...&quot;);
-        String network = (&quot;\nNetwork: &quot; + (isNetworkConnected() ? &quot;Available&quot; : &quot;Unavailable&quot;));
-        logMessage(network);
-        checkInternetAvailable(&quot;https://www.google.sk&quot;);
-        checkInternetAvailable(&quot;http://testapp.rfid.menu&quot;);</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgICAgICAvLyAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1WaWV3UGFnZXIuc2V0Q3VycmVudEl0ZW0oMSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIGJvb2xlYW4gaXNOZXR3b3JrQ29ubmVjdGVkKCkgewogICAgICAgIENvbm5lY3Rpdml0eU1hbmFnZXIgY20gPSAoQ29ubmVjdGl2aXR5TWFuYWdlcikgZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LkNPTk5FQ1RJVklUWV9TRVJWSUNFKTsKCiAgICAgICAgcmV0dXJuIGNtLmdldEFjdGl2ZU5ldHdvcmtJbmZvKCkgIT0gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBjaGVja0ludGVybmV0QXZhaWxhYmxlKGZpbmFsIFN0cmluZyBob3N0KSB7CiAgICAgICAgVGhyZWFkIHRoZCA9IG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewoKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgLy9tYWtlIGEgVVJMIHRvIGEga25vd24gc291cmNlCiAgICAgICAgICAgICAgICAgICAgVVJMIHVybCA9IG5ldyBVUkwoaG9zdCk7CgogICAgICAgICAgICAgICAgICAgIC8vb3BlbiBhIGNvbm5lY3Rpb24gdG8gdGhhdCBzb3VyY2UKICAgICAgICAgICAgICAgICAgICBIdHRwVVJMQ29ubmVjdGlvbiB1cmxDb25uZWN0ID0gKEh0dHBVUkxDb25uZWN0aW9uKXVybC5vcGVuQ29ubmVjdGlvbigpOwoKICAgICAgICAgICAgICAgICAgICAvL3RyeWluZyB0byByZXRyaWV2ZSBkYXRhIGZyb20gdGhlIHNvdXJjZS4gSWYgdGhlcmUKICAgICAgICAgICAgICAgICAgICAvL2lzIG5vIGNvbm5lY3Rpb24sIHRoaXMgbGluZSB3aWxsIGZhaWwKICAgICAgICAgICAgICAgICAgICBPYmplY3Qgb2JqRGF0YSA9IHVybENvbm5lY3QuZ2V0Q29udGVudCgpOwoKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICBsb2dNZXNzYWdlKCJcbiIraG9zdCArICI6IFVuYXZhaWxhYmxlIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBsb2dNZXNzYWdlKCJcbiIgKyBob3N0ICsgIjogQXZhaWxhYmxlIik7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgICB0aGQuc3RhcnQoKTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgY3ljbGVCYXR0ZXJ5KCl7CiAgICAgICAgZmluYWwgSGFuZGxlciBoYW5kbGVyID0gbmV3IEhhbmRsZXIoKTsKICAgICAgICBUaW1lciB0aW1lciA9IG5ldyBUaW1lcigpOwogICAgICAgIFRpbWVyVGFzayBkb0FzeW5jaHJvbm91c1Rhc2sgPSBuZXcgVGltZXJUYXNrKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgaGFuZGxlci5wb3N0KG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBCYXR0ZXJ5Q3ljbGVyIGJ0YyA9IG5ldyBCYXR0ZXJ5Q3ljbGVyKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBidGMuZXhlY3V0ZSgiIik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIGNhdGNoIGJsb2NrCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQogICAgICAgIH07CiAgICAgICAgdGltZXIuc2NoZWR1bGUoZG9Bc3luY2hyb25vdXNUYXNrLCAwLCA1MDApOyAvL2V4ZWN1dGUgaW4gZXZlcnkgNTAwMDAgbXMKICAgIH0KCiAgICBwcml2YXRlIGNsYXNzIEJhdHRlcnlDeWNsZXIgZXh0ZW5kcyBBc3luY1Rhc2s8U3RyaW5nLCBJbnRlZ2VyLCBTdHJpbmc+IHsKCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHJvdGVjdGVkIFN0cmluZyBkb0luQmFja2dyb3VuZChTdHJpbmcuLi4gcGFyYW1zKSB7CiAgICAgICAgICAgIGZvcihpbnQgeCA9MDsgeCA8IDEwMDsgKyt4KXsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLEludGVnZXIudG9TdHJpbmcoeCkpOwogICAgICAgICAgICAgICAgICAgIHB1Ymxpc2hQcm9ncmVzcyh4KTsKICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoNTApOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIFRocmVhZC5pbnRlcnJ1cHRlZCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vICBmb3IoTWVudUljb25DaGFuZ2VyLkJsdWV0b290aEJhdHRlcnlTdGF0ZSBzdGF0ZSA6IE1lbnVJY29uQ2hhbmdlci5CbHVldG9vdGhCYXR0ZXJ5U3RhdGUudmFsdWVzKCkpewogICAgICAgICAgICAvLyAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vICAgICAgICAgIExvZy5kKFRBRyxzdGF0ZS50b1N0cmluZygpKTsKICAgICAgICAgICAgLy8gICAgICAgICAgTG9nLmQoVEFHLEludGVnZXIudG9TdHJpbmcoc3RhdGUub3JkaW5hbCgpKSk7CiAgICAgICAgICAgIC8vICAgICAgICAgIHB1Ymxpc2hQcm9ncmVzcyhzdGF0ZS5vcmRpbmFsKCkpOwogICAgICAgICAgICAvLyAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgIC8vICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAvLyAgICAgICAgICBUaHJlYWQuaW50ZXJydXB0ZWQoKTsKICAgICAgICAgICAgLy8gICAgICB9CiAgICAgICAgICAgIC8vICB9CiAgICAgICAgICAgIHJldHVybiAiRXhlY3V0ZWQiOwogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IiIvPgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHB1YmxpYyB2b2lkIGxvZ01lc3NhZ2UoZmluYWwgU3RyaW5nIGRhdGEpIHsKICAgICAgICBydW5PblVpVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKCiAgICAgICAgICAgICAgICBNYWluRnJhZ21lbnQgbU1haW5GcmFnbWVudCA9IChNYWluRnJhZ21lbnQpIG1TZWN0aW9uc1BhZ2VyQWRhcHRlci5nZXRSZWdpc3RlcmVkRnJhZ21lbnQoMCk7CiAgICAgICAgICAgICAgICBpZiAobU1haW5GcmFnbWVudCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAibG9nTWVzc2FnZTogIiArIGRhdGEpOwogICAgICAgICAgICAgICAgICAgIG1NYWluRnJhZ21lbnQuYXBwZW5kTG9nKGRhdGEpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJsb2dNZXNzYWdlOiBGcmFnbWVudCBOdWxsIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -923,14 +919,18 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">ICBpZihhbGFybSkKICAgICAgICB7CiAgICAgICAgICAgIGFsYXJtID0gZmFsc2U7CiAgICAgICAgICAgIEZyYW1lTGF5b3V0IGZsID0gKEZyYW1lTGF5b3V0KWZpbmRWaWV3QnlJZChSLmlkLmZyYW1lTGF5b3V0Q29tbWFuZCk7CiAgICAgICAgICAgIGZsLnNldEJhY2tncm91bmRDb2xvcihDb2xvci5XSElURSk7CiAgICAgICAgICAgIGZsLmNsZWFyQW5pbWF0aW9uKCk7CiAgICAgICAgfWVsc2UgewogICAgICAgICAgICBhbGFybSA9IHRydWU7CiAgICAgICAgICAgIEZyYW1lTGF5b3V0IGZsID0gKEZyYW1lTGF5b3V0KWZpbmRWaWV3QnlJZChSLmlkLmZyYW1lTGF5b3V0Q29tbWFuZCk7CiAgICAgICAgICAgIGZsLnNldEJhY2tncm91bmRDb2xvcihDb2xvci5HUkVFTik7CiAgICAgICAgICAgIHBsYXlTb3VuZCh0cnVlKTsKICAgICAgICB9Cgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgQ29ubmVjdGl2aXR5Q2hlY2tlcihDb25uZWN0aXZpdHlNYW5hZ2VyIG1Db25uZWN0aXZpdHlNYW5hZ2VyKSB7CiAgICAgICAgdGhpcy5tQ29ubmVjdGl2aXR5TWFuYWdlciA9IG1Db25uZWN0aXZpdHlNYW5hZ2VyOwogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29ubmVjdGl2aXR5TWFuYWdlciBtQ29ubmVjdGl2aXR5TWFuYWdlcjsK</text>
+      <register name="9" type="4">
+        <text>logMessage(&quot;\nTesting connectivity...&quot;);
+        String network = (&quot;\nNetwork: &quot; + (isNetworkConnected() ? &quot;Available&quot; : &quot;Unavailable&quot;));
+        logMessage(network);
+        checkInternetAvailable(&quot;https://www.google.sk&quot;);
+        checkInternetAvailable(&quot;http://testapp.rfid.menu&quot;);</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
