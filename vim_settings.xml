@@ -142,11 +142,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474021122382">
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
-        <mark key="^" line="259" column="92" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474023574416">
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="53" />
+        <mark key="." line="237" column="0" />
+        <mark key="^" line="290" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/tssurmpckt.cpp" timestamp="1470737644186">
         <mark key="[" line="224" column="30" />
@@ -629,11 +629,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2ReadLayout.java" timestamp="1474022740980">
-        <mark key="[" line="46" column="92" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="39" column="24" />
-        <mark key="^" line="39" column="24" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2ReadLayout.java" timestamp="1474023529163">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="8" />
+        <mark key="." line="35" column="8" />
+        <mark key="^" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/build.gradle" timestamp="1471425000128">
         <mark key="[" line="3" column="18" />
@@ -896,7 +896,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1GcmFtZUxheW91dENvbW1hbmQucmVtb3ZlQWxsVmlld3MoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>((byte)((NumberPicker) mFrameLayoutCommand.findViewById(R.id.c1g2readWordCount))</text>
@@ -905,37 +905,39 @@
         <text>00</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTnVtYmVyUGlja2VyIG1OdW1iZXJQaWNrZXJXb3JkUG9pbnRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1GcmFtZUxheW91dENvbW1hbmQucmVtb3ZlQWxsVmlld3MoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="1" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxpc3RlbmVyLm9uU2VuZENvbW1hbmQoY29tbWFuZFBhcmFtZXRlcnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IGNvbW1hbmRQYXJhbWV0ZXJzID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUxpc3RlbmVyLm9uU2VuZENvbW1hbmQoY29tbWFuZFBhcmFtZXRlcnMpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IGNvbW1hbmRQYXJhbWV0ZXJzID0gbnVsbDsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZihjb21tYW5kUGFyYW1ldGVycyAhPSBudWxsICYmIG1MaXN0ZW5lciAhPSBudWxsKXsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IEMxRzJSZWFkUGFyYW1ldGVycyBjMWcycmVhZHAgPSBuZXcgQzFHMlJlYWRQYXJhbWV0ZXJzKCk7CiAgICAgICAgICAgICAgICBjMWcycmVhZHAuc2V0TUIoKChieXRlKSgoU3Bpbm5lcikgbUZyYW1lTGF5b3V0Q29tbWFuZC5maW5kVmlld0J5SWQoUi5pZC5jMWcycmVhZE1CKSkuZ2V0U2VsZWN0ZWRJdGVtSWQoKSkpOwogICAgICAgICAgICAgICAgYzFnMnJlYWRwLnNldFdvcmRQb2ludGVyKCgoYnl0ZSkoKE51bWJlclBpY2tlcikgbUZyYW1lTGF5b3V0Q29tbWFuZC5maW5kVmlld0J5SWQoUi5pZC5jMWcycmVhZFdvcmRQb2ludGVyKSkuZ2V0VmFsdWUoKSkpOwogICAgICAgICAgICAgICAgYzFnMnJlYWRwLnNldFdvcmRDb3VudCgoKGJ5dGUpKChOdW1iZXJQaWNrZXIpIG1GcmFtZUxheW91dENvbW1hbmQuZmluZFZpZXdCeUlkKFIuaWQuYzFnMnJlYWRXb3JkQ291bnQpKS5nZXRWYWx1ZSgpKSk7CiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxheW91dElEID0gUi5sYXlvdXQuY29tbWFuZF9jMWcyd3JpdGU7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGF5b3V0SUQgPSAwOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbGF5b3V0SUQgPSAwOwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
