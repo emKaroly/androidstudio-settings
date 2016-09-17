@@ -96,12 +96,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474102356599">
-        <mark key="'" line="338" column="39" />
-        <mark key="[" line="285" column="28" />
-        <mark key="]" line="285" column="52" />
-        <mark key="^" line="285" column="52" />
-        <mark key="." line="285" column="52" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474108293537">
+        <mark key="'" line="468" column="23" />
+        <mark key="[" line="555" column="94" />
+        <mark key="]" line="555" column="20" />
+        <mark key="^" line="555" column="20" />
+        <mark key="." line="555" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1473851579281">
         <mark key="[" line="51" column="22" />
@@ -158,10 +158,10 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="36" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474103621246">
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="0" />
-        <mark key="." line="286" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474108040013">
+        <mark key="[" line="319" column="56" />
+        <mark key="]" line="288" column="0" />
+        <mark key="." line="288" column="0" />
         <mark key="^" line="262" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/tssurmpckt.cpp" timestamp="1470737644186">
@@ -676,11 +676,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2WriteLayout.java" timestamp="1474105721554">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="45" column="87" />
-        <mark key="." line="45" column="87" />
-        <mark key="^" line="45" column="87" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2WriteLayout.java" timestamp="1474108543297">
+        <mark key="[" line="58" column="40" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMBuffer.h" timestamp="1467209332739">
         <mark key="[" line="20" column="9" />
@@ -1006,80 +1005,50 @@
       <jump line="58" column="16" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MenuIconChanger.java" />
       <jump line="17" column="7" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2KillLayout.java" />
       <jump line="40" column="95" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2KillLayout.java" />
+      <jump line="467" column="23" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5pbgo=</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>write</text>
+        <text>Toast</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgaWYoZWRpdGFibGUubGVuZ3RoKCklOCA9PSAwKXsKICAgICAgICAgICAgICAgICAgICBtRGF0YUlzVmFsaWQgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgIG1FZGl0VGV4dEtpbGxQYXNzd29yZC5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IuVFJBTlNQQVJFTlQpOwogICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgbURhdGFJc1ZhbGlkID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgbUVkaXRUZXh0S2lsbFBhc3N3b3JkLnNldEJhY2tncm91bmRDb2xvcihDb2xvci5SRUQpOwogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRJbnZhbGlkRmllbGQoIldyaXRlRGF0YSIsIkluY29ycmVjdCBMZW5ndGgiKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGZvciAoOgogICAgICAgICAgICAgKSB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5pbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgS3lsZSBvbiAxNy8wOS8xNi4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRGF0YUlzVmFsaWQgPSB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTGlzdGVuZXIub25TZW5kQ29tbWFuZChuZXcgU3RvcFJPU3BlY1BhcmFtZXRlcnMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRGF0YUlzVmFsaWQgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTGlzdGVuZXIub25TZW5kQ29tbWFuZChuZXcgU3RhcnRST1NwZWNQYXJhbWV0ZXJzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRGF0YUlzVmFsaWQgPSBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtTnVtYmVyUGlja2VyV29yZFBvaW50ZXIgPSAoTnVtYmVyUGlja2VyKW1GCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRGF0YUlzVmFsaWQgPSB0cnVlOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>rameLayout.findViewById(R.id.c1g2writeWordPointer);
-        mNumberPickerWordPointer.setMinValue(0);
-        mNumberPickerWordPointer.setMaxValue(32);
-        mNumberPickerWordCount = (NumberPicker)mFrameLayout.findViewById(R.id.c1g2writeWordCount);
-        mNumberPickerWordCount.setMinValue(0);
-        mNumberPickerWordCount.setMaxValue(32);
-        mEditTextWriteData = (EditText)mFrameLayout.findViewById(R.id.c1g2writeData);
-        mEditTextWriteData.addTextChangedListener(new TextWatcher() {
-            @Override
-            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
-                Log.d(TAG,charSequence.toString());
-            }
-
-            @Override
-            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
-                Log.d(TAG,charSequence.toString());
-            }
-
-            @Override
-            public void afterTextChanged(Editable editable) {
-                Log.d(TAG,editable.toString());
-                if(editable.length()%4 == 0){
-                    mDataIsValid = true;
-                    mNumberPickerWordCount.setValue(editable.length()/4);
-                }else{
-                    mDataIsValid = false;
-                }
-            }
-        });
-        mEditTextAccessPassword = (EditText)mFrameLayout.findViewById(R.id.c1g2writeAccessPassword);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRJbnZhbGlkRmllbGQoIldyaXRlRGF0YSIsIkluY29ycmVjdCBMZW5ndGgiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0TUIoKGJ5dGUpIG1TcGlubmVyTWVtb3J5QmFuay5nZXRTZWxlY3RlZEl0ZW1JZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRJbnZhbGlkRmllbGQoIldyaXRlRGF0YSIsIkluY29ycmVjdCBMZW5ndGgiKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0QWNjZXNzUGFzc3dvcmQoSW50ZWdlci5wYXJzZUludChtRWRpdFRleHRBY2Nlc3NQYXNzd29yZC5nZXRUZXh0KCkudG9TdHJpbmcoKSwxNikpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGZvciAoOgogICAgICAgICAgICAgKSB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0V3JpdGVEYXRhKFN0cmluZ01hbmlwdWxhdGlvbi5oZXhTdHJpbmdUb0J5dGVBcnJheShtRWRpdFRleHRXcml0ZURhdGEuZ2V0VGV4dCgpLnRvU3RyaW5nKCkpKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgS3lsZSBvbiAxNy8wOS8xNi4KICovCg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -1092,9 +1061,9 @@
       </register>
     </registers>
     <search>
-      <last-search>write</last-search>
+      <last-search>Toast</last-search>
       <last-offset />
-      <last-pattern>write</last-pattern>
+      <last-pattern>Toast</last-pattern>
       <last-replace>kill</last-replace>
       <last-substitute>lock</last-substitute>
       <last-dir>1</last-dir>
@@ -1116,6 +1085,8 @@
         <entry encoding="base64">XDx0b1N0cmluZ1w+</entry>
         <entry>00</entry>
         <entry>write</entry>
+        <entry>toast</entry>
+        <entry>Toast</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
