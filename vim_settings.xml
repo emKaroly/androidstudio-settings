@@ -158,11 +158,11 @@
         <mark key="^" line="47" column="26" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474108040013">
-        <mark key="[" line="319" column="56" />
-        <mark key="]" line="288" column="0" />
-        <mark key="." line="288" column="0" />
-        <mark key="^" line="262" column="47" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474112354590">
+        <mark key="[" line="266" column="70" />
+        <mark key="]" line="266" column="70" />
+        <mark key="." line="266" column="70" />
+        <mark key="^" line="266" column="74" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/tssurmpckt.cpp" timestamp="1470737644186">
         <mark key="[" line="224" column="30" />
@@ -676,6 +676,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/AISpecStopTriggerLayout.java" timestamp="1474112525730">
+        <mark key="[" line="59" column="59" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2WriteLayout.java" timestamp="1474109436345">
         <mark key="[" line="87" column="67" />
         <mark key="]" line="87" column="69" />
@@ -941,7 +946,7 @@
         <mark key="]" line="25" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1474102795369">
+      <file name="/fragment.java" timestamp="1474111803907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
@@ -1008,47 +1013,97 @@
       <jump line="467" column="23" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAxMDQ4ICAqICBAbiAweDAyID0gR1BJIHdpdGggYSB0aW1lb3V0IHZhbHVlIC0gTk9UIFNVUFBPUlRFRAo=</text>
+      <register name="&quot;" type="4">
+        <text>C1G2LockPayloadLayout</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text>C1G2LockPayloadLayout</text>
       </register>
       <register name="/" type="4">
         <text>Toast</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PHN0cmluZy1hcnJheSBuYW1lPSJkYXRhX2ZpZWxkIj4KICAgICAgICA8aXRlbT5LaWxsIFBhc3N3b3JkPC9pdGVtPgogICAgICAgIDxpdGVtPkFjY2VzcyBQYXNzd29yZDwvaXRlbT4KICAgICAgICA8aXRlbT5FUEMgTWVtb3J5PC9pdGVtPgogICAgICAgIDxpdGVtPlRJRCBNZW1vcnk8L2l0ZW0+CiAgICAgICAgPGl0ZW0+VVNFUiBNZW1vcnk8L2l0ZW0+CiAgICA8L3N0cmluZy1hcnJheT4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEMxRzJMb2NrUGF5bG9hZExheW91dCBjMWcybG9ja3BheWxvYWQgPSBuZXcgQzFHMkxvY2tQYXlsb2FkTGF5b3V0KG1GcmFtZUxheW91dENvbW1hbmQsbUxheW91dEluZmxhdGVyKTsKICAgICAgICAgICAgICAgIG1Db21tYW5kTGF5b3V0ID0gYzFnMmxvY2twYXlsb2FkLnNldExheW91dCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAxMDQ4ICAqICBAbiAweDAyID0gR1BJIHdpdGggYSB0aW1lb3V0IHZhbHVlIC0gTk9UIFNVUFBPUlRFRAo=</text>
+        <text encoding="base64">ICAgICAgICBtU3Bpbm5lclRyaWdnZXJUeXBlLnNldElkKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAxMDQ3ICAqICBAbiAweDAxID0gRHVyYXRpb24gLSBOT1QgU1VQUE9SVEVECg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAweDAwID0gTnVsbCDigJMgU3RvcCB3aGVuIFJPU3BlYyBpcyBkb25lLgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAxMDQ5ICAqICBAbiAweDAzID0gLSBOT1QgU1VQUE9SVEVECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbT5LaWxsIFBhc3N3b3JkPC9pdGVtPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbURhdGFJc1ZhbGlkOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzVmFsaWQoKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtTnVtYmVyUGlja2VyCg==</text>
+      </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbGVhbiBpc1ZhbGlkKCkgewogICAgICAgIHJldHVybiBtRGF0YUlzVmFsaWQ7CiAgICB9</text>
+        <text>WordCount = (NumberPicker)mFrameLayout.findViewById(R.id.c1g2writeWordCount);
+        mNumberPickerWordCount.setMinValue(0);
+        mNumberPickerWordCount.setMaxValue(32);
+        mEditTextWriteData = (EditText)mFrameLayout.findViewById(R.id.c1g2writeData);
+        mEditTextWriteData.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+
+            }
+
+            @Override
+            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+
+            }
+
+            @Override
+            public void afterTextChanged(Editable editable) {
+                Log.d(TAG,editable.toString());
+                if(editable.length()%4 == 0){
+                    mEditTextWriteData.setBackgroundColor(Color.TRANSPARENT);
+                    mNumberPickerWordCount.setValue(editable.length()/4);
+                    removeInvalidField(&quot;WriteData&quot;);
+                }else{
+                    mEditTextWriteData.setBackgroundColor(Color.RED);
+                    addInvalidField(&quot;WriteData&quot;,&quot;Incorrect Length&quot;);
+                }
+            }
+        });
+        mEditTextAccessPassword = (EditText)mFrameLayout.findViewById(R.id.c1g2writeAccessPassword);
+        mEditTextAccessPassword.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+
+            }
+
+            @Override
+            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+
+            }
+
+            @Override
+            public void afterTextChanged(Editable editable) {
+                if(editable.length()%8 == 0){
+                    mEditTextAccessPassword.setBackgroundColor(Color.TRANSPARENT);
+                    removeInvalidField(&quot;AccessPassword&quot;);
+                }else{
+                    mEditTextAccessPassword.setBackgroundColor(Color.RED);
+                    addInvalidField(&quot;WriteData&quot;,&quot;Incorrect Length&quot;);
+                }
+            }
+        });</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRGF0YUlzVmFsaWQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0QWNjZXNzUGFzc3dvcmQoKGludClMb25nLnBhcnNlTG9uZyhtRWRpdFRleHRBY2Nlc3NQYXNzd29yZC5nZXRUZXh0KCkudG9TdHJpbmcoKSwxNikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRGF0YUlzVmFsaWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0V3JpdGVEYXRhKFN0cmluZ01hbmlwdWxhdGlvbi5oZXhTdHJpbmdUb0J5dGVBcnJheShtRWRpdFRleHRXcml0ZURhdGEuZ2V0VGV4dCgpLnRvU3RyaW5nKCkpKTsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
