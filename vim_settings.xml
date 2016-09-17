@@ -539,6 +539,11 @@
         <mark key="^" line="40" column="21" />
         <mark key="." line="40" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/CommandLayout.java" timestamp="1474104771223">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.h" timestamp="1470230128823">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="6" column="20" />
@@ -670,11 +675,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2WriteLayout.java" timestamp="1474104103141">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2WriteLayout.java" timestamp="1474104467094">
         <mark key="[" line="43" column="47" />
-        <mark key="]" line="106" column="34" />
-        <mark key="." line="106" column="34" />
-        <mark key="^" line="106" column="34" />
+        <mark key="]" line="45" column="87" />
+        <mark key="." line="45" column="87" />
+        <mark key="^" line="45" column="87" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMBuffer.h" timestamp="1467209332739">
         <mark key="[" line="20" column="9" />
@@ -1002,8 +1007,8 @@
       <jump line="40" column="95" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2KillLayout.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgaWYoZWRpdGFibGUubGVuZ3RoKCklOCA9PSAwKXsKICAgICAgICAgICAgICAgICAgICBtRGF0YUlzVmFsaWQgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgIG1FZGl0VGV4dEtpbGxQYXNzd29yZC5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IuVFJBTlNQQVJFTlQpOwogICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgbURhdGFJc1ZhbGlkID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgbUVkaXRUZXh0S2lsbFBhc3N3b3JkLnNldEJhY2tncm91bmRDb2xvcihDb2xvci5SRUQpOwogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgS3lsZSBvbiAxNy8wOS8xNi4KICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>c1g2kill</text>
@@ -1015,18 +1020,21 @@
         <text encoding="base64">ICAgaWYoZWRpdGFibGUubGVuZ3RoKCklOCA9PSAwKXsKICAgICAgICAgICAgICAgICAgICBtRGF0YUlzVmFsaWQgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgIG1FZGl0VGV4dEtpbGxQYXNzd29yZC5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IuVFJBTlNQQVJFTlQpOwogICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgbURhdGFJc1ZhbGlkID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgbUVkaXRUZXh0S2lsbFBhc3N3b3JkLnNldEJhY2tncm91bmRDb2xvcihDb2xvci5SRUQpOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTGlzdGVuZXIub25TZW5kQ29tbWFuZChuZXcgU3RvcFJPU3BlY1BhcmFtZXRlcnMoKSk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgS3lsZSBvbiAxNy8wOS8xNi4KICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTGlzdGVuZXIub25TZW5kQ29tbWFuZChuZXcgU3RhcnRST1NwZWNQYXJhbWV0ZXJzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTGlzdGVuZXIub25TZW5kQ29tbWFuZChuZXcgU3RvcFJPU3BlY1BhcmFtZXRlcnMoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTGlzdGVuZXIub25TZW5kQ29tbWFuZChuZXcgU3RhcnRST1NwZWNQYXJhbWV0ZXJzKCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBtTnVtYmVyUGlja2VyV29yZFBvaW50ZXIgPSAoTnVtYmVyUGlja2VyKW1GCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>rameLayout.findViewById(R.id.c1g2writeWordPointer);
         mNumberPickerWordPointer.setMinValue(0);
         mNumberPickerWordPointer.setMaxValue(32);
@@ -1060,20 +1068,17 @@
         });
         mEditTextAccessPassword = (EditText)mFrameLayout.findViewById(R.id.c1g2writeAccessPassword);</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0TUIoKGJ5dGUpIG1TcGlubmVyTWVtb3J5QmFuay5nZXRTZWxlY3RlZEl0ZW1JZCgpKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0QWNjZXNzUGFzc3dvcmQoSW50ZWdlci5wYXJzZUludChtRWRpdFRleHRBY2Nlc3NQYXNzd29yZC5nZXRUZXh0KCkudG9TdHJpbmcoKSwxNikpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0V3JpdGVEYXRhKFN0cmluZ01hbmlwdWxhdGlvbi5oZXhTdHJpbmdUb0J5dGVBcnJheShtRWRpdFRleHRXcml0ZURhdGEuZ2V0VGV4dCgpLnRvU3RyaW5nKCkpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0V29yZENvdW50KG1OdW1iZXJQaWNrZXJXb3JkQ291bnQuZ2V0VmFsdWUoKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0V29yZFBvaW50ZXIobU51bWJlclBpY2tlcldvcmRQb2ludGVyLmdldFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0V29yZENvdW50KG1OdW1iZXJQaWNrZXJXb3JkQ291bnQuZ2V0VmFsdWUoKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
