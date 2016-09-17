@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2LockParameters.java" timestamp="1474029481128">
         <mark key="[" line="46" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1474028783261">
+      <file name="/a.dummy" timestamp="1474113895957">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2WriteOpSpecResult.java" timestamp="1473851565761">
@@ -96,12 +96,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474108293537">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474113845954">
         <mark key="'" line="468" column="23" />
-        <mark key="[" line="555" column="94" />
-        <mark key="]" line="555" column="20" />
-        <mark key="^" line="555" column="20" />
-        <mark key="." line="555" column="20" />
+        <mark key="[" line="472" column="4" />
+        <mark key="]" line="477" column="0" />
+        <mark key="." line="472" column="4" />
+        <mark key="^" line="472" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1473851579281">
         <mark key="[" line="51" column="22" />
@@ -158,11 +158,10 @@
         <mark key="^" line="47" column="26" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474112354590">
-        <mark key="[" line="266" column="70" />
-        <mark key="]" line="266" column="70" />
-        <mark key="." line="266" column="70" />
-        <mark key="^" line="266" column="74" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474113383470">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/tssurmpckt.cpp" timestamp="1470737644186">
         <mark key="[" line="224" column="30" />
@@ -326,6 +325,9 @@
         <mark key="]" line="23" column="43" />
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1474113608687">
+        <mark key="[" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Checksum.cpp" timestamp="1468405413650">
         <mark key="[" line="30" column="53" />
@@ -676,10 +678,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/AISpecStopTriggerLayout.java" timestamp="1474112525730">
-        <mark key="[" line="59" column="59" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/AISpecStopTriggerLayout.java" timestamp="1474112700850">
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="99" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2WriteLayout.java" timestamp="1474109436345">
         <mark key="[" line="87" column="67" />
@@ -718,11 +721,6 @@
         <mark key="]" line="39" column="4" />
         <mark key="^" line="33" column="48" />
         <mark key="." line="33" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/command_c1g2read.xml" timestamp="1474097560620">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2ReadLayout.java" timestamp="1474023529163">
         <mark key="[" line="35" column="8" />
@@ -828,7 +826,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473947267184">
+      <file name="/Dummy.txt" timestamp="1474113895934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/TSSAPILogLevel.java" timestamp="1472045960113">
@@ -1014,7 +1012,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C1G2LockPayloadLayout</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIE9uR2VuZXJhbERldmljZUNhcGFiaWxpdGllcyhHZW5lcmFsRGV2aWNlQ2FwYWJpbGl0aWVzIGdlbmVyYWxEZXZpY2VDYXBhYmlsaXRpZXMpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>C1G2LockPayloadLayout</text>
@@ -1023,10 +1021,10 @@
         <text>Toast</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEMxRzJMb2NrUGF5bG9hZExheW91dCBjMWcybG9ja3BheWxvYWQgPSBuZXcgQzFHMkxvY2tQYXlsb2FkTGF5b3V0KG1GcmFtZUxheW91dENvbW1hbmQsbUxheW91dEluZmxhdGVyKTsKICAgICAgICAgICAgICAgIG1Db21tYW5kTGF5b3V0ID0gYzFnMmxvY2twYXlsb2FkLnNldExheW91dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtTnVtYmVyUGlja2VyRHVyYXRpb24gPSAoTnVtYmVyUGlja2VyKW1GcmFtZUxheW91dC5maW5kVmlld0J5SWQoUi5pZC5kdXJhdGlvblRyaWdnZXJWYWx1ZSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Bpbm5lclRyaWdnZXJUeXBlLnNldElkKCk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIE9uR2VuZXJhbERldmljZUNhcGFiaWxpdGllcyhHZW5lcmFsRGV2aWNlQ2FwYWJpbGl0aWVzIGdlbmVyYWxEZXZpY2VDYXBhYmlsaXRpZXMpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1034,76 +1032,30 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text>import eu.tss.apiandroid.TSSAPIBLE;
+import eu.tss.apicommon.C1G2Epc;
+import eu.tss.apicommon.C1G2ReadOpSpecResult;
+import eu.tss.apicommon.C1G2WriteOpSpecResult;
+import eu.tss.apicommon.TSSAPICallback;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbURhdGFJc1ZhbGlkOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIG1GcmFtZUxheW91dENvbW1hbmQuYWRkVmlldyhjbWRMYXlvdXQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzVmFsaWQoKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1GcmFtZUxheW91dENvbW1hbmQucmVtb3ZlQWxsVmlld3MoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtTnVtYmVyUGlja2VyCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFZpZXcgY21kTGF5b3V0ID0gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5jb21tYW5kX2MxZzJ3cml0ZSxtRnJhbWVMYXlvdXRDb21tYW5kLGZhbHNlKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>WordCount = (NumberPicker)mFrameLayout.findViewById(R.id.c1g2writeWordCount);
-        mNumberPickerWordCount.setMinValue(0);
-        mNumberPickerWordCount.setMaxValue(32);
-        mEditTextWriteData = (EditText)mFrameLayout.findViewById(R.id.c1g2writeData);
-        mEditTextWriteData.addTextChangedListener(new TextWatcher() {
-            @Override
-            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
-            }
-
-            @Override
-            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
-            }
-
-            @Override
-            public void afterTextChanged(Editable editable) {
-                Log.d(TAG,editable.toString());
-                if(editable.length()%4 == 0){
-                    mEditTextWriteData.setBackgroundColor(Color.TRANSPARENT);
-                    mNumberPickerWordCount.setValue(editable.length()/4);
-                    removeInvalidField(&quot;WriteData&quot;);
-                }else{
-                    mEditTextWriteData.setBackgroundColor(Color.RED);
-                    addInvalidField(&quot;WriteData&quot;,&quot;Incorrect Length&quot;);
-                }
-            }
-        });
-        mEditTextAccessPassword = (EditText)mFrameLayout.findViewById(R.id.c1g2writeAccessPassword);
-        mEditTextAccessPassword.addTextChangedListener(new TextWatcher() {
-            @Override
-            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
-            }
-
-            @Override
-            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
-            }
-
-            @Override
-            public void afterTextChanged(Editable editable) {
-                if(editable.length()%8 == 0){
-                    mEditTextAccessPassword.setBackgroundColor(Color.TRANSPARENT);
-                    removeInvalidField(&quot;AccessPassword&quot;);
-                }else{
-                    mEditTextAccessPassword.setBackgroundColor(Color.RED);
-                    addInvalidField(&quot;WriteData&quot;,&quot;Incorrect Length&quot;);
-                }
-            }
-        });</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgbUVkaXRUZXh0RGF0YSA9IChFZGl0VGV4dCljbWRMYXlvdXQuZmluZFZpZXdCeUlkKFIuaWQuZWRpdFRleHREYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0QWNjZXNzUGFzc3dvcmQoKGludClMb25nLnBhcnNlTG9uZyhtRWRpdFRleHRBY2Nlc3NQYXNzd29yZC5nZXRUZXh0KCkudG9TdHJpbmcoKSwxNikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU3Bpbm5lcjogQ29tbWFuZCAiICsgaSArICIgIiArIGwpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0V3JpdGVEYXRhKFN0cmluZ01hbmlwdWxhdGlvbi5oZXhTdHJpbmdUb0J5dGVBcnJheShtRWRpdFRleHRXcml0ZURhdGEuZ2V0VGV4dCgpLnRvU3RyaW5nKCkpKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgIC8vICAgICBtU3Bpbm5lck1lbW9yeUJhbmsgPSAoU3Bpbm5lciljbWRMYXlvdXQuZmluZFZpZXdCeUlkKFIuaWQuc3Bpbm5lck1lbW9yeUJhbmspOwogICAgICAgIC8vICAgICBtTnVtYmVyUGlja2VyV29yZFBvaW50ZXIgPSAoTnVtYmVyUGlja2VyKWNtZExheW91dC5maW5kVmlld0J5SWQoUi5pZC5udW1iZXJQaWNrZXJXb3JkUG9pbnRlcik7CiAgICAgICAgLy8gICAgIG1OdW1iZXJQaWNrZXJXb3JkUG9pbnRlci5zZXRNYXhWYWx1ZSgzMik7CiAgICAgICAgLy8gICAgIG1OdW1iZXJQaWNrZXJXb3JkQ291bnQgPSAoTnVtYmVyUGlja2VyKWNtZExheW91dC5maW5kVmlld0J5SWQoUi5pZC5udW1iZXJQaWNrZXJXb3JkQ291bnQpOwogICAgICAgIC8vICAgICBtTnVtYmVyUGlja2VyV29yZENvdW50LnNldE1pblZhbHVlKDEpOwogICAgICAgIC8vICAgICBtTnVtYmVyUGlja2VyV29yZENvdW50LnNldE1heFZhbHVlKDMyKTsKICA=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
