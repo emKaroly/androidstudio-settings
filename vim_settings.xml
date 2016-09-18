@@ -100,12 +100,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474193582272">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474193842948">
         <mark key="'" line="334" column="23" />
-        <mark key="[" line="175" column="25" />
-        <mark key="]" line="176" column="7" />
-        <mark key="." line="176" column="7" />
-        <mark key="^" line="176" column="7" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="60" />
+        <mark key="." line="286" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1473851579281">
         <mark key="[" line="51" column="22" />
@@ -599,13 +598,6 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2KillLayout.java" timestamp="1474109759398">
-        <mark key="'" line="42" column="95" />
-        <mark key="[" line="63" column="20" />
-        <mark key="]" line="63" column="71" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="29" column="55" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/tssurmsp.h" timestamp="1469199640953">
         <mark key="[" line="408" column="33" />
         <mark key="]" line="415" column="39" />
@@ -1022,8 +1014,8 @@
       <jump line="467" column="23" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ01lc3NhZ2UoIlxuIiArIGhvc3QgKyAiOiBBdmFpbGFibGUiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>9</text>
@@ -1034,41 +1026,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUFzeW5jQVBJQ2FsbGVyLmV4ZWN1dGUoY21kKTsK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ01lc3NhZ2UoIlxuIiArIGhvc3QgKyAiOiBBdmFpbGFibGUiKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>257
 258
    
 260
 261</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBidGEuaXNFbmFibGVkKCkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGNsYXNzZXMgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgIGNsYXNzZXMuYXBwZW5kKCJDb21tYW5kIGNvdW50OiAiKTsKICAgICAgICBjbGFzc2VzLmFwcGVuZChjbWQubGVuZ3RoKTsKICAgICAgICBjbGFzc2VzLmFwcGVuZCgiXG4iKTsKICAgICAgICBmb3IoT2JqZWN0IG8gOiBjbWQpewogICAgICAgICAgICBjbGFzc2VzLmFwcGVuZChvLmdldENsYXNzKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIGNsYXNzZXMuYXBwZW5kKCJcbiIpOwogICAgICAgIH0KCiAgICAgICAgTG9nLmQoVEFHLCJvblNlbmRDb21tYW5kIDogIiArIGNsYXNzZXMudG9TdHJpbmcoKSk7</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvL25ldyBBc3luY0FQSSgpLmV4ZWN1dGUoY21kKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZihtQXN5bmNBUElDYWxsZXIuZ2V0U3RhdHVzKCkgPT0gQXN5bmNUYXNrLlN0YXR1cy5SVU5OSU5HKXsKCiAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>else{
             mAsyncAPICaller.execute(cmd);
         }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IAogICAgICAgIHN3aXRjaCAobUFzeW5jQVBJQ2FsbGVyLmdldFN0YXR1cygpLnRvU3RyaW5nKCkpewogICAgICAgICAgICBjYXNlIEFzeW5jVGFzay5TdGF0dXMuUEVORElORy50b1N0cmluZygpOgogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQ==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
