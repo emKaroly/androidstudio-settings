@@ -100,9 +100,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474193842948">
-        <mark key="'" line="334" column="23" />
-        <mark key="[" line="286" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474207067364">
+        <mark key="'" line="335" column="23" />
+        <mark key="[" line="315" column="0" />
         <mark key="]" line="286" column="60" />
         <mark key="." line="286" column="0" />
       </file>
@@ -947,7 +947,7 @@
         <mark key="]" line="25" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1474182333352">
+      <file name="/fragment.java" timestamp="1474207598025">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
