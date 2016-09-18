@@ -96,9 +96,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474180196145">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474181691965">
         <mark key="'" line="437" column="23" />
-        <mark key="[" line="573" column="0" />
+        <mark key="[" line="261" column="37" />
         <mark key="]" line="573" column="0" />
         <mark key="^" line="626" column="144" />
         <mark key="." line="573" column="0" />
@@ -158,10 +158,11 @@
         <mark key="^" line="47" column="26" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474113383470">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474181655602">
+        <mark key="[" line="336" column="37" />
+        <mark key="]" line="336" column="35" />
+        <mark key="." line="336" column="35" />
+        <mark key="^" line="336" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/tssurmpckt.cpp" timestamp="1470737644186">
         <mark key="[" line="224" column="30" />
@@ -315,7 +316,7 @@
         <mark key="^" line="9" column="69" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/command_rftransmitter.xml" timestamp="1474028317385">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/command_rftransmitter.xml" timestamp="1474180691032">
         <mark key="[" line="27" column="31" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -401,11 +402,6 @@
         <mark key="[" line="35" column="22" />
         <mark key="]" line="35" column="22" />
         <mark key="." line="35" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/command_c1g2write.xml" timestamp="1474097575658">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="2" />
-        <mark key="." line="2" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/GetReaderCapabilitiesParameters.java" timestamp="1474030312026">
         <mark key="[" line="36" column="5" />
