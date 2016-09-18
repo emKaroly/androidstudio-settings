@@ -100,12 +100,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474212248630">
-        <mark key="'" line="462" column="17" />
-        <mark key="[" line="188" column="8" />
-        <mark key="]" line="323" column="87" />
-        <mark key="." line="323" column="87" />
-        <mark key="^" line="323" column="87" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474232539766">
+        <mark key="'" line="468" column="17" />
+        <mark key="[" line="125" column="82" />
+        <mark key="]" line="329" column="87" />
+        <mark key="." line="329" column="87" />
+        <mark key="^" line="329" column="87" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1473851579281">
         <mark key="[" line="51" column="22" />
@@ -701,7 +701,7 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2WriteLayout.java" timestamp="1474109436345">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2WriteLayout.java" timestamp="1474233182814">
         <mark key="[" line="87" column="67" />
         <mark key="]" line="87" column="69" />
         <mark key="." line="87" column="0" />
