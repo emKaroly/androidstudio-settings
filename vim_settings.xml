@@ -100,12 +100,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474189971748">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474191272923">
         <mark key="'" line="325" column="23" />
-        <mark key="[" line="464" column="52" />
-        <mark key="]" line="464" column="32" />
-        <mark key="." line="464" column="32" />
-        <mark key="^" line="464" column="32" />
+        <mark key="[" line="463" column="0" />
+        <mark key="]" line="463" column="0" />
+        <mark key="." line="463" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1473851579281">
         <mark key="[" line="51" column="22" />
@@ -1025,13 +1024,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>NotifyTest</text>
+        <text>PENDING</text>
       </register>
       <register name="/" type="4">
         <text>Toast</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtcXQgIT0gbnVsbCAmJiBtcXQuaXNDb25uZWN0ZWQoKSAmJiBjb21tYW5kLmVxdWFscygiQzFHMldyaXRlIikpIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbGxycCA9ICgie1wiZFwiOntcIjBcIjpcIlNUQVRVU0NPREVcIn19Iik7CiAgICAgICAgICAgICAgICAgICAgbXF0LnB1Ymxpc2hTdHJpbmcobGxycC5yZXBsYWNlKCJTVEFUVVNDT0RFIiwgSW50ZWdlci50b1N0cmluZyhlcnJvckNvZGUpKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUFzeW5jQVBJQ2FsbGVyLmV4ZWN1dGUoY21kKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1040,28 +1039,30 @@
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVGVzdCgpIHsKICAgICAgICB0ZXN0Tm90aWZpY2F0aW9uKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGNsYXNzZXMgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgIGNsYXNzZXMuYXBwZW5kKCJDb21tYW5kIGNvdW50OiAiKTsKICAgICAgICBjbGFzc2VzLmFwcGVuZChjbWQubGVuZ3RoKTsKICAgICAgICBjbGFzc2VzLmFwcGVuZCgiXG4iKTsKICAgICAgICBmb3IoT2JqZWN0IG8gOiBjbWQpewogICAgICAgICAgICBjbGFzc2VzLmFwcGVuZChvLmdldENsYXNzKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIGNsYXNzZXMuYXBwZW5kKCJcbiIpOwogICAgICAgIH0KCiAgICAgICAgTG9nLmQoVEFHLCJvblNlbmRDb21tYW5kIDogIiArIGNsYXNzZXMudG9TdHJpbmcoKSk7</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uU2hvd01lc3NhZ2UoU3RyaW5nIG1zZykgewogICAgICAgIHNob3dNZXNzYWdlKG1zZyk7CiAgICB9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL25ldyBBc3luY0FQSSgpLmV4ZWN1dGUoY21kKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uU2VuZENvbW1hbmQoT2JqZWN0Li4uIGNtZCkgewogICAgICAgIC8vbmV3IEFzeW5jQVBJKCkuZXhlY3V0ZShjbWQpOwogICAgICAgIExvZy5kKFRBRywib25TZW5kQ29tbWFuZDogU3RhdHVzOiAiICsgbUFzeW5jQVBJQ2FsbGVyLmdldFN0YXR1cygpLnRvU3RyaW5nKCkpOwogICAgICAgIGlmKG1Bc3luY0FQSUNhbGxlci5nZXRTdGF0dXMoKSA9PSBBc3luY1Rhc2suU3RhdHVzLkZJTklTSEVEKSB7CiAgICAgICAgICAgIG1Bc3luY0FQSUNhbGxlciA9IG5ldyBBc3luY0FQSSgpOwogICAgICAgICAgICBtQXN5bmNBUElDYWxsZXIuZXhlY3V0ZShjbWQpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBtQXN5bmNBUElDYWxsZXIuZXhlY3V0ZShjbWQpOwogICAgICAgIH0KICAgIH0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZihtQXN5bmNBUElDYWxsZXIuZ2V0U3RhdHVzKCkgPT0gQXN5bmNUYXNrLlN0YXR1cy5SVU5OSU5HKXsKCiAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIG9uVGVzdCgpOwo=</text>
+      <register name="6" type="4">
+        <text>else{
+            mAsyncAPICaller.execute(cmd);
+        }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdGFydFJPU3BlY1BhcmFtZXRlcnMgc3QgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAogICAgICAgIHN3aXRjaCAobUFzeW5jQVBJQ2FsbGVyLmdldFN0YXR1cygpLnRvU3RyaW5nKCkpewogICAgICAgICAgICBjYXNlIEFzeW5jVGFzay5TdGF0dXMuUEVORElORy50b1N0cmluZygpOgogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgbUxpc3RlbmVyLm9uU2VuZENvbW1hbmQobUVkaXRUZXh0RGF0YS5nZXRUZXh0KCkudG9TdHJpbmcoKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICBtU3Bpbm5lck1lbW9yeUJhbmsuZ2V0U2VsZWN0ZWRJdGVtUG9zaXRpb24oKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICBtTnVtYmVyUGlja2VyV29yZFBvaW50ZXIuZ2V0VmFsdWUoKSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICBtTnVtYmVyUGlja2VyV29yZENvdW50LmdldFZhbHVlKCksCiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgIG1TcGlubmVyQ29tbWFuZC5nZXRTZWxlY3RlZEl0ZW0oKS50b1N0cmluZygpKTsKIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtQXN5bmNBUElDYWxsZXIgPT0gbnVsbCl7CiAgICAgICAgICAgIG1Bc3luY0FQSUNhbGxlciA9IG5ldyBBc3luY0FQSSgpOwogICAgICAgIH0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVGVzdCgpIHsKICAgICAgICB0ZXN0Tm90aWZpY2F0aW9uKCk7CiAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
