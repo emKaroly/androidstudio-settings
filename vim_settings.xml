@@ -96,12 +96,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474181691965">
-        <mark key="'" line="437" column="23" />
-        <mark key="[" line="261" column="37" />
-        <mark key="]" line="573" column="0" />
-        <mark key="^" line="626" column="144" />
-        <mark key="." line="573" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1474183371085">
+        <mark key="'" line="379" column="23" />
+        <mark key="[" line="571" column="0" />
+        <mark key="]" line="571" column="0" />
+        <mark key="^" line="325" column="49" />
+        <mark key="." line="571" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1473851579281">
         <mark key="[" line="51" column="22" />
@@ -849,8 +849,8 @@
         <mark key="]" line="379" column="0" />
         <mark key="." line="379" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/misc/BatteryCycler.java" timestamp="1473949752792">
-        <mark key="[" line="72" column="71" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/misc/BatteryCycler.java" timestamp="1474183486122">
+        <mark key="[" line="45" column="89" />
         <mark key="]" line="82" column="4" />
         <mark key="." line="64" column="8" />
         <mark key="^" line="64" column="7" />
@@ -948,7 +948,7 @@
         <mark key="]" line="25" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1474139821489">
+      <file name="/fragment.java" timestamp="1474182333352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
@@ -1019,7 +1019,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>OnGeneralDeviceCapabilities</text>
+        <text>NotifyTest</text>
       </register>
       <register name="/" type="4">
         <text>Toast</text>
@@ -1037,25 +1037,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9Mb2cuZChUQUcsKChTZXRQb3dlck1vZGVQYXJhbWV0ZXJzKWNtZCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9Mb2cuZChUQUcsKChBSVNwZWNTdG9wVHJpZ2dlclBhcmFtZXRlcnMpY21kKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL21ha2UgYSBVUkwgdG8gYSBrbm93biBzb3VyY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9Mb2cuZChUQUcsKChDMUcyTG9ja1BheWxvYWRQYXJhbWV0ZXJzKWNtZCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9Mb2cuZChUQUcsKChDMUcyTG9ja1BhcmFtZXRlcnMpY21kKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBOb3RpZnlUZXN0KCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9Mb2cuZChUQUcsKChDMUcyS2lsbFBhcmFtZXRlcnMpY21kKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgS3lsZSBvbiAxOC8wOS8xNi4KICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9Mb2cuZChUQUcsKChDMUcyV3JpdGVQYXJhbWV0ZXJzKWNtZCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9Mb2cuZChUQUcsKChDMUcyUmVhZFBhcmFtZXRlcnMpY21kKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
