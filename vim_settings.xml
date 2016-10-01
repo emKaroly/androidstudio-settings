@@ -31,10 +31,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2KillParameters.java" timestamp="1474029429395">
-        <mark key="[" line="48" column="5" />
-        <mark key="^" line="15" column="16" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470230117059">
         <mark key="[" line="1051" column="29" />
         <mark key="]" line="1051" column="31" />
@@ -158,6 +154,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="12" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/TSSAPIBLE.java" timestamp="1475315058666">
+        <mark key="[" line="43" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/values/strings.xml" timestamp="1474111516788">
         <mark key="[" line="45" column="0" />
@@ -326,10 +325,6 @@
         <mark key="[" line="27" column="31" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2WriteParameters.java" timestamp="1474184865594">
-        <mark key="[" line="6" column="24" />
-        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1474114166694">
         <mark key="[" line="36" column="0" />
