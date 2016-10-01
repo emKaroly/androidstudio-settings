@@ -367,7 +367,7 @@
         <mark key="^" line="71" column="91" />
         <mark key="." line="97" column="81" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicore/TSSAPICoreJNI.java" timestamp="1475317739357">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicore/TSSAPICoreJNI.java" timestamp="1475318717341">
         <mark key="[" line="7" column="48" />
         <mark key="]" line="10" column="53" />
         <mark key="." line="10" column="0" />
@@ -757,6 +757,9 @@
         <mark key="]" line="35" column="47" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1475318848107">
+        <mark key="[" line="125" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1473850836750">
         <mark key="[" line="683" column="91" />
         <mark key="]" line="682" column="26" />
@@ -917,6 +920,7 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1475318767750" />
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="17" column="49" />
