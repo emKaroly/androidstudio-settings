@@ -11,8 +11,9 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2LockParameters.java" timestamp="1474029481128">
         <mark key="[" line="46" column="5" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/CommandParameter.java" timestamp="1475408399662">
-        <mark key="[" line="4" column="12" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/CommandParameter.java" timestamp="1475410132340">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1474872143788">
         <mark key="[" line="0" column="0" />
@@ -438,6 +439,9 @@
         <mark key="]" line="42" column="15" />
         <mark key="^" line="42" column="15" />
         <mark key="." line="42" column="15" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/AISpecStopTriggerParameters.java" timestamp="1475409375803">
+        <mark key="[" line="2" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/res/layout/activity_main.xml" timestamp="1471335340351">
         <mark key="[" line="1" column="50" />
