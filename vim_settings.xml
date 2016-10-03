@@ -80,12 +80,12 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1475477476320">
-        <mark key="'" line="469" column="17" />
-        <mark key="[" line="528" column="14" />
-        <mark key="]" line="528" column="14" />
-        <mark key="." line="528" column="14" />
-        <mark key="^" line="528" column="14" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1475478045139">
+        <mark key="'" line="460" column="17" />
+        <mark key="[" line="485" column="36" />
+        <mark key="]" line="117" column="27" />
+        <mark key="." line="117" column="27" />
+        <mark key="^" line="117" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1473851579281">
         <mark key="[" line="51" column="22" />
@@ -568,10 +568,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1474190354811">
-        <mark key="[" line="207" column="55" />
-        <mark key="]" line="333" column="22" />
-        <mark key="." line="333" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MainFragment.java" timestamp="1475477995862">
+        <mark key="[" line="332" column="27" />
+        <mark key="]" line="332" column="27" />
+        <mark key="." line="332" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/C1G2KillParameters.java" timestamp="1475411423341">
         <mark key="[" line="2" column="33" />
@@ -828,6 +828,13 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2KillLayout.java" timestamp="1474109759398">
+        <mark key="'" line="42" column="95" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="71" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="29" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/RFTransmitterLayout.java" timestamp="1474028140063">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="35" column="28" />
@@ -893,11 +900,11 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/misc/APICalls.java" timestamp="1474185514986">
-        <mark key="[" line="157" column="5" />
-        <mark key="]" line="111" column="5" />
-        <mark key="^" line="111" column="5" />
-        <mark key="." line="111" column="5" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/misc/APICalls.java" timestamp="1475477640801">
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="67" />
+        <mark key="^" line="32" column="67" />
+        <mark key="." line="32" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/main_layout.xml" timestamp="1471339093833">
         <mark key="[" line="1" column="14" />
@@ -1101,59 +1108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>switch (o.getClass().toString()) {
-                    case &quot;class eu.tsscompany.cloudclient.bindings.GetReaderCapabilitiesParameters&quot;:
-                        GetReaderCapabilitiesParameters cmd = (GetReaderCapabilitiesParameters) o;
-                        errorCode = tssapible.urmsp_GetReaderCapabilities(cmd.getFlags(), cmd.getReserved(), cmd.getRequestData());
-                        break;
-                    case &quot;class eu.tsscompany.cloudclient.bindings.StartROSpecParameters&quot;:
-                        StartROSpecParameters startrospec = (StartROSpecParameters) o;
-                        errorCode = tssapible.urmsp_StartROSpec(startrospec.getFlags(), startrospec.getReserved());
-                        break;
-                    case &quot;class eu.tsscompany.cloudclient.bindings.StopROSpecParameters&quot;:
-                        StopROSpecParameters stoprospec = (StopROSpecParameters) o;
-                        errorCode = tssapible.urmsp_StopROSpec(stoprospec.getFlags(),stoprospec.getReserved());
-                        break;
-                    case &quot;class eu.tsscompany.cloudclient.bindings.RFTransmitterParameters&quot;:
-                        RFTransmitterParameters rftransmitter = (RFTransmitterParameters) o;
-                        errorCode = tssapible.urmsp_RFTransmitter(rftransmitter.getFlags(),rftransmitter.getReserved(),
-                                rftransmitter.getHopTableID(),rftransmitter.getChannelIndex(), rftransmitter.getTransmitPower());
-                        break;
-                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2ReadParameters&quot;:
-                        C1G2ReadParameters c1g2read = (C1G2ReadParameters)o;
-                        errorCode = tssapible.urmsp_C1G2Read(c1g2read.getFlags(),c1g2read.getReserved(),c1g2read.getOpSpecID(),c1g2read.getAccessPassword(),
-                                c1g2read.getMB(),c1g2read.getWordPointer(),c1g2read.getWordCount());
-                        break;
-                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2WriteParameters&quot;:
-                        C1G2WriteParameters c1g2write = (C1G2WriteParameters) o;
-                        command = c1g2write.getCommand();
-                        errorCode = tssapible.urmsp_C1G2Write(c1g2write.getFlags(),c1g2write.getReserved(),c1g2write.getOpSpecID(),c1g2write.getAccessPassword(),
-                                c1g2write.getMB(),c1g2write.getWordPointer(),c1g2write.getWordCount(),c1g2write.getWriteData());
-                        break;
-                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2KillParameters&quot;:
-                        C1G2KillParameters c1g2kill = (C1G2KillParameters) o;
-                        errorCode = tssapible.urmsp_C1G2Kill(c1g2kill.getFlags(),c1g2kill.getReserved(),c1g2kill.getOpSpecID(),c1g2kill.getKillPassword());
-                        break;
-                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2LockParameters&quot;:
-                        C1G2LockParameters c1g2lock = (C1G2LockParameters) o;
-                        errorCode = tssapible.urmsp_C1G2Lock(c1g2lock.getFlags(),c1g2lock.getReserved(),c1g2lock.getOpSpecID(),c1g2lock.getAccessPassword());
-                        break;
-                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2LockPayloadParameters&quot;:
-                        C1G2LockPayloadParameters c1g2lockpayload = (C1G2LockPayloadParameters) o;
-                        errorCode = tssapible.urmsp_C1G2LockPayload(c1g2lockpayload.getFlags(),c1g2lockpayload.getReserved(),c1g2lockpayload.getPrivilege(),c1g2lockpayload.getDataField());
-                        break;
-                    case &quot;class eu.tsscompany.cloudclient.bindings.AISpecStopTriggerParameters&quot;:
-                        AISpecStopTriggerParameters aispecstoptrigger = (AISpecStopTriggerParameters) o;
-                        errorCode = tssapible.urmsp_AISpecStopTrigger(aispecstoptrigger.getFlags(),aispecstoptrigger.getReserved(),aispecstoptrigger.getaISpecStopTriggerType(),aispecstoptrigger.getDurationTriggerValue());
-                        break;
-                    case &quot;class eu.tsscompany.cloudclient.bindings.SetPowerModeParameters&quot;:
-                        SetPowerModeParameters setpowermode = (SetPowerModeParameters) o;
-                        errorCode = tssapible.urmsp_SetPowerMode(setpowermode.getFlags(),setpowermode.getReserved(),setpowermode.getPowerMode());
-                        break;
-                }</text>
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
@@ -1161,7 +1119,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcihVUk1TUF9DMUcyUkVBRCk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0c3NhcGlibGUuY29tbWFuZCgpCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>switch (o.getClass().toString()) {
                     case &quot;class eu.tsscompany.cloudclient.bindings.GetReaderCapabilitiesParameters&quot;:
                         GetReaderCapabilitiesParameters cmd = (GetReaderCapabilitiesParameters) o;
@@ -1212,12 +1176,6 @@
                         errorCode = tssapible.urmsp_SetPowerMode(setpowermode.getFlags(),setpowermode.getReserved(),setpowermode.getPowerMode());
                         break;
                 }</text>
-      </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIGludCAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIGludCAK</text>
@@ -1231,14 +1189,14 @@
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIGludCAK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">bmUgCm5lIApuZSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIGludCAK</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">bmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUg</text>
+        <text encoding="base64">bmUgCm5lIApuZSA=</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">aW5lCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUg</text>
+        <text encoding="base64">bmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUg</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
