@@ -741,11 +741,11 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/misc/APICalls.java" timestamp="1475477640801">
-        <mark key="[" line="32" column="67" />
-        <mark key="]" line="32" column="67" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/misc/APICalls.java" timestamp="1475489266156">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
         <mark key="^" line="32" column="67" />
-        <mark key="." line="32" column="67" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/main_layout.xml" timestamp="1471339093833">
         <mark key="[" line="1" column="14" />
@@ -914,7 +914,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWFrOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
         <text>Object</text>
@@ -926,12 +926,18 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUxpc3RlbmVyLm9uU2VuZENvbW1hbmQobUNvbW1hbmRMYXlvdXQuZ2V0UGFyYW1ldGVycygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWFrOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgIC8vICBwdWJsaWMgdm9pZCBvblNlbmRDb21tYW5kKGZpbmFsIFN0cmluZyBkYXRhLCBmaW5hbCBpbnQgbWVtb3J5QmFuaywgZmluYWwgaW50IHdvcmRQb2ludGVyLCBmaW5hbCBpbnQgd29yZENvdW50LCBmaW5hbCBTdHJpbmcgY29tbWFuZCkgewogICAgIC8vICAgTG9nLmQoVEFHLCAib25TZW5kQ29tbWFuZDogIiArIGRhdGEgKyAiICIgKyBtZW1vcnlCYW5rICsgIiAiICsgSW50ZWdlci50b1N0cmluZyh3b3JkUG9pbnRlcikgKyAiICIgKyBJbnRlZ2VyLnRvU3RyaW5nKHdvcmRDb3VudCkgKyAiICIgKyBjb21tYW5kKTsKCiAgICAgLy8gICBUaHJlYWQgdCA9IG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgIC8vICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAvLyAgICAgICAgICAgaW50IGVycm9yQ29kZSA9IDA7CiAgICAgLy8gICAgICAgICAgIHN3aXRjaCAoY29tbWFuZCkgewogICAgIC8vICAgICAgICAgICAgICAgY2FzZSAiU3RhcnRST1NwZWMiOgogICAgIC8vICAgICAgICAgICAgICAgICAgIGVycm9yQ29kZSA9IHRzc2FwaWJsZS51cm1zcF9TdGFydFJPU3BlYygoYnl0ZSkgMCwgKGJ5dGUpIDApOwogICAgIC8vICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgIC8vICAgICAgICAgICAgICAgY2FzZSAiU3RvcFJPU3BlYyI6CiAgICAgLy8gICAgICAgICAgICAgICAgICAgZXJyb3JDb2RlID0gdHNzYXBpYmxlLnVybXNwX1N0b3BST1NwZWMoKGJ5dGUpIDAsIChieXRlKSAwKTsKICAgICAvLyAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAvLyAgICAgICAgICAgICAgIGNhc2UgIkMxRzJSZWFkIjoKICAgICAvLyAgICAgICAgICAgICAgICAgICBlcnJvckNvZGUgPSB0c3NhcGlibGUudXJtc3BfQzFHMlJlYWQoKGJ5dGUpIDAsIChieXRlKSAwLCAwLCAwLCAoYnl0ZSkgbWVtb3J5QmFuaywgd29yZFBvaW50ZXIsIHdvcmRDb3VudCk7CiAgICAgLy8gICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgLy8gICAgICAgICAgICAgICBjYXNlICJDMUcyV3JpdGUiOgogICAgIC8vICAgICAgICAgICAgICAgICAgIGVycm9yQ29kZSA9IHRzc2FwaWJsZS51cm1zcF9DMUcyV3JpdGUoKGJ5dGUpIDAsIChieXRlKSAwLCAwLCAwLCAoYnl0ZSkgbWVtb3J5QmFuaywgd29yZFBvaW50ZXIsIHdvcmRDb3VudCwgU3RyaW5nTWFuaXB1bGF0aW9uLmhleFN0cmluZ1RvQnl0ZUFycmF5KGRhdGEpKTsKICAgICAvLyAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAvLyAgICAgICAgICAgICAgIGNhc2UgIkFJU3BlY1N0b3BUcmlnZ2VyIjoKICAgICAvLyAgICAgICAgICAgICAgICAgICBlcnJvckNvZGUgPSB0c3NhcGlibGUudXJtc3BfQUlTcGVjU3RvcFRyaWdnZXIoKGJ5dGUpIDAsIChieXRlKSAwLCAoYnl0ZSkgMCwgMCk7CiAgICAgLy8gICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgLy8gICAgICAgICAgICAgICBjYXNlICJNdWx0aS1UYWciOgogICAgIC8vICAgICAgICAgICAgICAgICAgIGVycm9yQ29kZSA9IHRzc2FwaWJsZS51cm1zcF9BSVNwZWNTdG9wVHJpZ2dlcigoYnl0ZSkgMCwgKGJ5dGUpIDAsIChieXRlKSAwLCAwKTsKICAgICAvLyAgICAgICAgICAgICAgICAgICBlcnJvckNvZGUgPSB0c3NhcGlibGUudXJtc3BfU3RhcnRST1NwZWMoKGJ5dGUpIDAsIChieXRlKSAwKTsKICAgICAvLyAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAvLyAgICAgICAgICAgfQogICAgIC8vICAgICAgICAgICBpZiAoZXJyb3JDb2RlICE9IDApIHsKICAgICAvLyAgICAgICAgICAgICAgIGxvZ01lc3NhZ2UoIlxuIiArIGNvbW1hbmQgKyAiOiAiICsgdHNzYXBpYmxlLmdldEVycm9yU3RyaW5nKGVycm9yQ29kZSkpOwogICAgIC8vICAgICAgICAgICB9CiAgICAgLy8gICAgICAgICAgIGlmIChtcXQgIT0gbnVsbCAmJiBtcXQuaXNDb25uZWN0ZWQoKSAmJiBjb21tYW5kLmVxdWFscygiQzFHMldyaXRlIikpIHsKICAgICAvLyAgICAgICAgICAgICAgIFN0cmluZyBsbHJwID0gKCJ7XCJkXCI6e1wiMFwiOlwiU1RBVFVTQ09ERVwifX0iKTsKICAgICAvLyAgICAgICAgICAgICAgIG1xdC5wdWJsaXNoU3RyaW5nKGxscnAucmVwbGFjZSgiU1RBVFVTQ09ERSIsIEludGVnZXIudG9TdHJpbmcoZXJyb3JDb2RlKSkpOwogICAgIC8vICAgICAgICAgICB9CiAgICAgLy8gICAgICAgfQogICAgIC8vICAgfSk7CiAgICAgLy8gICB0LnN0YXJ0KCk7CiAgICAvL30KCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWFrOwo=</text>
+      </register>
+      <register name="4" type="4">
         <text>case &quot;RFTransmitter&quot;:
                         mListener.onSendCommand(mCommandLayout.getParameters());
                         break;
@@ -957,13 +963,13 @@
                         mListener.onSendCommand(mCommandLayout.getParameters());
                         b</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGV1LnRzcy5wYXJhbWV0ZXJzLkdldFJlYWRlckNhcGFiaWxpdGllc1BhcmFtZXRlcnM7CmltcG9ydCBldS50c3MucGFyYW1ldGVycy5TdGFydFJPU3BlY1BhcmFtZXRlcnM7CmltcG9ydCBldS50c3MucGFyYW1ldGVycy5TdG9wUk9TcGVjUGFyYW1ldGVyczsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB0c3NhcGlibGUuY29tbWFuZCgpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>switch (o.getClass().toString()) {
                     case &quot;class eu.tsscompany.cloudclient.bindings.GetReaderCapabilitiesParameters&quot;:
                         GetReaderCapabilitiesParameters cmd = (GetReaderCapabilitiesParameters) o;
@@ -1014,12 +1020,6 @@
                         errorCode = tssapible.urmsp_SetPowerMode(setpowermode.getFlags(),setpowermode.getReserved(),setpowermode.getPowerMode());
                         break;
                 }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIGludCAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIGludCAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIGludCAK</text>
