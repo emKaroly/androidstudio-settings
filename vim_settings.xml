@@ -80,12 +80,12 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1475340302796">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1475477476320">
         <mark key="'" line="469" column="17" />
-        <mark key="[" line="531" column="69" />
-        <mark key="]" line="576" column="29" />
-        <mark key="." line="70" column="50" />
-        <mark key="^" line="70" column="50" />
+        <mark key="[" line="528" column="14" />
+        <mark key="]" line="528" column="14" />
+        <mark key="." line="528" column="14" />
+        <mark key="^" line="528" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1473851579281">
         <mark key="[" line="51" column="22" />
@@ -502,8 +502,8 @@
         <mark key="]" line="87" column="5" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicore/TSSAPICoreJava.java" timestamp="1475330396992">
-        <mark key="[" line="5" column="30" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicore/TSSAPICoreJava.java" timestamp="1475477570608">
+        <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="36" />
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="36" />
@@ -630,6 +630,9 @@
         <mark key="]" line="140" column="0" />
         <mark key="^" line="134" column="7" />
         <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/C1G2WriteParameters.java" timestamp="1475476803693">
+        <mark key="[" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICoreJNI.java" timestamp="1471545466106">
         <mark key="[" line="13" column="139" />
@@ -1097,8 +1100,57 @@
       <jump line="6" column="91" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/CommandParameter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihVUk1TUF9DMUcyUkVBRCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>switch (o.getClass().toString()) {
+                    case &quot;class eu.tsscompany.cloudclient.bindings.GetReaderCapabilitiesParameters&quot;:
+                        GetReaderCapabilitiesParameters cmd = (GetReaderCapabilitiesParameters) o;
+                        errorCode = tssapible.urmsp_GetReaderCapabilities(cmd.getFlags(), cmd.getReserved(), cmd.getRequestData());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.StartROSpecParameters&quot;:
+                        StartROSpecParameters startrospec = (StartROSpecParameters) o;
+                        errorCode = tssapible.urmsp_StartROSpec(startrospec.getFlags(), startrospec.getReserved());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.StopROSpecParameters&quot;:
+                        StopROSpecParameters stoprospec = (StopROSpecParameters) o;
+                        errorCode = tssapible.urmsp_StopROSpec(stoprospec.getFlags(),stoprospec.getReserved());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.RFTransmitterParameters&quot;:
+                        RFTransmitterParameters rftransmitter = (RFTransmitterParameters) o;
+                        errorCode = tssapible.urmsp_RFTransmitter(rftransmitter.getFlags(),rftransmitter.getReserved(),
+                                rftransmitter.getHopTableID(),rftransmitter.getChannelIndex(), rftransmitter.getTransmitPower());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2ReadParameters&quot;:
+                        C1G2ReadParameters c1g2read = (C1G2ReadParameters)o;
+                        errorCode = tssapible.urmsp_C1G2Read(c1g2read.getFlags(),c1g2read.getReserved(),c1g2read.getOpSpecID(),c1g2read.getAccessPassword(),
+                                c1g2read.getMB(),c1g2read.getWordPointer(),c1g2read.getWordCount());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2WriteParameters&quot;:
+                        C1G2WriteParameters c1g2write = (C1G2WriteParameters) o;
+                        command = c1g2write.getCommand();
+                        errorCode = tssapible.urmsp_C1G2Write(c1g2write.getFlags(),c1g2write.getReserved(),c1g2write.getOpSpecID(),c1g2write.getAccessPassword(),
+                                c1g2write.getMB(),c1g2write.getWordPointer(),c1g2write.getWordCount(),c1g2write.getWriteData());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2KillParameters&quot;:
+                        C1G2KillParameters c1g2kill = (C1G2KillParameters) o;
+                        errorCode = tssapible.urmsp_C1G2Kill(c1g2kill.getFlags(),c1g2kill.getReserved(),c1g2kill.getOpSpecID(),c1g2kill.getKillPassword());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2LockParameters&quot;:
+                        C1G2LockParameters c1g2lock = (C1G2LockParameters) o;
+                        errorCode = tssapible.urmsp_C1G2Lock(c1g2lock.getFlags(),c1g2lock.getReserved(),c1g2lock.getOpSpecID(),c1g2lock.getAccessPassword());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2LockPayloadParameters&quot;:
+                        C1G2LockPayloadParameters c1g2lockpayload = (C1G2LockPayloadParameters) o;
+                        errorCode = tssapible.urmsp_C1G2LockPayload(c1g2lockpayload.getFlags(),c1g2lockpayload.getReserved(),c1g2lockpayload.getPrivilege(),c1g2lockpayload.getDataField());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.AISpecStopTriggerParameters&quot;:
+                        AISpecStopTriggerParameters aispecstoptrigger = (AISpecStopTriggerParameters) o;
+                        errorCode = tssapible.urmsp_AISpecStopTrigger(aispecstoptrigger.getFlags(),aispecstoptrigger.getReserved(),aispecstoptrigger.getaISpecStopTriggerType(),aispecstoptrigger.getDurationTriggerValue());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.SetPowerModeParameters&quot;:
+                        SetPowerModeParameters setpowermode = (SetPowerModeParameters) o;
+                        errorCode = tssapible.urmsp_SetPowerMode(setpowermode.getFlags(),setpowermode.getReserved(),setpowermode.getPowerMode());
+                        break;
+                }</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1109,8 +1161,57 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcihVUk1TUF9DMUcyUkVBRCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIGludCAK</text>
+      <register name="1" type="4">
+        <text>switch (o.getClass().toString()) {
+                    case &quot;class eu.tsscompany.cloudclient.bindings.GetReaderCapabilitiesParameters&quot;:
+                        GetReaderCapabilitiesParameters cmd = (GetReaderCapabilitiesParameters) o;
+                        errorCode = tssapible.urmsp_GetReaderCapabilities(cmd.getFlags(), cmd.getReserved(), cmd.getRequestData());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.StartROSpecParameters&quot;:
+                        StartROSpecParameters startrospec = (StartROSpecParameters) o;
+                        errorCode = tssapible.urmsp_StartROSpec(startrospec.getFlags(), startrospec.getReserved());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.StopROSpecParameters&quot;:
+                        StopROSpecParameters stoprospec = (StopROSpecParameters) o;
+                        errorCode = tssapible.urmsp_StopROSpec(stoprospec.getFlags(),stoprospec.getReserved());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.RFTransmitterParameters&quot;:
+                        RFTransmitterParameters rftransmitter = (RFTransmitterParameters) o;
+                        errorCode = tssapible.urmsp_RFTransmitter(rftransmitter.getFlags(),rftransmitter.getReserved(),
+                                rftransmitter.getHopTableID(),rftransmitter.getChannelIndex(), rftransmitter.getTransmitPower());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2ReadParameters&quot;:
+                        C1G2ReadParameters c1g2read = (C1G2ReadParameters)o;
+                        errorCode = tssapible.urmsp_C1G2Read(c1g2read.getFlags(),c1g2read.getReserved(),c1g2read.getOpSpecID(),c1g2read.getAccessPassword(),
+                                c1g2read.getMB(),c1g2read.getWordPointer(),c1g2read.getWordCount());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2WriteParameters&quot;:
+                        C1G2WriteParameters c1g2write = (C1G2WriteParameters) o;
+                        command = c1g2write.getCommand();
+                        errorCode = tssapible.urmsp_C1G2Write(c1g2write.getFlags(),c1g2write.getReserved(),c1g2write.getOpSpecID(),c1g2write.getAccessPassword(),
+                                c1g2write.getMB(),c1g2write.getWordPointer(),c1g2write.getWordCount(),c1g2write.getWriteData());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2KillParameters&quot;:
+                        C1G2KillParameters c1g2kill = (C1G2KillParameters) o;
+                        errorCode = tssapible.urmsp_C1G2Kill(c1g2kill.getFlags(),c1g2kill.getReserved(),c1g2kill.getOpSpecID(),c1g2kill.getKillPassword());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2LockParameters&quot;:
+                        C1G2LockParameters c1g2lock = (C1G2LockParameters) o;
+                        errorCode = tssapible.urmsp_C1G2Lock(c1g2lock.getFlags(),c1g2lock.getReserved(),c1g2lock.getOpSpecID(),c1g2lock.getAccessPassword());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.C1G2LockPayloadParameters&quot;:
+                        C1G2LockPayloadParameters c1g2lockpayload = (C1G2LockPayloadParameters) o;
+                        errorCode = tssapible.urmsp_C1G2LockPayload(c1g2lockpayload.getFlags(),c1g2lockpayload.getReserved(),c1g2lockpayload.getPrivilege(),c1g2lockpayload.getDataField());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.AISpecStopTriggerParameters&quot;:
+                        AISpecStopTriggerParameters aispecstoptrigger = (AISpecStopTriggerParameters) o;
+                        errorCode = tssapible.urmsp_AISpecStopTrigger(aispecstoptrigger.getFlags(),aispecstoptrigger.getReserved(),aispecstoptrigger.getaISpecStopTriggerType(),aispecstoptrigger.getDurationTriggerValue());
+                        break;
+                    case &quot;class eu.tsscompany.cloudclient.bindings.SetPowerModeParameters&quot;:
+                        SetPowerModeParameters setpowermode = (SetPowerModeParameters) o;
+                        errorCode = tssapible.urmsp_SetPowerMode(setpowermode.getFlags(),setpowermode.getReserved(),setpowermode.getPowerMode());
+                        break;
+                }</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1127,17 +1228,17 @@
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIGludCAK</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">bmUgCm5lIApuZSA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICBwcm90ZWN0ZWQgc3RhdGljIGZpbmFsIGludCAK</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">bmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUg</text>
+        <text encoding="base64">bmUgCm5lIApuZSA=</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">aW5lCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUg</text>
+        <text encoding="base64">bmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUg</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">ICAgICNkZWYKMjQgI2RlZmkKMjUgI2RlZmkKMjYgI2RlZmkKMjcKMjggI2RlZmkKMjkgI2RlZmkKMzAgI2RlZmkKMzEgI2RlZmkKMzIgI2RlZmkKMzMgI2RlZmkKI2RlZmluZSAKMzYgI2RlZmkKMzcgI2RlZmkKMzggI2RlZmkKMzkKNDAgI2RlZmkKNDEgI2RlZmkKNDIgI2RlZmkKNDMgI2RlZmkKNDQgI2RlZmkKNDUKNDYgI2RlZmkKNDcgI2RlZmkKNDggI2RlZmkKNDkgI2RlZmkKNTAKNTEgI2RlZmkKNTIgI2RlZmkKNTMgI2RlZmkKNTQgI2RlZmkKI2RlZmluZSAKNTcgI2RlZmkKNTgKNTkgI2RlZmkKNjAgI2RlZmk=</text>
+        <text encoding="base64">aW5lCm5lIApuZSAKbmUgCm5lIApuZSAKbmUgCm5lIApuZSAKbmUg</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
