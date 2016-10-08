@@ -96,12 +96,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1475489972023">
-        <mark key="'" line="462" column="17" />
-        <mark key="[" line="516" column="30" />
-        <mark key="]" line="517" column="24" />
-        <mark key="." line="517" column="24" />
-        <mark key="^" line="517" column="24" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" timestamp="1475916889939">
+        <mark key="'" line="470" column="17" />
+        <mark key="[" line="370" column="52" />
+        <mark key="]" line="370" column="54" />
+        <mark key="^" line="370" column="54" />
+        <mark key="." line="370" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2ReadOpSpecResult.java" timestamp="1475835698311">
         <mark key="[" line="11" column="14" />
@@ -969,17 +969,20 @@
       <jump line="6" column="91" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/CommandParameter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vam1ldGhvZElEIG1JZCA9IGVudi0+R2V0TWV0aG9kSUQoZ19jdHguYXBpQ2xhc3MsICJPbkNhbGxiYWNrIiwgIihMamF2YS9sYW5nL09iamVjdDspViIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>c1G2EpcData</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;class eu.tss.results.GeneralDeviceCapabilities&quot;</text>
+        <text>c1G2EpcData</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vam1ldGhvZElEIG1JZCA9IGVudi0+R2V0TWV0aG9kSUQoZ19jdHguYXBpQ2xhc3MsICJPbkNhbGxiYWNrIiwgIihMamF2YS9sYW5nL09iamVjdDspViIpOwo=</text>
+      <register name="0" type="4">
+        <text>logMessage(&quot;\n[EPC] &quot; + epc.getEpcString());
+        if (mqt.isConnected()) {
+            mqt.publishString(epc.getEpcString());
+        }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -988,28 +991,28 @@
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CnR5cGVkZWYgc3RydWN0IE9uQ2FsbGJhY2tNZXRob2QgewogICAgamNsYXNzICAgICAgSkNsYXNzOwogICAgam1ldGhvZElEICAgT25DYWxsYmFjazsKfSBPbkNhbGxiYWNrTWV0aG9kX3Q7</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIE9uRVBDUmVjZWl2ZWQoZmluYWwgQzFHMkVwYyBlcGMpIHsKCiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE9uQ2FsbGJhY2tNZXRob2RfdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25jYWxsYmFja21ldGhvZDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlbXBMb2NhbENsYXNzUmVmID0gZW52LT5GaW5kQ2xhc3MoImV1L3Rzcy9yZXN1bHRzL0NvbW1hbmRSZXN1bHQiKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgbG9nTWVzc2FnZSgiXG5bRVBDXSAiICsgZXBjLmdldEVwY1N0cmluZygpKTsKICAgICAgICBpZiAobXF0LmlzQ29ubmVjdGVkKCkpIHsKICAgICAgICAgICAgbXF0LnB1Ymxpc2hTdHJpbmcoZXBjLmdldEVwY1N0cmluZygpKTsKICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdfY3R4Lm9uY2FsbGJhY2ttZXRob2QuSkNsYXNzID0gKGpjbGFzcykgZW52LT5OZXdHbG9iYWxSZWYodGVtcExvY2FsQ2xhc3NSZWYpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5yZXN1bHRzLkMxRzJFcGM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudi0+RGVsZXRlTG9jYWxSZWYodGVtcExvY2FsQ2xhc3NSZWYpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">CnR5cGVkZWYgc3RydWN0IE9uQ2FsbGJhY2tNZXRob2QgewogICAgamNsYXNzICAgICAgSkNsYXNzOwogICAgam1ldGhvZElEICAgT25DYWxsYmFjazsKfSBPbkNhbGxiYWNrTWV0aG9kX3Q7</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vam1ldGhvZElEIG1JZCA9IGVudi0+R2V0TWV0aG9kSUQoZ19jdHguYXBpQ2xhc3MsICJPbkNhbGxiYWNrIiwgIihMamF2YS9sYW5nL09iamVjdDspViIpOwo=</text>
+        <text encoding="base64">ICAgIE9uQ2FsbGJhY2tNZXRob2RfdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25jYWxsYmFja21ldGhvZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGptZXRob2RJRCBtSWQgPSBlbnYtPkdldE1ldGhvZElEKGdfY3R4LmFwaUNsYXNzLCAiT25DYWxsYmFjayIsICIoTGphdmEvbGFuZy9PYmplY3Q7KVYiKTsK</text>
+        <text encoding="base64">ICAgIHRlbXBMb2NhbENsYXNzUmVmID0gZW52LT5GaW5kQ2xhc3MoImV1L3Rzcy9yZXN1bHRzL0NvbW1hbmRSZXN1bHQiKTsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
