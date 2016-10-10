@@ -888,12 +888,12 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1476102541484">
-        <mark key="'" line="545" column="16" />
-        <mark key="[" line="501" column="12" />
-        <mark key="]" line="501" column="18" />
-        <mark key="^" line="501" column="18" />
-        <mark key="." line="501" column="18" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1476104262873">
+        <mark key="'" line="564" column="16" />
+        <mark key="[" line="676" column="0" />
+        <mark key="]" line="676" column="0" />
+        <mark key="^" line="316" column="0" />
+        <mark key="." line="676" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -1036,17 +1036,17 @@
       <jump line="521" column="16" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">amJ5dGUqIHdyaXRlRGF0YV8gPSBlbnYtPkdldEJ5dGVBcnJheUVsZW1lbnRzKHdyaXRlRGF0YSwgTlVMTCk7CiAgICAvL2NvbnN0IGNoYXIgKndyaXRlRGF0YV8gPSBlbnYtPkdldFN0cmluZ1VURkNoYXJzKHdyaXRlRGF0YSwgMCk7CgogICAgaW50IHJldFZhbHVlID0gdXJtc3BfQzFHMldyaXRlKGZsYWdzLHJlc2VydmVkLG9wU3BlY0lELGFjY2Vzc1Bhc3N3b3JkLE1CLHdvcmRQb2ludGVyLHdvcmRDb3VudCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoY2hhciopd3JpdGVEYXRhXyk7CgogICAgZW52LT5SZWxlYXNlQnl0ZUFycmF5RWxlbWVudHMod3JpdGVEYXRhLCB3cml0ZURhdGFfLCAwKTsKICAgIC8vZW52LT5SZWxlYXNlU3RyaW5nVVRGQ2hhcnMod3JpdGVEYXRhLCB3cml0ZURhdGFfKTsKICAgIHJldHVybiByZXRWYWx1ZTs=</text>
+        <text encoding="base64">IGpieXRlKiBtZXNzYWdlXyA9IGVudi0+R2V0Qnl0ZUFycmF5RWxlbWVudHMobWVzc2FnZSxOVUxMKTsKCiAgICBpbnQgcmV0VmFsdWUgPSB1cm1zcF9DMUcyVjJBdXRoZW50aWNhdGVBbmRSZXBseShmbGFncyxyZXNlcnZlZCxvcFNwZWNJRCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjY2Vzc1Bhc3N3b3JkLGNzaSxtZXNzYWdlTGVuZ3RoLChjaGFyKiltZXNzYWdlXyk7CgogICAgZW52LT5SZWxlYXNlQnl0ZUFycmF5RWxlbWVudHMobWVzc2FnZSxtZXNzYWdlXywwKTsKCiAgICByZXR1cm4gcmV0VmFsdWU7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1057,29 +1057,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoY2hhciopd3JpdGVEYXRhXyk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IHVybXNwX0MxRzJXcml0ZShmbGFncyxyZXNlcnZlZCxvcFNwZWNJRCxhY2Nlc3NQYXNzd29yZCxNQix3b3JkUG9pbnRlcix3b3JkQ291bnQsCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vZW52LT5SZWxlYXNlU3RyaW5nVVRGQ2hhcnMod3JpdGVEYXRhLCB3cml0ZURhdGFfKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoY2hhciopd3JpdGVEYXRhXyk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>LOGD(&quot;FLOW: Java_eu_tss_apicore_TSSAPICoreJNI_urmsp_1C1G2BlockWrite&quot;);
-    return urmsp_C1G2BlockWrite(flags,reserved,opSpecID,
-                                accessPassword,MB,writeDataWordPointer,
-                                wordCount,writeData_);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IHVybXNwX0MxRzJXcml0ZShmbGFncyxyZXNlcnZlZCxvcFNwZWNJRCxhY2Nlc3NQYXNzd29yZCxNQix3b3JkUG9pbnRlcix3b3JkQ291bnQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoY2hhciopd3JpdGVEYXRhXyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vZW52LT5SZWxlYXNlU3RyaW5nVVRGQ2hhcnMod3JpdGVEYXRhLCB3cml0ZURhdGFfKTsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
