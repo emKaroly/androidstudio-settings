@@ -888,12 +888,12 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1476101666034">
-        <mark key="'" line="528" column="16" />
-        <mark key="[" line="457" column="11" />
-        <mark key="]" line="457" column="18" />
-        <mark key="^" line="457" column="18" />
-        <mark key="." line="457" column="18" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1476102541484">
+        <mark key="'" line="545" column="16" />
+        <mark key="[" line="501" column="12" />
+        <mark key="]" line="501" column="18" />
+        <mark key="^" line="501" column="18" />
+        <mark key="." line="501" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -1036,11 +1036,11 @@
       <jump line="521" column="16" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>jJava_eu_tss_apicore_TSSAPICoreJNI_urmsp_1C1G2LockPayload</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
@@ -1055,31 +1055,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoY2hhciopd3JpdGVEYXRhXyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IHVybXNwX0MxRzJXcml0ZShmbGFncyxyZXNlcnZlZCxvcFNwZWNJRCxhY2Nlc3NQYXNzd29yZCxNQix3b3JkUG9pbnRlcix3b3JkQ291bnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoY2hhciopd3JpdGVEYXRhXyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vZW52LT5SZWxlYXNlU3RyaW5nVVRGQ2hhcnMod3JpdGVEYXRhLCB3cml0ZURhdGFfKTsK</text>
+        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IHVybXNwX0MxRzJXcml0ZShmbGFncyxyZXNlcnZlZCxvcFNwZWNJRCxhY2Nlc3NQYXNzd29yZCxNQix3b3JkUG9pbnRlcix3b3JkQ291bnQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vZW52LT5SZWxlYXNlU3RyaW5nVVRGQ2hhcnMod3JpdGVEYXRhLCB3cml0ZURhdGFfKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>LOGD(&quot;FLOW: Java_eu_tss_apicore_TSSAPICoreJNI_urmsp_1C1G2BlockWrite&quot;);
     return urmsp_C1G2BlockWrite(flags,reserved,opSpecID,
                                 accessPassword,MB,writeDataWordPointer,
                                 wordCount,writeData_);</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoY2hhciopd3JpdGVEYXRhXyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IHVybXNwX0MxRzJXcml0ZShmbGFncyxyZXNlcnZlZCxvcFNwZWNJRCxhY2Nlc3NQYXNzd29yZCxNQix3b3JkUG9pbnRlcix3b3JkQ291bnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoY2hhciopd3JpdGVEYXRhXyk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
