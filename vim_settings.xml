@@ -192,11 +192,11 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1476178003479">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="196" column="27" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1476178606975">
+        <mark key="[" line="220" column="16" />
+        <mark key="]" line="220" column="61" />
+        <mark key="^" line="220" column="61" />
+        <mark key="." line="220" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MQTTSettings_Frag.java" timestamp="1471873038652">
         <mark key="[" line="21" column="22" />
@@ -813,6 +813,11 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/com/lairdtech/ui/FoundDeviceDialogCallback.java" timestamp="1476178520110">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1475918536022">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1053,11 +1058,11 @@
       <jump line="521" column="16" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
@@ -1065,13 +1070,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbU11bHRpdGFnID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IEt5bGUgb24gMjEvMDQvMTYuCiAqLw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>/*
  * Copyright (C) 2016 The Android Open Source Project
  *
@@ -1088,26 +1099,20 @@
  * limitations under the License.
  */</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBvblNlbmQobmV3IEFJU3BlY1N0b3BUcmlnZ2VyUGFyYW1ldGVycygpLG5ldyBTdGFydFJPU3BlY1BhcmFtZXRlcnMoKSk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjbWQxCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBDb21tYW5kUGFyYW1ldGVyW10gY21kcyA9IG5ldyBDb21tYW5kUGFyYW1ldGVyWzJdOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTdGFydFJPU3BlY1BhcmFtZXRlcnMgY21kMiA9IG5ldyBTdGFydFJPU3BlY1BhcmFtZXRlcnMoKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QUlTcGVjU3RvcFRyaWdnZXJQYXJhbWV0ZXJzIGNtZDEgPSBuZXcgQUlTcGVjU3RvcFRyaWdnZXJQYXJhbWV0ZXJzKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0c3NhcGlibGUudGVzdEZ1bmN0aW9uKCIiKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUlTcGVjU3RvcFRyaWdnZXJQYXJhbWV0ZXJzIGNtZDEgPSBuZXcgQUlTcGVjU3RvcFRyaWdnZXJQYXJhbWV0ZXJzKCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
