@@ -192,11 +192,11 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1476176995079">
-        <mark key="[" line="208" column="8" />
-        <mark key="]" line="208" column="0" />
-        <mark key="^" line="215" column="3" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/com/example/hellolibs/MainActivity.java" timestamp="1476178003479">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="196" column="27" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/fragments/MQTTSettings_Frag.java" timestamp="1471873038652">
         <mark key="[" line="21" column="22" />
@@ -1054,46 +1054,60 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0c3NhcGlibGUudGVzdEZ1bmN0aW9uKCIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKHJlc3VsdC50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU11bHRpdGFnID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0c3NhcGlibGUudGVzdEZ1bmN0aW9uKCIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>/*
+ * Copyright (C) 2016 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an &quot;AS IS&quot; BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgbG9nTWVzc2FnZShmaW5hbCBTdHJpbmcgbWVzc2FnZSl7CiAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBsb2dWaWV3LmFwcGVuZCgiXG4iICsgbWVzc2FnZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0K</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvblNlbmQobmV3IEFJU3BlY1N0b3BUcmlnZ2VyUGFyYW1ldGVycygpLG5ldyBTdGFydFJPU3BlY1BhcmFtZXRlcnMoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbWQxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIm9uQ3JlYXRlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21tYW5kUGFyYW1ldGVyW10gY21kcyA9IG5ldyBDb21tYW5kUGFyYW1ldGVyWzJdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Rzc2FwaWJsZS51cm1zcF9TdGFydFJPU3BlYygia2t0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdGFydFJPU3BlY1BhcmFtZXRlcnMgY21kMiA9IG5ldyBTdGFydFJPU3BlY1BhcmFtZXRlcnMoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NldENvbnRlbnRWaWV3KHR2KTsK</text>
+        <text encoding="base64">QUlTcGVjU3RvcFRyaWdnZXJQYXJhbWV0ZXJzIGNtZDEgPSBuZXcgQUlTcGVjU3RvcFRyaWdnZXJQYXJhbWV0ZXJzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL3R2LnNldFRleHQoIHN0cmluZ0Zyb21KTkkoKSApOwo=</text>
+        <text encoding="base64">ICAgICAgICB0c3NhcGlibGUudGVzdEZ1bmN0aW9uKCIiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5yZXN1bHRzLkNvbW1hbmRSZXN1bHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
