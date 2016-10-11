@@ -491,6 +491,11 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/com/lairdtech/ui/FoundDevicesDialog.java" timestamp="1476189322935">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketer.cpp" timestamp="1471611129380">
         <mark key="[" line="21" column="8" />
       </file>
@@ -625,11 +630,11 @@
         <mark key="." line="73" column="55" />
         <mark key="^" line="73" column="55" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1476180929417">
-        <mark key="[" line="182" column="34" />
-        <mark key="]" line="182" column="23" />
-        <mark key="^" line="182" column="23" />
-        <mark key="." line="182" column="23" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1476189605890">
+        <mark key="[" line="60" column="64" />
+        <mark key="]" line="61" column="7" />
+        <mark key="^" line="61" column="7" />
+        <mark key="." line="61" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470912312501">
         <mark key="[" line="5" column="0" />
@@ -932,6 +937,12 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/com/lairdtech/bt/BluetoothAdapterHelper.java" timestamp="1476189248059">
+        <mark key="[" line="81" column="19" />
+        <mark key="]" line="81" column="42" />
+        <mark key="^" line="81" column="42" />
+        <mark key="." line="81" column="42" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketParser.cpp" timestamp="1469699376814">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="26" />
@@ -1049,11 +1060,11 @@
       <jump line="521" column="16" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuVFNTQVBJQ2FsbGJhY2s7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IEt5bGUgb24gMjEvMDQvMTYuCiAqLw==</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
@@ -1061,81 +1072,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtTGlzdGVuZXIuT25SZXN1bHRSZWNlaXZlZChyZXN1bHQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuVFNTQVBJQ2FsbGJhY2s7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IEt5bGUgb24gMjEvMDQvMTYuCiAqLw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5yZXN1bHRzLkMxRzJFcGNEYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICBtQVBJQ2FsbGJhY2tIYW5kbGVyID0gbmV3IEFQSUNhbGxiYWNrSGFuZGxlcih0aGlzKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>;
-import eu.tss.results.C1G2Epc_96;
-import eu.tss.results.C1G2KillOpSpecResult;
-import eu.tss.results.C1G2LockOpSpecResult;
-import eu.tss.results.C1G2ReadOpSpecResult;
-import eu.tss.results.C1G2WriteOpSpecResult;
-import eu.tss.results.GeneralDeviceCapabilities;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQVBJQ2FsbGJhY2tIYW5kbGVyIG1BUElDYWxsYmFja0hhbmRsZXIgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUU1NBUElDYWxsYmFjaywK</text>
+        <text encoding="base64">ICAgICAgICB0aWNrVmlldyA9IChUZXh0VmlldylmaW5kVmlld0J5SWQoUi5pZC50ZXh0Vmlld1RpY2spOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgT25SZXN1bHRSZWNlaXZlZChTdHJpbmcgbXNnKSB7CiAgICAgICAgbG9nTWVzc2FnZShtc2cpOwogICAgfQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRGlzY29ubmVjdCgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>@Override
-    public void OnGeneralDeviceCapabilities(final GeneralDeviceCapabilities result) {
-
-        logMessage(result.toString());
-    }
-
-    @Override
-    public void OnEPC_96Received(final C1G2Epc_96 epc) {
-
-        logMessage(epc.getEpcString());
-    }
-
-    @Override
-    public void OnEPCDataReceived(final C1G2EpcData epc) {
-
-        logMessage(epc.getEpcString());
-    }
-
-    @Override
-    public void OnC1G2ReadOpSpecResult(final C1G2ReadOpSpecResult result) {
-
-        logMessage(result.toString() + &quot;\nResultString: &quot; + tssapible.getResultString(349,result.getResult()));
-    }
-
-    @Override
-    public void OnC1G2WriteOpSpecResult(final C1G2WriteOpSpecResult result) {
-
-        logMessage(result.toString());
-    }
-
-    @Override
-    public void OnC1G2KillOpSpecResult(C1G2KillOpSpecResult result) {
-
-        logMessage(result.toString());
-    }
-
-    @Override
-    public void OnC1G2LockOpSpecResult(C1G2LockOpSpecResult result) {
-
-        logMessage(result.toString());
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0c3NhcGlibGUuZGlzY29ubmVjdERldmljZSgpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
