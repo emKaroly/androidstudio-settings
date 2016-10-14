@@ -296,6 +296,9 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.h" timestamp="1476442054526">
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/MyApplication/app/build.gradle" timestamp="1472197161288">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -948,11 +951,11 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1476440532775">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1476442203078">
         <mark key="[" line="26" column="13" />
-        <mark key="]" line="40" column="1" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+        <mark key="]" line="949" column="20" />
+        <mark key="." line="949" column="20" />
+        <mark key="^" line="949" column="20" />
       </file>
       <file name="/fragment.mm" timestamp="1470833744783">
         <mark key="[" line="0" column="0" />
