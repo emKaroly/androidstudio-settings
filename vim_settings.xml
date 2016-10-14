@@ -296,8 +296,10 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.h" timestamp="1476452425967">
-        <mark key="[" line="6" column="15" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.h" timestamp="1476453723134">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/MyApplication/app/build.gradle" timestamp="1472197161288">
         <mark key="[" line="18" column="0" />
@@ -498,10 +500,11 @@
         <mark key="^" line="36" column="59" />
         <mark key="." line="36" column="59" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1476440590595">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1476453979470">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="11" />
+        <mark key="^" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Logs.h" timestamp="1467365473237">
         <mark key="[" line="21" column="1" />
@@ -535,11 +538,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.cpp" timestamp="1471602710215">
-        <mark key="[" line="64" column="67" />
-        <mark key="]" line="64" column="43" />
-        <mark key="^" line="64" column="43" />
-        <mark key="." line="64" column="43" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.cpp" timestamp="1476453787813">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/settings.gradle" timestamp="1476174770231">
         <mark key="[" line="0" column="0" />
@@ -951,13 +953,13 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1476442203078">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="949" column="20" />
-        <mark key="." line="949" column="20" />
-        <mark key="^" line="949" column="20" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1476455086797">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="3" />
+        <mark key="." line="62" column="3" />
+        <mark key="^" line="62" column="3" />
       </file>
-      <file name="/fragment.mm" timestamp="1470833744783">
+      <file name="/fragment.mm" timestamp="1476453773031">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.h" timestamp="1476171624306">
@@ -1120,7 +1122,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CnZvaWQgSURldmljZTo6c2V0RGV2aWNlU3RhdHVzKFN0YXR1cyBzdGF0dXMpIHsKICAgIG1EZXZpY2VTdGF0dXMuc3RvcmUoc3RhdHVzKTsKfQoKU3RhdHVzIElEZXZpY2U6OmdldERldmljZVN0YXR1cygpIHsKICAgIHJldHVybiBtRGV2aWNlU3RhdHVzLmxvYWQoKTsKfQoKdm9pZCBJRGV2aWNlOjpzZXREZXZpY2VTdGF0dXMoaW50IHN0YXR1c0NvZGUpIHsKICAgIGlmKHN0YXR1c0NvZGUgPT0gMCl7CiAgICAgICAgbURldmljZVN0YXR1cy5zdG9yZShDb25uZWN0ZWQpOwogICAgfWVsc2V7CiAgICAgICAgbURldmljZVN0YXR1cy5zdG9yZShEaXNjb25uZWN0ZWQpOwogICAgfQp9</text>
+        <text encoding="base64">Ly9DaGVjayBDb25uZWN0aW9uCiAgICBpZihnZXREZXZpY2VTdGF0dXMoKSAhPSBDb25uZWN0ZWQpewogICAgICAgIHJldHVybiBUU1NVUk1FcnJvck1lc3NhZ2UoVFNTVVJNQ29tbXVuaWNhdGlvbkVycm9yOjpOT1RfQ09OTkVDVEVEKS5nZXRFcnJvckNvZGUoKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>btcb</text>
@@ -1128,38 +1130,55 @@
       <register name="/" type="4">
         <text>(</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0RGV2aWNlU3RhdHVzKFN0YXR1cyBzdGF0dXMpOwo=</text>
+      <register name="0" type="4">
+        <text>//Send packet
+    LOGD(&quot;urmsp_GetReaderCapabilities: SendDataCallback&quot;);
+    SendMsg(packet);
+
+    //Wait for and Get response
+    LOGD(&quot;urmsp_GetReaderCapabilities: waitForResponse&quot;);
+    if(waitForResponse(500) == 0){
+
+        TSSURMErrorMessage error(URMSP_LLRPSTATUS,mLLRPStatus.statusCode.word);
+
+        LOGD(&quot;urmsp_GetReaderCapabilities LLRP Status: %d&quot;,mLLRPStatus.statusCode.word);
+        LOGD(&quot;urmsp_GetReaderCapabilities LLRP Status: %s, %s&quot;,error.getErrorTypeString().c_str(), error.getErrorMessageString().c_str());
+        return error.getErrorCode();
+    } else{
+
+        TSSURMErrorMessage error(TSSURMCommunicationError::COMMUNICATION_TIMEOUT);
+        return error.getErrorCode();
+    }</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CnZvaWQgSURldmljZTo6c2V0RGV2aWNlU3RhdHVzKFN0YXR1cyBzdGF0dXMpIHsKICAgIG1EZXZpY2VTdGF0dXMuc3RvcmUoc3RhdHVzKTsKfQoKU3RhdHVzIElEZXZpY2U6OmdldERldmljZVN0YXR1cygpIHsKICAgIHJldHVybiBtRGV2aWNlU3RhdHVzLmxvYWQoKTsKfQoKdm9pZCBJRGV2aWNlOjpzZXREZXZpY2VTdGF0dXMoaW50IHN0YXR1c0NvZGUpIHsKICAgIGlmKHN0YXR1c0NvZGUgPT0gMCl7CiAgICAgICAgbURldmljZVN0YXR1cy5zdG9yZShDb25uZWN0ZWQpOwogICAgfWVsc2V7CiAgICAgICAgbURldmljZVN0YXR1cy5zdG9yZShEaXNjb25uZWN0ZWQpOwogICAgfQp9</text>
+        <text encoding="base64">Ly9DaGVjayBDb25uZWN0aW9uCiAgICBpZihnZXREZXZpY2VTdGF0dXMoKSAhPSBDb25uZWN0ZWQpewogICAgICAgIHJldHVybiBUU1NVUk1FcnJvck1lc3NhZ2UoVFNTVVJNQ29tbXVuaWNhdGlvbkVycm9yOjpOT1RfQ09OTkVDVEVEKS5nZXRFcnJvckNvZGUoKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKGdldERldmljZVN0YXR1cygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGF0b21pYz4K</text>
+        <text encoding="base64">ICAgIExPR0QoInVybXNwX0dldFJlYWRlckNhcGFiaWxpdGllczogd2FpdEZvclJlc3BvbnNlIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0QoInVybXNwX0dldFJlYWRlckNhcGFiaWxpdGllczogU2VuZERhdGFDYWxsYmFjayIpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmludCBUU1NVUk1SZWFkZXI6OnNlbmRDb21tYW5kKFRTU1VSTVBhY2tldCBwYWNrZXQpIHsKICAgIAogICAgCiAgICByZXR1cm4gMDsKfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmludCBUU1NVUk1SZWFkZXI6OnNlbmRDb21tYW5kKFRTU1VSTVBhY2tldCBwYWNrZXQpIHsKICAgIHJldHVybiAwOwp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6YXRvbWljPFN0YXR1cz4gbURldmljZVN0YXR1czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgdm9pZCBzZXREZXZpY2VTdGF0dXMoU3RhdHVzIHN0YXR1cyk7CiAgICB2b2lkIHNldERldmljZVN0YXR1cyhpbnQgc3RhdHVzQ29kZSk7CiAgICBTdGF0dXMgZ2V0RGV2aWNlU3RhdHVzKCk7CiAg</text>
+        <text encoding="base64">Cmxvbmcgc2V0RXJyb3JUeXBlU3RyaW5nKCkgewogICAgcmV0dXJuIDA7Cn0=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
