@@ -112,8 +112,8 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1476433399586">
-        <mark key="[" line="154" column="66" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1476434306332">
+        <mark key="[" line="173" column="15" />
         <mark key="]" line="155" column="8" />
         <mark key="." line="155" column="8" />
         <mark key="^" line="155" column="8" />
@@ -942,10 +942,10 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1476171137923">
-        <mark key="[" line="966" column="0" />
-        <mark key="]" line="966" column="0" />
-        <mark key="." line="966" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1476435453441">
+        <mark key="[" line="937" column="57" />
+        <mark key="]" line="969" column="0" />
+        <mark key="." line="969" column="0" />
       </file>
       <file name="/fragment.mm" timestamp="1470833744783">
         <mark key="[" line="0" column="0" />
@@ -956,8 +956,8 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1476104262873">
-        <mark key="[" line="676" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1476434796330">
+        <mark key="[" line="164" column="4" />
         <mark key="]" line="676" column="0" />
         <mark key="." line="676" column="0" />
       </file>
