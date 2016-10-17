@@ -600,10 +600,10 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/build.gradle" timestamp="1476174861326">
-        <mark key="[" line="85" column="5" />
-        <mark key="]" line="55" column="53" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/build.gradle" timestamp="1476699240493">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="91" column="7" />
+        <mark key="." line="89" column="0" />
         <mark key="^" line="54" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2Epc.java" timestamp="1470139814292">
@@ -818,8 +818,11 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/AndroidManifest.xml" timestamp="1476179583460">
-        <mark key="[" line="10" column="48" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/AndroidManifest.xml" timestamp="1476699035502">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/qdebug2logcat.h" timestamp="1467879025878">
         <mark key="[" line="3" column="0" />
@@ -1125,8 +1128,8 @@
       <jump line="19" column="1" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGVudW0gRGV2aWNlU3RhdHVzIHsKICAgICAgICBDb25uZWN0ZWQgPSAwLAogICAgICAgIERpc2Nvbm5lY3RlZCA9IDEKICAgIH07Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vZnJvbShjb25maWcucXRDb3JlTGliKSB7CiAgICAvLyAgICBpbnRvICdsaWIvYXJtZWFiaS12N2EnCiAgICAvL30K</text>
       </register>
       <register name="-" type="4">
         <text>SERIALPORTERROR</text>
@@ -1137,16 +1140,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBzZW5kUGFja2V0KHBhY2tldCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGVudW0gRGV2aWNlU3RhdHVzIHsKICAgICAgICBDb25uZWN0ZWQgPSAwLAogICAgICAgIERpc2Nvbm5lY3RlZCA9IDEKICAgIH07Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vZnJvbShjb25maWcucXRDb3JlTGliKSB7CiAgICAvLyAgICBpbnRvICdsaWIvYXJtZWFiaS12N2EnCiAgICAvL30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGVudW0gRGV2aWNlU3RhdHVzIHsKICAgICAgICBDb25uZWN0ZWQgPSAwLAogICAgICAgIERpc2Nvbm5lY3RlZCA9IDEKICAgIH07Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>SendMsg(packet);
 
     //Wait for and Get response
@@ -1166,10 +1172,10 @@
         return error.getErrorCode();
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>SendMsg(packet);
 
     //Wait for and Get response
@@ -1186,10 +1192,10 @@
         return error.getErrorCode();
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>SendMsg(packet);
 
     //Wait for and Get response
@@ -1207,26 +1213,8 @@
         return error.getErrorCode();
     }</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>SendMsg(packet);
-
-    //Wait for and Get response
-    LOGD(&quot;urmsp_SetPeripherials: waitForResponse&quot;);
-    if(waitForResponse(500) == 0){
-
-        TSSURMErrorMessage error(URMSP_LLRPSTATUS,mLLRPStatus.statusCode.word);
-
-        LOGD(&quot;urmsp_SetPeripherials LLRP Status: %d&quot;,mLLRPStatus.statusCode.word);
-        LOGD(&quot;urmsp_SetPeripherials LLRP Status: %s, %s&quot;,error.getErrorTypeString().c_str(), error.getErrorMessageString().c_str());
-        return error.getErrorCode();
-    } else{
-
-        TSSURMErrorMessage error(TSSURMCommunicationError::COMMUNICATION_TIMEOUT);
-        return error.getErrorCode();
-    }</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
