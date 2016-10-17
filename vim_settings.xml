@@ -676,12 +676,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="60" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1476700012965">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1476713754693">
         <mark key="'" line="56" column="35" />
-        <mark key="[" line="67" column="25" />
-        <mark key="]" line="67" column="48" />
-        <mark key="^" line="67" column="48" />
-        <mark key="." line="67" column="48" />
+        <mark key="[" line="109" column="25" />
+        <mark key="]" line="323" column="0" />
+        <mark key="." line="323" column="0" />
+        <mark key="^" line="319" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470912312501">
         <mark key="[" line="5" column="0" />
@@ -1130,7 +1130,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvbkRldmljZVN0YXR1c0NoYW5nZWQoMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>NO RESPONSE FROM READER</text>
@@ -1148,15 +1148,27 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vZnJvbShjb25maWcucXRDb3JlTGliKSB7CiAgICAvLyAgICBpbnRvICdsaWIvYXJtZWFiaS12N2EnCiAgICAvL30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGVudW0gRGV2aWNlU3RhdHVzIHsKICAgICAgICBDb25uZWN0ZWQgPSAwLAogICAgICAgIERpc2Nvbm5lY3RlZCA9IDEKICAgIH07Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dNZXNzYWdlKHN0YXR1cyk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnRhLnNldEJsZVNjYW5UaW1lb3V0KDUpOwogICAgICAgICAgICBidGEuc2V0QmxlU2NhblBlcmlvZGljYWxJbnRlcnZhbCgzMCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vZnJvbShjb25maWcucXRDb3JlTGliKSB7CiAgICAvLyAgICBpbnRvICdsaWIvYXJtZWFiaS12N2EnCiAgICAvL30K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGVudW0gRGV2aWNlU3RhdHVzIHsKICAgICAgICBDb25uZWN0ZWQgPSAwLAogICAgICAgIERpc2Nvbm5lY3RlZCA9IDEKICAgIH07Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>SendMsg(packet);
 
     //Wait for and Get response
@@ -1169,47 +1181,6 @@
         LOGD(&quot;urmsp_GetROSpecs LLRP Status: %d&quot;,mLLRPStatus.statusCode.word);
         LOGD(&quot;urmsp_GetROSpecs LLRP Status: %s, %s&quot;,error.getErrorTypeString().c_str(), error.getErrorMessageString().c_str());
 
-        return error.getErrorCode();
-    } else{
-
-        TSSURMErrorMessage error(TSSURMCommunicationError::COMMUNICATION_TIMEOUT);
-        return error.getErrorCode();
-    }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>SendMsg(packet);
-
-    //Wait for and Get response
-    LOGD(&quot;urmsp_StartROSpec: waitForResponse&quot;);
-    if(waitForResponse(500) == 0){
-
-        TSSURMErrorMessage error(URMSP_LLRPSTATUS,mLLRPStatus.statusCode.word);
-        LOGD(&quot;LLRP code: %d&quot;,mLLRPStatus.statusCode.word);
-
-        return error.getErrorCode();
-    } else{
-
-        TSSURMErrorMessage error(TSSURMCommunicationError::COMMUNICATION_TIMEOUT);
-        return error.getErrorCode();
-    }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>SendMsg(packet);
-
-    //Wait for and Get response
-    LOGD(&quot;urmsp_SetPowerMode: waitForResponse&quot;);
-    if(waitForResponse(500) == 0){
-
-        TSSURMErrorMessage error(URMSP_LLRPSTATUS,mLLRPStatus.statusCode.word);
-
-        LOGD(&quot;urmsp_SetPowerMode LLRP Status: %d&quot;,mLLRPStatus.statusCode.word);
-        LOGD(&quot;urmsp_SetPowerMode LLRP Status: %s, %s&quot;,error.getErrorTypeString().c_str(), error.getErrorMessageString().c_str());
         return error.getErrorCode();
     } else{
 
