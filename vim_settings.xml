@@ -459,6 +459,10 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" timestamp="1476883262134">
+        <mark key="'" line="720" column="54" />
+        <mark key="n" line="104" column="41" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/eu/tss/apicommon/C1G2WriteOpSpecResult.java" timestamp="1469712748048">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="22" />
@@ -1033,12 +1037,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="55" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="103" column="10" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="58" column="22" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
-      <jump line="74" column="22" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
-      <jump line="334" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="396" column="1" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="397" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="398" column="68" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="55" column="35" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/TSSAPI.java" />
@@ -1133,6 +1131,12 @@
       <jump line="634" column="46" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
       <jump line="635" column="46" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
       <jump line="637" column="28" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="98" column="19" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
+      <jump line="104" column="41" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
+      <jump line="166" column="7" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
+      <jump line="175" column="67" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
+      <jump line="683" column="7" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
+      <jump line="720" column="54" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1142,7 +1146,7 @@
         <text>NO RESPONSE FROM READER</text>
       </register>
       <register name="/" type="4">
-        <text>connect</text>
+        <text>onClient</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU2lsZW50IFJlY29ubmVjdCIpOwo=</text>
@@ -1188,9 +1192,9 @@
       </register>
     </registers>
     <search>
-      <last-search>connect</last-search>
+      <last-search>onClient</last-search>
       <last-offset />
-      <last-pattern>connect</last-pattern>
+      <last-pattern>onClient</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1198,9 +1202,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\%VQbyteArray</entry>
-        <entry>memcpy</entry>
-        <entry>lock</entry>
         <entry encoding="base64">XDxjMWcybG9ja1w+</entry>
         <entry>9</entry>
         <entry>J</entry>
@@ -1218,6 +1219,9 @@
         <entry>onSend</entry>
         <entry>onSendCommand</entry>
         <entry>connect</entry>
+        <entry>client</entry>
+        <entry>onClientRegistered</entry>
+        <entry>onClient</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
