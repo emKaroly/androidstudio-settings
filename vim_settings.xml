@@ -1001,6 +1001,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" timestamp="1476882928349">
+        <mark key="'" line="637" column="28" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/gperf/build.gradle" timestamp="1468934326708">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="64" />
@@ -1030,31 +1033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="25" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" />
-      <jump line="37" column="4" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" />
-      <jump line="36" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" />
-      <jump line="153" column="33" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="1" column="13" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2ReadOpSpecResult.java" />
-      <jump line="602" column="52" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="647" column="92" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="648" column="6" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="699" column="66" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="795" column="100" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="820" column="81" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="821" column="6" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="869" column="68" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="870" column="6" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="906" column="74" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="907" column="6" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="582" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" />
-      <jump line="62" column="10" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
-      <jump line="287" column="8" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
-      <jump line="282" column="39" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" />
-      <jump line="822" column="28" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" />
-      <jump line="827" column="13" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" />
-      <jump line="876" column="57" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.cpp" />
-      <jump line="101" column="56" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="102" column="55" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="103" column="10" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="58" column="22" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
@@ -1130,6 +1108,31 @@
       <jump line="19" column="1" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMErrorMessage.cpp" />
       <jump line="31" column="20" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="56" column="35" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="38" column="19" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="87" column="24" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="94" column="44" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="95" column="54" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="101" column="73" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="102" column="56" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="104" column="73" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="109" column="74" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="145" column="44" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="167" column="22" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="171" column="56" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="177" column="35" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="186" column="24" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="481" column="57" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="617" column="18" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="619" column="14" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="622" column="24" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="624" column="67" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="625" column="68" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="627" column="7" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="628" column="18" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="633" column="38" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="634" column="46" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="635" column="46" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
+      <jump line="637" column="28" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1139,7 +1142,7 @@
         <text>NO RESPONSE FROM READER</text>
       </register>
       <register name="/" type="4">
-        <text>onSendCommand</text>
+        <text>connect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU2lsZW50IFJlY29ubmVjdCIpOwo=</text>
@@ -1185,9 +1188,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onSendCommand</last-search>
+      <last-search>connect</last-search>
       <last-offset />
-      <last-pattern>onSendCommand</last-pattern>
+      <last-pattern>connect</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1195,7 +1198,6 @@
     </search>
     <history>
       <history-search>
-        <entry>epcStruct</entry>
         <entry>\%VQbyteArray</entry>
         <entry>memcpy</entry>
         <entry>lock</entry>
@@ -1215,6 +1217,7 @@
         <entry>(</entry>
         <entry>onSend</entry>
         <entry>onSendCommand</entry>
+        <entry>connect</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
