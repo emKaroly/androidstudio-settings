@@ -1146,7 +1146,7 @@
         <text>NO RESPONSE FROM READER</text>
       </register>
       <register name="/" type="4">
-        <text>onClient</text>
+        <text>failed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU2lsZW50IFJlY29ubmVjdCIpOwo=</text>
@@ -1192,9 +1192,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onClient</last-search>
+      <last-search>failed</last-search>
       <last-offset />
-      <last-pattern>onClient</last-pattern>
+      <last-pattern>failed</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1202,7 +1202,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjMWcybG9ja1w+</entry>
         <entry>9</entry>
         <entry>J</entry>
         <entry>{</entry>
@@ -1222,6 +1221,7 @@
         <entry>client</entry>
         <entry>onClientRegistered</entry>
         <entry>onClient</entry>
+        <entry>failed</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
