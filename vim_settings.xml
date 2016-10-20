@@ -66,11 +66,11 @@
         <mark key="^" line="30" column="11" />
         <mark key="." line="30" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/res/layout/activity_main.xml" timestamp="1470207948501">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="40" />
-        <mark key="^" line="40" column="49" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/res/layout/activity_main.xml" timestamp="1476966440633">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/SetPowerModeParameters.java" timestamp="1475412258443">
         <mark key="[" line="9" column="14" />
@@ -422,6 +422,12 @@
         <mark key="]" line="39" column="17" />
         <mark key="^" line="39" column="17" />
         <mark key="." line="39" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/res/menu/menu.xml" timestamp="1476966653523">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPct.h" timestamp="1470394088078">
         <mark key="[" line="7" column="12" />
@@ -1149,7 +1155,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>swipe3</text>
+        <text>action_usb_disconnect</text>
       </register>
       <register name="/" type="4">
         <text>failed</text>
@@ -1164,28 +1170,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL2ljX2Jsb2NrX2JsYWNrXzQ4ZHAiCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICA8aXRlbQogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2JsdWV0b290aEJhdHRlcnkiCiAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvYmF0dGVyeV8wMF93aGl0ZSIKICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9ibHVldG9vdGhCYXR0ZXJ5IgogICAgICAgIGFwcDpzaG93QXNBY3Rpb249ImFsd2F5cyI+CgogICAgICAgICAgICA8aXRlbQogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpb25fYmx1ZXRvb3RoX2Nvbm5lY3QiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19ibHVldG9vdGhfY29ubmVjdGVkX2JsYWNrXzQ4ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9jb24iLz4KICAgICAgICAgICAgPGl0ZW0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2JsdWV0b290aF9kaXNjb25uZWN0IgogICAgICAgICAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvaWNfYmx1ZXRvb3RoX2Rpc2FibGVkX2JsYWNrXzQ4ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9kYyIvPgogICAgICAgICAgICA8aXRlbQogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpb25fYmx1ZXRvb3RoX3NldHRpbmdzIgogICAgICAgICAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvaWNfc2V0dGluZ3NfYmx1ZXRvb3RoX2JsYWNrXzQ4ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9zZXR0aW5ncyIvPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL2ljX2RvbmVfYmxhY2tfNDhkcCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY191c2Jfd2hpdGVfNDhkcCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvaXRlbT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L21lbnU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICA8aXRlbQogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2JsdWV0b290aCIKICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19ibHVldG9vdGhfZGlzYWJsZWRfd2hpdGVfNDhkcCIKICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9ibHVldG9vdGgiCiAgICAgICAgYXBwOnNob3dBc0FjdGlvbj0iYWx3YXlzIj4KICAgICAgICA8bWVudT4=</text>
+        <text encoding="base64">CiAgICA8aXRlbQogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2JsdWV0b290aEJhdHRlcnkiCiAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvYmF0dGVyeV8wMF93aGl0ZSIKICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9ibHVldG9vdGhCYXR0ZXJ5IgogICAgICAgIGFwcDpzaG93QXNBY3Rpb249ImFsd2F5cyI+CgogICAgICAgICAgICA8aXRlbQogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpb25fYmx1ZXRvb3RoX2Nvbm5lY3QiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmljb249IkBkcmF3YWJsZS9pY19ibHVldG9vdGhfY29ubmVjdGVkX2JsYWNrXzQ4ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9jb24iLz4KICAgICAgICAgICAgPGl0ZW0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2JsdWV0b290aF9kaXNjb25uZWN0IgogICAgICAgICAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvaWNfYmx1ZXRvb3RoX2Rpc2FibGVkX2JsYWNrXzQ4ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9kYyIvPgogICAgICAgICAgICA8aXRlbQogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpb25fYmx1ZXRvb3RoX3NldHRpbmdzIgogICAgICAgICAgICAgICAgYW5kcm9pZDppY29uPSJAZHJhd2FibGUvaWNfc2V0dGluZ3NfYmx1ZXRvb3RoX2JsYWNrXzQ4ZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJAc3RyaW5nL2FjdGlvbl9zZXR0aW5ncyIvPg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvaXRlbT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvaXRlbT4K</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
