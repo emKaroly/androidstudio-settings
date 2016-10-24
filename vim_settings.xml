@@ -469,7 +469,7 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" timestamp="1476883262134">
+      <file name="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" timestamp="1477304547036">
         <mark key="'" line="720" column="54" />
         <mark key="n" line="104" column="41" />
       </file>
@@ -696,11 +696,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="60" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1477061407246">
-        <mark key="'" line="59" column="35" />
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
-        <mark key="." line="307" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1477304662821">
+        <mark key="'" line="60" column="35" />
+        <mark key="[" line="370" column="0" />
+        <mark key="]" line="370" column="0" />
+        <mark key="." line="370" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470912312501">
         <mark key="[" line="5" column="0" />
@@ -1155,46 +1155,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCbHVldG9vdGhMZVNjYW5uZXIgYnRzID0gbmV3IEJsdWV0b290aExlU2Nhbm5lcigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>failed</text>
+        <text>lescann</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLkl0ZW0xOgogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCbHVldG9vdGhMZVNjYW5uZXIgYnRzID0gbmV3IEJsdWV0b290aExlU2Nhbm5lcigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZighbURldmljZVJlY29ubmVjdCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJPbkNvbm5lY3Rpb25TdGF0dXNDaGFuZ2VkOiBTdGFydCBCTEUgU2NhbiIpOwogICAgICAgICAgICBidGEuc3RhcnRCbGVTY2FuUGVyaW9kaWNhbGx5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZighbURldmljZVJlY29ubmVjdCl7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0YS5zdG9wQmxlU2NhbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJPbkNvbm5lY3Rpb25TdGF0dXNDaGFuZ2VkOiBTdGFydCBCTEUgU2NhbiIpOwogICAgICAgICAgICBidGEuc3RhcnRCbGVTY2FuUGVyaW9kaWNhbGx5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0YS5zdGFydEJsZVNjYW5QZXJpb2RpY2FsbHkoKTsKICAgICAgICAgICAgICAgIGJ0YS5zdG9wQmxlU2NhbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0YS5zdG9wQmxlU2NhbigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0YS5zdGFydEJsZVNjYW5QZXJpb2RpY2FsbHkoKTsKICAgICAgICAgICAgICAgIGJ0YS5zdG9wQmxlU2NhbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLkl0ZW0yOgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLkl0ZW0yOgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLkl0ZW0xOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -1207,9 +1207,9 @@
       </register>
     </registers>
     <search>
-      <last-search>failed</last-search>
+      <last-search>lescann</last-search>
       <last-offset />
-      <last-pattern>failed</last-pattern>
+      <last-pattern>lescann</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1217,7 +1217,6 @@
     </search>
     <history>
       <history-search>
-        <entry>9</entry>
         <entry>J</entry>
         <entry>{</entry>
         <entry encoding="base64">XDxhcGljb21tb25cPg==</entry>
@@ -1237,6 +1236,7 @@
         <entry>onClientRegistered</entry>
         <entry>onClient</entry>
         <entry>failed</entry>
+        <entry>lescann</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
