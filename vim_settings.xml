@@ -109,11 +109,12 @@
         <mark key="[" line="200" column="2" />
         <mark key="]" line="208" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1477390998356">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1477391752966">
         <mark key="'" line="85" column="32" />
-        <mark key="[" line="76" column="106" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="92" column="56" />
+        <mark key="." line="92" column="56" />
+        <mark key="^" line="92" column="56" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2KillOpSpecResult.java" timestamp="1475835682728">
         <mark key="[" line="9" column="14" />
@@ -703,12 +704,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="60" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1477390680321">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1477391825309">
         <mark key="'" line="64" column="35" />
-        <mark key="[" line="220" column="30" />
-        <mark key="]" line="220" column="29" />
-        <mark key="^" line="220" column="29" />
-        <mark key="." line="220" column="29" />
+        <mark key="[" line="215" column="47" />
+        <mark key="]" line="215" column="17" />
+        <mark key="^" line="215" column="17" />
+        <mark key="." line="215" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470912312501">
         <mark key="[" line="5" column="0" />
@@ -1162,8 +1163,8 @@
       <jump line="84" column="32" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ0YS4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBCbHVldG9vdGhBZGFwdGVyIGJ0YSA9IEJsdWV0b290aEFkYXB0ZXIuZ2V0RGVmYXVsdEFkYXB0ZXIoKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYoYnRhLmlzRW5hYmxlZCgpICYmICFidGEuaXNEaXNjb3ZlcmluZygpKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJsdWV0b290aERldmljZSBkZXZpY2UgPSBidGEuZ2V0UmVtb3RlRGV2aWNlKG1QcmVmZXJlbmNlcy5nZXREZXZpY2VBZGRyZXNzKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -1171,8 +1172,8 @@
       <register name="/" type="4">
         <text>lescann</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc2FwaWJsZS5zdGFyUGVyaW9kaWNTY2FuKCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBCbHVldG9vdGhBZGFwdGVyIGJ0YSA9IEJsdWV0b290aEFkYXB0ZXIuZ2V0RGVmYXVsdEFkYXB0ZXIoKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYoYnRhLmlzRW5hYmxlZCgpICYmICFidGEuaXNEaXNjb3ZlcmluZygpKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJsdWV0b290aERldmljZSBkZXZpY2UgPSBidGEuZ2V0UmVtb3RlRGV2aWNlKG1QcmVmZXJlbmNlcy5nZXREZXZpY2VBZGRyZXNzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ0YS4K</text>
