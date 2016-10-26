@@ -109,11 +109,11 @@
         <mark key="[" line="200" column="2" />
         <mark key="]" line="208" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1477471110365">
-        <mark key="[" line="195" column="69" />
-        <mark key="]" line="196" column="76" />
-        <mark key="." line="196" column="76" />
-        <mark key="^" line="196" column="76" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1477474055577">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2KillOpSpecResult.java" timestamp="1475835682728">
         <mark key="[" line="9" column="14" />
@@ -703,11 +703,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="60" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1477465431621">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1477473454095">
         <mark key="'" line="66" column="35" />
-        <mark key="[" line="359" column="0" />
-        <mark key="]" line="359" column="42" />
-        <mark key="." line="359" column="0" />
+        <mark key="[" line="305" column="33" />
+        <mark key="]" line="306" column="7" />
+        <mark key="." line="306" column="7" />
+        <mark key="^" line="306" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470912312501">
         <mark key="[" line="5" column="0" />
@@ -1162,7 +1163,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2NoZWR1bGVkRXhlY3V0b3JTZXJ2aWNlIHNjaGVkdWxlcjsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICBtUHJlZmVyZW5jZXMuc2V0RGV2aWNlQWRkcmVzcyhkZXZpY2UuZ2V0QWRkcmVzcygpKTs=</text>
@@ -1174,34 +1175,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiUXVpY2sgUmVjb25uZWN0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2NoZWR1bGVkRXhlY3V0b3JTZXJ2aWNlIHNjaGVkdWxlcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5UaW1lWm9uZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5HcmVnb3JpYW5DYWxlbmRhcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsK</text>
+        <text encoding="base64">ICAgICAgICAvL2lmICh0c3NhcGlibGUgIT0gbnVsbCkgLy8gQ2hlY2sgdGhhdCB0aGUgb2JqZWN0IGV4aXN0cwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlRpbWU7Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3Rzc2FwaWJsZS5kaXNjb25uZWN0RGV2aWNlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uc2V0VGl0bGUoc3RhdHVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lbnVJdGVtIGl0ZW0gPSBtTWVudS5maW5kSXRlbShSLmlkLm1lbnVTdGF0dXMpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5UaW1lWm9uZTsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
