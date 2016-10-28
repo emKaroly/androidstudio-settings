@@ -611,8 +611,8 @@
         <mark key="." line="168" column="0" />
         <mark key="^" line="291" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1477647414638">
-        <mark key="[" line="32" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1477662214749">
+        <mark key="[" line="40" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
@@ -802,11 +802,11 @@
         <mark key="." line="35" column="65" />
         <mark key="^" line="35" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/build.gradle" timestamp="1477576105363">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/build.gradle" timestamp="1477662193168">
+        <mark key="[" line="61" column="1" />
+        <mark key="]" line="61" column="1" />
+        <mark key="^" line="61" column="1" />
+        <mark key="." line="61" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/build.gradle" timestamp="1472196956327">
         <mark key="[" line="11" column="0" />
