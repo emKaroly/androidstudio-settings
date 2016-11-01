@@ -483,7 +483,7 @@
         <mark key="^" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477985075025">
+      <file name="/Dummy.txt" timestamp="1477987550820">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -686,11 +686,11 @@
         <mark key="^" line="134" column="7" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/build.gradle" timestamp="1477665799443">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="50" />
-        <mark key="^" line="66" column="5" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/build.gradle" timestamp="1477987243402">
+        <mark key="[" line="76" column="35" />
+        <mark key="]" line="76" column="33" />
+        <mark key="^" line="76" column="33" />
+        <mark key="." line="76" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/C1G2WriteParameters.java" timestamp="1475476803693">
         <mark key="[" line="4" column="34" />
