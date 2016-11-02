@@ -605,6 +605,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2kill.xml" timestamp="1478093790911">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470230117059">
         <mark key="[" line="1051" column="29" />
         <mark key="]" line="1051" column="31" />
@@ -641,6 +646,11 @@
         <mark key="]" line="74" column="4" />
         <mark key="." line="74" column="4" />
         <mark key="^" line="74" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2read.xml" timestamp="1478094836883">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
         <mark key="[" line="60" column="58" />
@@ -1306,7 +1316,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdldGluZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>WriteData</text>
@@ -1318,7 +1328,7 @@
         <text encoding="base64">IHByaXZhdGUgdm9pZCBzZXRDb21tYW5kTGF5b3V0KFN0cmluZyBjb21tYW5kKXsKICAgICAgICBMb2cuZChUQUcsIlNldENvbW1hbmRMYXlvdXQ6ICIgKyBjb21tYW5kKTsKCiAgICAgICAgc3dpdGNoIChjb21tYW5kKXsKICAgICAgICAgICAgY2FzZSAiR2V0UmVhZGVyQ2FwYWJpbGl0aWVzIjoKICAgICAgICAgICAgICAgIG1GcmFtZUxheW91dENvbW1hbmQucmVtb3ZlQWxsVmlld3MoKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJTdGFydFJPU3BlYyI6CiAgICAgICAgICAgICAgICBtRnJhbWVMYXlvdXRDb21tYW5kLnJlbW92ZUFsbFZpZXdzKCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiU3RvcFJPU3BlYyI6CiAgICAgICAgICAgICAgICBtRnJhbWVMYXlvdXRDb21tYW5kLnJlbW92ZUFsbFZpZXdzKCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiUkZUcmFuc21pdHRlciI6CiAgICAgICAgICAgICAgICBSRlRyYW5zbWl0dGVyTGF5b3V0IHJmdHJhbnNtaXR0ZXIgPSBuZXcgUkZUcmFuc21pdHRlckxheW91dChtRnJhbWVMYXlvdXRDb21tYW5kLG1MYXlvdXRJbmZsYXRlcik7CiAgICAgICAgICAgICAgICBtQ29tbWFuZExheW91dCA9IHJmdHJhbnNtaXR0ZXIuc2V0TGF5b3V0KCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiQzFHMlJlYWQiOgogICAgICAgICAgICAgICAgQzFHMlJlYWRMYXlvdXQgYzFnMnJlYWQgPSBuZXcgQzFHMlJlYWRMYXlvdXQobUZyYW1lTGF5b3V0Q29tbWFuZCxtTGF5b3V0SW5mbGF0ZXIpOwogICAgICAgICAgICAgICAgbUNvbW1hbmRMYXlvdXQgPSBjMWcycmVhZC5zZXRMYXlvdXQoKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJDMUcyV3JpdGUiOgogICAgICAgICAgICAgICAgQzFHMldyaXRlTGF5b3V0IGMxZzJ3cml0ZSA9IG5ldyBDMUcyV3JpdGVMYXlvdXQobUZyYW1lTGF5b3V0Q29tbWFuZCxtTGF5b3V0SW5mbGF0ZXIpOwogICAgICAgICAgICAgICAgbUNvbW1hbmRMYXlvdXQgPSBjMWcyd3JpdGUuc2V0TGF5b3V0KCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiQzFHMkxvY2siOgogICAgICAgICAgICAgICAgQzFHMkxvY2tMYXlvdXQgYzFnMmxvY2sgPSBuZXcgQzFHMkxvY2tMYXlvdXQobUZyYW1lTGF5b3V0Q29tbWFuZCxtTGF5b3V0SW5mbGF0ZXIpOwogICAgICAgICAgICAgICAgbUNvbW1hbmRMYXlvdXQgPSBjMWcybG9jay5zZXRMYXlvdXQoKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJDMUcyS2lsbCI6CiAgICAgICAgICAgICAgICBDMUcyS2lsbExheW91dCBjMWcya2lsbCA9IG5ldyBDMUcyS2lsbExheW91dChtRnJhbWVMYXlvdXRDb21tYW5kLG1MYXlvdXRJbmZsYXRlcik7CiAgICAgICAgICAgICAgICBtQ29tbWFuZExheW91dCA9IGMxZzJraWxsLnNldExheW91dCgpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgIkMxRzJMb2NrUGF5bG9hZCI6CiAgICAgICAgICAgICAgICBDMUcyTG9ja1BheWxvYWRMYXlvdXQgYzFnMmxvY2twYXlsb2FkID0gbmV3IEMxRzJMb2NrUGF5bG9hZExheW91dChtRnJhbWVMYXlvdXRDb21tYW5kLG1MYXlvdXRJbmZsYXRlcik7CiAgICAgICAgICAgICAgICBtQ29tbWFuZExheW91dCA9IGMxZzJsb2NrcGF5bG9hZC5zZXRMYXlvdXQoKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJBSVNwZWNTdG9wVHJpZ2dlciI6CiAgICAgICAgICAgICAgICBBSVNwZWNTdG9wVHJpZ2dlckxheW91dCBhaXNwZWNzdG9wdHJpZ2dlcmxheW91dCA9IG5ldyBBSVNwZWNTdG9wVHJpZ2dlckxheW91dChtRnJhbWVMYXlvdXRDb21tYW5kLG1MYXlvdXRJbmZsYXRlcik7CiAgICAgICAgICAgICAgICBtQ29tbWFuZExheW91dCA9IGFpc3BlY3N0b3B0cmlnZ2VybGF5b3V0LnNldExheW91dCgpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgIlNldFBvd2VyTW9kZSI6CiAgICAgICAgICAgICAgICBTZXRQb3dlck1vZGVMYXlvdXQgcG93ZXJtb2RlID0gbmV3IFNldFBvd2VyTW9kZUxheW91dChtRnJhbWVMYXlvdXRDb21tYW5kLG1MYXlvdXRJbmZsYXRlcik7CiAgICAgICAgICAgICAgICBtQ29tbWFuZExheW91dCA9IHBvd2VybW9kZS5zZXRMYXlvdXQoKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgbUZyYW1lTGF5b3V0Q29tbWFuZC5yZW1vdmVBbGxWaWV3cygpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdldGluZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1327,33 +1337,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGF5b3V0SW5mbGF0ZXIgbUxheW91dEluZmxhdGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>if(tssapible.isConnected()){
-            mMenuIconChanger.setBluetoothState(MenuIconChanger.BluetoothState.connected);
-        }else{
-            mMenuIconChanger.setBluetoothState(MenuIconChanger.BluetoothState.disconnected);
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5zZXR0aW5ncy5BcHBTZXR0aW5nczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if(s.equals(&quot;Connected&quot;)){
-            mMenuIconChanger.setBluetoothState(MenuIconChanger.BluetoothState.connected);
-        }else if(s.equals(&quot;Disconnected&quot;)){
-            mMenuIconChanger.setBluetoothState(MenuIconChanger.BluetoothState.disconnected);
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
