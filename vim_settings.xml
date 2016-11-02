@@ -281,6 +281,13 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1478075638970">
+        <mark key="a" line="280" column="0" />
+        <mark key="[" line="188" column="9" />
+        <mark key="]" line="189" column="7" />
+        <mark key="^" line="189" column="7" />
+        <mark key="." line="189" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/SetPowerModeParameters.java" timestamp="1474029820250">
         <mark key="[" line="36" column="5" />
       </file>
@@ -624,10 +631,10 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
         <mark key="[" line="60" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1478000197677">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1478075330995">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="29" />
+        <mark key="." line="309" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketFactory.h" timestamp="1470394221064">
         <mark key="[" line="14" column="0" />
@@ -1272,47 +1279,47 @@
       <jump line="0" column="7" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>enabled</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL01lbnVJdGVtIG1JdGVtID0gbWVudS5maW5kSXRlbShSLmlkLmFjdGlvbl91c2IpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>enabled</text>
+        <text>bluetoothDevice</text>
       </register>
       <register name="/" type="4">
         <text>lescann</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzVmFsdWUgInN0cmluZyIsICJhcHBfbmFtZSIsICJDbG91ZENsaWVudCIK</text>
+        <text encoding="base64">ICAgICAgICB0c3NhcGlibGUub25SZXN1bWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPkNsb3VkQ2xpZW50PC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL01lbnVJdGVtIG1JdGVtID0gbWVudS5maW5kSXRlbShSLmlkLmFjdGlvbl91c2IpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZHMgIlN0cmluZyIsICJBUFBfRkxBVk9SIiwgIlwiQ2xvdWRDbGllbnRcIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbk5hbWUgIjEuMC1mdWxsIgo=</text>
+        <text encoding="base64">ICAgICAgICBtQXBwU2V0dGluZ3MucmVtb3ZlUGFpcmVkRGV2aWNlcygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBoaWRkZW46Cg==</text>
+        <text encoding="base64">ICAgICAgICBtQXBwU2V0dGluZ3MgPSBuZXcgQXBwU2V0dGluZ3ModGhpcywiQXBwU2V0dGluZ3MiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Vc2JJY29uLnNldAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQXBwU2V0dGluZ3MgbUFwcFNldHRpbmdzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50c3MuYXBpdGVzdC5SOwo=</text>
+        <text encoding="base64">ICAgICAgICBtUGFpcmVkRGV2aWNlID0gIiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYmx1ZXRvb3RoLkJsdWV0b290aEFkYXB0ZXI7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
