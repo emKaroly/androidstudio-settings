@@ -68,6 +68,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/misc/BatteryCycler.java" timestamp="1478077025451">
+        <mark key="[" line="74" column="62" />
+        <mark key="]" line="74" column="60" />
+        <mark key="^" line="74" column="60" />
+        <mark key="." line="74" column="60" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/CommInterface.java" timestamp="1476356900322">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -299,6 +305,11 @@
         <mark key="]" line="8" column="30" />
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1478076146952">
+        <mark key="[" line="86" column="9" />
+        <mark key="]" line="89" column="13" />
+        <mark key="." line="86" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/res/layout/activity_main.xml" timestamp="1471335340351">
         <mark key="[" line="1" column="50" />
@@ -769,11 +780,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1478011570874">
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="33" column="49" />
-        <mark key="^" line="33" column="49" />
-        <mark key="." line="33" column="49" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1478076682278">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="44" column="28" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Checksum.cpp" timestamp="1468405413650">
         <mark key="[" line="30" column="53" />
@@ -1280,10 +1291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL01lbnVJdGVtIG1JdGVtID0gbWVudS5maW5kSXRlbShSLmlkLmFjdGlvbl91c2IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2NvbXBpbGUgcHJvamVjdCgnOmNvbW1hbmRzJykK</text>
       </register>
       <register name="-" type="4">
-        <text>bluetoothDevice</text>
+        <text>Tagger</text>
       </register>
       <register name="/" type="4">
         <text>lescann</text>
@@ -1292,7 +1303,7 @@
         <text encoding="base64">ICAgICAgICB0c3NhcGlibGUub25SZXN1bWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL01lbnVJdGVtIG1JdGVtID0gbWVudS5maW5kSXRlbShSLmlkLmFjdGlvbl91c2IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2NvbXBpbGUgcHJvamVjdCgnOmNvbW1hbmRzJykK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1304,22 +1315,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtQXBwU2V0dGluZ3MucmVtb3ZlUGFpcmVkRGV2aWNlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUuY29tbW9ucy9jb21tb25zLWxhbmczCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>else {
+                Intent enableBTIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
+                mActivity.startActivityForResult(enableBTIntent, 1);
+            }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtQXBwU2V0dGluZ3MgPSBuZXcgQXBwU2V0dGluZ3ModGhpcywiQXBwU2V0dGluZ3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL01lbnVJdGVtIG1JdGVtID0gbWVudS5maW5kSXRlbShSLmlkLmFjdGlvbl91c2IpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXBwU2V0dGluZ3MgbUFwcFNldHRpbmdzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtUGFpcmVkRGV2aWNlID0gIiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYmx1ZXRvb3RoLkJsdWV0b290aEFkYXB0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtQXBwU2V0dGluZ3MucmVtb3ZlUGFpcmVkRGV2aWNlcygpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
