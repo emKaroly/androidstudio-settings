@@ -287,12 +287,12 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1478079668197">
-        <mark key="a" line="281" column="0" />
-        <mark key="[" line="146" column="86" />
-        <mark key="]" line="307" column="25" />
-        <mark key="^" line="307" column="25" />
-        <mark key="." line="307" column="25" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1478080643994">
+        <mark key="a" line="292" column="0" />
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="289" column="0" />
+        <mark key="^" line="282" column="15" />
+        <mark key="." line="289" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/SetPowerModeParameters.java" timestamp="1474029820250">
         <mark key="[" line="36" column="5" />
@@ -903,11 +903,11 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2WriteLayout.java" timestamp="1478080037233">
-        <mark key="[" line="119" column="37" />
-        <mark key="]" line="119" column="50" />
-        <mark key="." line="119" column="50" />
-        <mark key="^" line="119" column="50" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2WriteLayout.java" timestamp="1478080860729">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="9" />
+        <mark key="." line="35" column="9" />
+        <mark key="^" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Logs.h" timestamp="1467365473237">
         <mark key="[" line="21" column="1" />
@@ -1297,8 +1297,8 @@
       <jump line="0" column="7" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>WriteData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>WriteData</text>
@@ -1307,44 +1307,45 @@
         <text>lescann</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0c3NhcGlibGUub25SZXN1bWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU1lbnVJY29uQ2hhbmdlci5zZXRCbHVldG9vdGhTdGF0ZShNZW51SWNvbkNoYW5nZXIuQmx1ZXRvb3RoU3RhdGUuY29ubmVjdGVkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5zZXR0aW5ncy5BcHBTZXR0aW5nczsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>if(tssapible.isConnected()){
+            mMenuIconChanger.setBluetoothState(MenuIconChanger.BluetoothState.connected);
+        }else{
+            mMenuIconChanger.setBluetoothState(MenuIconChanger.BluetoothState.disconnected);
+        }</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5jbG91ZGNsaWVudC5zZXR0aW5ncy5BcHBTZXR0aW5nczsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>if(s.equals(&quot;Connected&quot;)){
             mMenuIconChanger.setBluetoothState(MenuIconChanger.BluetoothState.connected);
         }else if(s.equals(&quot;Disconnected&quot;)){
             mMenuIconChanger.setBluetoothState(MenuIconChanger.BluetoothState.disconnected);
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1NZW51SWNvbkNoYW5nZXIuc2V0Qmx1ZXRvb3RoU3RhdGUoTWVudUljb25DaGFuZ2VyLkJsdWV0b290aFN0YXRlLmRpc2Nvbm5lY3RlZCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvL2NvbXBpbGUgcHJvamVjdCgnOmNvbW1hbmRzJykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUuY29tbW9ucy9jb21tb25zLWxhbmczCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>else {
-                Intent enableBTIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
-                mActivity.startActivityForResult(enableBTIntent, 1);
-            }</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
