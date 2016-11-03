@@ -303,10 +303,10 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1478098977650">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1478171802521">
         <mark key="a" line="292" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
+        <mark key="[" line="357" column="19" />
+        <mark key="]" line="357" column="109" />
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/SetPowerModeParameters.java" timestamp="1474029820250">
@@ -321,8 +321,8 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1478076146952">
-        <mark key="[" line="86" column="9" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1478172625528">
+        <mark key="[" line="109" column="101" />
         <mark key="]" line="89" column="13" />
         <mark key="." line="86" column="9" />
       </file>
@@ -557,7 +557,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478170776504">
+      <file name="/Dummy.txt" timestamp="1478172510338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -639,6 +639,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/APICallbackHandler.java" timestamp="1478171815327">
+        <mark key="[" line="41" column="126" />
+        <mark key="]" line="41" column="126" />
+        <mark key="." line="41" column="126" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470230117059">
         <mark key="[" line="1051" column="29" />
@@ -963,9 +968,9 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2WriteLayout.java" timestamp="1478080860729">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="9" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2WriteLayout.java" timestamp="1478172222593">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="103" />
         <mark key="." line="35" column="9" />
         <mark key="^" line="35" column="9" />
       </file>
@@ -1190,11 +1195,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2ReadLayout.java" timestamp="1478092425588">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2ReadLayout.java" timestamp="1478172329646">
+        <mark key="[" line="63" column="84" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+        <mark key="^" line="49" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/misc/BatteryCycler.java" timestamp="1474183486122">
         <mark key="[" line="45" column="89" />
@@ -1375,17 +1380,17 @@
       <jump line="0" column="7" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VGV4dFZpZXcK</text>
+      <register name="&quot;" type="4">
+        <text>params</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text>lescann</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICBpZihtU3Bpbm5lckNvbW1hbmQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIG9uU2VuZEJ1dHRvbkNsaWNrZWQobVNwaW5uZXJDb21tYW5kLmdldFNlbGVjdGVkSXRlbSgpLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgICAgIExvZy5kKFRBRywibVNwaW5uZXJDb21tYW5kID09IE51bGwiKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0QWNjZXNzUGFzc3dvcmQoKGludClMb25nLnBhcnNlTG9uZyhtRWRpdFRleHRBY2Nlc3NQYXNzd29yZC5nZXRUZXh0KCkudG9TdHJpbmcoKSwxNikpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VGV4dFZpZXcK</text>
