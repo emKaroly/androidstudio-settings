@@ -322,10 +322,10 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1478172625528">
-        <mark key="[" line="109" column="101" />
-        <mark key="]" line="89" column="13" />
-        <mark key="." line="86" column="9" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1478188734859">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/res/layout/activity_main.xml" timestamp="1471335340351">
         <mark key="[" line="1" column="50" />
@@ -1399,7 +1399,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ1ZpZXcuYXBwZW5kKCJcbiIgKyBtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uVWlDb25uZWN0aW5nKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>commandSelected</text>
@@ -1411,34 +1411,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ1ZpZXcuYXBwZW5kKCJcbiIgKyBtZXNzYWdlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ1ZpZXcuYXBwZW5kKCJcbiIgKyBtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uVWlDb25uZWN0aW5nKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ1ZpZXcuYXBwZW5kKCJcbiIgKyBtZXNzYWdlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblNlbmQobmV3IFN0b3BST1NwZWNQYXJhbWV0ZXJzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblNlbmQobmV3IFN0YXJ0Uk9TcGVjUGFyYW1ldGVycygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblNlbmQobmV3IFN0b3BST1NwZWNQYXJhbWV0ZXJzKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblNlbmQocnApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblNlbmQobmV3IFN0YXJ0Uk9TcGVjUGFyYW1ldGVycygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblNlbmQocnApOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKCiAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
