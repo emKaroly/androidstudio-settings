@@ -554,7 +554,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478165601586">
+      <file name="/Dummy.txt" timestamp="1478166317491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/IDevice.cpp" timestamp="1476440508937">
@@ -666,10 +666,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/layout/activity_main.xml" timestamp="1478165623730">
-        <mark key="[" line="75" column="50" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/layout/activity_main.xml" timestamp="1478165771740">
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="40" column="37" />
+        <mark key="." line="40" column="12" />
+        <mark key="^" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1477573020556">
         <mark key="[" line="89" column="9" />
@@ -1369,17 +1370,17 @@
       <jump line="0" column="7" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0VGV4dFNlbmQgPSAoRWRpdFRleHQpIGZpbmRWaWV3QnlJZChSLmlkLmVkaXRUZXh0U2VuZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>android:layout_weight=&quot;1&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>spinner</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>lescann</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NwaW5uZXJDb21tYW5kIgogICAgICAgICAgICAgICAgYW5kcm9pZDplbnRyaWVzPSJAYXJyYXkvY29tbWFuZF9uYW1lcyIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9InJpZ2h0IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIyIg==</text>
+        <text>android:layout_weight=&quot;1&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlZGl0VGV4dFNlbmQgPSAoRWRpdFRleHQpIGZpbmRWaWV3QnlJZChSLmlkLmVkaXRUZXh0U2VuZCk7Cg==</text>
