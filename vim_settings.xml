@@ -179,9 +179,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2write.xml" timestamp="1478096332389">
-        <mark key="[" line="70" column="43" />
-        <mark key="]" line="70" column="43" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2write.xml" timestamp="1478167090950">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="46" column="70" />
         <mark key="." line="70" column="43" />
         <mark key="^" line="64" column="36" />
       </file>
@@ -554,7 +554,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478166317491">
+      <file name="/Dummy.txt" timestamp="1478167149350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/IDevice.cpp" timestamp="1476440508937">
@@ -678,10 +678,10 @@
         <mark key="." line="74" column="4" />
         <mark key="^" line="74" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2read.xml" timestamp="1478094836883">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2read.xml" timestamp="1478167111687">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="25" column="71" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
         <mark key="[" line="60" column="58" />
@@ -1371,7 +1371,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>android:layout_weight=&quot;1&quot;</text>
+        <text encoding="base64">PEVkaXRUZXh0CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlucHV0VHlwZT0idGV4dCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bWF4TGVuZ3RoPSI4IgogICAgICAgICAgICAgICAgYW5kcm9pZDpkaWdpdHM9IjAsMSwyLDMsNCw1LDYsNyw4LDksQUJDREVGLGFiY2RlZiIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYzFnMndyaXRlQWNjZXNzUGFzc3dvcmQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjAwMDAwMDAwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YW5kcm9pZDphdHRyL2VkaXRUZXh0QmFja2dyb3VuZCIvPg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -1380,7 +1380,7 @@
         <text>lescann</text>
       </register>
       <register name="0" type="4">
-        <text>android:layout_weight=&quot;1&quot;</text>
+        <text encoding="base64">PEVkaXRUZXh0CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlucHV0VHlwZT0idGV4dCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bWF4TGVuZ3RoPSI4IgogICAgICAgICAgICAgICAgYW5kcm9pZDpkaWdpdHM9IjAsMSwyLDMsNCw1LDYsNyw4LDksQUJDREVGLGFiY2RlZiIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYzFnMndyaXRlQWNjZXNzUGFzc3dvcmQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjAwMDAwMDAwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YW5kcm9pZDphdHRyL2VkaXRUZXh0QmFja2dyb3VuZCIvPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlZGl0VGV4dFNlbmQgPSAoRWRpdFRleHQpIGZpbmRWaWV3QnlJZChSLmlkLmVkaXRUZXh0U2VuZCk7Cg==</text>
