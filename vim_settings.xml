@@ -181,10 +181,10 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2write.xml" timestamp="1478167090950">
-        <mark key="[" line="45" column="12" />
-        <mark key="]" line="53" column="70" />
-        <mark key="." line="77" column="43" />
-        <mark key="^" line="71" column="36" />
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="54" column="70" />
+        <mark key="." line="78" column="43" />
+        <mark key="^" line="72" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.cpp" timestamp="1470908562908">
         <mark key="[" line="39" column="23" />
@@ -577,7 +577,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478255105801">
+      <file name="/Dummy.txt" timestamp="1478260820240">
         <mark key="'" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -657,9 +657,9 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2kill.xml" timestamp="1478095133442">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/APICallbackHandler.java" timestamp="1478171815327">
         <mark key="[" line="41" column="126" />
@@ -698,10 +698,10 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/layout/activity_main.xml" timestamp="1478165771740">
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="50" column="37" />
-        <mark key="." line="50" column="12" />
-        <mark key="^" line="50" column="11" />
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="52" column="37" />
+        <mark key="." line="52" column="12" />
+        <mark key="^" line="52" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1477573020556">
         <mark key="[" line="89" column="9" />
@@ -709,10 +709,10 @@
         <mark key="." line="74" column="4" />
         <mark key="^" line="74" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2read.xml" timestamp="1478252157467">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2read.xml" timestamp="1478255442749">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
         <mark key="[" line="60" column="58" />
@@ -897,9 +897,9 @@
         <mark key="." line="18" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2lockpayload.xml" timestamp="1478096124089">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/config.gradle" timestamp="1476174749941">
         <mark key="[" line="15" column="0" />
