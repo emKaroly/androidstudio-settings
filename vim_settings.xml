@@ -304,6 +304,9 @@
         <mark key="." line="119" column="34" />
         <mark key="^" line="119" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2EpcData.java" timestamp="1478267662808">
+        <mark key="[" line="36" column="49" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/res/menu/menu.xml" timestamp="1477399207404">
         <mark key="[" line="7" column="41" />
         <mark key="]" line="6" column="34" />
@@ -381,8 +384,8 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="27" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2ReadOpSpecResult.java" timestamp="1478250695635">
-        <mark key="[" line="65" column="54" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2ReadOpSpecResult.java" timestamp="1478267635123">
+        <mark key="[" line="62" column="49" />
         <mark key="]" line="65" column="39" />
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="39" />
@@ -432,8 +435,8 @@
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2KillOpSpecResult.java" timestamp="1478250185217">
-        <mark key="[" line="41" column="53" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2KillOpSpecResult.java" timestamp="1478267671124">
+        <mark key="[" line="38" column="49" />
         <mark key="]" line="41" column="39" />
         <mark key="^" line="41" column="39" />
         <mark key="." line="41" column="39" />
@@ -577,7 +580,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478260820240">
+      <file name="/Dummy.txt" timestamp="1478269658275">
         <mark key="'" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -717,11 +720,11 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
         <mark key="[" line="60" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1478254091025">
-        <mark key="[" line="131" column="47" />
-        <mark key="]" line="131" column="47" />
-        <mark key="^" line="147" column="7" />
-        <mark key="." line="131" column="47" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1478268939441">
+        <mark key="[" line="489" column="8" />
+        <mark key="]" line="489" column="0" />
+        <mark key="^" line="489" column="30" />
+        <mark key="." line="489" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketFactory.h" timestamp="1470394221064">
         <mark key="[" line="14" column="0" />
@@ -955,6 +958,9 @@
         <mark key="^" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2Epc_96.java" timestamp="1478267650199">
+        <mark key="[" line="36" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/settings/AppSettings.java" timestamp="1474210082965">
         <mark key="[" line="42" column="15" />
         <mark key="]" line="42" column="15" />
@@ -1130,8 +1136,8 @@
         <mark key="^" line="34" column="58" />
         <mark key="." line="34" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2LockOpSpecResult.java" timestamp="1478250640657">
-        <mark key="[" line="40" column="54" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2LockOpSpecResult.java" timestamp="1478267676775">
+        <mark key="[" line="37" column="49" />
         <mark key="]" line="40" column="39" />
         <mark key="^" line="40" column="39" />
         <mark key="." line="40" column="39" />
@@ -1186,8 +1192,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2WriteOpSpecResult.java" timestamp="1478250758491">
-        <mark key="[" line="49" column="54" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2WriteOpSpecResult.java" timestamp="1478267684624">
+        <mark key="[" line="46" column="49" />
         <mark key="]" line="49" column="39" />
         <mark key="^" line="49" column="39" />
         <mark key="." line="49" column="39" />
@@ -1434,11 +1440,11 @@
       <jump line="0" column="3" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getLastNonConfigurationInstance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getLastNonConfigurationInstance</text>
+        <text>Date</text>
       </register>
       <register name="/" type="4">
         <text>lescann</text>
@@ -1447,38 +1453,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDMUcyV3JpdGVPcFNwZWNSZXN1bHQgd3JpdGVSZXN1bHQgPSAoQzFHMldyaXRlT3BTcGVjUmVzdWx0KXJlc3VsdDsgCiAgICAgICAgICAgICAgICAgICAgd3JpdGVSZXN1bHQuc2V0UmVzdWx0U3RyaW5nKHRoaXMuZ2V0UmVzdWx0U3RyaW5nKHdyaXRlUmVzdWx0LmdldENvbW1hbmRDb2RlKCksd3JpdGVSZXN1bHQuZ2V0UmVzdWx0KCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25SZXRhaW5DdXN0b21Ob25Db25maWd1cmF0aW9uSW5zdGFuY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25SZXRhaW5DdXN0b21Ob25Db25maWd1cmF0aW9uSW5zdGFuY2UoKTsK</text>
+      <register name="2" type="4">
+        <text>&quot;[&quot; + calendar.get(Calendar.HOUR_OF_DAY) +
+                           &quot;:&quot; + calendar.get(Calendar.MINUTE) +
+                           &quot;:&quot; + calendar.get(Calendar.SECOND) +
+                           &quot;] &quot;</text>
       </register>
-      <register name="3" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxlbmRhci5zZXRUaW1lKHRyaWFsVGltZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtU2F2ZWRDb21tYW5kID0gKENvbW1hbmRQYXJhbWV0ZXIpIGdldExhc3ROb25Db25maWd1cmF0aW9uSW5zdGFuY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIHRyaWFsVGltZSA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICByZXR1cm4odHNzYXBpYmxlKTsK</text>
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhciBjYWxlbmRhciA9IG5ldyBHcmVnb3JpYW5DYWxlbmRhcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2hlY2sgdGhhdCB0aGUgb2JqZWN0IGV4aXN0cwo=</text>
+        <text encoding="base64">ICAgICAgICBUaW1lIG5vdyA9IG5ldyBUaW1lKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlRpbWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY29tbWFuZENvZGUgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3cuCg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
