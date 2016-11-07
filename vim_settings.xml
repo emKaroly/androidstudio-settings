@@ -574,7 +574,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478505709414">
+      <file name="/Dummy.txt" timestamp="1478507283121">
         <mark key="'" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -694,11 +694,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/layout/activity_main.xml" timestamp="1478506720017">
-        <mark key="[" line="106" column="16" />
-        <mark key="]" line="94" column="38" />
-        <mark key="^" line="94" column="38" />
-        <mark key="." line="94" column="38" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/layout/activity_main.xml" timestamp="1478506838359">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1477573020556">
         <mark key="[" line="89" column="9" />
@@ -1181,9 +1180,9 @@
         <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_selector.xml" timestamp="1478099560587">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="7" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2WriteOpSpecResult.java" timestamp="1478267684624">
@@ -1434,8 +1433,8 @@
       <jump line="0" column="3" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSI/YW5kcm9pZDphdHRyL2J1dHRvblN0eWxlU21hbGwiCg==</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -1447,37 +1446,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDMUcyV3JpdGVPcFNwZWNSZXN1bHQgd3JpdGVSZXN1bHQgPSAoQzFHMldyaXRlT3BTcGVjUmVzdWx0KXJlc3VsdDsgCiAgICAgICAgICAgICAgICAgICAgd3JpdGVSZXN1bHQuc2V0UmVzdWx0U3RyaW5nKHRoaXMuZ2V0UmVzdWx0U3RyaW5nKHdyaXRlUmVzdWx0LmdldENvbW1hbmRDb2RlKCksd3JpdGVSZXN1bHQuZ2V0UmVzdWx0KCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnRNb2RlPSJhZGQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSI/YW5kcm9pZDphdHRyL2J1dHRvblN0eWxlU21hbGwiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnQ9Ij9hdHRyL2NvbG9yQnV0dG9uTm9ybWFsIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSI/YW5kcm9pZDphdHRyL2J1dHRvblN0eWxlU21hbGwiCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSI/YW5kcm9pZDphdHRyL2J1dHRvblN0eWxlU21hbGwiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSI/YW5kcm9pZDoiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnRNb2RlPSJhZGQiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnQ9Ij9hdHRyL2NvbG9yQnV0dG9uTm9ybWFsIgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>&quot;[&quot; + calendar.get(Calendar.HOUR_OF_DAY) +
                            &quot;:&quot; + calendar.get(Calendar.MINUTE) +
                            &quot;:&quot; + calendar.get(Calendar.SECOND) +
                            &quot;] &quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxlbmRhci5zZXRUaW1lKHRyaWFsVGltZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIHRyaWFsVGltZSA9IG5ldyBEYXRlKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxlbmRhciBjYWxlbmRhciA9IG5ldyBHcmVnb3JpYW5DYWxlbmRhcigpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lIG5vdyA9IG5ldyBUaW1lKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxlbmRhci5zZXRUaW1lKHRyaWFsVGltZSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
