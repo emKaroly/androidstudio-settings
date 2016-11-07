@@ -319,6 +319,13 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1478513619451">
+        <mark key="a" line="292" column="0" />
+        <mark key="'" line="41" column="40" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="190" column="8" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/SetPowerModeParameters.java" timestamp="1474029820250">
         <mark key="[" line="36" column="5" />
       </file>
@@ -452,6 +459,9 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="35" column="45" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/appcompat-v7/24.2.1/appcompat-v7-24.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" timestamp="1478512972203">
+        <mark key="'" line="120" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/bt/BluetoothCommunicationCallbacks.java" timestamp="1476264207098">
         <mark key="[" line="2" column="50" />
@@ -695,11 +705,11 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssuielements/src/main/java/eu/tss/uielements/MenuIconChanger.java" timestamp="1478511705889">
-        <mark key="[" line="39" column="48" />
-        <mark key="]" line="94" column="38" />
-        <mark key="^" line="94" column="38" />
-        <mark key="." line="94" column="38" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssuielements/src/main/java/eu/tss/uielements/MenuIconChanger.java" timestamp="1478514305148">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="97" column="31" />
+        <mark key="]" line="97" column="31" />
+        <mark key="." line="97" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/AndroidManifest.xml" timestamp="1474192188830">
         <mark key="[" line="11" column="43" />
@@ -731,11 +741,12 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
         <mark key="[" line="60" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1478512461705">
-        <mark key="[" line="79" column="23" />
-        <mark key="]" line="80" column="44" />
-        <mark key="." line="80" column="44" />
-        <mark key="^" line="80" column="44" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1478513885142">
+        <mark key="'" line="277" column="8" />
+        <mark key="[" line="260" column="22" />
+        <mark key="]" line="285" column="51" />
+        <mark key="." line="285" column="51" />
+        <mark key="^" line="285" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketFactory.h" timestamp="1470394221064">
         <mark key="[" line="14" column="0" />
@@ -1353,14 +1364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="41" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/TSSAPI.java" />
-      <jump line="61" column="41" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/TSSAPI.java" />
-      <jump line="73" column="78" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
-      <jump line="74" column="78" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
-      <jump line="75" column="23" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
-      <jump line="66" column="18" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
-      <jump line="72" column="13" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
-      <jump line="76" column="43" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
       <jump line="77" column="53" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
       <jump line="78" column="23" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
       <jump line="81" column="19" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
@@ -1453,49 +1456,57 @@
       <jump line="43" column="36" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/experimental/TSSAPIPreferences.java" />
       <jump line="84" column="32" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
       <jump line="0" column="3" filename="/Dummy.txt" />
+      <jump line="280" column="37" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="107" column="12" filename="$USER_HOME$/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/appcompat-v7/24.2.1/appcompat-v7-24.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
+      <jump line="118" column="82" filename="$USER_HOME$/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/appcompat-v7/24.2.1/appcompat-v7-24.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
+      <jump line="119" column="45" filename="$USER_HOME$/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/appcompat-v7/24.2.1/appcompat-v7-24.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
+      <jump line="120" column="51" filename="$USER_HOME$/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/appcompat-v7/24.2.1/appcompat-v7-24.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
+      <jump line="41" column="40" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssuielements/src/main/java/eu/tss/uielements/MenuIconChanger.java" />
+      <jump line="277" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tss_menu</text>
+        <text>setIcon(R.drawable.ic_bluetooth_white_48dp);</text>
       </register>
       <register name="-" type="4">
-        <text>tss_menu</text>
+        <text>setIcon(R.drawable.ic_bluetooth_white_48dp);</text>
       </register>
       <register name="/" type="4">
-        <text>lescann</text>
+        <text>menu</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImFjdGlvbl9jbG91ZCI+Q2xvdWQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iYWN0aW9uX3VzYiI+VXNiPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImFjdGlvbl9ibHVldG9vdGgiPkJsdWV0b290aDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJhY3Rpb25fY29uIj5Db25uZWN0PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImFjdGlvbl9kYyI+RGlzY29ubmVjdDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJhY3Rpb25fc2V0dGluZ3MiPlNldHRpbmdzPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9Im1lbW9yeV9iYW5rX3RpdGxlIj5NZW1vcnkgYmFuazwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJhY3Rpb25fb25seXJlY2VpdmUiPk9ubHkgUmVjZWl2ZTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJhY3Rpb25fYmx1ZXRvb3RoQmF0dGVyeSI+Qmx1ZXRvb3RoQmF0dGVyeTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJhY3Rpb25fY29ubmVjdGl2aXR5X3Rlc3QiPlRlc3QgQ29ubmVjdGl2aXR5PC9zdHJpbmc+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1CbHVldG9vdGhJY29uLnNldEljb24oUi5kcmF3YWJsZS5pY19ibHVldG9vdGhfd2hpdGVfNDhkcCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWVudUljb25DaGFuZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1CbHVldG9vdGhJY29uLnNldHQoUi5kcmF3YWJsZS5pY19ibHVldG9vdGhfd2hpdGVfNDhkcCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZihtTWVudSAhPSBudWxsKXsKCiAgICAgICAgICAgICAgICAgICAgTWVudUl0ZW0gaXRlbSA9IG1NZW51LmZpbmRJdGVtKFIuaWQubWVudVN0YXR1cyk7CiAgICAgICAgICAgICAgICAgICAgaXRlbS5zZXRUaXRsZShzdGF0dXMpOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWVudSBtTWVudTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudGV4dC5mb3JtYXQuVGltZTsK</text>
+        <text encoding="base64">ICAgICAgICBtTWVudSA9IG1lbnU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5HcmVnb3JpYW5DYWxlbmRhcjsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWVudUljb25DaGFuZ2VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPlRTU1VpRWxlbWVudHM8L3N0cmluZz4K</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudGV4dC5mb3JtYXQuVGltZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5HcmVnb3JpYW5DYWxlbmRhcjsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -1508,9 +1519,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lescann</last-search>
+      <last-search>menu</last-search>
       <last-offset />
-      <last-pattern>lescann</last-pattern>
+      <last-pattern>menu</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1518,8 +1529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>J</entry>
-        <entry>{</entry>
         <entry encoding="base64">XDxhcGljb21tb25cPg==</entry>
         <entry encoding="base64">XDx0b1N0cmluZ1w+</entry>
         <entry>00</entry>
@@ -1538,6 +1547,8 @@
         <entry>onClient</entry>
         <entry>failed</entry>
         <entry>lescann</entry>
+        <entry>conn</entry>
+        <entry>menu</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
