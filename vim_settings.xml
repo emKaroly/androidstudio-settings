@@ -313,12 +313,6 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1478182907413">
-        <mark key="a" line="292" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="68" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/SetPowerModeParameters.java" timestamp="1474029820250">
         <mark key="[" line="36" column="5" />
       </file>
@@ -700,11 +694,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/layout/activity_main.xml" timestamp="1478165771740">
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="52" column="37" />
-        <mark key="." line="52" column="12" />
-        <mark key="^" line="52" column="11" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/layout/activity_main.xml" timestamp="1478506720017">
+        <mark key="[" line="106" column="16" />
+        <mark key="]" line="94" column="38" />
+        <mark key="^" line="94" column="38" />
+        <mark key="." line="94" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1477573020556">
         <mark key="[" line="89" column="9" />
@@ -1440,11 +1434,11 @@
       <jump line="0" column="3" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>lescann</text>
@@ -1453,37 +1447,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDMUcyV3JpdGVPcFNwZWNSZXN1bHQgd3JpdGVSZXN1bHQgPSAoQzFHMldyaXRlT3BTcGVjUmVzdWx0KXJlc3VsdDsgCiAgICAgICAgICAgICAgICAgICAgd3JpdGVSZXN1bHQuc2V0UmVzdWx0U3RyaW5nKHRoaXMuZ2V0UmVzdWx0U3RyaW5nKHdyaXRlUmVzdWx0LmdldENvbW1hbmRDb2RlKCksd3JpdGVSZXN1bHQuZ2V0UmVzdWx0KCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnRNb2RlPSJhZGQiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZFRpbnQ9Ij9hdHRyL2NvbG9yQnV0dG9uTm9ybWFsIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>&quot;[&quot; + calendar.get(Calendar.HOUR_OF_DAY) +
                            &quot;:&quot; + calendar.get(Calendar.MINUTE) +
                            &quot;:&quot; + calendar.get(Calendar.SECOND) +
                            &quot;] &quot;</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjYWxlbmRhci5zZXRUaW1lKHRyaWFsVGltZSk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBEYXRlIHRyaWFsVGltZSA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBDYWxlbmRhciBjYWxlbmRhciA9IG5ldyBHcmVnb3JpYW5DYWxlbmRhcigpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBUaW1lIG5vdyA9IG5ldyBUaW1lKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlRpbWU7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3cuCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
