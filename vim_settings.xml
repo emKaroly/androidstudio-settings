@@ -333,12 +333,13 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1478513619451">
-        <mark key="a" line="292" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1480490880491">
+        <mark key="a" line="293" column="0" />
         <mark key="'" line="41" column="40" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="190" column="8" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="178" column="5" />
+        <mark key="]" line="179" column="7" />
+        <mark key="." line="179" column="7" />
+        <mark key="^" line="179" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/item_list_found_devices_dialog.xml" timestamp="1478596662099">
         <mark key="[" line="49" column="32" />
