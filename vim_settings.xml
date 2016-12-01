@@ -798,17 +798,17 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1480581063759">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="60" column="1" />
-        <mark key="]" line="36" column="15" />
-        <mark key="." line="36" column="15" />
-        <mark key="^" line="36" column="15" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1480585238015">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="64" column="78" />
+        <mark key="]" line="64" column="48" />
+        <mark key="." line="64" column="48" />
+        <mark key="^" line="64" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/C1G2KillParameters.java" timestamp="1475411423341">
         <mark key="[" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/build.gradle" timestamp="1477576240391">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/build.gradle" timestamp="1480585852410">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -1399,8 +1399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="23" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
-      <jump line="81" column="19" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/GeneralDeviceCapabilities.java" />
       <jump line="49" column="21" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MenuIconChanger.java" />
       <jump line="52" column="15" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MenuIconChanger.java" />
       <jump line="55" column="15" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MenuIconChanger.java" />
@@ -1499,10 +1497,18 @@
       <jump line="44" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssuielements/src/main/java/eu/tss/uielements/MenuIconChanger.java" />
       <jump line="277" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="56" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
+      <jump line="64" column="71" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQuZGVmCg==</text>
+      <register name="&quot;" type="4">
+        <text>PackageManager manager = context.getPackageManager();
+    PackageInfo info = null;
+    try {
+        info = manager.getPackageInfo(context.getPackageName(), 0);
+    } catch (PackageManager.NameNotFoundException e) {
+        e.printStackTrace();
+    }vkkk</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1513,35 +1519,41 @@
       <register name="0" type="2">
         <text encoding="base64">cHJpbnRWZXJzaW9ucyhtb2RlbC5hbmRyb2lkLnZlcnNpb25Db2RlLG1vZGVsLmFuZHJvaWQudmVyc2lvbk5hbWUpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQuZGVmCg==</text>
+      <register name="1" type="4">
+        <text>PackageManager manager = context.getPackageManager();
+    PackageInfo info = null;
+    try {
+        info = manager.getPackageInfo(context.getPackageName(), 0);
+    } catch (PackageManager.NameNotFoundException e) {
+        e.printStackTrace();
+    }vkkk</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQuZGVmCg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICB0YXNrIHByaW50VmVyc2lvbnsKICAgICBwcmludFZlcnNpb25zKG1vZGVsLmFuZHJvaWQudmVyc2lvbkNvZGUsbW9kZWwuYW5kcm9pZC52ZXJzaW9uTmFtZSkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkLmJ1Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">dGFzayBwcmludFZlcnNpb257CiAgICAgcHJpbnRWZXJzaW9ucyhtb2RlbC5hbmRyb2lkLnZlcnNpb25Db2RlLG1vZGVsLmFuZHJvaWQudmVyc2lvbk5hbWUpCgogfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cHJpbnRWZXJzaW9ucyhhbmRyb2lkLnZlcnNpb25Db2RlLHZlcnNpb25OYW1lKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICBtb2RlbC4K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLgo=</text>
+        <text encoding="base64">ICAgICBtb2RlbC4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLgo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
