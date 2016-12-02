@@ -798,11 +798,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1480671204791">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1480676918601">
+        <mark key="'" line="32" column="31" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/C1G2KillParameters.java" timestamp="1475411423341">
         <mark key="[" line="2" column="33" />
@@ -1398,7 +1398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="15" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MenuIconChanger.java" />
       <jump line="55" column="15" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MenuIconChanger.java" />
       <jump line="58" column="16" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MenuIconChanger.java" />
       <jump line="17" column="7" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/C1G2KillLayout.java" />
@@ -1498,37 +1497,38 @@
       <jump line="64" column="71" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
+      <jump line="32" column="31" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpuaURlYnVnZ2FibGUgZmFsc2UK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>menu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJWZXJzaW9uIGNvZGUgaXMgJHByb2plY3QubW9kZWwuYW5kcm9pZC5kZWZhdWx0Q29uZmlnLnZlcnNpb25Db2RlIgo=</text>
+        <text encoding="base64">YXBwbGljYXRpb25JZFN1ZmZpeCAiLmRlYnVnIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpuaURlYnVnZ2FibGUgZmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiVmVyc2lvbiBjb2RlIGlzICRkZWZhdWx0Q29uZmlnLnZlcnNpb25Db2RlIgo=</text>
+        <text encoding="base64">ICAgIH19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGVse2FuZHJvaWR7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiVmVyc2lvbiBjb2RlIGlzICRkZWZhdWx0Q29uZmlnLnZlcnNpb25Db2RlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVse2FuZHJvaWR7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1539,8 +1539,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0LnVwZGF0ZVZlcnNpb25zKCkKICAgICAgICAgICAgdmVyc2lvbkNvZGUgPSBleHQudmVyc2lvbkNvZGUKICAgICAgICAgICAgdmVyc2lvbk5hbWUgPSBleHQudmVyc2lvbk5hbWUKICAgICAgICAgICAgZXh0LnByaW50VmVyc2lvbnModmVyc2lvbkNvZGUsdmVyc2lvbk5hbWUpCiA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
