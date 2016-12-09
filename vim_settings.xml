@@ -798,10 +798,10 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1481034855172">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1481282607797">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="59" column="29" />
-        <mark key="]" line="50" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="45" />
         <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/C1G2KillParameters.java" timestamp="1475411423341">
@@ -1507,7 +1507,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaWduaW5nQ29uZmlnIHNpZ25pbmdDb25maWdzLnJlbGVhc2VDb25maWcK</text>
+        <text encoding="base64">Ci8vICAgICAgICBQcm9wZXJ0aWVzIHByb3BzID0gbmV3IFByb3BlcnRpZXMoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1515,8 +1515,8 @@
       <register name="/" type="4">
         <text>menu</text>
       </register>
-      <register name="0" type="4">
-        <text>$USER_HOME$/Dropbox/BckUp/KStore/tssapitest_android.properties</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ci8vICAgICAgICBQcm9wZXJ0aWVzIHByb3BzID0gbmV3IFByb3BlcnRpZXMoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaWduaW5nQ29uZmlnIHNpZ25pbmdDb25maWdzLnJlbGVhc2VDb25maWcK</text>
