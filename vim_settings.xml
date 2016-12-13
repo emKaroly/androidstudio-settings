@@ -175,10 +175,10 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481542294230">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481614855989">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="39" />
+        <mark key="[" line="34" column="34" />
+        <mark key="]" line="34" column="44" />
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
       </file>
@@ -800,12 +800,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1481541816778">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1481614875356">
         <mark key="'" line="57" column="0" />
-        <mark key="[" line="40" column="66" />
-        <mark key="]" line="40" column="64" />
-        <mark key="^" line="40" column="64" />
-        <mark key="." line="40" column="64" />
+        <mark key="[" line="70" column="31" />
+        <mark key="]" line="70" column="31" />
+        <mark key="^" line="70" column="30" />
+        <mark key="." line="70" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/C1G2KillParameters.java" timestamp="1475411423341">
         <mark key="[" line="2" column="33" />
@@ -1511,21 +1511,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">ICJ4ODYiLCAiYXJtZWFiaS12N2EiLCAibWlwcyI=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">ICJ4ODYiLCAiYXJtZWFiaS12N2EiLCAibWlwcyI=</text>
       </register>
       <register name="/" type="4">
         <text>menu</text>
       </register>
       <register name="0" type="4">
-        <text>ext.cfg.releasePlatforms = [
-        'armeabi','armeabi-v7a','arm64-v8a','mips','mips64','x86','x86_64'
-]</text>
+        <text>'arm64-v8a'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5kay5hYmlGaWx0ZXJzLmFkZCgiYWxsIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1540,19 +1538,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGxpY2F0aW9uSWRTdWZmaXggIi5yZWxlYXNlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBDb25maWd1cmVzIHNjcmVlbiBBQkkgc3BsaXQgc2V0dGluZ3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5kay5hYmlGaWx0ZXJzLmFkZCgiYWxsIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHRDb25maWcgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
