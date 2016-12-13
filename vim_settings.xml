@@ -175,12 +175,12 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481616737177">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481619061323">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="32" column="1" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMQPacketParser.h" timestamp="1470399983131">
         <mark key="[" line="7" column="9" />
@@ -800,11 +800,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1481615410025">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1481620616736">
         <mark key="'" line="57" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/C1G2KillParameters.java" timestamp="1475411423341">
         <mark key="[" line="2" column="33" />
@@ -888,11 +888,11 @@
         <mark key="^" line="134" column="7" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/build.gradle" timestamp="1481616716180">
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="31" />
-        <mark key="^" line="45" column="31" />
-        <mark key="." line="45" column="31" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/build.gradle" timestamp="1481620251473">
+        <mark key="[" line="15" column="93" />
+        <mark key="]" line="15" column="93" />
+        <mark key="^" line="15" column="87" />
+        <mark key="." line="15" column="93" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/C1G2WriteParameters.java" timestamp="1475476803693">
         <mark key="[" line="4" column="34" />
@@ -1046,11 +1046,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/build.gradle" timestamp="1481616667549">
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="31" />
-        <mark key="^" line="36" column="31" />
-        <mark key="." line="36" column="31" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/build.gradle" timestamp="1481619909108">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/build.gradle" timestamp="1472196956327">
         <mark key="[" line="11" column="0" />
@@ -1509,24 +1509,20 @@
       <jump line="48" column="41" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>.minimumSdkVersion</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>menu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxhdGZvcm1WZXJzaW9uID0gY29uZmlnLm1pbmltdW1TZGtWZXJzaW9uCg==</text>
+      <register name="0" type="4">
+        <text>../tssapicore/build/outputs/native/release/lib/</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1535,38 +1531,39 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgIHNwbGl0cyB7CiAgICAgICAgYWJpIHsKICAgICAgICAgICAgLy8gRW5hYmxlIEFCSSBBUEsgc3BsaXRzCiAgICAgICAgICAgIGVuYWJsZSB0cnVlCiAgICAgICAgICAgIC8vIEJ5IGRlZmF1bHQgYWxsIEFCSXMgYXJlIGluY2x1ZGVkLCBzbyB1c2UgcmVzZXQoKSBhbmQgaW5jbHVkZSB0byBzcGVjaWZ5IHRoYXQgd2Ugb25seQogICAgICAgICAgICAvLyB3YW50IEFQS3MgZm9yIHg4NiwgYXJtZWFiaS12N2EsIGFuZCBtaXBzCiAgICAgICAgICAgIC8vIFJlc2V0cyB0aGUgbGlzdCBvZiBBQklzIHRoYXQgR3JhZGxlIHNob3VsZCBjcmVhdGUgQVBLcyBmb3IgdG8gbm9uZQogICAgICAgICAgICByZXNldCgpCiAgICAgICAgICAgIC8vIFNwZWNpZmllcyBhIGxpc3Qgb2YgQUJJcyB0aGF0IEdyYWRsZSBzaG91bGQgY3JlYXRlIEFQS3MgZm9yCiAgICAgICAgICAgIGluY2x1ZGUgImFybTY0LXY4YSIKICAgICAgICAgICAgLy8gU3BlY2lmeSB0aGF0IHdlIGRvIG5vdCB3YW50IHRvIGFsc28gZ2VuZXJhdGUgYSB1bml2ZXJzYWwgQVBLIHRoYXQgaW5jbHVkZXMgYWxsIEFCSXMKICAgICAgICAgICAgdW5pdmVyc2FsQXBrIHRydWUKICAgICAgICB9</text>
+        <text>abis {
+            create(&quot;arm64-v8a&quot;) {
+                platformVersion &quot;android-21&quot; // platformVersion option is available from 0.8.0.
+            }
+            create(&quot;armeabi-v7a&quot;) {
+                platformVersion &quot;android-19&quot; // platformVersion option is available from 0.8.0.
+            }
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENGbGFncy5hZGQoIi1EWDg2IikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="4">
-        <text>splits {
-        abi {
-            // Enable ABI APK splits
-            enable true
-            // By default all ABIs are included, so use reset() and include to specify that we only
-            // want APKs for x86, armeabi-v7a, and mips
-            // Resets the list of ABIs that Gradle should create APKs for to none
-            reset()
-            // Specifies a list of ABIs that Gradle should create APKs for
-            include &quot;arm64-v8a&quot;
-            // Specify that we do not want to also generate a universal APK that includes all ABIs
-            universalApk true
-        }
-    }</text>
+        <text>abis {
+            create(&quot;arm64-v8a&quot;) {
+                platformVersion &quot;android-21&quot; // platformVersion option is available from 0.8.0.
+            }
+            create(&quot;armeabi-v7a&quot;) {
+                platformVersion &quot;android-19&quot; // platformVersion option is available from 0.8.0.
+            }
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICB0cmlnZ2VyIGJ1aWxkIGxpYnJhcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRvICdsaWIvJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludG8gJy4uL2Rpc3RyaWJ1dGlvbi90c3NhcGljb3JlLycK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
