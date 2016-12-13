@@ -175,12 +175,12 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481620764009">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481627105303">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="39" />
-        <mark key="^" line="6" column="39" />
-        <mark key="." line="6" column="39" />
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="22" />
+        <mark key="^" line="27" column="21" />
+        <mark key="." line="27" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMQPacketParser.h" timestamp="1470399983131">
         <mark key="[" line="7" column="9" />
@@ -1307,6 +1307,7 @@
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1481627974585" />
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/C1G2LockParameters.java" timestamp="1475411490323">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="27" />
@@ -1519,7 +1520,7 @@
         <text>menu</text>
       </register>
       <register name="0" type="4">
-        <text>../tssapicore/build/outputs/native/release/lib/</text>
+        <text>'arm64-v8a'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
