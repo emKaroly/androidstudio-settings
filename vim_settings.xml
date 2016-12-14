@@ -150,12 +150,12 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481627105303">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481704776308">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="22" />
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="21" />
         <mark key="^" line="27" column="21" />
-        <mark key="." line="27" column="22" />
+        <mark key="." line="27" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMQPacketParser.h" timestamp="1470399983131">
         <mark key="[" line="7" column="9" />
@@ -1037,7 +1037,6 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketParser.h" timestamp="1470400567023">
         <mark key="[" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" timestamp="1481636821878" />
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPIBLE.java" timestamp="1472047822383">
         <mark key="[" line="9" column="80" />
         <mark key="]" line="22" column="37" />
@@ -1373,11 +1372,11 @@
       <jump line="107" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dm9pZCBKYXZhX2V1X3Rzc19hcGlfY29yZV9UU1NBUElDb3JlSk5JX29uRGF0YVJlY2VpdmVkKEpOSUVudiAqZW52LCBqb2JqZWN0IGluc3RhbmNlLCBqc3RyaW5nIHN0cmluZ18pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>menu</text>
