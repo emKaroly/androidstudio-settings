@@ -93,7 +93,7 @@
         <mark key="." line="202" column="48" />
         <mark key="^" line="202" column="48" />
       </file>
-      <file name="/LLDB" timestamp="1481641007338">
+      <file name="/LLDB" timestamp="1481706554697">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2KillOpSpecResult.java" timestamp="1475835682728">
@@ -150,12 +150,12 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481704776308">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481706344564">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="21" />
-        <mark key="^" line="27" column="21" />
-        <mark key="." line="27" column="21" />
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="35" column="1" />
+        <mark key="." line="31" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMQPacketParser.h" timestamp="1470399983131">
         <mark key="[" line="7" column="9" />
@@ -1373,10 +1373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>,'arm64-v8a'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>,'arm64-v8a'</text>
       </register>
       <register name="/" type="4">
         <text>menu</text>
@@ -1384,26 +1384,31 @@
       <register name="0" type="4">
         <text>characteristic.getValue()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dm9pZCBKYXZhX2V1X3Rzc19hcGlfY29yZV9UU1NBUElDb3JlSk5JX29uRGF0YVJlY2VpdmVkKEpOSUVudiAqZW52LCBqb2JqZWN0IGluc3RhbmNlLCBqc3RyaW5nIHN0cmluZ18pOwo=</text>
+      <register name="1" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">dm9pZCBKYXZhX2V1X3Rzc19hcGlfY29yZV9UU1NBUElDb3JlSk5JX29uRGF0YVJlY2VpdmVkKEpOSUVudiAqZW52LCBqb2JqZWN0IGluc3RhbmNlLCBqc3RyaW5nIHN0cmluZ18pOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>mTxCounter = mTxCounter + characteristic.getValue().length;
                         onVspSendDataSuccess(gatt, characteristic);</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>abis {
             create(&quot;arm64-v8a&quot;) {
                 platformVersion &quot;android-21&quot; // platformVersion option is available from 0.8.0.
@@ -1413,10 +1418,10 @@
             }
         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>abis {
             create(&quot;arm64-v8a&quot;) {
                 platformVersion &quot;android-21&quot; // platformVersion option is available from 0.8.0.
@@ -1425,9 +1430,6 @@
                 platformVersion &quot;android-19&quot; // platformVersion option is available from 0.8.0.
             }
         }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICB0cmlnZ2VyIGJ1aWxkIGxpYnJhcnkK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
