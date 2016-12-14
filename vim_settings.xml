@@ -93,7 +93,7 @@
         <mark key="." line="202" column="48" />
         <mark key="^" line="202" column="48" />
       </file>
-      <file name="/LLDB" timestamp="1481707651500">
+      <file name="/LLDB" timestamp="1481712503341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2KillOpSpecResult.java" timestamp="1475835682728">
@@ -166,11 +166,11 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1481709777838">
-        <mark key="[" line="616" column="4" />
-        <mark key="]" line="615" column="5" />
-        <mark key="." line="615" column="5" />
-        <mark key="^" line="615" column="5" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1481712383903">
+        <mark key="[" line="615" column="72" />
+        <mark key="]" line="615" column="72" />
+        <mark key="." line="615" column="72" />
+        <mark key="^" line="611" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/values/strings.xml" timestamp="1478247918386">
         <mark key="[" line="16" column="0" />
@@ -635,12 +635,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" timestamp="1481640759330">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="132" column="78" />
-        <mark key="]" line="132" column="76" />
-        <mark key="." line="132" column="76" />
-        <mark key="^" line="132" column="76" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" timestamp="1481711142735">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="132" column="61" />
+        <mark key="]" line="132" column="61" />
+        <mark key="." line="132" column="61" />
+        <mark key="^" line="132" column="61" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470230117059">
         <mark key="[" line="1051" column="29" />
@@ -1253,7 +1253,7 @@
         <mark key="." line="63" column="40" />
         <mark key="^" line="63" column="40" />
       </file>
-      <file name="/fragment.mm" timestamp="1476453773031">
+      <file name="/fragment.mm" timestamp="1481711877691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketParser.cpp" timestamp="1469699376814">
@@ -1270,8 +1270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="457" column="17" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivity.java" />
-      <jump line="6" column="91" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/CommandParameter.java" />
       <jump line="48" column="22" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
       <jump line="51" column="22" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
       <jump line="54" column="22" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
@@ -1370,19 +1368,21 @@
       <jump line="48" column="25" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMHost.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMHost.cpp" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
+      <jump line="132" column="60" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,'arm64-v8a'</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>,'arm64-v8a'</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>menu</text>
       </register>
       <register name="0" type="4">
-        <text>characteristic.getValue()</text>
+        <text encoding="base64">cmVpbnRlcnByZXRfY2FzdDxqYnl0ZSo+KGFycmF5KQ==</text>
       </register>
       <register name="1" type="8">
         <text>//
