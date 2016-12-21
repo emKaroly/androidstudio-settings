@@ -311,10 +311,10 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1478252554426">
-        <mark key="[" line="53" column="49" />
-        <mark key="]" line="53" column="53" />
-        <mark key="." line="53" column="53" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1482328376937">
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="." line="217" column="0" />
         <mark key="^" line="53" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/res/layout/activity_main.xml" timestamp="1471335340351">
@@ -1390,7 +1390,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihUU1NBUElMb2dMZXZlbC5MT0dfREVCVUcpIExvZy5kKFRBRywgIm9uVWlEaXNjb25uZWN0aW5nIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -1402,56 +1402,34 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdnYWJsZSB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihUU1NBUElMb2dMZXZlbC5MT0dfREVCVUcpIExvZy5kKFRBRywgIm9uVWlEaXNjb25uZWN0aW5nIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpuaURlYnVnZ2FibGUgdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpuaURlYnVnZ2FibGUgdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpuaURlYnVnZ2FibGUgdHJ1ZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpuaURlYnVnZ2FibGUgdHJ1ZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxhdGZvcm1WZXJzaW9uID0gMjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9wbGF0Zm9ybVZlcnNpb24gPSBjb25maWcubWluaW11bVNka1ZlcnNpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxhdGZvcm1WZXJzaW9uID0gMjEK</text>
       </register>
-      <register name="9" type="4">
-        <text>abis{
-            create(&quot;armabi&quot;){
-                platformVersion &quot;android-19&quot;
-            }
-            create(&quot;armeabi-v7a&quot;){
-                platformVersion &quot;android-19&quot;
-            }
-            create(&quot;arm64-v8a&quot;){
-                platformVersion &quot;android-21&quot;
-            }
-            create(&quot;mips&quot;){
-                platformVersion &quot;android-19&quot;
-            }
-            create(&quot;mips64&quot;){
-                platformVersion &quot;android-19&quot;
-            }
-            create(&quot;x86&quot;){
-                platformVersion &quot;android-19&quot;
-            }
-            create(&quot;x86_64&quot;){
-                platformVersion &quot;android-19&quot;
-            }
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9wbGF0Zm9ybVZlcnNpb24gPSBjb25maWcubWluaW11bVNka1ZlcnNpb24K</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
