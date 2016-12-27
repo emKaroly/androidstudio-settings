@@ -166,8 +166,8 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1482837896567">
-        <mark key="'" line="569" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1482847148446">
+        <mark key="'" line="608" column="28" />
         <mark key="[" line="184" column="26" />
         <mark key="]" line="184" column="25" />
         <mark key="." line="184" column="25" />
@@ -1287,9 +1287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="22" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
-      <jump line="313" column="10" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="320" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="324" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="338" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="374" column="22" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
@@ -1387,6 +1384,9 @@
       <jump line="576" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="466" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" />
       <jump line="569" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="105" column="11" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="607" column="70" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="608" column="28" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1396,7 +1396,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>Start</text>
+        <text>array</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdnYWJsZSB0cnVlCg==</text>
@@ -1442,9 +1442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Start</last-search>
+      <last-search>array</last-search>
       <last-offset />
-      <last-pattern>Start</last-pattern>
+      <last-pattern>array</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1452,7 +1452,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b1N0cmluZ1w+</entry>
         <entry>00</entry>
         <entry>write</entry>
         <entry>toast</entry>
@@ -1472,6 +1471,7 @@
         <entry>conn</entry>
         <entry>menu</entry>
         <entry>Start</entry>
+        <entry>array</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
