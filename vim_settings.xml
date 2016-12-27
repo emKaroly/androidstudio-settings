@@ -1396,7 +1396,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>array</text>
+        <text>recieve</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdnYWJsZSB0cnVlCg==</text>
@@ -1442,9 +1442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>array</last-search>
+      <last-search>recieve</last-search>
       <last-offset />
-      <last-pattern>array</last-pattern>
+      <last-pattern>recieve</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1452,7 +1452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>00</entry>
         <entry>write</entry>
         <entry>toast</entry>
         <entry>Toast</entry>
@@ -1472,6 +1471,7 @@
         <entry>menu</entry>
         <entry>Start</entry>
         <entry>array</entry>
+        <entry>recieve</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
