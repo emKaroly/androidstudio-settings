@@ -854,11 +854,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1478183507695">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="35" column="4" />
-        <mark key="^" line="44" column="28" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1483008258748">
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="42" column="45" />
+        <mark key="^" line="42" column="45" />
+        <mark key="." line="42" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Checksum.cpp" timestamp="1468405413650">
         <mark key="[" line="30" column="53" />
