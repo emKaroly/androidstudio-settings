@@ -166,8 +166,8 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1482847148446">
-        <mark key="'" line="608" column="28" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1483366014322">
+        <mark key="'" line="109" column="0" />
         <mark key="[" line="184" column="26" />
         <mark key="]" line="184" column="25" />
         <mark key="." line="184" column="25" />
@@ -1307,7 +1307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="588" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="595" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="610" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="617" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
@@ -1407,6 +1406,7 @@
       <jump line="125" column="52" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="126" column="12" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="19" column="21" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
