@@ -302,7 +302,7 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1483009568581">
         <mark key="'" line="463" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" timestamp="1483350185976">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" timestamp="1483352329085">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -474,10 +474,11 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1483351579919">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1483352463877">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/StopROSpecParameters.java" timestamp="1474103683327">
         <mark key="[" line="26" column="5" />
@@ -660,10 +661,11 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/ftdi/FTDISerialPort.java" timestamp="1483010460351">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/ftdi/FTDISerialPort.java" timestamp="1483353143701">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="293" column="0" />
+        <mark key="[" line="112" column="3" />
+        <mark key="]" line="112" column="3" />
+        <mark key="." line="112" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470230117059">
         <mark key="[" line="1051" column="29" />
@@ -1402,47 +1404,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydC4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHZvaWQgc2VuZERhdGEoYnl0ZVtdIGRhdGEpewogICAgICAgIGlmIChmdERldmljZS5pc09wZW4oKSl7CiAgICAgICAgICAgIGZ0RGV2aWNlLndyaXRlKGRhdGEpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>recieve</text>
+        <text>onRead</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUQUcgPSAiVFNTQVBJQkxFIjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydC4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHZvaWQgc2VuZERhdGEoYnl0ZVtdIGRhdGEpewogICAgICAgIGlmIChmdERldmljZS5pc09wZW4oKSl7CiAgICAgICAgICAgIGZ0RGV2aWNlLndyaXRlKGRhdGEpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5UU1NBUElCTEU7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmdERldmljZS53cml0ZShkYXRhKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNoYXIgcmVhZERhdGFUb1RleHRbXSA9IG5ldyBjaGFyW3JlYWRMZW5ndGhdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ5dGUgcGFja2V0W10gPSBuZXcgYnl0ZVsxMDI0XTsK</text>
+        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgcmVhZGNvdW50ID0gMDsK</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5UU1NBUElCTEU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFBhY2tldGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cgogICAgaW50IHBja3RTdGF0dXNDTUQgPSAwOwogICAgaW50IHBja3RTdGF0dXNQY2t0TCA9IDA7CiAgICBpbnQgcGNrdFN0YXR1c1BvcyA9IDA7CiAgICBieXRlIHBja3REYXRhW10gPSBuZXcgYnl0ZVsxMDI0XTsK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNoYXIgcmVhZERhdGFUb1RleHRbXSA9IG5ldyBjaGFyW3JlYWRMZW5ndGhdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbXNnLgo=</text>
+        <text encoding="base64">ICAgIGJ5dGUgcGFja2V0W10gPSBuZXcgYnl0ZVsxMDI0XTsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -1455,9 +1457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recieve</last-search>
+      <last-search>onRead</last-search>
       <last-offset />
-      <last-pattern>recieve</last-pattern>
+      <last-pattern>onRead</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1465,7 +1467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>write</entry>
         <entry>toast</entry>
         <entry>Toast</entry>
         <entry>test</entry>
@@ -1485,6 +1486,7 @@
         <entry>Start</entry>
         <entry>array</entry>
         <entry>recieve</entry>
+        <entry>onRead</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
