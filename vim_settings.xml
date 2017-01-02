@@ -324,7 +324,8 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1483354995441">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1483356859534">
+        <mark key="'" line="19" column="21" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="49" />
         <mark key="." line="43" column="0" />
@@ -478,11 +479,11 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1483355028631">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="35" column="66" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1483356967210">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/StopROSpecParameters.java" timestamp="1474103683327">
         <mark key="[" line="26" column="5" />
@@ -714,11 +715,12 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
         <mark key="[" line="60" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1483355086568">
-        <mark key="'" line="284" column="8" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1483356754808">
+        <mark key="'" line="126" column="12" />
+        <mark key="[" line="278" column="63" />
+        <mark key="]" line="278" column="62" />
+        <mark key="." line="278" column="62" />
+        <mark key="^" line="278" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1481638037271">
         <mark key="[" line="8" column="17" />
@@ -1305,14 +1307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="371" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="378" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="385" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="559" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="566" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="574" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="581" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="588" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="595" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="610" column="9" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
@@ -1405,46 +1399,54 @@
       <jump line="138" column="0" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/ftdi/FTDISerialPort.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/ftdi/FTDISerialPort.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" />
+      <jump line="286" column="37" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="495" column="18" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="181" column="31" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="415" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="86" column="40" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="125" column="52" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="126" column="12" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="19" column="21" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0c3NhcGl1c2IucmVnaXN0ZXJDYWxsYmFja3MobmV3IEFQSUNhbGxiYWNrSGFuZGxlcih0aGlzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbkRldmljZVN0YXR1c0NoYW5nZWQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>onUiVspServiceFound</text>
+        <text>mSerialPort.isOpen()</text>
       </register>
       <register name="/" type="4">
-        <text>onRead</text>
+        <text>Changed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVFNTQVBJQkxFQ2FsbGJhY2sgbVRTU0FQSUJMRUNhbGxiYWNrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLmFjdGlvbl91c2JfY29ubmVjdDoKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0c3NhcGl1c2IucmVnaXN0ZXJDYWxsYmFja3MobmV3IEFQSUNhbGxiYWNrSGFuZGxlcih0aGlzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbkRldmljZVN0YXR1c0NoYW5nZWQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVFNTQVBJQkxFLlRTU0FQSUJMRUNhbGxiYWNrIG1UU1NBUElCTEVDYWxsYmFjazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLmFjdGlvbl91cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydC53cml0ZURhdGEoZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0c3NhcGl1c2IucmVnaXN0ZXJDYWxsYmFja3MobmV3IEFQSUNhbGxiYWNrSGFuZGxlcih0aGlzKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVFNTQVBJQkxFLlRTU0FQSUJMRUNhbGxiYWNrIG1UU1NBUElCTEVDYWxsYmFjazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydC53cml0ZURhdGEoZGF0YSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHZvaWQgc2VuZERhdGEoYnl0ZVtdIGRhdGEpewogICAgICAgIGlmIChmdERldmljZS5pc09wZW4oKSl7CiAgICAgICAgICAgIGZ0RGV2aWNlLndyaXRlKGRhdGEpOwogICAgICAgIH0KICAgIH0K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmdERldmljZS53cml0ZShkYXRhKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHZvaWQgc2VuZERhdGEoYnl0ZVtdIGRhdGEpewogICAgICAgIGlmIChmdERldmljZS5pc09wZW4oKSl7CiAgICAgICAgICAgIGZ0RGV2aWNlLndyaXRlKGRhdGEpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1460,9 +1462,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onRead</last-search>
+      <last-search>Changed</last-search>
       <last-offset />
-      <last-pattern>onRead</last-pattern>
+      <last-pattern>Changed</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1470,15 +1472,10 @@
     </search>
     <history>
       <history-search>
-        <entry>toast</entry>
-        <entry>Toast</entry>
-        <entry>test</entry>
         <entry>$</entry>
         <entry>Stop</entry>
         <entry>(</entry>
-        <entry>onSend</entry>
         <entry>onSendCommand</entry>
-        <entry>connect</entry>
         <entry>client</entry>
         <entry>onClientRegistered</entry>
         <entry>onClient</entry>
@@ -1490,6 +1487,11 @@
         <entry>array</entry>
         <entry>recieve</entry>
         <entry>onRead</entry>
+        <entry>connect</entry>
+        <entry>onSend</entry>
+        <entry>setstatus</entry>
+        <entry>changed</entry>
+        <entry>Changed</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
