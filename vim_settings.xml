@@ -666,11 +666,11 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/ftdi/FTDISerialPort.java" timestamp="1483353143701">
+      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/ftdi/FTDISerialPort.java" timestamp="1483436654247">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="112" column="3" />
-        <mark key="]" line="112" column="3" />
-        <mark key="." line="112" column="3" />
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470230117059">
         <mark key="[" line="1051" column="29" />
@@ -1410,7 +1410,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvbkRldmljZVN0YXR1c0NoYW5nZWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>mSerialPort.isOpen()</text>
@@ -1422,31 +1422,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLmFjdGlvbl91c2JfY29ubmVjdDoKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvbkRldmljZVN0YXR1c0NoYW5nZWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLmFjdGlvbl91cwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0c3NhcGl1c2IucmVnaXN0ZXJDYWxsYmFja3MobmV3IEFQSUNhbGxiYWNrSGFuZGxlcih0aGlzKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVFNTQVBJQkxFLlRTU0FQSUJMRUNhbGxiYWNrIG1UU1NBUElCTEVDYWxsYmFjazsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydC53cml0ZURhdGEoZGF0YSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHZvaWQgc2VuZERhdGEoYnl0ZVtdIGRhdGEpewogICAgICAgIGlmIChmdERldmljZS5pc09wZW4oKSl7CiAgICAgICAgICAgIGZ0RGV2aWNlLndyaXRlKGRhdGEpOwogICAgICAgIH0KICAgIH0K</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvbkRldmljZVN0YXR1c0NoYW5nZWQoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLmFjdGlvbl91cwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0c3NhcGl1c2IucmVnaXN0ZXJDYWxsYmFja3MobmV3IEFQSUNhbGxiYWNrSGFuZGxlcih0aGlzKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgVFNTQVBJQkxFLlRTU0FQSUJMRUNhbGxiYWNrIG1UU1NBUElCTEVDYWxsYmFjazsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydC53cml0ZURhdGEoZGF0YSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtU2VyaWFsUG9ydAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
