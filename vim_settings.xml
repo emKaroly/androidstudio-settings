@@ -166,12 +166,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1484033824649">
-        <mark key="'" line="717" column="1" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
-        <mark key="^" line="173" column="43" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1484045196838">
+        <mark key="'" line="191" column="3" />
+        <mark key="[" line="324" column="10" />
+        <mark key="]" line="324" column="11" />
+        <mark key="." line="324" column="11" />
+        <mark key="^" line="324" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/values/strings.xml" timestamp="1478247918386">
         <mark key="[" line="16" column="0" />
@@ -599,12 +599,12 @@
         <mark key="." line="172" column="37" />
         <mark key="^" line="172" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1484033850788">
-        <mark key="'" line="305" column="56" />
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="35" column="47" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" timestamp="1484044562408">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="377" column="0" />
+        <mark key="]" line="377" column="0" />
+        <mark key="^" line="72" column="61" />
+        <mark key="." line="377" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -652,12 +652,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" timestamp="1484033736350">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" timestamp="1484044529518">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="5" />
+        <mark key="." line="36" column="5" />
+        <mark key="^" line="36" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/misc/structures.h" timestamp="1481886669525">
         <mark key="'" line="11" column="23" />
@@ -820,11 +820,12 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/AndroidManifest.xml" timestamp="1472198397918">
         <mark key="[" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.h" timestamp="1484034147223">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="3" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.h" timestamp="1484044264001">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="47" />
+        <mark key="^" line="28" column="47" />
+        <mark key="." line="28" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSCoreAPIWrapper.cpp" timestamp="1467107734189">
         <mark key="[" line="113" column="8" />
@@ -1308,17 +1309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="20" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" />
-      <jump line="56" column="35" filename="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/src/main/java/eu/tss/apitest/MainActivity.java" />
-      <jump line="38" column="19" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
-      <jump line="87" column="24" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
-      <jump line="94" column="44" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
-      <jump line="95" column="54" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
-      <jump line="101" column="73" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
-      <jump line="102" column="56" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
-      <jump line="104" column="73" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
-      <jump line="109" column="74" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
-      <jump line="145" column="44" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
       <jump line="167" column="22" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
       <jump line="171" column="56" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
       <jump line="177" column="35" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothGatt.java" />
@@ -1408,42 +1398,48 @@
       <jump line="396" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="714" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="711" column="1" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.h" />
+      <jump line="347" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
+      <jump line="33" column="28" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
+      <jump line="335" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
+      <jump line="362" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
+      <jump line="46" column="22" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="169" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="188" column="50" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="191" column="3" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="377" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
+      <jump line="123" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW50ICgqZ19yZXN1bHRDYWxsYmFjaykodm9pZCosdWludDMyX3QgLHZvaWQqKTsKaW50ICgqZ19TZW5kRGF0YUNhbGxiYWNrKSh1aW50OF90ICosaW50KTsKaW50ICgqZ19HZXREYXRhQ2FsbGJhY2spKHVpbnQ4X3QgKixpbnQqKTsK</text>
+        <text encoding="base64">ICAgIC8vam1ldGhvZElEIG1JZCA9IGVudi0+R2V0TWV0aG9kSUQoZ19jdHguYXBpQ2xhc3MsICJPbkNhbGxiYWNrIiwgIihMamF2YS9sYW5nL09iamVjdDspViIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>mSerialPort.isOpen()</text>
+        <text>apiClass</text>
       </register>
       <register name="/" type="4">
         <text>Changed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW50ICgqZ19yZXN1bHRDYWxsYmFjaykodm9pZCosdWludDMyX3QgLHZvaWQqKTsKaW50ICgqZ19TZW5kRGF0YUNhbGxiYWNrKSh1aW50OF90ICosaW50KTsKaW50ICgqZ19HZXREYXRhQ2FsbGJhY2spKHVpbnQ4X3QgKixpbnQqKTsK</text>
+        <text encoding="base64">ICAgIEFQSUN0eCAqY3R4ID0gKEFQSUN0eCopaG5kbC0+Y29udGV4dDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vam1ldGhvZElEIG1JZCA9IGVudi0+R2V0TWV0aG9kSUQoZ19jdHguYXBpQ2xhc3MsICJPbkNhbGxiYWNrIiwgIihMamF2YS9sYW5nL09iamVjdDspViIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cmpsb25nIEphdmFfZXVfdHNzX2FwaV9jb3JlX1RTU0FQSUNvcmVKTklfZ2V0SGFuZGxlKEpOSUVudiAqZW52LCBqb2JqZWN0IGluc3RhbmNlKSB7CgogICAgLy8gVE9ETwoKfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">CmludCBIX3Jlc3VsdENhbGxiYWNrKHRzc2FwaV9oYW5kbGUgKmhuZGwsIHZvaWQgKnAsIHVpbnQzMl90IGNvbW1hbmRUeXBlLCB2b2lkICpzdHJ1Y3RQb2ludGVyKSB7CiAgICByZXR1cm4gMDsKfQoKaW50IEhfc2VuZERhdGFDYWxsYmFja0godHNzYXBpX2hhbmRsZSAqaG5kbCwgdWludDhfdCAqdmFsLCBpbnQgbGVuZ3RoKSB7CiAgICByZXR1cm4gMDsKfQ==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>JNIEXPORT jlong JNICALL
-Java_eu_tss_api_core_TSSAPICoreJNI_getHandle(JNIEnv *env, jobject instance) {
-
-    // TODO
-
-}</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1455,7 +1451,7 @@ Java_eu_tss_api_core_TSSAPICoreJNI_getHandle(JNIEnv *env, jobject instance) {
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dm9pZCBwcmludENsYXNzKEpOSUVudiogZW52ICwgam9iamVjdCBvYmopOwo=</text>
+        <text encoding="base64">Ly9DT01NQU5EU19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
