@@ -305,12 +305,12 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1483009568581">
         <mark key="'" line="463" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" timestamp="1483353297545">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="103" column="4" />
-        <mark key="]" line="103" column="10" />
-        <mark key="." line="103" column="10" />
-        <mark key="^" line="103" column="10" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" timestamp="1484210499244">
+        <mark key="'" line="167" column="29" />
+        <mark key="[" line="167" column="55" />
+        <mark key="]" line="167" column="53" />
+        <mark key="." line="167" column="53" />
+        <mark key="^" line="167" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/SetPowerModeParameters.java" timestamp="1474029820250">
         <mark key="[" line="36" column="5" />
@@ -324,7 +324,7 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1484132105204">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1484210403078">
         <mark key="'" line="216" column="12" />
         <mark key="[" line="38" column="27" />
         <mark key="]" line="38" column="20" />
@@ -479,10 +479,11 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1484141759591">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1484146220826">
+        <mark key="[" line="37" column="34" />
+        <mark key="]" line="38" column="7" />
+        <mark key="." line="38" column="7" />
+        <mark key="^" line="38" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/StopROSpecParameters.java" timestamp="1474103683327">
         <mark key="[" line="26" column="5" />
@@ -719,8 +720,8 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
         <mark key="[" line="60" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1483356754808">
-        <mark key="'" line="126" column="12" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1484146099766">
+        <mark key="'" line="235" column="4" />
         <mark key="[" line="278" column="63" />
         <mark key="]" line="278" column="62" />
         <mark key="." line="278" column="62" />
@@ -1312,8 +1313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="19" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
-      <jump line="104" column="41" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
       <jump line="166" column="7" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
       <jump line="175" column="67" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
       <jump line="683" column="7" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-24/android/bluetooth/BluetoothAdapter.java" />
@@ -1410,12 +1409,14 @@
       <jump line="23" column="27" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="437" column="3" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="290" column="37" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="216" column="12" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
       <jump line="900" column="45" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="235" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="164" column="29" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" />
+      <jump line="216" column="12" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>objectHandle(env,instance),</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUQUcgPSAiRlRESVNlcmlhbFBvcnQiCg==</text>
       </register>
       <register name="-" type="4">
         <text>apiClass</text>
@@ -1427,34 +1428,34 @@
         <text>objectHandle(env,instance),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUQUcgPSAiRlRESVNlcmlhbFBvcnQiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGVudi5HZXRNZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGN0eC0+YXBpT25DYWxsYmFjayA9IGVudi0+R2V0TWV0aG9kSUQoc3VwZXJDbGFzcywgIk9uQ2FsbGJhY2siLCAiKGV1L3Rzcy9hcGkvcmVzdWx0cy9Db21tYW5kUmVzdWx0OylWIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBzdXBlckNsYXNzID0gZW52LkdldFNVCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVudi5HZXRNZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGN0eC0+YXBpT25DYWxsYmFjayA9IGVudi0+R2V0TWV0aG9kSUQoc3VwZXJDbGFzcywgIk9uQ2FsbGJhY2siLCAiKGV1L3Rzcy9hcGkvcmVzdWx0cy9Db21tYW5kUmVzdWx0OylWIik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGpjbGFzcyBzdXBlckNsYXNzID0gZW52LkdldFNVCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50IHNlbmREYXRhQ2FsbGJhY2sodm9pZCogYXBpX2N0eCwgdWludDhfdCAqdmFsLCBpbnQgbGVuZ3RoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
