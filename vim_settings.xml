@@ -302,15 +302,11 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1483009568581">
-        <mark key="'" line="463" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" timestamp="1484210951155">
-        <mark key="'" line="168" column="29" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="31" column="3" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" timestamp="1484217526309">
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="44" column="38" />
+        <mark key="^" line="44" column="38" />
+        <mark key="." line="44" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/SetPowerModeParameters.java" timestamp="1474029820250">
         <mark key="[" line="36" column="5" />
@@ -324,10 +320,10 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1484210403078">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1484217557789">
         <mark key="'" line="216" column="12" />
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="20" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="47" />
         <mark key="." line="38" column="20" />
         <mark key="^" line="38" column="20" />
       </file>
@@ -449,9 +445,6 @@
         <mark key="." line="403" column="39" />
         <mark key="^" line="403" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/packet/TSSURMMessage.cpp" timestamp="1482245951045">
-        <mark key="'" line="585" column="38" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470912312501">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -479,11 +472,11 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1484146220826">
-        <mark key="[" line="37" column="34" />
-        <mark key="]" line="38" column="7" />
-        <mark key="." line="38" column="7" />
-        <mark key="^" line="38" column="7" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1484217571966">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="61" column="32" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/StopROSpecParameters.java" timestamp="1474103683327">
         <mark key="[" line="26" column="5" />
@@ -685,6 +678,12 @@
       </file>
       <file name="$USER_HOME$/Projects/TempFromVCS/HelloJNI/app/build.gradle" timestamp="1475064537408">
         <mark key="[" line="71" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDIListener.java" timestamp="1484217495613">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/SetPowerModeParameters.java" timestamp="1475412258443">
         <mark key="[" line="9" column="14" />
@@ -990,9 +989,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="3" column="47" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1481883696851">
-        <mark key="'" line="191" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/menu/menu.xml" timestamp="1478184086546">
         <mark key="[" line="14" column="33" />
@@ -1424,8 +1420,8 @@
       <register name="/" type="4">
         <text>Changed</text>
       </register>
-      <register name="0" type="4">
-        <text>objectHandle(env,instance),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25EYXRhUmVjZWl2ZWQoZGF0YVJlY2VpdmVkKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1433,29 +1429,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZmluYWwgSGFuZGxlciBoYW5kbGVyID0gbmV3IEhhbmRsZXIoKSB7CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgaGFuZGxlTWVzc2FnZShNZXNzYWdlIG1zZykgewogICAgICAgICAgICBpZiAoaWF2YWlsYWJsZSA+IDApIHsKCiAgICAgICAgICAgICAgICBieXRlIG5ld0RhdGFbXSA9IEFycmF5cy5jb3B5T2ZSYW5nZShyZWFkRGF0YSwgMCwgaWF2YWlsYWJsZSk7CgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEhFWENvbnZlcnRlci5ieXRlQXJyYXlUb0hleChuZXdEYXRhKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Owo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUQUcgPSAiRlRESVNlcmlhbFBvcnQiCg==</text>
+        <text encoding="base64">ICAgIHZvaWQgb25SZWFkUGFja2V0KFN0cmluZyBwYWNrZXQpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vYnl0ZSBuZXdEYXRhW10gPSBBcnJheXMuY29weU9mUmFuZ2UocmVhZERhdGEsIDAsIGlhdmFpbGFibGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihIRVhDb252ZXJ0ZXIuYnl0ZUFycmF5VG9IZXgobmV3RGF0YSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVudi5HZXRNZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQnVuZGxlIGIgPSBuZXcgQnVuZGxlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGIucHV0Qnl0ZUFycmF5KCJyZWFkRGF0YSIscmVhZERhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN0eC0+YXBpT25DYWxsYmFjayA9IGVudi0+R2V0TWV0aG9kSUQoc3VwZXJDbGFzcywgIk9uQ2FsbGJhY2siLCAiKGV1L3Rzcy9hcGkvcmVzdWx0cy9Db21tYW5kUmVzdWx0OylWIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCByZWFkRGF0YS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBzdXBlckNsYXNzID0gZW52LkdldFNVCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
