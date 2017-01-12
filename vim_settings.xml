@@ -305,12 +305,12 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1483009568581">
         <mark key="'" line="463" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" timestamp="1484210499244">
-        <mark key="'" line="167" column="29" />
-        <mark key="[" line="167" column="55" />
-        <mark key="]" line="167" column="53" />
-        <mark key="." line="167" column="53" />
-        <mark key="^" line="167" column="53" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" timestamp="1484210951155">
+        <mark key="'" line="168" column="29" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="31" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/SetPowerModeParameters.java" timestamp="1474029820250">
         <mark key="[" line="36" column="5" />
@@ -1416,7 +1416,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUQUcgPSAiRlRESVNlcmlhbFBvcnQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>apiClass</text>
@@ -1428,34 +1428,34 @@
         <text>objectHandle(env,instance),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUQUcgPSAiRlRESVNlcmlhbFBvcnQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZmluYWwgSGFuZGxlciBoYW5kbGVyID0gbmV3IEhhbmRsZXIoKSB7CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgaGFuZGxlTWVzc2FnZShNZXNzYWdlIG1zZykgewogICAgICAgICAgICBpZiAoaWF2YWlsYWJsZSA+IDApIHsKCiAgICAgICAgICAgICAgICBieXRlIG5ld0RhdGFbXSA9IEFycmF5cy5jb3B5T2ZSYW5nZShyZWFkRGF0YSwgMCwgaWF2YWlsYWJsZSk7CgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEhFWENvbnZlcnRlci5ieXRlQXJyYXlUb0hleChuZXdEYXRhKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Owo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBUQUcgPSAiRlRESVNlcmlhbFBvcnQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVudi5HZXRNZQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN0eC0+YXBpT25DYWxsYmFjayA9IGVudi0+R2V0TWV0aG9kSUQoc3VwZXJDbGFzcywgIk9uQ2FsbGJhY2siLCAiKGV1L3Rzcy9hcGkvcmVzdWx0cy9Db21tYW5kUmVzdWx0OylWIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBzdXBlckNsYXNzID0gZW52LkdldFNVCg==</text>
+        <text encoding="base64">ICAgIGVudi5HZXRNZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgIGN0eC0+YXBpT25DYWxsYmFjayA9IGVudi0+R2V0TWV0aG9kSUQoc3VwZXJDbGFzcywgIk9uQ2FsbGJhY2siLCAiKGV1L3Rzcy9hcGkvcmVzdWx0cy9Db21tYW5kUmVzdWx0OylWIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpjbGFzcyBzdXBlckNsYXNzID0gZW52LkdldFNVCg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
