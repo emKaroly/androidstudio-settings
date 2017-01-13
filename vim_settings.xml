@@ -304,12 +304,12 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" timestamp="1483009568581">
         <mark key="'" line="463" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" timestamp="1484304270022">
-        <mark key="'" line="215" column="0" />
-        <mark key="[" line="154" column="12" />
-        <mark key="]" line="154" column="31" />
-        <mark key="." line="154" column="31" />
-        <mark key="^" line="154" column="31" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" timestamp="1484308174712">
+        <mark key="'" line="231" column="0" />
+        <mark key="[" line="105" column="25" />
+        <mark key="]" line="105" column="24" />
+        <mark key="." line="105" column="24" />
+        <mark key="^" line="105" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/SetPowerModeParameters.java" timestamp="1474029820250">
         <mark key="[" line="36" column="5" />
@@ -478,8 +478,8 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1484302324345">
-        <mark key="'" line="87" column="57" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1484307290610">
+        <mark key="'" line="83" column="18" />
         <mark key="[" line="87" column="57" />
         <mark key="]" line="87" column="57" />
         <mark key="^" line="87" column="57" />
@@ -794,6 +794,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="12" column="69" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/libs/d2xx.jar!/com/ftdi/j2xx/FT_Device.class" timestamp="1484307180700">
+        <mark key="'" line="950" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/fragment_mqttsettings.xml" timestamp="1471357281590">
         <mark key="[" line="3" column="0" />
@@ -1325,8 +1328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
       <jump line="64" column="71" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
@@ -1425,10 +1426,12 @@
       <jump line="70" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
       <jump line="87" column="57" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
       <jump line="599" column="13" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/libs/d2xx.jar!/com/ftdi/j2xx/D2xxManager.class" />
+      <jump line="950" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/libs/d2xx.jar!/com/ftdi/j2xx/FT_Device.class" />
+      <jump line="83" column="18" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFN0YXR1c01lc3NhZ2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1436,35 +1439,35 @@
       <register name="/" type="4">
         <text>Changed</text>
       </register>
-      <register name="0" type="4">
-        <text>Log.d(TAG,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2JkLmFwcGVuZCgiJ24iKTsKICAgICAgICAgICAgc2JkLmFwcGVuZChmdERldmljZS5nZXREZXZpY2VJbmZvKCkuc2VyaWFsTnVtYmVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFN0YXR1c01lc3NhZ2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnREZXZpY2UuZ2V0RGV2aWNlSW5mbygpLmRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFN0YXR1c01lc3NhZ2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcmlhbFBvcnQuY2xvc2VEZXZpY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcmlhbFBvcnQub3BlbkRldmljZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFN0YXR1c01lc3NhZ2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcmlhbFBvcnQuY2xvc2VEZXZpY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcmlhbFBvcnQub3BlbkRldmljZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
