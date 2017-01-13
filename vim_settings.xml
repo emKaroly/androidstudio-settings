@@ -320,8 +320,8 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1484298894835">
-        <mark key="'" line="216" column="12" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1484300558394">
+        <mark key="'" line="115" column="8" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="49" />
         <mark key="." line="38" column="20" />
@@ -720,12 +720,11 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
         <mark key="[" line="60" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1484299687042">
-        <mark key="'" line="542" column="0" />
-        <mark key="[" line="276" column="34" />
-        <mark key="]" line="276" column="33" />
-        <mark key="." line="276" column="33" />
-        <mark key="^" line="276" column="33" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1484301208048">
+        <mark key="'" line="282" column="15" />
+        <mark key="[" line="538" column="0" />
+        <mark key="]" line="538" column="0" />
+        <mark key="." line="538" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1481638037271">
         <mark key="[" line="8" column="17" />
@@ -1313,8 +1312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="12" filename="$USER_HOME$/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/appcompat-v7/24.2.1/appcompat-v7-24.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
-      <jump line="118" column="82" filename="$USER_HOME$/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/appcompat-v7/24.2.1/appcompat-v7-24.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
       <jump line="119" column="45" filename="$USER_HOME$/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/appcompat-v7/24.2.1/appcompat-v7-24.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
       <jump line="120" column="51" filename="$USER_HOME$/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/appcompat-v7/24.2.1/appcompat-v7-24.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
       <jump line="41" column="40" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" />
@@ -1413,10 +1410,12 @@
       <jump line="315" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/APICallbackHandler.java" />
       <jump line="540" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="115" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="282" column="15" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU2V0IFVTQiBBY3RpdmUiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>apiClass</text>
@@ -1428,34 +1427,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU2V0IFVTQiBBY3RpdmUiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc2FwaWJsZS5kaXNjb25uZWN0RGV2aWNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NZW51SWNvbkNoYW5nZXIuc2V0Qmx1ZXRvb3RoU3RhdGUoc3RhdHVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc2FwaXVzYi5jb21tYW5kKG5ldyBTdGFydFJPU3BlY1BhcmFtZXRlcnMoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU2V0IEJMRSBBY3RpdmUiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiU2V0IFVTQiBBY3RpdmUiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc2FwaWJsZS5kaXNjb25uZWN0RGV2aWNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvaWQgb25SZWFkUGFja2V0KFN0cmluZyBwYWNrZXQpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vYnl0ZSBuZXdEYXRhW10gPSBBcnJheXMuY29weU9mUmFuZ2UocmVhZERhdGEsIDAsIGlhdmFpbGFibGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
