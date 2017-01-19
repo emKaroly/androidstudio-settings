@@ -166,12 +166,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1484820423995">
-        <mark key="'" line="535" column="0" />
-        <mark key="[" line="270" column="12" />
-        <mark key="]" line="273" column="5" />
-        <mark key="^" line="270" column="11" />
-        <mark key="." line="270" column="12" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1484825066951">
+        <mark key="'" line="542" column="0" />
+        <mark key="[" line="412" column="10" />
+        <mark key="]" line="412" column="18" />
+        <mark key="^" line="412" column="18" />
+        <mark key="." line="412" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/values/strings.xml" timestamp="1478247918386">
         <mark key="[" line="16" column="0" />
@@ -1436,16 +1436,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKGVudi0+RXhjZXB0aW9uT2NjdXJyZWQoKSl7CiAgICAgICAgZW52LT5FeGNlcHRpb25EZXNjcmliZSgpOwogICAgICAgIHJldHVybiAwOwogICAgfQ==</text>
+        <text>urmsp_StartROSpec(hndl, flags, reserved);</text>
       </register>
       <register name="-" type="4">
-        <text>ftDevice.getDeviceInfo()</text>
+        <text>urmsp_StartROSpec(hndl, flags, reserved);</text>
       </register>
       <register name="/" type="4">
         <text>long</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aWYgKGVudi0+RXhjZXB0aW9uT2NjdXJyZWQoKSl7CiAgICAgICAgZW52LT5FeGNlcHRpb25EZXNjcmliZSgpOwogICAgICAgIHJldHVybiAwOwogICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB1cm1zcF9TdGFydFJPU3BlYyhobmRsLCBmbGFncywgcmVzZXJ2ZWQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
