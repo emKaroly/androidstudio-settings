@@ -150,12 +150,12 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1481796117489">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/config.gradle" timestamp="1484825853062">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="39" />
-        <mark key="^" line="6" column="39" />
-        <mark key="." line="6" column="39" />
+        <mark key="[" line="35" column="44" />
+        <mark key="]" line="35" column="44" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="35" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMQPacketParser.h" timestamp="1470399983131">
         <mark key="[" line="7" column="9" />
@@ -1436,16 +1436,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>urmsp_StartROSpec(hndl, flags, reserved);</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>urmsp_StartROSpec(hndl, flags, reserved);</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>long</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1cm1zcF9TdGFydFJPU3BlYyhobmRsLCBmbGFncywgcmVzZXJ2ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnYXJtZWFiaScsJ2FybWVhYmktdjdhJywnYXJtNjQtdjhhJywnbWlwcycsJ21pcHM2NCcsJ3g4NicsJ3g4Nl82NCcK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
