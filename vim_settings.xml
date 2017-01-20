@@ -268,11 +268,6 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/common/TSSAPI.java" timestamp="1484302002240">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketer.h" timestamp="1470390910365">
         <mark key="[" line="10" column="90" />
         <mark key="]" line="5" column="0" />
@@ -434,12 +429,12 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1484145388798">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1484922232681">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="29" column="30" />
-        <mark key="." line="29" column="30" />
-        <mark key="^" line="29" column="30" />
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="5" />
+        <mark key="^" line="29" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/tssurmsp.h" timestamp="1476693528135">
         <mark key="[" line="425" column="11" />
@@ -620,12 +615,12 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1484059455793">
-        <mark key="'" line="484" column="0" />
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="52" />
-        <mark key="^" line="20" column="52" />
-        <mark key="." line="20" column="52" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1484922384834">
+        <mark key="'" line="485" column="0" />
+        <mark key="[" line="113" column="28" />
+        <mark key="]" line="109" column="5" />
+        <mark key="^" line="109" column="5" />
+        <mark key="." line="109" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicore/TSSAPICoreJava.java" timestamp="1475574271024">
         <mark key="[" line="7" column="25" />
@@ -1103,11 +1098,6 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketParser.h" timestamp="1470400567023">
         <mark key="[" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" timestamp="1484127291900">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPIBLE.java" timestamp="1472047822383">
         <mark key="[" line="9" column="80" />
         <mark key="]" line="22" column="37" />
@@ -1450,7 +1440,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhjbHVkZSAiY29mZmVlY2F0Y2guaCIK</text>
+        <text encoding="base64">ICAgIG1fU2VuZERhdGFDYWxsYmFjayhtX2FwaUN0eCxwYWNrZXQuZ2V0UGFja2V0Qnl0ZXMoKS5kYXRhKCksIHBhY2tldC5nZXRQYWNrZXRCeXRlc0xlbmd0aCgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1459,7 +1449,7 @@
         <text>long</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhjbHVkZSAiY29mZmVlY2F0Y2guaCIK</text>
+        <text encoding="base64">ICAgIG1fU2VuZERhdGFDYWxsYmFjayhtX2FwaUN0eCxwYWNrZXQuZ2V0UGFja2V0Qnl0ZXMoKS5kYXRhKCksIHBhY2tldC5nZXRQYWNrZXRCeXRlc0xlbmd0aCgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
