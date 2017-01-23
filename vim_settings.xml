@@ -429,12 +429,11 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1484922232681">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1485159632948">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="5" />
-        <mark key="." line="29" column="5" />
-        <mark key="^" line="29" column="5" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/tssurmsp.h" timestamp="1476693528135">
         <mark key="[" line="425" column="11" />
@@ -1323,6 +1322,13 @@
       <file name="/fragment.mm" timestamp="1482230391635">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/IDevice.h" timestamp="1485159566164">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="55" />
+        <mark key="." line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketParser.cpp" timestamp="1469699376814">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="26" />
@@ -1337,8 +1343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="20" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.h" />
-      <jump line="304" column="56" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
       <jump line="77" column="24" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" />
       <jump line="170" column="15" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="104" column="18" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" />
@@ -1437,10 +1441,12 @@
       <jump line="417" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="45" column="7" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="19" column="50" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/IDevice.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/IDevice.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1fU2VuZERhdGFDYWxsYmFjayhtX2FwaUN0eCxwYWNrZXQuZ2V0UGFja2V0Qnl0ZXMoKS5kYXRhKCksIHBhY2tldC5nZXRQYWNrZXRCeXRlc0xlbmd0aCgpKTsK</text>
+        <text encoding="base64">ICAgIC8vbV9TZW5kRGF0YUNhbGxiYWNrKHBhY2tldC5nZXRQYWNrZXRCeXRlcygpLmRhdGEoKSwgcGFja2V0LmdldFBhY2tldEJ5dGVzTGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1449,37 +1455,37 @@
         <text>long</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1fU2VuZERhdGFDYWxsYmFjayhtX2FwaUN0eCxwYWNrZXQuZ2V0UGFja2V0Qnl0ZXMoKS5kYXRhKCksIHBhY2tldC5nZXRQYWNrZXRCeXRlc0xlbmd0aCgpKTsK</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwgdm9pZCBvbk1zZ1JlY2VpdmVkKGNvbnN0IGNoYXIqIHBhY2tldCkgPSAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vbV9TZW5kRGF0YUNhbGxiYWNrKHBhY2tldC5nZXRQYWNrZXRCeXRlcygpLmRhdGEoKSwgcGFja2V0LmdldFBhY2tldEJ5dGVzTGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvZmZlZWNhdGNoLmgiCg==</text>
+        <text encoding="base64">ICAgIC8vbV9TZW5kRGF0YUNhbGxiYWNrKG1fYXBpQ3R4LHBhY2tldC5nZXRQYWNrZXRCeXRlcygpLmRhdGEoKSwgcGFja2V0LmdldFBhY2tldEJ5dGVzTGVuZ3RoKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvZmZlZWNhdGNoLmgiCiNpbmNsdWRlICJUU1NBUElDb3JlSk5JLmgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvZmZlZWpuaS5oIgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvZmZlZWNhdGNoLmgiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvZmZlZWNhdGNoLmgiCiNpbmNsdWRlICJUU1NBUElDb3JlSk5JLmgiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvZmZlZWpuaS5oIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
