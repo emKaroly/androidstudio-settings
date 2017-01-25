@@ -172,12 +172,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1485343127612">
-        <mark key="'" line="321" column="0" />
-        <mark key="[" line="231" column="37" />
-        <mark key="]" line="231" column="44" />
-        <mark key="." line="231" column="44" />
-        <mark key="^" line="231" column="44" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1485345070670">
+        <mark key="'" line="244" column="4" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="67" column="11" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/values/strings.xml" timestamp="1478247918386">
         <mark key="[" line="16" column="0" />
@@ -1363,7 +1363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="11" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="607" column="70" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="608" column="28" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="463" column="0" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" />
@@ -1463,12 +1462,11 @@
       <jump line="506" column="34" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" />
       <jump line="495" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" />
       <jump line="319" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="226" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>else{
-            LOGE(&quot;AttachCurrentThread: Success&quot;);
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1476,42 +1474,35 @@
       <register name="/" type="4">
         <text>long</text>
       </register>
-      <register name="0" type="4">
-        <text>else{
-            LOGE(&quot;AttachCurrentThread: Success&quot;);
-        }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIEpOSV9FUlI6CiAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChyZXMgIT0gSk5JX09LKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKGZhbHNlKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">cmVzID0gZ19jdHguamF2YVZNLT5BdHRhY2hDdXJyZW50VGhyZWFkKCZlbnYsIG51bGxwdHIpOwogICAgICAgIGlmIChKTklfT0sgIT0gcmVzKSB7CiAgICAgICAgICAgIExPR0UoIkF0dGFjaEN1cnJlbnRUaHJlYWQ6IEZhaWxlZCwgRXJyb3JDb2RlID0gJWQiLCByZXMpOwogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgTE9HRSgiQXR0YWNoQ3VycmVudFRocmVhZDogU3VjY2VzcyIpOwogICAgICAgIH0=</text>
       </register>
-      <register name="6" type="4">
-        <text>void TSSURMReader::onMsgReceived(uint8_t *packet, uint32_t length) {
-
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgSGV4U3RyaW5nVG9CeXRlVmVjdG9yKCI1NTAxMUYwMDAwMDIwMDAwQkI2MiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIEpOSV86Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
