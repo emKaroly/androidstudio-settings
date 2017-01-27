@@ -172,12 +172,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1485513494377">
-        <mark key="'" line="369" column="3" />
-        <mark key="[" line="67" column="67" />
-        <mark key="]" line="68" column="11" />
-        <mark key="^" line="68" column="11" />
-        <mark key="." line="68" column="11" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1485514518469">
+        <mark key="'" line="371" column="3" />
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="71" column="11" />
+        <mark key="^" line="71" column="11" />
+        <mark key="." line="71" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/values/strings.xml" timestamp="1478247918386">
         <mark key="[" line="16" column="0" />
@@ -1466,10 +1466,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HRSgiSk5JIEVSUiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>else {</text>
       </register>
       <register name="/" type="4">
         <text>long</text>
@@ -1478,34 +1478,36 @@
         <text encoding="base64">ICAgICAgICAgICAgTE9HRSgiSk5JIEVSUiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpOSV9FUlI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIEpOSV9FUlI6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HRSgiSk5JIEVSUiIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text>case JNI_ERR:
+            LOGE(&quot;JNI ERR&quot;);
+            return JNI_ERR;</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpOSV9FUlI7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIEpOSV9FUlI6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgICByZXR1cm4gSk5JX0VSUjsgLy8gSk5JIHZlcnNpb24gbm90IHN1cHBvcnRlZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HRSgiSk5JIEVSUiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGlmICh2bS0+R2V0RW52KCh2b2lkICoqKSAmZW52LCBKTklfVkVSU0lPTl8xXzYpICE9IEpOSV9PSykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
