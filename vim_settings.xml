@@ -172,12 +172,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1485514518469">
-        <mark key="'" line="371" column="3" />
-        <mark key="[" line="70" column="13" />
-        <mark key="]" line="71" column="11" />
-        <mark key="^" line="71" column="11" />
-        <mark key="." line="71" column="11" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1485515810921">
+        <mark key="'" line="878" column="0" />
+        <mark key="[" line="434" column="5" />
+        <mark key="]" line="436" column="17" />
+        <mark key="." line="436" column="17" />
+        <mark key="^" line="436" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/values/strings.xml" timestamp="1478247918386">
         <mark key="[" line="16" column="0" />
@@ -668,12 +668,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" timestamp="1484898874506">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" timestamp="1485515033462">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="1" />
+        <mark key="[" line="135" column="4" />
+        <mark key="]" line="135" column="2" />
+        <mark key="." line="135" column="2" />
+        <mark key="^" line="135" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/misc/structures.h" timestamp="1481886669525">
         <mark key="'" line="11" column="23" />
@@ -1363,8 +1363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="463" column="0" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/MainActivity.java" />
-      <jump line="60" column="20" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/ftdi/FTDISerialPort.java" />
       <jump line="210" column="0" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/ftdi/FTDISerialPort.java" />
       <jump line="138" column="0" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/ftdi/FTDISerialPort.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tss/cloudclient/ftdi/FTDISerialPort.java" />
@@ -1463,10 +1461,12 @@
       <jump line="226" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="866" column="5" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="367" column="3" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="687" column="3" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="878" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>else {</text>
@@ -1474,37 +1474,35 @@
       <register name="/" type="4">
         <text>long</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HRSgiSk5JIEVSUiIpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICBzd2l0Y2ggKHJlcykgewogICAgICAgIGNhc2UgSk5JX09LOgogICAgICAgICAgICBMT0dEKCJKTkkgT0siKTsKICAgICAgICAgICAgYnJlYWs7CgogICAgICAgIGNhc2UgSk5JX0VERVRBQ0hFRDoKICAgICAgICAgICAgcmVzID0gZ19jdHguamF2YVZNLT5BdHRhY2hDdXJyZW50VGhyZWFkKCZlbnYsIG51bGxwdHIpOwoKICAgICAgICAgICAgaWYgKEpOSV9PSyAhPSByZXMpIHsKICAgICAgICAgICAgICAgIExPR0UoIkF0dGFjaEN1cnJlbnRUaHJlYWQ6IEZhaWxlZCwgRXJyb3JDb2RlID0gJWQiLCByZXMpOwogICAgICAgICAgICAgICAgcmV0dXJuIEpOSV9FUlI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIExPR0QoIkF0dGFjaEN1cnJlbnRUaHJlYWQ6IFN1Y2Nlc3MiKTsKICAgICAgICAgICAgYnJlYWs7CgogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIExPR0UoIkpOSSBFUlIiKTsKICAgICAgICAgICAgcmV0dXJuIEpOSV9FUlI7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ly9pZiAocmVzID09IEpOSV9FREVUQUNIRUQpIHsKCiAgICAvLyAgICBnX2N0eC5qYXZhVk0tPkRldGFjaEN1cnJlbnRUaHJlYWQoKTsKICAgIC8vfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>case JNI_ERR:
-            LOGE(&quot;JNI ERR&quot;);
-            return JNI_ERR;</text>
+        <text encoding="base64">c3dpdGNoIChyZXMpIHsKICAgICAgICBjYXNlIEpOSV9PSzoKICAgICAgICAgICAgTE9HRSgiSk5JIE9LIik7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIGNhc2UgSk5JX0VERVRBQ0hFRDoKICAgICAgICAgICAgcmVzID0gZ19jdHguamF2YVZNLT5BdHRhY2hDdXJyZW50VGhyZWFkKCZlbnYsIG51bGxwdHIpOwogICAgICAgICAgICBpZiAoSk5JX09LICE9IHJlcykgewogICAgICAgICAgICAgICAgTE9HRSgiQXR0YWNoQ3VycmVudFRocmVhZDogRmFpbGVkLCBFcnJvckNvZGUgPSAlZCIsIHJlcyk7CiAgICAgICAgICAgICAgICByZXR1cm4gSk5JX0VSUjsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIExPR0UoIkF0dGFjaEN1cnJlbnRUaHJlYWQ6IFN1Y2Nlc3MiKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIEpOSV9FVkVSU0lPTjoKICAgICAgICAgICAgTE9HRSgiSk5JIEVWRVJTSU9OIik7CiAgICAgICAgICAgIHJldHVybiBKTklfRVZFUlNJT047CiAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgTE9HRSgiSk5JIEVSUiIpOwogICAgICAgICAgICByZXR1cm4gSk5JX0VSUjsKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpOSV9FUlI7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIEpOSV9FUlI6Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IAogICAgc3dpdGNoIChyZXMpIHsKICAgICAgICBjYXNlIEpOSV9PSzoKICAgICAgICAgICAgTE9HRCgiSk5JIE9LIik7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIGNhc2UgSk5JX0VSUjoKICAgICAgICAgICAgTE9HRSgiSk5JIEVSUiIpOwogICAgICAgICAgICByZXR1cm4gSk5JX0VSUjsKICAgICAgICBjYXNlIEpOSV9FREVUQUNIRUQ6CiAgICAgICAgICAgIHJlcyA9IGdfY3R4LmphdmFWTS0+QXR0YWNoQ3VycmVudFRocmVhZCgmZW52LCBudWxscHRyKTsKICAgICAgICAgICAgaWYgKEpOSV9PSyAhPSByZXMpIHsKICAgICAgICAgICAgICAgIExPR0UoIkF0dGFjaEN1cnJlbnRUaHJlYWQ6IEZhaWxlZCwgRXJyb3JDb2RlID0gJWQiLCByZXMpOwogICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBMT0dEKCJBdHRhY2hDdXJyZW50VGhyZWFkOiBTdWNjZXNzIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgYnJlYWs7CiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HRSgiSk5JIEVSUiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
