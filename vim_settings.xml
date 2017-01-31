@@ -93,7 +93,7 @@
         <mark key="." line="202" column="48" />
         <mark key="^" line="202" column="48" />
       </file>
-      <file name="/LLDB" timestamp="1485871257478">
+      <file name="/LLDB" timestamp="1485872442672">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2KillOpSpecResult.java" timestamp="1475835682728">
@@ -628,12 +628,12 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1485870222758">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1485872541947">
         <mark key="'" line="369" column="6" />
-        <mark key="[" line="99" column="4" />
-        <mark key="]" line="99" column="4" />
-        <mark key="." line="99" column="4" />
-        <mark key="^" line="99" column="4" />
+        <mark key="[" line="576" column="31" />
+        <mark key="]" line="576" column="36" />
+        <mark key="." line="576" column="36" />
+        <mark key="^" line="576" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicore/TSSAPICoreJava.java" timestamp="1475574271024">
         <mark key="[" line="7" column="25" />
@@ -1459,28 +1459,32 @@
       <jump line="340" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2c6ICVzIixwYWNrZXQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>long</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IFNlbmRNc2cocGFja2V0KTsKICAgIExPR0QoInNlbmRQYWNrZXQ6ICVkIiwgcmV0VmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2c6ICVzIixwYWNrZXQpOwo=</text>
       </register>
       <register name="1" type="8">
         <text>//
+//
+//
 //
 //</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1489,45 +1493,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9pZCBoZXgyYmluKGNvbnN0IGNoYXIqIHNyYywgY2hhciogdGFyZ2V0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50IGNoYXIyaW50KGNoYXIgaW5wdXQpOwo=</text>
+        <text encoding="base64">dm9pZCBoZXgyYmluKGNvbnN0IGNoYXIqIHNyYywgY2hhciogdGFyZ2V0KTsK</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW50IGNoYXIyaW50KGNoYXIgaW5wdXQpOwo=</text>
       </register>
       <register name="8" type="8">
         <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
@@ -1540,6 +1515,17 @@
       </register>
       <register name="9" type="8">
         <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
