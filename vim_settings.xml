@@ -93,7 +93,7 @@
         <mark key="." line="202" column="48" />
         <mark key="^" line="202" column="48" />
       </file>
-      <file name="/LLDB" timestamp="1485854125615">
+      <file name="/LLDB" timestamp="1485856469971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2KillOpSpecResult.java" timestamp="1475835682728">
@@ -172,12 +172,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1485515810921">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1485856291908">
         <mark key="'" line="878" column="0" />
-        <mark key="[" line="434" column="5" />
-        <mark key="]" line="436" column="17" />
-        <mark key="." line="436" column="17" />
-        <mark key="^" line="436" column="17" />
+        <mark key="[" line="377" column="3" />
+        <mark key="]" line="377" column="3" />
+        <mark key="." line="377" column="3" />
+        <mark key="^" line="426" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/values/strings.xml" timestamp="1478247918386">
         <mark key="[" line="16" column="0" />
@@ -1459,8 +1459,26 @@
       <jump line="369" column="6" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExPR0QoInNlbmRQYWNrZXQiKTsK</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="-" type="4">
         <text>else {</text>
@@ -1471,35 +1489,53 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IFNlbmRNc2cocGFja2V0KTsKICAgIExPR0QoInNlbmRQYWNrZXQ6ICVkIiwgcmV0VmFsdWUpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIExPR0QoInNlbmRQYWNrZXQiKTsK</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IFNlbmRNc2cocGFja2V0LGxlbmd0aCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IFNlbmRNc2cocGFja2V0KTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIExPR0QoInNlbmRQYWNrZXQiKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IFNlbmRNc2cocGFja2V0LGxlbmd0aCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGludCByZXRWYWx1ZSA9IFNlbmRNc2cocGFja2V0KTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPR0QoInNlbmRQYWNrZXQiKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Ly9pZiAocmVzID09IEpOSV9FREVUQUNIRUQpIHsKCiAgICAvLyAgICBnX2N0eC5qYXZhVk0tPkRldGFjaEN1cnJlbnRUaHJlYWQoKTsKICAgIC8vfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
