@@ -93,7 +93,7 @@
         <mark key="." line="202" column="48" />
         <mark key="^" line="202" column="48" />
       </file>
-      <file name="/LLDB" timestamp="1486025575412">
+      <file name="/LLDB" timestamp="1486028258323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2KillOpSpecResult.java" timestamp="1475835682728">
@@ -622,12 +622,12 @@
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1486025308266">
-        <mark key="'" line="385" column="6" />
-        <mark key="[" line="71" column="57" />
-        <mark key="]" line="111" column="68" />
-        <mark key="." line="111" column="68" />
-        <mark key="^" line="111" column="68" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" timestamp="1486027792288">
+        <mark key="'" line="386" column="6" />
+        <mark key="[" line="111" column="18" />
+        <mark key="]" line="111" column="16" />
+        <mark key="." line="111" column="16" />
+        <mark key="^" line="111" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicore/TSSAPICoreJava.java" timestamp="1475574271024">
         <mark key="[" line="7" column="25" />
@@ -1453,8 +1453,8 @@
       <jump line="79" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>uint32_t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExPR0QoInNlbmRQYWNrZXQgTk86ICVkICVkIiwgcmV0VmFsdWUsbGVuZ3RoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>uint32_t</text>
@@ -1463,7 +1463,7 @@
         <text>send</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIENPTU1VTklDQVRJT05FUlJPUl9OT1RDT05ORUNURUQ6ICAgICAgICAgICAgICAgcmV0dXJuICJOT1QgQ09OTkVDVEVEIjsK</text>
+        <text encoding="base64">ICAgIExPR0QoInNlbmRQYWNrZXQgTk86ICVkICVkIiwgcmV0VmFsdWUsbGVuZ3RoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
