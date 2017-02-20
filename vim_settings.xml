@@ -178,12 +178,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1487589855063">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1487591411966">
         <mark key="'" line="209" column="29" />
-        <mark key="[" line="425" column="4" />
-        <mark key="]" line="419" column="4" />
-        <mark key="." line="419" column="4" />
-        <mark key="^" line="419" column="4" />
+        <mark key="[" line="425" column="52" />
+        <mark key="]" line="425" column="41" />
+        <mark key="." line="425" column="41" />
+        <mark key="^" line="425" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/values/strings.xml" timestamp="1478247918386">
         <mark key="[" line="16" column="0" />
@@ -1458,12 +1458,8 @@
       <jump line="209" column="29" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVudi0+UmVsZWFzZUJ5dGVBcnJheUVsZW1lbnRzKHBhY2tldCwpCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1474,12 +1470,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBtX1NlbmREYXRhQ2FsbGJhY2sobV9hcGlDdHgscGFja2V0LCBsZW5ndGgpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGVudi0+UmVsZWFzZUJ5dGVBcnJheUVsZW1lbnRzKHBhY2tldCwpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1491,23 +1483,18 @@
 //
 //</text>
       </register>
-      <register name="3" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVudi0+U2V0Qnl0ZUFycmF5UmVnaW9uKHBhY2tldCwpCg==</text>
       </register>
       <register name="4" type="8">
         <text>//
+//
 //
 //
 //</text>
       </register>
       <register name="5" type="8">
         <text>//
-//
-//
 //
 //
 //
@@ -1518,6 +1505,28 @@
 //
 //
 //
+//</text>
+      </register>
+      <register name="7" type="8">
+        <text>//
+//
+//
+//</text>
+      </register>
+      <register name="8" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//</text>
+      </register>
+      <register name="9" type="8">
+        <text>//
+//
+//
+//
 //
 //
 //
@@ -1530,15 +1539,6 @@
 //
 //
 //</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpuaURlYnVnZ2FibGUgdHJ1ZQo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
