@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'tssapiandroid'" />
-    <option name="defaultScopeName" value="Module 'tssapiandroid'" />
+    <option name="customScope" value="TSSAPI_ANDROID" />
+    <option name="defaultScopeName" value="TSSAPI_ANDROID" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'tssapiandroid'" />
+    <option name="SEARCH_SCOPE" value="TSSAPI_ANDROID" />
   </component>
 </application>
