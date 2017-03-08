@@ -43,7 +43,7 @@
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
