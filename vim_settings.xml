@@ -763,8 +763,8 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1490365370783">
-        <mark key="'" line="58" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1490619864696">
+        <mark key="'" line="33" column="50" />
         <mark key="[" line="66" column="50" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -1366,7 +1366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.h" />
       <jump line="347" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
       <jump line="33" column="28" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
       <jump line="335" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
@@ -1466,6 +1465,7 @@
       <jump line="209" column="29" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="717" column="2" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="801" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
+      <jump line="33" column="50" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
