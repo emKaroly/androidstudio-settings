@@ -738,6 +738,9 @@
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/mqtt/MQTTCallBack.java" timestamp="1471856813173">
         <mark key="[" line="60" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1490622170256">
+        <mark key="'" line="333" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1481638037271">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="11" />
@@ -1366,7 +1369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
       <jump line="33" column="28" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
       <jump line="335" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
       <jump line="362" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
@@ -1466,6 +1468,7 @@
       <jump line="717" column="2" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="801" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="33" column="50" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
+      <jump line="333" column="24" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
