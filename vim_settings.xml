@@ -281,6 +281,12 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/common/TSSAPI.java" timestamp="1490779224902">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="71" column="7" />
+        <mark key="^" line="66" column="6" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketer.h" timestamp="1470390910365">
         <mark key="[" line="10" column="90" />
         <mark key="]" line="5" column="0" />
@@ -1113,10 +1119,10 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketParser.h" timestamp="1470400567023">
         <mark key="[" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" timestamp="1490342418918">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" timestamp="1490779080635">
         <mark key="'" line="750" column="0" />
-        <mark key="[" line="23" column="52" />
-        <mark key="]" line="23" column="56" />
+        <mark key="[" line="151" column="4" />
+        <mark key="]" line="174" column="6" />
         <mark key="^" line="23" column="10" />
         <mark key="." line="23" column="52" />
       </file>
@@ -1471,8 +1477,8 @@
       <jump line="135" column="38" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC9wPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKiBUaGlzIGZ1bmN0aW9uIGlzIHVzZWQgdG8gbm90aWZ5IHRoZSBsaWJyYXJ5IGFib3V0IEFuZHJvaWQgQWN0aXZpdHkgbGlmZWN5Y2xlIGV2ZW50cy4KICAgICAqIEV2ZXJ5IGFwcGxpY2F0aW9uIHNob3VsZCB1c2UgdGhpcyBmdW5jdGlvbiB0byBwcmV2ZW50IHVud2FuZWQgYmVoYXZpb3VyLgogICAgKi8K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9wPg==</text>
@@ -1481,7 +1487,7 @@
         <text>send</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPR0QoInNlbmRQYWNrZXQgTGVuZ3RoOiAlZCwgcmV0VmFsdWU6ICVkIiwgbGVuZ3RoLCByZXRWYWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBUaGlzIGZ1bmN0aW9uIGlzIHVzZWQgdG8gbm90aWZ5IHRoZSBsaWJyYXJ5IGFib3V0IEFuZHJvaWQgQWN0aXZpdHkgbGlmZWN5Y2xlIGV2ZW50cy4KICAgICAqIEV2ZXJ5IGFwcGxpY2F0aW9uIHNob3VsZCB1c2UgdGhpcyBmdW5jdGlvbiB0byBwcmV2ZW50IHVud2FuZWQgYmVoYXZpb3VyLgogICAgKi8K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqCg==</text>
@@ -1490,28 +1496,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqICBAaW5jbHVkZSBnZXRyZWFkZXJjYXBhYmlsaXRpZXNleHAuY3BwCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqICBAaW5jbHVkZSBnZXRyZWFkZXJjYXBhYmlsaXRpZXNleHAuaAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAqCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqICBFeGFtcGxlIFVzYWdlOgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqICBAcmV0dXJuIGludCBlcnJvciBjb2RlLiBUbyB0cmFuc2xhdGUgZXJyb3IgY29kZSB0byBlcnJvciBtZXNzYWdlIHVzZSBnZXRFcnJvclN0cmluZygpIGZ1bmN0aW9uLgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqICBldmVudCB0eXBlLgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgKiAgQHBhcmFtIGZsYWdzIFBvc3NpYmxlIFZhbHVlOiAweDAwCiAgICAgKiAgQHBhcmFtIHJlc2VydmVkICBQb3NzaWJsZSBWYWx1ZTogMHgwMAogICAgICogIEBwYXJhbSBldmVudFR5cGUgUG9zc2libGUgVmFsdWVzOiAweDAwIC0gMHgwOS4KICAgICAqICA8bGk+MHgwMCA9IFVwb24gaG9wcGluZyB0byBuZXh0IGNoYW5uZWwgLSBOT1QgU1VQUE9SVEVECiAgICAgKiAgPGxpPjB4MDEgPSBHUEkgZXZlbnQKICAgICAqICA8bGk+MHgwMiA9IFJPU3BlYyBldmVudCAoc3RhcnQvZW5kL3ByZWVtcHQpCiAgICAgKiAgPGxpPjB4MDMgPSBSZXBvcnQgYnVmZmVyIGZpbGwgd2FybmluZyAtIE5PVCBTVVBQT1JURUQKICAgICAqICA8bGk+MHgwNCA9IFJlYWRlciBleGNlcHRpb24gZXZlbnQgLSBOT1QgU1VQUE9SVEVECiAgICAgKiAgPGxpPjB4MDUgPSBSRlN1cnZleSBldmVudCAoc3RhcnQvZW5kKSAtIE5PVCBTVVBQT1JURUQKICAgICAqICA8bGk+MHgwNiA9IEFJU3BlYyBldmVudCAoZW5kKSAtIE5PVCBTVVBQT1JURUQKICAgICAqICA8bGk+MHgwNyA9IEFJU3BlYyBldmVudCAoZW5kKSB3aXRoIHNpbmd1bGF0aW9uIGRldGFpbHMgLSBOT1QgU1VQUE9SVEVECiAgICAgKiAgPGxpPjB4MDggPSBBbnRlbm5hIGV2ZW50IChkaXNjb25uZWN0L2Nvbm5lY3QpIC0gTk9UIFNVUFBPUlRFRAogICAgICogIDxsaT4weDA5ID0gU3BlY0xvb3AgZXZlbnQgLSBOT1QgU1VQUE9SVEVECiAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqICBAcGFyYW1bb3V0XSByZXR1cm5WYWx1ZSBSZXR1cm5zIGZpcm13YXJlIHZlcnNpb24gYW5kIGJ1aWxkIG51bWJlciBvZiB0aGUgcmVhZGVyLgo=</text>
+        <text encoding="base64">ICAgICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vZW52LT5SZWxlYXNlQnl0ZUFycmF5RWxlbWVudHMoakFycmF5LHJlaW50ZXJwcmV0X2Nhc3Q8amJ5dGUqPihhcnJheSksIDApOwo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vdm9pZCBzZXRTZW5kRGF0YUNhbGxiYWNrKGludCAoKnNlbmREYXRhQ2FsbGJhY2spKHVpbnQ4X3QqLCBpbnQpKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgKiAgQHBhcmFtIG5vdGlmaWNhdGlvblN0YXRlIFBvc3NpYmxlIFZhbHVlczogMHgwMCAtIDB4MDEuCiAgICAgKiAgPGxpPjB4MDAgPSBEaXNhYmxlZAogICAgICogIDxsaT4weDAxID0gRW5hYmxlZAogICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vaW50ICgqbV9TZW5kRGF0YUNhbGxiYWNrKSh1aW50OF90KiwgaW50KTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
