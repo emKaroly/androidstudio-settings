@@ -451,6 +451,13 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/parameters/AISpecStopTriggerParameters.java" timestamp="1490964201986">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="27" column="6" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="48" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1487660339091">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="65" column="0" />
@@ -1026,6 +1033,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/parameters/C1G2KillParameters.java" timestamp="1490964228177">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/build.gradle" timestamp="1484317755004">
         <mark key="[" line="34" column="39" />
         <mark key="]" line="27" column="51" />
@@ -1131,10 +1144,10 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketParser.h" timestamp="1470400567023">
         <mark key="[" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" timestamp="1490795677468">
-        <mark key="'" line="750" column="0" />
-        <mark key="[" line="151" column="4" />
-        <mark key="]" line="174" column="6" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" timestamp="1490963577677">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="85" />
         <mark key="^" line="23" column="10" />
         <mark key="." line="23" column="52" />
       </file>
@@ -1393,8 +1406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
-      <jump line="46" column="22" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="169" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="188" column="50" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="191" column="3" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
@@ -1493,49 +1504,55 @@
       <jump line="333" column="24" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="452" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="135" column="38" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="17" column="5" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/parameters/AISpecStopTriggerParameters.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cast_ic_notification_small_icon</text>
+        <text>/**
+     *  @param flags Possible Value: 0x00
+     */</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC9wPg==</text>
       </register>
       <register name="/" type="4">
-        <text>send</text>
+        <text>AISpec</text>
       </register>
       <register name="0" type="4">
-        <text>cast_ic_notification_small_icon</text>
+        <text>/**
+     *  @param flags Possible Value: 0x00
+     */</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSLmRyYXdhYmxlLmNhc3QK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBkdXJhdGlvblRyaWdnZXJWYWx1ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuYW5kcm9pZC5nbXM6cGxheS1zZXJ2aWNlczoxMC4yLjEnCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhSVNwZWNTdG9wVHJpZ2dlclR5cGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXNlcnZlZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqICBAcmV0dXJuIGludCBlcnJvciBjb2RlLiBUbyB0cmFuc2xhdGUgZXJyb3IgY29kZSB0byBlcnJvciBtZXNzYWdlIHVzZSBnZXRFcnJvclN0cmluZygpIGZ1bmN0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBmbGFncwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqICBldmVudCB0eXBlLgo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgKiAgQHBhcmFtIGZsYWdzIFBvc3NpYmxlIFZhbHVlOiAweDAwCiAgICAgKiAgQHBhcmFtIHJlc2VydmVkICBQb3NzaWJsZSBWYWx1ZTogMHgwMAogICAgICogIEBwYXJhbSBldmVudFR5cGUgUG9zc2libGUgVmFsdWVzOiAweDAwIC0gMHgwOS4KICAgICAqICA8bGk+MHgwMCA9IFVwb24gaG9wcGluZyB0byBuZXh0IGNoYW5uZWwgLSBOT1QgU1VQUE9SVEVECiAgICAgKiAgPGxpPjB4MDEgPSBHUEkgZXZlbnQKICAgICAqICA8bGk+MHgwMiA9IFJPU3BlYyBldmVudCAoc3RhcnQvZW5kL3ByZWVtcHQpCiAgICAgKiAgPGxpPjB4MDMgPSBSZXBvcnQgYnVmZmVyIGZpbGwgd2FybmluZyAtIE5PVCBTVVBQT1JURUQKICAgICAqICA8bGk+MHgwNCA9IFJlYWRlciBleGNlcHRpb24gZXZlbnQgLSBOT1QgU1VQUE9SVEVECiAgICAgKiAgPGxpPjB4MDUgPSBSRlN1cnZleSBldmVudCAoc3RhcnQvZW5kKSAtIE5PVCBTVVBQT1JURUQKICAgICAqICA8bGk+MHgwNiA9IEFJU3BlYyBldmVudCAoZW5kKSAtIE5PVCBTVVBQT1JURUQKICAgICAqICA8bGk+MHgwNyA9IEFJU3BlYyBldmVudCAoZW5kKSB3aXRoIHNpbmd1bGF0aW9uIGRldGFpbHMgLSBOT1QgU1VQUE9SVEVECiAgICAgKiAgPGxpPjB4MDggPSBBbnRlbm5hIGV2ZW50IChkaXNjb25uZWN0L2Nvbm5lY3QpIC0gTk9UIFNVUFBPUlRFRAogICAgICogIDxsaT4weDA5ID0gU3BlY0xvb3AgZXZlbnQgLSBOT1QgU1VQUE9SVEVECiAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICoK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -1548,9 +1565,9 @@
       </register>
     </registers>
     <search>
-      <last-search>send</last-search>
+      <last-search>AISpec</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern>AISpec</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -1558,9 +1575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(</entry>
-        <entry>onSendCommand</entry>
-        <entry>client</entry>
         <entry>onClientRegistered</entry>
         <entry>onClient</entry>
         <entry>failed</entry>
@@ -1578,6 +1592,9 @@
         <entry>Changed</entry>
         <entry>long</entry>
         <entry>send</entry>
+        <entry>aispec</entry>
+        <entry>AISped</entry>
+        <entry>AISpec</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
