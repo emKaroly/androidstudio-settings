@@ -335,12 +335,12 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1491295947217">
-        <mark key="'" line="241" column="21" />
-        <mark key="[" line="34" column="13" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
-        <mark key="^" line="34" column="11" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1491297428213">
+        <mark key="'" line="271" column="0" />
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/res/layout/activity_main.xml" timestamp="1471335340351">
         <mark key="[" line="1" column="50" />
@@ -1360,12 +1360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
-      <jump line="105" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
-      <jump line="531" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
-      <jump line="192" column="20" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
-      <jump line="179" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
-      <jump line="315" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/APICallbackHandler.java" />
       <jump line="540" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="115" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
@@ -1459,50 +1453,63 @@
       <jump line="101" column="7" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="663" column="22" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="62" column="20" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
-      <jump line="241" column="21" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="202" column="38" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="300" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="249" column="7" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="241" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="261" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="279" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="272" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIEBleGNsdWRlCiAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>IBleBaseActivityUiCallback,</text>
       </register>
       <register name="-" type="4">
-        <text>flags</text>
+        <text>IBleBaseActivityUiCallback,</text>
       </register>
       <register name="/" type="4">
         <text>urmsp_Start</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIFRoaXMgZnVuY3Rpb24gcmVhZHMgdGhlIGdlbmVyYWwgY2FwYWJpbGl0aWVzIG9mIHRoZSBkZXZpY2UgbGlrZSBzdXBwb3J0ZWQgYWlyCiAgICAgKiBwcm90b2NvbHMsIHZlcnNpb24gb2YgdGhlIHJlYWRlciBmaXJtd2FyZSwgZGV2aWNlIGhhcmR3YXJlIGFuZCBzb2Z0d2FyZQogICAgICogaW5mb3JtYXRpb24uCg==</text>
+      <register name="0" type="4">
+        <text>IBleBaseActivityUiCallback mBLEUIcb</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIEBleGNsdWRlCiAqLwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVWlDb25uZWN0ZWQoKSB7CgoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVWlDb25uZWN0aW5nKCkgewoKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvblVpRGlzY29ubmVjdGVkKGludCBzdGF0dXMpIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvblVpRGlzY29ubmVjdGluZygpIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvblVpQmF0dGVyeVJlYWQoU3RyaW5nIHZhbHVlQmF0dGVyeSkgewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVWlSZWFkUmVtb3RlUnNzaShpbnQgdmFsdWVSU1NJKSB7CgoKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoVFNTQVBJTG9nTGV2ZWwuTE9HX0RFQlVHKSB7CiAgICAgICAgICAgIExvZy5kKFRBRywgIm9uVWlSZWFkUmVtb3RlUnNzaTogIiArIEludGVnZXIudG9TdHJpbmcodmFsdWVSU1NJKSk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogdGhlIHJlYWRlciBvcGVyYXRpb24gc3RhdGUgdG8gaW5hY3RpdmUuCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoVFNTQVBJTG9nTGV2ZWwuTE9HX0RFQlVHKSB7CiAgICAgICAgICAgIExvZy5kKFRBRywgIm9uVWlCYXR0ZXJ5UmVhZDogIiArIHZhbHVlQmF0dGVyeSk7CiAgICAgICAgfQog</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogb3ZlcnJpZGVzIGFsbCBvdGhlciBwcmlvcml0aWVzIGFuZCBzdG9wcyB0aGUgZXhlY3V0aW9uLiBUaGlzIGJhc2ljYWxseSBtb3Zlcwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKFRTU0FQSUxvZ0xldmVsLkxPR19ERUJVRykgewogICAgICAgICAgICBMb2cuZChUQUcsICJvblVpRGlzY29ubmVjdGluZyIpOwogICAgICAgIH0KCiAgICAgICAgaWYgKG1UU1NBUElCTEVDYWxsYmFjayAhPSBudWxsKSB7CgogICAgICAgICAgICBtVFNTQVBJQkxFQ2FsbGJhY2suT25EZXZpY2VTdGF0dXNDaGFuZ2VkKCJEaXNjb25uZWN0aW5nIik7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICogVGhpcyBmdW5jdGlvbiBzdG9wcyB0aGUgZXhlY3V0aW9uIG9mIHRoZSByZWFkZXIgb3BlcmF0aW9uLiBVcm1zcF9TdG9wUk9TcGVjCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBvbkRldmljZVN0YXR1c0NoYW5nZWQoMSk7CgogICAgICAgIGlmIChUU1NBUElMb2dMZXZlbC5MT0dfREVCVUcpIHsKICAgICAgICAgICAgTG9nLmQoVEFHLCAib25VaURpc2Nvbm5lY3RlZCIpOwogICAgICAgIH0KCiAgICAgICAgaWYgKG1UU1NBUElCTEVDYWxsYmFjayAhPSBudWxsKSB7CgogICAgICAgICAgICBtVFNTQVBJQkxFQ2FsbGJhY2suT25EZXZpY2VTdGF0dXNDaGFuZ2VkKCJEaXNjb25uZWN0ZWQiKTsKICAgICAgICAgICAgLy9JZiB0aGUgZGlzY29ubmVjdCByZWFzb24gaXMgbm90IHRoZSBvblBhdXNlIHdlIHRyeSB0byByZWNvbm5lY3QKICAgICAgICAgICAgaWYgKG1QcmVmZXJlbmNlcy5nZXREZXZpY2VSZWNvbm5lY3QoKSAmJiAhaXNQYXVzZWQpIHsKICAgICAgICAgICAgICAgIHJlY29ubmVjdCh0cnVlKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBvbkRldmljZVN0YXR1c0NoYW5nZWQoMCk7CiAgICAgICAgLy9Ob3RlOiBDb25uZWN0ZWQgdG8gYmxlIGRldmljZQogICAgICAgIGlmIChUU1NBUElMb2dMZXZlbC5MT0dfREVCVUcpIHsKICAgICAgICAgICAgTG9nLmQoVEFHLCAib25VaUNvbm5lY3RlZCIpOwogICAgICAgIH0KCiAgICAgICAgaWYgKG1UU1NBUElCTEVDYWxsYmFjayAhPSBudWxsKSB7CgogICAgICAgICAgICBtVFNTQVBJQkxFQ2FsbGJhY2suT25EZXZpY2VTdGF0dXNDaGFuZ2VkKCJDb25uZWN0ZWQiKTsKICAgICAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+      <register name="8" type="4">
+        <text>if (TSSAPILogLevel.LOG_DEBUG) {
+            Log.d(TAG, &quot;onUiConnecting&quot;);
+        }
+
+        if (mTSSAPIBLECallback != null) {
+
+            mTSSAPIBLECallback.OnDeviceStatusChanged(&quot;Connecting&quot;);
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
