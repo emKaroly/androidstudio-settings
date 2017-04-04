@@ -335,12 +335,12 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1490778396842">
-        <mark key="'" line="116" column="8" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="73" column="3" />
-        <mark key="." line="73" column="3" />
-        <mark key="^" line="73" column="3" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1491295947217">
+        <mark key="'" line="241" column="21" />
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+        <mark key="^" line="34" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/res/layout/activity_main.xml" timestamp="1471335340351">
         <mark key="[" line="1" column="50" />
@@ -1360,8 +1360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="29" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" />
-      <jump line="216" column="12" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
       <jump line="348" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="105" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="531" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
@@ -1460,6 +1458,8 @@
       <jump line="22" column="22" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="101" column="7" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="663" column="22" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
+      <jump line="62" column="20" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="241" column="21" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
