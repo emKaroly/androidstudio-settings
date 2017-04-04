@@ -336,11 +336,11 @@
         <mark key="." line="8" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1491299207250">
-        <mark key="'" line="136" column="10" />
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
+        <mark key="'" line="134" column="10" />
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
         <mark key="^" line="20" column="22" />
-        <mark key="." line="269" column="0" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/APIDemo_Android/app/src/main/res/layout/activity_main.xml" timestamp="1471335340351">
         <mark key="[" line="1" column="50" />
@@ -495,7 +495,7 @@
         <mark key="^" line="3" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1484316005547">
-        <mark key="'" line="84" column="18" />
+        <mark key="'" line="94" column="18" />
         <mark key="[" line="50" column="31" />
         <mark key="]" line="50" column="30" />
         <mark key="^" line="50" column="30" />
@@ -1006,8 +1006,8 @@
         <mark key="." line="27" column="51" />
         <mark key="^" line="27" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/parameters/GetReaderCapabilitiesParameters.java" timestamp="1490967144040">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/parameters/GetReaderCapabilitiesParameters.java" timestamp="1491300257044">
+        <mark key="[" line="50" column="38" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="49" column="44" />
         <mark key="." line="3" column="0" />
