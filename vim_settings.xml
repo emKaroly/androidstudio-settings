@@ -531,11 +531,11 @@
         <mark key="^" line="24" column="3" />
         <mark key="." line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MainActivity.java" timestamp="1491379513914">
-        <mark key="[" line="211" column="79" />
-        <mark key="]" line="211" column="108" />
-        <mark key="." line="211" column="0" />
-        <mark key="^" line="71" column="29" />
+      <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MainActivity.java" timestamp="1491381591326">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="74" />
+        <mark key="^" line="187" column="52" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/TSSAPICallback.java" timestamp="1471512766002">
         <mark key="[" line="3" column="31" />
@@ -585,7 +585,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491378689880">
+      <file name="/Dummy.txt" timestamp="1491382361888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/structures.h" timestamp="1476171701489">
@@ -1478,7 +1478,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJObyBpbnRlcm5ldCBjb25uZWN0aW9uIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVtYWlsID0gZWRpdFRleHRFbWFpbExvZ2luLmdldFRleHQoKS50b1N0cmluZygpLnRyaW0oKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1487,47 +1487,37 @@
         <text>urmsp_Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJObyBpbnRlcm5ldCBjb25uZWN0aW9uIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVtYWlsID0gZWRpdFRleHRFbWFpbExvZ2luLmdldFRleHQoKS50b1N0cmluZygpLnRyaW0oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBtQXV0aC5zZW5kUGFzc3dvcmRSZXNldEVtYWlsKGVtYWlsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1BdXRoLnNlbmRQYXNzd29yZFJlc2V0RW1haWwoZW1haWwpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIFJlZ2lzdHJhdGlvbkFjdGl2aXR5LmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiU2VuZGluZyBwYXNzd29yZCByZXNldCBlbWFpbC4iLAo=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IFNuYWNrYmFyLm1ha2UodmlldywgIkVtYWlsIGNhbid0IGJlIGVtcHR5IiwgU25hY2tiYXIuTEVOR1RIX0xPTkcpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRBY3Rpb24oIkFjdGlvbiIsIG51bGwpLnNob3coKTs=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICBtQXV0aC5zZW5kUGFzc3dvcmRSZXNldEVtYWlsKGVtYWlsKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIFJlZ2lzdHJhdGlvbkFjdGl2aXR5LmNsYXNzKTsK</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVVNCRGF0YVJlY2VpdmVkKFN0cmluZyBkYXRhKSB7CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Db25uZWN0ZWQoKSB7CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25EaXNjb25uZWN0ZWQoKSB7CgogICAgfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVVNCRGF0YVJlY2VpdmVkKFN0cmluZyBkYXRhKSB7CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Db25uZWN0ZWQoKSB7CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25EaXNjb25uZWN0ZWQoKSB7CgogICAgfQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>onDeviceStatusChanged(1);
-
-        if (mTSSAPIUSBCallback != null) {
-
-            mTSSAPIUSBCallback.OnDeviceStatusChanged(&quot;Disconnected&quot;);
-        }</text>
-      </register>
-      <register name="7" type="4">
-        <text>onDeviceStatusChanged(0);
-
-        if(mTSSAPIUSBCallback != null) {
-
-            mTSSAPIUSBCallback.OnDeviceStatusChanged(&quot;Connecting&quot;);
-        }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihUU1NBUElMb2dMZXZlbC5MT0dfREVCVUcpIExvZy5kKFRBRywgInNlbmREYXRhIHN0cmluZzogIik7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkRhdGFSZWNlaXZlZChkYXRhKTsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
