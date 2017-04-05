@@ -1114,8 +1114,11 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/UsersNearby.java" timestamp="1491384962811">
-        <mark key="[" line="107" column="9" />
+      <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/UsersNearby.java" timestamp="1491385845803">
+        <mark key="[" line="130" column="20" />
+        <mark key="]" line="127" column="20" />
+        <mark key="^" line="127" column="20" />
+        <mark key="." line="127" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/parameters/C1G2LockPayloadParameters.java" timestamp="1490965026078">
         <mark key="[" line="73" column="0" />
@@ -1481,7 +1484,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVtYWlsID0gZWRpdFRleHRFbWFpbExvZ2luLmdldFRleHQoKS50b1N0cmluZygpLnRyaW0oKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIjEiKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1490,7 +1493,7 @@
         <text>urmsp_Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVtYWlsID0gZWRpdFRleHRFbWFpbExvZ2luLmdldFRleHQoKS50b1N0cmluZygpLnRyaW0oKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIjEiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1BdXRoLnNlbmRQYXNzd29yZFJlc2V0RW1haWwoZW1haWwpOwo=</text>
