@@ -704,6 +704,7 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/local.properties" timestamp="1491470514045" />
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/APICallbackHandler.java" timestamp="1484299057441">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="13" column="71" />
@@ -876,11 +877,11 @@
         <mark key="^" line="134" column="7" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/build.gradle" timestamp="1491469111962">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="130" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/build.gradle" timestamp="1491470533034">
+        <mark key="[" line="123" column="44" />
+        <mark key="]" line="123" column="11" />
+        <mark key="^" line="123" column="11" />
+        <mark key="." line="123" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICoreJNI.java" timestamp="1471545466106">
         <mark key="[" line="13" column="139" />
@@ -1501,7 +1502,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9kZWYgYW5kcm9pZEphciA9ICIke2dldFNka0RpcigpfS9wbGF0Zm9ybXMvJHthbmRyb2lkQ29uZmlnLmNvbXBpbGVTZGtWZXJzaW9ufS9hbmRyb2lkLmphciIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
