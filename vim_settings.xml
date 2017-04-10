@@ -494,6 +494,12 @@
         <mark key="." line="49" column="17" />
         <mark key="^" line="49" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/Freelancing/HangOuterOLD/app/src/debug/res/values/google_maps_api.xml" timestamp="1491806038735">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="47" />
+        <mark key="^" line="21" column="46" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/res/layout/fragment_main.xml" timestamp="1478098398193">
         <mark key="[" line="51" column="14" />
         <mark key="]" line="56" column="40" />
@@ -704,7 +710,6 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/local.properties" timestamp="1491470514045" />
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/APICallbackHandler.java" timestamp="1484299057441">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="13" column="71" />
@@ -1502,7 +1507,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9kZWYgYW5kcm9pZEphciA9ICIke2dldFNka0RpcigpfS9wbGF0Zm9ybXMvJHthbmRyb2lkQ29uZmlnLmNvbXBpbGVTZGtWZXJzaW9ufS9hbmRyb2lkLmphciIK</text>
+        <text encoding="base64">ICAgICAgICBBSXphU3lDRnpfcVFTaHdWQjlZZUZBVVZfbXNyNjJVZktSYkhLQzAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1514,34 +1519,34 @@
         <text encoding="base64">ICAgICAgICAgICAgLy9kZWYgYW5kcm9pZEphciA9ICIke2dldFNka0RpcigpfS9wbGF0Zm9ybXMvJHthbmRyb2lkQ29uZmlnLmNvbXBpbGVTZGtWZXJzaW9ufS9hbmRyb2lkLmphciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBBSXphU3lDRnpfcVFTaHdWQjlZZUZBVVZfbXNyNjJVZktSYkhLQzAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gIiR7YW5kcm9pZC5nZXRTZGtEaXJlY3RvcnkoKS5nZXRBYnNvbHV0ZVBhdGgoKX0iCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y3JlYXRlSmF2YWRvY3MoSmF2YWRvYykgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9kZWYgYW5kcm9pZEphciA9ICIke2dldFNka0RpcigpfS9wbGF0Zm9ybXMvJHthbmRyb2lkQ29uZmlnLmNvbXBpbGVTZGtWZXJzaW9ufS9hbmRyb2lkLmphciIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhc2tzIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4gIiR7YW5kcm9pZC5nZXRTZGtEaXJlY3RvcnkoKS5nZXRBYnNvbHV0ZVBhdGgoKX0iCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y3JlYXRlSmF2YWRvY3MoSmF2YWRvYykgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9kZWYgYW5kcm9pZEphciA9ICIke2dldFNka0RpcigpfS9wbGF0Zm9ybXMvJHthbmRyb2lkQ29uZmlnLmNvbXBpbGVTZGtWZXJzaW9ufS9hbmRyb2lkLmphciIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRhc2tzIHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kZWwgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
