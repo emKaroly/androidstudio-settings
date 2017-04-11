@@ -882,11 +882,11 @@
         <mark key="^" line="134" column="7" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/build.gradle" timestamp="1491903228658">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/build.gradle" timestamp="1491905095922">
         <mark key="[" line="155" column="35" />
-        <mark key="]" line="155" column="20" />
-        <mark key="." line="155" column="20" />
-        <mark key="^" line="155" column="20" />
+        <mark key="]" line="136" column="16" />
+        <mark key="." line="136" column="16" />
+        <mark key="^" line="136" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICoreJNI.java" timestamp="1471545466106">
         <mark key="[" line="13" column="139" />
