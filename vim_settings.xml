@@ -1036,9 +1036,9 @@
         <mark key="^" line="49" column="44" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/build.gradle" timestamp="1486034033721">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/build.gradle" timestamp="1491915158109">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="20" />
         <mark key="^" line="48" column="11" />
         <mark key="." line="49" column="0" />
       </file>
@@ -1347,6 +1347,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" timestamp="1491915269823">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1471545444472">
         <mark key="[" line="96" column="135" />
         <mark key="]" line="99" column="118" />
@@ -1506,8 +1512,8 @@
       <jump line="89" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBwbHkgZnJvbTogIi4uL2NvbmZpZy5ncmFkbGUiCmRlZiBjb25maWcgPSBleHQuY2ZnCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1516,7 +1522,7 @@
         <text>urmsp_Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZyb20gc291cmNlU2V0cy5tYWluLmFsbFNvdXJjZQo=</text>
+        <text encoding="base64">YXBwbHkgZnJvbTogIi4uL2NvbmZpZy5ncmFkbGUiCmRlZiBjb25maWcgPSBleHQuY2ZnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBzb3VyY2VTZXRzLm1haW4uYWxsU291cmNlCg==</text>
