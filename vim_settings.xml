@@ -606,9 +606,9 @@
       <file name="/Dummy.txt" timestamp="1491387838815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/build.gradle" timestamp="1491916876790">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="35" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/build.gradle" timestamp="1492002439056">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="37" />
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
@@ -1347,11 +1347,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" timestamp="1492001209792">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="44" column="5" />
-        <mark key="^" line="44" column="5" />
-        <mark key="." line="44" column="5" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" timestamp="1492002448087">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="37" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1471545444472">
         <mark key="[" line="96" column="135" />
@@ -1512,8 +1512,8 @@
       <jump line="89" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'-DANDROID_PLATFORM=android-9',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNwcEZsYWdzICItc3RkPWMrKzExIgo=</text>
       </register>
       <register name="-" type="4">
         <text>'-DANDROID_PLATFORM=android-9',</text>
@@ -1522,7 +1522,7 @@
         <text>urmsp_Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYXJtZWFiaScsJ2FybWVhYmktdjdhJywneDg2JywnbWlwcycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNwcEZsYWdzICItc3RkPWMrKzExIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly9dCg==</text>
