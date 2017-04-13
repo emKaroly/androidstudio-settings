@@ -444,11 +444,11 @@
         <mark key="^" line="41" column="39" />
         <mark key="." line="41" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/config.gradle" timestamp="1492000356463">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="32" column="36" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/config.gradle" timestamp="1492080729901">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2Epc.java" timestamp="1470139814292">
         <mark key="[" line="29" column="0" />
@@ -1347,11 +1347,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" timestamp="1492002448087">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" timestamp="1492085357291">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="30" />
+        <mark key="^" line="28" column="55" />
+        <mark key="." line="28" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1471545444472">
         <mark key="[" line="96" column="135" />
@@ -1410,8 +1411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
-      <jump line="282" column="15" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="189" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
       <jump line="87" column="57" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
@@ -1510,13 +1509,15 @@
       <jump line="272" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
       <jump line="137" column="10" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
+      <jump line="28" column="55" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNwcEZsYWdzICItc3RkPWMrKzExIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'-DANDROID_PLATFORM=android-9',</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>urmsp_Start</text>
@@ -1524,35 +1525,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNwcEZsYWdzICItc3RkPWMrKzExIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly9dCg==</text>
+      <register name="1" type="4">
+        <text>'x86', 'x86_64', 'armeabi', 'armeabi-v7a',
+                    'arm64-v8a'</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdhcm1lYWJpLXY3YScK</text>
+        <text encoding="base64">Ly9dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9leHQuY2ZnLnJlbGVhc2VQbGF0Zm9ybXMgPSBbCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICdhcm1lYWJpLXY3YScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnYXJtZWFiaS12N2EnLCdhcm02NC12OGEnLCd4ODYnLCd4ODZfNjQnCg==</text>
+        <text encoding="base64">Ly9leHQuY2ZnLnJlbGVhc2VQbGF0Zm9ybXMgPSBbCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzb3VyY2VTZXRzLm1haW4uYWxsU291cmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAnYXJtZWFiaS12N2EnLCdhcm02NC12OGEnLCd4ODYnLCd4ODZfNjQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBSXphU3lDRnpfcVFTaHdWQjlZZUZBVVZfbXNyNjJVZktSYkhLQzAK</text>
+        <text encoding="base64">ZnJvbSBzb3VyY2VTZXRzLm1haW4uYWxsU291cmNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBBSXphU3lDRnpfcVFTaHdWQjlZZUZBVVZfbXNyNjJVZktSYkhLQzAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gIiR7YW5kcm9pZC5nZXRTZGtEaXJlY3RvcnkoKS5nZXRBYnNvbHV0ZVBhdGgoKX0iCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlSmF2YWRvY3MoSmF2YWRvYykgewo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4gIiR7YW5kcm9pZC5nZXRTZGtEaXJlY3RvcnkoKS5nZXRBYnNvbHV0ZVBhdGgoKX0iCg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
