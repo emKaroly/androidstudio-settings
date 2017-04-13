@@ -444,11 +444,11 @@
         <mark key="^" line="41" column="39" />
         <mark key="." line="41" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/config.gradle" timestamp="1492080729901">
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="24" />
-        <mark key="^" line="31" column="24" />
-        <mark key="." line="31" column="24" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/config.gradle" timestamp="1492088101583">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="62" />
+        <mark key="^" line="31" column="62" />
+        <mark key="." line="31" column="62" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2Epc.java" timestamp="1470139814292">
         <mark key="[" line="29" column="0" />
@@ -660,11 +660,12 @@
         <mark key="." line="38" column="70" />
         <mark key="^" line="38" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1491916880859">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="11" column="47" />
-        <mark key="." line="11" column="47" />
-        <mark key="^" line="11" column="47" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1492089110614">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="45" column="29" />
+        <mark key="." line="45" column="29" />
+        <mark key="^" line="45" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -1042,7 +1043,7 @@
         <mark key="^" line="49" column="44" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/build.gradle" timestamp="1492077749900">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/build.gradle" timestamp="1492087267285">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="20" />
         <mark key="^" line="48" column="11" />
@@ -1347,12 +1348,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" timestamp="1492085357291">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" timestamp="1492088530658">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="30" />
-        <mark key="]" line="28" column="30" />
-        <mark key="^" line="28" column="55" />
-        <mark key="." line="28" column="30" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="^" line="28" column="24" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPI.java" timestamp="1471545444472">
         <mark key="[" line="96" column="135" />
@@ -1411,7 +1412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
       <jump line="87" column="57" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
       <jump line="599" column="13" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/libs/d2xx.jar!/com/ftdi/j2xx/D2xxManager.class" />
@@ -1511,10 +1511,11 @@
       <jump line="89" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
       <jump line="28" column="55" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" />
+      <jump line="14" column="7" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGV4cGxpY2l0bHkgYnVpbGQgbGlicwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1522,39 +1523,53 @@
       <register name="/" type="4">
         <text>urmsp_Start</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNwcEZsYWdzICItc3RkPWMrKzExIgo=</text>
+      <register name="0" type="4">
+        <text>externalNativeBuild {
+            cmake {
+                arguments '-DANDROID_TOOLCHAIN=clang'
+                cppFlags &quot;-std=c++11&quot;
+                // explicitly build libs
+                targets 'tssapicore'
+            }
+
+        }
+
+        ndk {
+            // Specifies the ABI configurations of your native
+            // libraries Gradle should build and package with your APK.
+            abiFilters = config.releasePlatforms.toSet()
+        }</text>
       </register>
-      <register name="1" type="4">
-        <text>'x86', 'x86_64', 'armeabi', 'armeabi-v7a',
-                    'arm64-v8a'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGV4cGxpY2l0bHkgYnVpbGQgbGlicwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldHMgJ3Rzc2FwaWNvcmUnCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdhcm1lYWJpLXY3YScK</text>
+      <register name="3" type="4">
+        <text>'x86', 'x86_64', 'armeabi', 'armeabi-v7a',
+                    'arm64-v8a'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9leHQuY2ZnLnJlbGVhc2VQbGF0Zm9ybXMgPSBbCg==</text>
+        <text encoding="base64">Ly9dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnYXJtZWFiaS12N2EnLCdhcm02NC12OGEnLCd4ODYnLCd4ODZfNjQnCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICdhcm1lYWJpLXY3YScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzb3VyY2VTZXRzLm1haW4uYWxsU291cmNlCg==</text>
+        <text encoding="base64">Ly9leHQuY2ZnLnJlbGVhc2VQbGF0Zm9ybXMgPSBbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBSXphU3lDRnpfcVFTaHdWQjlZZUZBVVZfbXNyNjJVZktSYkhLQzAK</text>
+        <text encoding="base64">ICAgICAgICAnYXJtZWFiaS12N2EnLCdhcm02NC12OGEnLCd4ODYnLCd4ODZfNjQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZnJvbSBzb3VyY2VTZXRzLm1haW4uYWxsU291cmNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gIiR7YW5kcm9pZC5nZXRTZGtEaXJlY3RvcnkoKS5nZXRBYnNvbHV0ZVBhdGgoKX0iCg==</text>
+        <text encoding="base64">ICAgICAgICBBSXphU3lDRnpfcVFTaHdWQjlZZUZBVVZfbXNyNjJVZktSYkhLQzAK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
