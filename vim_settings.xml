@@ -471,7 +471,8 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MapsActivity.java" timestamp="1491397859309">
+      <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MapsActivity.java" timestamp="1492246671974">
+        <mark key="'" line="81" column="28" />
         <mark key="[" line="1529" column="49" />
         <mark key="]" line="1522" column="22" />
         <mark key="." line="1522" column="22" />
@@ -1413,7 +1414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
       <jump line="87" column="57" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
       <jump line="599" column="13" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/libs/d2xx.jar!/com/ftdi/j2xx/D2xxManager.class" />
       <jump line="950" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/libs/d2xx.jar!/com/ftdi/j2xx/FT_Device.class" />
@@ -1513,6 +1513,7 @@
       <jump line="28" column="55" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" />
       <jump line="14" column="7" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" />
+      <jump line="81" column="28" filename="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MapsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
