@@ -521,11 +521,11 @@
         <mark key="^" line="55" column="54" />
         <mark key="." line="55" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1492512046891">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1492512694670">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/ICore.h" timestamp="1486023507850">
         <mark key="[" line="12" column="67" />
