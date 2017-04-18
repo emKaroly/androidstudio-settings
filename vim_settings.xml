@@ -521,11 +521,10 @@
         <mark key="^" line="55" column="54" />
         <mark key="." line="55" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1492512694670">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1492520485130">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/ICore.h" timestamp="1486023507850">
         <mark key="[" line="12" column="67" />
@@ -1523,7 +1522,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHRzc2FwaWNvcmUuaD4K</text>
+        <text encoding="base64">I2luY2x1ZGUgPG1pc2Mvc3RydWN0dXJlcy5oPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1549,35 +1548,35 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHRzc2FwaWNvcmUuaD4K</text>
+        <text encoding="base64">I2luY2x1ZGUgPG1pc2Mvc3RydWN0dXJlcy5oPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uL3Rzc2FwaWNvcmUvc3JjL21haW4vam5pL21pc2Mvc3RydWN0dXJlcy5oIgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHRzc2FwaWNvcmUuaD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uL3Rzc2FwaWNvcmUvc3JjL21haW4vam5pL3Rzc2FwaWNvcmUuaCIK</text>
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uL3Rzc2FwaWNvcmUvc3JjL21haW4vam5pL21pc2Mvc3RydWN0dXJlcy5oIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGV4cGxpY2l0bHkgYnVpbGQgbGlicwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uL3Rzc2FwaWNvcmUvc3JjL21haW4vam5pL3Rzc2FwaWNvcmUuaCIK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGV4cGxpY2l0bHkgYnVpbGQgbGlicwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldHMgJ3Rzc2FwaWNvcmUnCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>'x86', 'x86_64', 'armeabi', 'armeabi-v7a',
                     'arm64-v8a'</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly9dCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdhcm1lYWJpLXY3YScK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9leHQuY2ZnLnJlbGVhc2VQbGF0Zm9ybXMgPSBbCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICdhcm1lYWJpLXY3YScK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
