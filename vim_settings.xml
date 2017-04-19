@@ -21,7 +21,6 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/ProfileSetUp.java" timestamp="1492245999106" />
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/item_scanned.xml" timestamp="1478596682581">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="36" column="31" />
@@ -490,6 +489,12 @@
         <mark key="^" line="169" column="26" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/TSSURMReader.cpp" timestamp="1492609366168">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.cpp" timestamp="1470911515260">
         <mark key="[" line="29" column="38" />
         <mark key="]" line="29" column="55" />
@@ -513,6 +518,12 @@
         <mark key="]" line="56" column="40" />
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/packet/TSSURMMessage.cpp" timestamp="1492609188294">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" timestamp="1491302074125">
         <mark key="'" line="89" column="0" />
@@ -635,6 +646,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssapicore.h" timestamp="1492609267597">
+        <mark key="[" line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/MainActivityInterface.java" timestamp="1475921958819">
         <mark key="[" line="3" column="3" />
@@ -1080,6 +1094,12 @@
         <mark key="." line="35" column="9" />
         <mark key="^" line="35" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/packet/TSSURMPacketer.cpp" timestamp="1492609131754">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/Logs.h" timestamp="1467365473237">
         <mark key="[" line="21" column="1" />
         <mark key="]" line="21" column="1" />
@@ -1218,6 +1238,12 @@
         <mark key="^" line="145" column="7" />
         <mark key="." line="155" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/packet/TSSURMMessage.h" timestamp="1492609161063">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMBuffer.h" timestamp="1467209332739">
         <mark key="[" line="20" column="9" />
         <mark key="]" line="20" column="9" />
@@ -1294,6 +1320,9 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssurmcallback.h" timestamp="1492609421746">
+        <mark key="'" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/build.gradle" timestamp="1466759749290">
         <mark key="[" line="33" column="26" />
@@ -1405,6 +1434,12 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/TSSURMErrorMessage.h" timestamp="1492609384790">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketParser.cpp" timestamp="1469699376814">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="26" />
@@ -1419,7 +1454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="57" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
       <jump line="599" column="13" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/libs/d2xx.jar!/com/ftdi/j2xx/D2xxManager.class" />
       <jump line="950" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/libs/d2xx.jar!/com/ftdi/j2xx/FT_Device.class" />
       <jump line="83" column="18" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
@@ -1519,6 +1553,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" />
       <jump line="14" column="7" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" />
       <jump line="81" column="28" filename="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MapsActivity.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssurmcallback.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1625,8 +1660,8 @@
         <entry>s/lock/kill</entry>
         <entry>s/$/;/</entry>
         <entry>%s/$/;/</entry>
-        <entry>w</entry>
         <entry>diff</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
