@@ -184,8 +184,8 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1491302453781">
-        <mark key="'" line="209" column="29" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1492677419050">
+        <mark key="'" line="768" column="8" />
         <mark key="[" line="825" column="0" />
         <mark key="]" line="825" column="60" />
         <mark key="." line="816" column="0" />
@@ -475,6 +475,10 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" timestamp="1492677262290">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MapsActivity.java" timestamp="1492246671974">
         <mark key="'" line="81" column="28" />
         <mark key="[" line="1529" column="49" />
@@ -537,10 +541,12 @@
         <mark key="^" line="55" column="54" />
         <mark key="." line="55" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1492520485130">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" timestamp="1492677507740">
+        <mark key="'" line="878" column="18" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/ICore.h" timestamp="1486023507850">
         <mark key="[" line="12" column="67" />
@@ -1455,11 +1461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="599" column="13" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/libs/d2xx.jar!/com/ftdi/j2xx/D2xxManager.class" />
-      <jump line="950" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/libs/d2xx.jar!/com/ftdi/j2xx/FT_Device.class" />
-      <jump line="83" column="18" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIUSB.java" />
-      <jump line="99" column="11" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" />
-      <jump line="235" column="22" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" />
       <jump line="237" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDISerialPort.java" />
       <jump line="381" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="67" column="31" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
@@ -1555,10 +1556,15 @@
       <jump line="14" column="7" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" />
       <jump line="81" column="28" filename="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MapsActivity.java" />
       <jump line="47" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssurmcallback.h" />
+      <jump line="277" column="39" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="780" column="9" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="766" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="768" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
+      <jump line="878" column="18" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm1pc2MvVFNTdXJtc3AuaCIK</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1567,40 +1573,39 @@
         <text>urmsp_Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8jaW5jbHVkZSAiVFNTVVJNQ29yZS5oIgovLyNpbmNsdWRlICJUU1NVUk1SZWFkZXIuaCIKLy8jaW5jbHVkZSAiVFNTVVJNSG9zdC5oIgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm1pc2MvVFNTdXJtc3AuaCIK</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHR5cGU+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIm1pc2MvVFNTdXJtc3AuaCIK</text>
+      </register>
+      <register name="5" type="8">
         <text>//
 //
 //</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">I2luY2x1ZGUgPG1pc2Mvc3RydWN0dXJlcy5oPgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHRzc2FwaWNvcmUuaD4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uL3Rzc2FwaWNvcmUvc3JjL21haW4vam5pL21pc2Mvc3RydWN0dXJlcy5oIgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uL3Rzc2FwaWNvcmUvc3JjL21haW4vam5pL3Rzc2FwaWNvcmUuaCIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGV4cGxpY2l0bHkgYnVpbGQgbGlicwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldHMgJ3Rzc2FwaWNvcmUnCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>'x86', 'x86_64', 'armeabi', 'armeabi-v7a',
-                    'arm64-v8a'</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
