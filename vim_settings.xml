@@ -227,10 +227,10 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssapicore.cpp" timestamp="1492675805196">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="26" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssapicore.cpp" timestamp="1492679452271">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1477554368985">
         <mark key="[" line="123" column="10" />
@@ -1564,7 +1564,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIlRTU1VSTUVycm9yTWVzc2FnZS5oIgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1576,36 +1576,36 @@
         <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIlRTU1VSTUVycm9yTWVzc2FnZS5oIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHR5cGU+Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHR5cGU+Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">I2luY2x1ZGUgIm1pc2MvVFNTdXJtc3AuaCIK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>//
 //
 //</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">I2luY2x1ZGUgPG1pc2Mvc3RydWN0dXJlcy5oPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHRzc2FwaWNvcmUuaD4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uL3Rzc2FwaWNvcmUvc3JjL21haW4vam5pL21pc2Mvc3RydWN0dXJlcy5oIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uL3Rzc2FwaWNvcmUvc3JjL21haW4vam5pL3Rzc2FwaWNvcmUuaCIK</text>
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uLy4uL3Rzc2FwaWNvcmUvc3JjL21haW4vam5pL21pc2Mvc3RydWN0dXJlcy5oIgo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
