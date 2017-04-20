@@ -21,6 +21,9 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="14" />
       </file>
+      <file name="/a.dummy" timestamp="1492684206989">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/item_scanned.xml" timestamp="1478596682581">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="36" column="31" />
@@ -626,6 +629,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="/Dummy.txt" timestamp="1491387838815">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/build.gradle" timestamp="1492002439056">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="37" />
@@ -1000,6 +1006,9 @@
         <mark key="]" line="7" column="19" />
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/res/layout/content_main.xml" timestamp="1491379124220">
+        <mark key="[" line="65" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" timestamp="1488898503518">
         <mark key="'" line="58" column="31" />
