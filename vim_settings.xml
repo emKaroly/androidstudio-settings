@@ -748,6 +748,12 @@
         <mark key="^" line="81" column="42" />
         <mark key="." line="81" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build/intermediates/manifests/aapt/release/AndroidManifest.xml" timestamp="1493126520743">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="/fragment.java" timestamp="1493116431622">
         <mark key="[" line="0" column="0" />
       </file>
@@ -777,6 +783,10 @@
         <mark key="]" line="14" column="69" />
         <mark key="^" line="14" column="69" />
         <mark key="." line="14" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/AndroidManifest.xml" timestamp="1493126608155">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketNew.cpp" timestamp="1470230117059">
         <mark key="[" line="1051" column="29" />
@@ -1490,6 +1500,12 @@
         <mark key="^" line="112" column="17" />
         <mark key="." line="113" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" timestamp="1493126464085">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/IDevice.h" timestamp="1486023548326">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="21" column="56" />
@@ -1619,8 +1635,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGl0ZXN0LlI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PG1hbmlmZXN0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHBhY2thZ2U9ImV1LnRzcy5hcGkiPgoKICAgIDxhcHBsaWNhdGlvbiBhbmRyb2lkOmFsbG93QmFja3VwPSJmYWxzZSIKICAgICAgICBhbmRyb2lkOnN1cHBvcnRzUnRsPSJ0cnVlIgo+CgogICAgPC9hcHBsaWNhdGlvbj4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQkxVRVRPT1RIIi8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkJMVUVUT09USF9BRE1JTiIvPgo8L21hbmlmZXN0Pg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -1629,7 +1645,7 @@
         <text>urmsp_Start</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PG1lbnUgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgogICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICB0b29sczpjb250ZXh0PSJldS50c3MuYXBpdGVzdC5NYWluQWN0aXZpdHkiPgoKICAgIDxpdGVtCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9tZW51U3RhdHVzIgogICAgICAgIGFuZHJvaWQ6dGl0bGU9IkRpc2Nvbm5lY3RlZCIKICAgICAgICBhcHA6c2hvd0FzQWN0aW9uPSJhbHdheXMiPgogICAgICAgIDxtZW51PgogICAgICAgICAgICA8aXRlbQogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9tZW51QnV0dG9uQ29ubmVjdCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IkNvbm5lY3QiLz4KICAgICAgICAgICAgPGl0ZW0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbWVudUJ1dHRvbkRpc2Nvbm5lY3QiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJEaXNjb25uZWN0Ii8+CiAgICAgICAgPC9tZW51PgogICAgPC9pdGVtPgo8L21lbnU+</text>
+        <text encoding="base64">PG1hbmlmZXN0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHBhY2thZ2U9ImV1LnRzcy5hcGkiPgoKICAgIDxhcHBsaWNhdGlvbiBhbmRyb2lkOmFsbG93QmFja3VwPSJmYWxzZSIKICAgICAgICBhbmRyb2lkOnN1cHBvcnRzUnRsPSJ0cnVlIgo+CgogICAgPC9hcHBsaWNhdGlvbj4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQkxVRVRPT1RIIi8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkJMVUVUT09USF9BRE1JTiIvPgo8L21hbmlmZXN0Pg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGl0ZXN0LlI7Cg==</text>
