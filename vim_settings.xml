@@ -193,9 +193,9 @@
         <mark key="." line="816" column="0" />
         <mark key="^" line="838" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/values/strings.xml" timestamp="1478247918386">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="16" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/values/strings.xml" timestamp="1493117087634">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="11" />
         <mark key="^" line="13" column="15" />
         <mark key="." line="16" column="0" />
       </file>
@@ -400,6 +400,11 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/res/layout/activity_main.xml" timestamp="1493117069590">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/CommandResult.java" timestamp="1475831117244">
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="85" />
@@ -454,11 +459,12 @@
         <mark key="^" line="31" column="62" />
         <mark key="." line="31" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1492694396183">
-        <mark key="'" line="541" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="541" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1493117330616">
+        <mark key="'" line="108" column="67" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2Epc.java" timestamp="1470139814292">
         <mark key="[" line="29" column="0" />
@@ -479,12 +485,6 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" timestamp="1492682454503">
-        <mark key="'" line="33" column="16" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MapsActivity.java" timestamp="1492246671974">
         <mark key="'" line="81" column="28" />
@@ -597,6 +597,12 @@
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/res/values/strings.xml" timestamp="1493117095712">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMQPacketParser.h" timestamp="1469798157816">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="12" column="27" />
@@ -642,12 +648,12 @@
       <file name="/Dummy.txt" timestamp="1491387838815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/build.gradle" timestamp="1492696337925">
-        <mark key="'" line="47" column="3" />
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="11" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/build.gradle" timestamp="1493124588398">
+        <mark key="'" line="57" column="3" />
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="40" column="5" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/structures.h" timestamp="1476171701489">
         <mark key="[" line="3" column="1" />
@@ -698,11 +704,11 @@
         <mark key="." line="38" column="70" />
         <mark key="^" line="38" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1492089110614">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493116823850">
         <mark key="'" line="14" column="7" />
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="45" column="29" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="50" />
+        <mark key="." line="53" column="0" />
         <mark key="^" line="45" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
@@ -741,6 +747,9 @@
         <mark key="]" line="81" column="42" />
         <mark key="^" line="81" column="42" />
         <mark key="." line="81" column="42" />
+      </file>
+      <file name="/fragment.java" timestamp="1493116431622">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
         <mark key="[" line="4" column="15" />
@@ -800,6 +809,11 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/layout/activity_main.xml" timestamp="1493117055080">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="130" column="16" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1477573020556">
         <mark key="[" line="89" column="9" />
         <mark key="]" line="74" column="4" />
@@ -811,11 +825,6 @@
         <mark key="]" line="20" column="11" />
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1492694375005">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="541" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMResultMessage.h" timestamp="1481638037271">
         <mark key="[" line="8" column="17" />
@@ -841,11 +850,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" timestamp="1492694741939">
-        <mark key="'" line="12" column="48" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/build.gradle" timestamp="1488884717990">
         <mark key="[" line="7" column="55" />
@@ -919,6 +923,12 @@
         <mark key="^" line="281" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/AndroidManifest.xml" timestamp="1493115809911">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.h" timestamp="1486025452941">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="10" column="51" />
@@ -938,9 +948,9 @@
         <mark key="^" line="134" column="7" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/build.gradle" timestamp="1491905095922">
-        <mark key="[" line="155" column="35" />
-        <mark key="]" line="136" column="16" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/build.gradle" timestamp="1493116809846">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="50" />
         <mark key="." line="136" column="16" />
         <mark key="^" line="136" column="16" />
       </file>
@@ -1050,6 +1060,12 @@
         <mark key="^" line="25" column="39" />
         <mark key="." line="25" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssuielements/build.gradle" timestamp="1493115664429">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/GetReaderCapabilitiesParameters.java" timestamp="1474030312026">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="39" column="17" />
@@ -1110,15 +1126,19 @@
         <mark key="^" line="11" column="67" />
         <mark key="." line="11" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/AndroidManifest.xml" timestamp="1493115804380">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="35" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/tssurmbuffer.cpp" timestamp="1467207434954">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="3" column="47" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/menu/menu.xml" timestamp="1478184086546">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="52" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/menu/menu.xml" timestamp="1493117160558">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="6" />
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="52" />
       </file>
@@ -1157,6 +1177,11 @@
         <mark key="]" line="257" column="18" />
         <mark key="^" line="257" column="18" />
         <mark key="." line="257" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/AndroidManifest.xml" timestamp="1493115984749">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/CommandLayout.java" timestamp="1475480489078">
         <mark key="[" line="34" column="5" />
@@ -1205,6 +1230,12 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="66" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/AndroidManifest.xml" timestamp="1493115970194">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="5" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPIBLE.java" timestamp="1472047822383">
         <mark key="[" line="9" column="80" />
@@ -1302,11 +1333,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/gitversion.gradle" timestamp="1492696304203">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="2" column="4" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/gitversion.gradle" timestamp="1493115109819">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="7" />
+        <mark key="." line="49" column="7" />
+        <mark key="^" line="49" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2WriteOpSpecResult.java" timestamp="1478267684624">
         <mark key="[" line="46" column="49" />
@@ -1355,9 +1386,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssurmcallback.h" timestamp="1492609421746">
-        <mark key="'" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/build.gradle" timestamp="1466759749290">
         <mark key="[" line="33" column="26" />
@@ -1419,10 +1447,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" timestamp="1492088530658">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/build.gradle" timestamp="1493115651041">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="29" column="8" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="40" column="0" />
         <mark key="^" line="28" column="24" />
         <mark key="." line="28" column="24" />
       </file>
@@ -1489,9 +1517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="7" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="19" column="50" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/IDevice.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/IDevice.h" />
       <jump line="471" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" />
       <jump line="504" column="24" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" />
@@ -1589,51 +1614,52 @@
       <jump line="541" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="12" column="48" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
       <jump line="47" column="3" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/build.gradle" />
+      <jump line="113" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="108" column="67" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>ext.
-ext.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGl0ZXN0LlI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>urmsp_Start</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgZnJvbTogIiRyb290UHJvamVjdC5wcm9qZWN0RGlyL2NvbmZpZy5ncmFkbGUiCgpkZWYgY29uZmlnID0gcm9vdFByb2plY3QuZXh0LmNmZwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PG1lbnUgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgogICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICB0b29sczpjb250ZXh0PSJldS50c3MuYXBpdGVzdC5NYWluQWN0aXZpdHkiPgoKICAgIDxpdGVtCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9tZW51U3RhdHVzIgogICAgICAgIGFuZHJvaWQ6dGl0bGU9IkRpc2Nvbm5lY3RlZCIKICAgICAgICBhcHA6c2hvd0FzQWN0aW9uPSJhbHdheXMiPgogICAgICAgIDxtZW51PgogICAgICAgICAgICA8aXRlbQogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9tZW51QnV0dG9uQ29ubmVjdCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IkNvbm5lY3QiLz4KICAgICAgICAgICAgPGl0ZW0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbWVudUJ1dHRvbkRpc2Nvbm5lY3QiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJEaXNjb25uZWN0Ii8+CiAgICAgICAgPC9tZW51PgogICAgPC9pdGVtPgo8L21lbnU+</text>
       </register>
-      <register name="1" type="8">
-        <text>ext.
-ext.</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGl0ZXN0LlI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXh0LnZlcnNpb25Db2RlID0gMQpleHQudmVyc2lvbk5hbWUgPSAiMSIK</text>
+        <text encoding="base64">PC9yZXNvdXJjZXM+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPlRTU0FQSV9BbmRyb2lkPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOmFwcCcsICc6dHNzYXBpYW5kcm9pZCcsICc6dHNzYXBpY29yZScK</text>
+        <text encoding="base64">PHJlc291cmNlcz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnRzc2FwaWFuZHJvaWQnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cjw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+CjxhbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludC5Db25zdHJhaW50TGF5b3V0CiAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIHRvb2xzOmNvbnRleHQ9ImV1LnRzcy5hcGl0ZXN0Lk1haW5BY3Rpdml0eSI+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zYW1wbGVfdGV4dCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6dGV4dD0iSGVsbG8gV29ybGQhIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b0xlZnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvUmlnaHRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiLz4KCjwvYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQuQ29uc3RyYWludExheW91dD4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuUi4qOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aCAiQ01ha2VMaXN0cy50eHQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
