@@ -237,10 +237,10 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssapicore.cpp" timestamp="1493372124603">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssapicore.cpp" timestamp="1493372647943">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="53" column="27" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="51" column="9" />
       </file>
@@ -1681,7 +1681,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExPR0QoIm9uRGF0YVJlY2VpdmVkIEVuZCIpOwo=</text>
+        <text encoding="base64">ICAgIExPR0QoIm9uRGF0YVJlY2VpdmVkIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
