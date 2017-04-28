@@ -237,12 +237,12 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssapicore.cpp" timestamp="1493369253158">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssapicore.cpp" timestamp="1493372124603">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="66" column="37" />
-        <mark key="]" line="65" column="28" />
-        <mark key="." line="65" column="28" />
-        <mark key="^" line="65" column="28" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="51" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/app/build.gradle" timestamp="1477554368985">
         <mark key="[" line="123" column="10" />
@@ -1681,7 +1681,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExPR0QoIm9uTXNnUmVjZWl2ZWQ6IDEgMiAzIik7Cg==</text>
+        <text encoding="base64">ICAgIExPR0QoIm9uRGF0YVJlY2VpdmVkIEVuZCIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -1690,16 +1690,16 @@
         <text>urmsp_Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPR0QoIkNhbGwgY2FsbGJhY2sgbWV0aG9kIGVuZCIpOwo=</text>
+        <text encoding="base64">ICAgIExPR0QoIm9uRGF0YVJlY2VpdmVkIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExPR0QoIm9uTXNnUmVjZWl2ZWQ6IDEgMiAzIik7Cg==</text>
+        <text encoding="base64">ICAgIExPR0QoIm9uRGF0YVJlY2VpdmVkIEVuZCIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
+        <text encoding="base64">ICAgIExPR0QoIm9uTXNnUmVjZWl2ZWQ6IDEgMiAzIik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
@@ -1707,7 +1707,10 @@
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
+      </register>
+      <register name="6" type="4">
         <text>LOGD(&quot;Call callback method end&quot;);
     LOGD(&quot;Call callback method end&quot;);
     LOGD(&quot;Call callback method end&quot;);
@@ -1719,21 +1722,18 @@
     LOGD(&quot;Call callback method end&quot;);
     LOGD(&quot;Call callback method end&quot;);</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>//
 //
 //</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vICAgICBnX2N0eC5qYXZhVk0tPkRldGFjaEN1cnJlbnRUaHJlYWQoKTsKICAgIC8vIH0K</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>//
 //
 //</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBjcHBGbGFncyAiLXN0ZD1jKysxMSIK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
