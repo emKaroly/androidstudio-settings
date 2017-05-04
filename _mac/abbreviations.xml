@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Android.SyncProject">
+        <abbreviation name="gs" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
