@@ -738,12 +738,12 @@
         <mark key="." line="38" column="70" />
         <mark key="^" line="38" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493889054545">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493891408593">
         <mark key="'" line="21" column="38" />
-        <mark key="[" line="68" column="3" />
-        <mark key="]" line="68" column="3" />
-        <mark key="." line="68" column="3" />
-        <mark key="^" line="62" column="33" />
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="5" />
+        <mark key="." line="67" column="5" />
+        <mark key="^" line="67" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -1692,56 +1692,47 @@
       <jump line="42" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/TSSURMHost.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNvdXJjZSA9IGFuZHJvaWQuc291cmNlU2V0cy5tYWluLmphdmEuc291cmNlRmlsZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>urmsp_Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUoIioqL2V1L3Rzcy9hcGkvY29tbW9uLyouamF2YSIpCg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZSA9IGFuZHJvaWQuc291cmNlU2V0cy5tYWluLmphdmEuc291cmNlRmlsZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUgIiIK</text>
+        <text encoding="base64">ICAgIGFkZFN0cmluZ09wdGlvbignc291cmNlcGF0aCcsICIkU3JjRGlycyIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2cgRU5EOiAlcyIscGFja2V0LmhleFN0cmluZygpLmNfc3RyKCkpOwo=</text>
+        <text encoding="base64">ICAgIC8vc291cmNlID0gIiRidWlsZERpci8iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2cgRU5EICVzIixwYWNrZXQuaGV4U3RyaW5nKCkuY19zdHIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vaW5jbHVkZSggIioqLyouamF2YSIgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExPR0QoIm9uRGF0YVJlY2VpdmVkIEVuZCIpOwo=</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUgIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExPR0QoIm9uTXNnUmVjZWl2ZWQ6IDEgMiAzIik7Cg==</text>
+        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2cgRU5EOiAlcyIscGFja2V0LmhleFN0cmluZygpLmNfc3RyKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
+        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2cgRU5EICVzIixwYWNrZXQuaGV4U3RyaW5nKCkuY19zdHIoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
+        <text encoding="base64">ICAgIExPR0QoIm9uRGF0YVJlY2VpdmVkIEVuZCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
+        <text encoding="base64">ICAgIExPR0QoIm9uTXNnUmVjZWl2ZWQ6IDEgMiAzIik7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>LOGD(&quot;Call callback method end&quot;);
-    LOGD(&quot;Call callback method end&quot;);
-    LOGD(&quot;Call callback method end&quot;);
-    LOGD(&quot;Call callback method end&quot;);
-    LOGD(&quot;Call callback method end&quot;);
-    LOGD(&quot;Call callback method end&quot;);
-    LOGD(&quot;Call callback method end&quot;);
-    LOGD(&quot;Call callback method end&quot;);
-    LOGD(&quot;Call callback method end&quot;);
-    LOGD(&quot;Call callback method end&quot;);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
