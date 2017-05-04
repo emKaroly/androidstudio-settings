@@ -738,12 +738,12 @@
         <mark key="." line="38" column="70" />
         <mark key="^" line="38" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493882426255">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493887501994">
         <mark key="'" line="21" column="38" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="0" />
+        <mark key="[" line="64" column="3" />
+        <mark key="]" line="64" column="3" />
+        <mark key="." line="64" column="3" />
+        <mark key="^" line="64" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -1693,7 +1693,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2cgRU5EOiAlcyIscGFja2V0LmhleFN0cmluZygpLmNfc3RyKCkpOwo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoIioqL2V1L3Rzcy9hcGkvY29tbW9uLyouamF2YSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -1702,25 +1702,25 @@
         <text>urmsp_Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPR0QoIm9uTXNnUmVjZWl2ZWQgRU5EOiAlZCIsIHBhY2tldC5nZXRDb21tYW5kKCkpOwo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoIioqL2V1L3Rzcy9hcGkvY29tbW9uLyouamF2YSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2cgRU5EOiAlcyIscGFja2V0LmhleFN0cmluZygpLmNfc3RyKCkpOwo=</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUgIiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2cgRU5EICVzIixwYWNrZXQuaGV4U3RyaW5nKCkuY19zdHIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2cgRU5EOiAlcyIscGFja2V0LmhleFN0cmluZygpLmNfc3RyKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExPR0QoIm9uRGF0YVJlY2VpdmVkIEVuZCIpOwo=</text>
+        <text encoding="base64">ICAgIExPR0QoIkZMT1c6IFNlbmRNc2cgRU5EICVzIixwYWNrZXQuaGV4U3RyaW5nKCkuY19zdHIoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExPR0QoIm9uTXNnUmVjZWl2ZWQ6IDEgMiAzIik7Cg==</text>
+        <text encoding="base64">ICAgIExPR0QoIm9uRGF0YVJlY2VpdmVkIEVuZCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
+        <text encoding="base64">ICAgIExPR0QoIm9uTXNnUmVjZWl2ZWQ6IDEgMiAzIik7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
@@ -1728,7 +1728,10 @@
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dEKCJvbk1zZ1JlY2VpdmVkOiAxIDIgMyIpOwo=</text>
+      </register>
+      <register name="9" type="4">
         <text>LOGD(&quot;Call callback method end&quot;);
     LOGD(&quot;Call callback method end&quot;);
     LOGD(&quot;Call callback method end&quot;);
@@ -1739,11 +1742,6 @@
     LOGD(&quot;Call callback method end&quot;);
     LOGD(&quot;Call callback method end&quot;);
     LOGD(&quot;Call callback method end&quot;);</text>
-      </register>
-      <register name="9" type="8">
-        <text>//
-//
-//</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
