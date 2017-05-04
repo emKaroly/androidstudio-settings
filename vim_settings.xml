@@ -738,12 +738,12 @@
         <mark key="." line="38" column="70" />
         <mark key="^" line="38" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493287860618">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493882426255">
         <mark key="'" line="21" column="38" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="48" column="29" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
