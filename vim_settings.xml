@@ -741,12 +741,12 @@
         <mark key="." line="38" column="70" />
         <mark key="^" line="38" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493891408593">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493903039052">
         <mark key="'" line="21" column="38" />
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="67" column="5" />
-        <mark key="." line="67" column="5" />
-        <mark key="^" line="67" column="5" />
+        <mark key="[" line="71" column="33" />
+        <mark key="]" line="71" column="29" />
+        <mark key="." line="71" column="29" />
+        <mark key="^" line="71" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -1696,7 +1696,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZSA9IGFuZHJvaWQuc291cmNlU2V0cy5tYWluLmphdmEuc291cmNlRmlsZXMK</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUoIioqL1RTU0FQSVByZWZlcmVuY2VzLmphdmEiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -1705,7 +1705,7 @@
         <text>urmsp_Start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZSA9IGFuZHJvaWQuc291cmNlU2V0cy5tYWluLmphdmEuc291cmNlRmlsZXMK</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUoIioqL1RTU0FQSVByZWZlcmVuY2VzLmphdmEiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFkZFN0cmluZ09wdGlvbignc291cmNlcGF0aCcsICIkU3JjRGlycyIpCg==</text>
