@@ -539,6 +539,9 @@
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/RFTransmitterLayout.java" timestamp="1493127331031">
         <mark key="[" line="8" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJava.java" timestamp="1493902347604">
+        <mark key="[" line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/TSSURMReader.cpp" timestamp="1493374153375">
         <mark key="[" line="66" column="10" />
         <mark key="]" line="66" column="15" />
