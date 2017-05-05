@@ -744,12 +744,11 @@
         <mark key="." line="38" column="70" />
         <mark key="^" line="38" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493903039052">
-        <mark key="'" line="21" column="38" />
-        <mark key="[" line="71" column="33" />
-        <mark key="]" line="71" column="29" />
-        <mark key="." line="71" column="29" />
-        <mark key="^" line="71" column="29" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" timestamp="1493970244312">
+        <mark key="'" line="68" column="3" />
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="66" column="4" />
+        <mark key="." line="66" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMCore.h" timestamp="1470391261379">
         <mark key="[" line="5" column="32" />
@@ -1596,7 +1595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="3" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="687" column="3" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="878" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="525" column="24" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" />
@@ -1696,49 +1694,50 @@
       <jump line="21" column="38" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" />
       <jump line="367" column="6" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="42" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/TSSURMHost.cpp" />
+      <jump line="68" column="3" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGludCBlcnJvciBjb2RlLiBUbyB0cmFuc2xhdGUgZXJyb3IgY29kZSB0byBlcnJvciBtZXNzYWdlIHVzZSBnZXRFcnJvclN0cmluZygpIGZ1bmN0aW9uLg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>urmsp_Start</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LyoqCiAgICAgKiBUaGlzIGZ1bmN0aW9uIHJlYWRzIHRoZSBnZW5lcmFsIGNhcGFiaWxpdGllcyBvZiB0aGUgZGV2aWNlIGxpa2Ugc3VwcG9ydGVkIGFpcgogICAgICogcHJvdG9jb2xzLCB2ZXJzaW9uIG9mIHRoZSByZWFkZXIgZmlybXdhcmUsIGRldmljZSBoYXJkd2FyZSBhbmQgc29mdHdhcmUKICAgICAqIGluZm9ybWF0aW9uLgogICAgICoKICAgICAqIEBwYXJhbSBmbGFncyAgICAgICAgIFBvc3NpYmxlIFZhbHVlOiAweDAwCiAgICAgKiBAcGFyYW0gcmVzZXJ2ZWQgICAgICBQb3NzaWJsZSBWYWx1ZTogMHgwMAogICAgICogQHBhcmFtIHJlcXVlc3RlZERhdGEgUG9zc2libGUgVmFsdWU6IDB4MDEuCiAgICAgKiAgICAgICAgICAgICAgICAgICAgICA8cD4weDAxID0gRmlybXdhcmUgdmVyc2lvbiBhbmQgYnVpbGQgbnVtYmVyLjwvcD4KICAgICAqIEByZXR1cm4gaW50IGVycm9yIGNvZGUuIFRvIHRyYW5zbGF0ZSBlcnJvciBjb2RlIHRvIGVycm9yIG1lc3NhZ2UgdXNlIGdldEVycm9yU3RyaW5nKCkgZnVuY3Rpb24uCiAgICAgKi8=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4Y2x1ZGUoIioqL1RTU0FQSUNvcmVKYXZhLmphdmEiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBleGNsdWRlCg==</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUoIioqL1RTU0FQSUNvcmVKYXZhLmphdmEiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUoIioqL1RTU0FQSS5qYXZhIikK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8cD4weDAxID0gRmlybXdhcmUgdmVyc2lvbiBhbmQgYnVpbGQgbnVtYmVyLjwvcD4K</text>
+      <register name="4" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKLy8g</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KiBUaGlzIGZ1bmN0aW9uIHJlYWRzIHRoZSBnZW5lcmFsIGNhcGFiaWxpdGllcyBvZiB0aGUgZGV2aWNlIGxpa2Ugc3VwcG9ydGVkIGFpcgogICAgICogcHJvdG9jb2xzLCB2ZXJzaW9uIG9mIHRoZSByZWFkZXIgZmlybXdhcmUsIGRldmljZSBoYXJkd2FyZSBhbmQgc29mdHdhcmUKICAgICAqIGluZm9ybWF0aW9uLgogICAgICoKICAgICAqIEBwYXJhbSBmbGFncyAgICAgICAgIFBvc3NpYmxlIFZhbHVlOiAweDAwCiAgICAgKiBAcGFyYW0gcmVzZXJ2ZWQgICAgICBQb3NzaWJsZSBWYWx1ZTogMHgwMAogICAgICogQHBhcmFtIHJlcXVlc3RlZERhdGEgUG9zc2libGUgVmFsdWU6IDB4MDEuCiAgICAgKiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgLy8gdXJjZSA9IGFuZHJvaWQuc291cmNlU2V0cy5tYWluLmphdmEuc3JjRGlycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkZFN0cmluZ09wdGlvbignc291cmNlcGF0aCcsICIkU3JjRGlycyIpCg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMub3B0aW9uRmlsZXMgPDwgZmlsZSgnL3ByaXZhdGUvdmFyL2ZvbGRlcnMvMTQvdjJ2d3RreXMycDU2MDBjNV93dzNzMXYwMDAwMGduL1QvamF2YWRvY2FyZ3MudHh0JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vc291cmNlID0gIiRidWlsZERpci8iCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vaW5jbHVkZSggIioqLyouamF2YSIgKQo=</text>
+        <text encoding="base64">ICAgICAqIEBleGNsdWRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUgIiIK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
