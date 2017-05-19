@@ -513,8 +513,8 @@
         <mark key="^" line="31" column="62" />
         <mark key="." line="31" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1495187892469">
-        <mark key="'" line="516" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1495189227037">
+        <mark key="'" line="228" column="16" />
         <mark key="[" line="269" column="0" />
         <mark key="]" line="270" column="33" />
         <mark key="." line="46" column="21" />
@@ -712,7 +712,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495180974607">
+      <file name="/Dummy.txt" timestamp="1495189304368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/build.gradle" timestamp="1493124588398">
@@ -1150,12 +1150,12 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" timestamp="1495187898276">
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="166" column="38" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" timestamp="1495189285227">
+        <mark key="'" line="182" column="21" />
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="57" column="44" />
+        <mark key="." line="57" column="44" />
+        <mark key="^" line="57" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/GetReaderCapabilitiesParameters.java" timestamp="1474030312026">
         <mark key="[" line="36" column="5" />
@@ -1644,11 +1644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="37" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="209" column="29" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="717" column="2" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
-      <jump line="801" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
-      <jump line="33" column="50" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/build.gradle" />
       <jump line="333" column="24" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="452" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="135" column="38" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
@@ -1744,10 +1739,15 @@
       <jump line="115" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
       <jump line="185" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
       <jump line="516" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="336" column="16" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="108" column="16" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
+      <jump line="180" column="18" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
+      <jump line="181" column="21" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
+      <jump line="228" column="16" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc2FwaS5jb25uZWN0RGV2aWNlKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGltcGxlbWVudHMgVFNTQVBJVVNCLlRTU0FQSVVTQkNhbGxiYWNrLAo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -1759,34 +1759,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0YS5zdGFydEJsZVNjYW5QZXJpb2RpY2FsbHkoKTsKICAgICAgICAgICAgICAgIGZkZC5zaG93RGlhbG9nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc2FwaS5jb25uZWN0RGV2aWNlKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGltcGxlbWVudHMgVFNTQVBJVVNCLlRTU0FQSVVTQkNhbGxiYWNrLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc2FwaS5jb25uZWN0RGV2aWNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lID0gYXJ0aWZhY3RfaWQK</text>
+        <text encoding="base64">ICAgIGltcGxlCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGJhc2VOYW1lID0gYXJ0aWZhY3RfaWQK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5UU1NBUEk7Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">Ly8gCi8vIAovLyA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGV4Y2x1ZGUoIioqL1RTU0FQSUNvcmVKYXZhLmphdmEiKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGV4Y2x1ZGUoIioqL1RTU0FQSS5qYXZhIikK</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">Ly8gCi8vIAovLyAKLy8g</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgLy8gdXJjZSA9IGFuZHJvaWQuc291cmNlU2V0cy5tYWluLmphdmEuc3JjRGlycwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
