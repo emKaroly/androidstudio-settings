@@ -513,10 +513,10 @@
         <mark key="^" line="31" column="62" />
         <mark key="." line="31" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1495183578417">
-        <mark key="'" line="204" column="31" />
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="46" column="18" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1495187892469">
+        <mark key="'" line="516" column="0" />
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="270" column="33" />
         <mark key="." line="46" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2Epc.java" timestamp="1470139814292">
@@ -1150,12 +1150,12 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" timestamp="1488898503518">
-        <mark key="'" line="58" column="31" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-        <mark key="." line="25" column="39" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" timestamp="1495187898276">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="166" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/GetReaderCapabilitiesParameters.java" timestamp="1474030312026">
         <mark key="[" line="36" column="5" />
@@ -1342,7 +1342,8 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1495181519760">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" timestamp="1495187383674">
+        <mark key="'" line="200" column="0" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -1643,24 +1644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="369" column="6" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.cpp" />
-      <jump line="706" column="7" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="320" column="12" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="901" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="408" column="3" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="419" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="465" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="340" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="38" column="70" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
-      <jump line="142" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
-      <jump line="44" column="5" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
-      <jump line="54" column="10" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.cpp" />
-      <jump line="42" column="58" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.h" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMReader.h" />
-      <jump line="30" column="12" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.h" />
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/tssapicore.h" />
-      <jump line="461" column="44" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
-      <jump line="468" column="6" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="206" column="37" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="209" column="29" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="717" column="2" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
@@ -1743,49 +1726,67 @@
       <jump line="203" column="17" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="204" column="31" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="54" column="16" filename="$USER_HOME$/.android/build-cache/b973bf37177d9e518a863b6bebd5ec7d5fd777a9/output/jars/classes.jar!/eu/tss/api/android/TSSAPIUSB.class" />
+      <jump line="61" column="34" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
+      <jump line="319" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="154" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="182" column="31" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="268" column="39" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="272" column="42" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="273" column="29" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="278" column="33" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="279" column="26" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="281" column="36" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="282" column="29" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="506" column="62" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="200" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/TSSAPIBLE.java" />
+      <jump line="522" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="475" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
+      <jump line="185" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
+      <jump line="516" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVzIGphdmFkb2NKYXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc2FwaS5jb25uZWN0RGV2aWNlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>common</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>urmsp_Start</text>
+        <text>connect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFyY2hpdmVzIGphdmFkb2NKYXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0YS5zdGFydEJsZVNjYW5QZXJpb2RpY2FsbHkoKTsKICAgICAgICAgICAgICAgIGZkZC5zaG93RGlhbG9nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhc2VOYW1lID0gYXJ0aWZhY3RfaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc2FwaS5jb25uZWN0RGV2aWNlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5UU1NBUEk7Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlCg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJhc2VOYW1lID0gYXJ0aWZhY3RfaWQK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5hcGkuYW5kcm9pZC5UU1NBUEk7Cg==</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyA=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGV4Y2x1ZGUoIioqL1RTU0FQSUNvcmVKYXZhLmphdmEiKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGV4Y2x1ZGUoIioqL1RTU0FQSS5qYXZhIikK</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text encoding="base64">Ly8gCi8vIAovLyAKLy8g</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgLy8gdXJjZSA9IGFuZHJvaWQuc291cmNlU2V0cy5tYWluLmphdmEuc3JjRGlycwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMub3B0aW9uRmlsZXMgPDwgZmlsZSgnL3ByaXZhdGUvdmFyL2ZvbGRlcnMvMTQvdjJ2d3RreXMycDU2MDBjNV93dzNzMXYwMDAwMGduL1QvamF2YWRvY2FyZ3MudHh0JykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgLy8gdXJjZSA9IGFuZHJvaWQuc291cmNlU2V0cy5tYWluLmphdmEuc3JjRGlycwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -1798,9 +1799,9 @@
       </register>
     </registers>
     <search>
-      <last-search>urmsp_Start</last-search>
+      <last-search>connect</last-search>
       <last-offset />
-      <last-pattern>urmsp_Start</last-pattern>
+      <last-pattern>connect</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>urmsp_Start</last-substitute>
       <last-dir>1</last-dir>
@@ -1809,7 +1810,6 @@
     <history>
       <history-search>
         <entry>onRead</entry>
-        <entry>connect</entry>
         <entry>onSend</entry>
         <entry>setstatus</entry>
         <entry>changed</entry>
@@ -1828,6 +1828,7 @@
         <entry>urmsp_RFTrans</entry>
         <entry>urmsp_SetPowerMode</entry>
         <entry>urmsp_Start</entry>
+        <entry>connect</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
