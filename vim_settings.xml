@@ -1140,8 +1140,8 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" timestamp="1495200480295">
-        <mark key="'" line="134" column="0" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" timestamp="1495201835023">
+        <mark key="'" line="255" column="47" />
         <mark key="[" line="65" column="19" />
         <mark key="]" line="65" column="18" />
         <mark key="." line="65" column="18" />
@@ -1186,11 +1186,11 @@
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2ReadLayout.java" timestamp="1493127217073">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/build.gradle" timestamp="1484317755004">
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="27" column="51" />
-        <mark key="." line="27" column="51" />
-        <mark key="^" line="27" column="51" />
+      <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/build.gradle" timestamp="1495201690361">
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="34" column="38" />
+        <mark key="." line="34" column="38" />
+        <mark key="^" line="34" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/parameters/GetReaderCapabilitiesParameters.java" timestamp="1491300257044">
         <mark key="[" line="50" column="38" />
@@ -1629,7 +1629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="135" column="38" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="17" column="5" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/parameters/AISpecStopTriggerParameters.java" />
@@ -1729,6 +1728,7 @@
       <jump line="181" column="21" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
       <jump line="228" column="16" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="137" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
+      <jump line="255" column="47" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
