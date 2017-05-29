@@ -1019,11 +1019,12 @@
         <mark key="^" line="281" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/AndroidManifest.xml" timestamp="1496051824891">
+      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/AndroidManifest.xml" timestamp="1496053155365">
+        <mark key="a" line="9" column="0" />
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="5" column="33" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/res/values/colors.xml" timestamp="1496044747595">
         <mark key="'" line="5" column="0" />
