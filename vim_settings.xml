@@ -267,11 +267,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1496823118879">
-        <mark key="'" line="94" column="30" />
-        <mark key="[" line="112" column="4" />
-        <mark key="]" line="112" column="4" />
-        <mark key="." line="112" column="4" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1496827037358">
+        <mark key="'" line="93" column="30" />
+        <mark key="[" line="103" column="53" />
+        <mark key="]" line="103" column="55" />
+        <mark key="." line="103" column="55" />
+        <mark key="^" line="103" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -1661,11 +1662,10 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" timestamp="1496823925609">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="25" column="7" />
-        <mark key="." line="25" column="7" />
-        <mark key="^" line="25" column="7" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" timestamp="1496826754973">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/TSSURMErrorMessage.h" timestamp="1492609384790">
         <mark key="[" line="4" column="18" />
@@ -1789,69 +1789,58 @@
       <jump line="86" column="30" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>private String readTextFromUri(Uri uri) throws IOException {
-        InputStream inputStream = getContentResolver().openInputStream(uri);
-        BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
-        StringBuilder stringBuilder = new StringBuilder();
-        String line;
-        while ((line = reader.readLine()) != null) {
-            stringBuilder.append(line + &quot;\n&quot;);
-        }
-        inputStream.close();
-        reader.close();
-        return stringBuilder.toString();
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>READ_REQUEST_CODE</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLGwudG9TdHJpbmcoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHVibGljIFN0cmluZyByZWFkU2NyaXB0KFVyaSB1cmkpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBtQ29udGV4dC5nZXRDb250ZW50UmVzb2x2ZXIoKS5vcGVuSW5wdXRTdHJlYW0odXJpKTsKICAgICAgICBCdWZmZXJlZFJlYWRlciByZWFkZXIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKGlucHV0U3RyZWFtKSk7CgogICAgICAgIFN0cmluZ0J1aWxkZXIgc3RyaW5nQnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICBMaXN0PFN0cmluZz4gbGluZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBTdHJpbmcgbGluZTsKCiAgICAgICAgd2hpbGUgKChsaW5lID0gcmVhZGVyLnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQobGluZSArICJcbiIpOwogICAgICAgICAgICBsaW5lcy5hZGQobGluZSArICJcbiIpOwogICAgICAgIH0KCiAgICAgICAgaW5wdXRTdHJlYW0uY2xvc2UoKTsKICAgICAgICByZWFkZXIuY2xvc2UoKTsKICAgICAgICByZXR1cm4gc3RyaW5nQnVpbGRlci50b1N0cmluZygpOwogICAgfQ==</text>
       </register>
-      <register name="1" type="4">
-        <text>private String readTextFromUri(Uri uri) throws IOException {
-        InputStream inputStream = getContentResolver().openInputStream(uri);
-        BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
-        StringBuilder stringBuilder = new StringBuilder();
-        String line;
-        while ((line = reader.readLine()) != null) {
-            stringBuilder.append(line + &quot;\n&quot;);
-        }
-        inputStream.close();
-        reader.close();
-        return stringBuilder.toString();
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHN0cmluZ0J1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuRW52aXJvbm1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQobGluZSArICJcbiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBsaW5lcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMuYWRkKGxpbmUgKyAiXG4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+      <register name="8" type="4">
+        <text>private String readTextFromUri(Uri uri) throws IOException {
+        InputStream inputStream = getContentResolver().openInputStream(uri);
+        BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
+        StringBuilder stringBuilder = new StringBuilder();
+        String line;
+        while ((line = reader.readLine()) != null) {
+            stringBuilder.append(line + &quot;\n&quot;);
+        }
+        inputStream.close();
+        reader.close();
+        return stringBuilder.toString();
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RmlsZUxpc3QoKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
