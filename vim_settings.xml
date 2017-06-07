@@ -890,11 +890,11 @@
         <mark key="^" line="1051" column="31" />
         <mark key="." line="1051" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptCmd.java" timestamp="1496842220957">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptCmd.java" timestamp="1496843785495">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDIListener.java" timestamp="1484301741558">
         <mark key="[" line="8" column="0" />
@@ -1668,12 +1668,12 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" timestamp="1496842347022">
-        <mark key="'" line="89" column="8" />
-        <mark key="[" line="68" column="69" />
-        <mark key="]" line="68" column="68" />
-        <mark key="." line="68" column="68" />
-        <mark key="^" line="68" column="68" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" timestamp="1496843801652">
+        <mark key="'" line="91" column="8" />
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="76" column="43" />
+        <mark key="." line="76" column="43" />
+        <mark key="^" line="76" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/TSSURMErrorMessage.h" timestamp="1492609384790">
         <mark key="[" line="4" column="18" />
@@ -1797,10 +1797,8 @@
       <jump line="92" column="8" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>else {
-                        //Unsupported command
-                    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -1811,36 +1809,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIG1NYXNrOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>else {
-                        //Unsupported command
-                    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJUb2tlbjogIiArIHRva2Vuc1swXSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>else{
-            Log.d(TAG,&quot;Unknown Cmd: &quot; + line);
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtQ29tbWFuZCA9IGNvbW1hbmQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTY3JpcHRDbWQoU3RyaW5nIGNvbW1hbmQpewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIG1Db21tYW5kID0gIlNFTkQiIDsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2Vucy50bwo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">ZmluYWwgCmZpbmFsIApmaW5hbCAKZmluYWwgCmZpbmFsIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmUuc3BsaXQoIlxcfCIpOwo=</text>
+      <register name="8" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
