@@ -267,12 +267,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1496827037358">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1496831414240">
         <mark key="'" line="93" column="30" />
-        <mark key="[" line="103" column="53" />
-        <mark key="]" line="103" column="55" />
-        <mark key="." line="103" column="55" />
-        <mark key="^" line="103" column="55" />
+        <mark key="[" line="103" column="57" />
+        <mark key="]" line="103" column="58" />
+        <mark key="." line="103" column="58" />
+        <mark key="^" line="103" column="58" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -842,7 +842,7 @@
         <mark key="^" line="81" column="42" />
         <mark key="." line="81" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1496668212650">
+      <file name="/fragment.java" timestamp="1496832526675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
@@ -889,6 +889,12 @@
         <mark key="]" line="1051" column="31" />
         <mark key="^" line="1051" column="31" />
         <mark key="." line="1051" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptCmd.java" timestamp="1496832762183">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/com/ftdi/FTDIListener.java" timestamp="1484301741558">
         <mark key="[" line="8" column="0" />
@@ -1662,10 +1668,12 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" timestamp="1496826754973">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" timestamp="1496832316866">
+        <mark key="'" line="73" column="19" />
+        <mark key="[" line="78" column="52" />
+        <mark key="]" line="78" column="52" />
+        <mark key="." line="78" column="52" />
+        <mark key="^" line="78" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/TSSURMErrorMessage.h" timestamp="1492609384790">
         <mark key="[" line="4" column="18" />
@@ -1687,9 +1695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="48" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
-      <jump line="128" column="20" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
-      <jump line="151" column="76" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="181" column="19" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="246" column="24" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
       <jump line="273" column="53" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/core/TSSAPICoreJNI.java" />
@@ -1787,10 +1792,13 @@
       <jump line="42" column="18" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" />
       <jump line="86" column="30" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="56" column="42" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" />
+      <jump line="72" column="19" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIG1NYXNrOwo=</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -1798,49 +1806,38 @@
       <register name="/" type="4">
         <text>connect</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cHVibGljIFN0cmluZyByZWFkU2NyaXB0KFVyaSB1cmkpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBtQ29udGV4dC5nZXRDb250ZW50UmVzb2x2ZXIoKS5vcGVuSW5wdXRTdHJlYW0odXJpKTsKICAgICAgICBCdWZmZXJlZFJlYWRlciByZWFkZXIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKGlucHV0U3RyZWFtKSk7CgogICAgICAgIFN0cmluZ0J1aWxkZXIgc3RyaW5nQnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICBMaXN0PFN0cmluZz4gbGluZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBTdHJpbmcgbGluZTsKCiAgICAgICAgd2hpbGUgKChsaW5lID0gcmVhZGVyLnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQobGluZSArICJcbiIpOwogICAgICAgICAgICBsaW5lcy5hZGQobGluZSArICJcbiIpOwogICAgICAgIH0KCiAgICAgICAgaW5wdXRTdHJlYW0uY2xvc2UoKTsKICAgICAgICByZWFkZXIuY2xvc2UoKTsKICAgICAgICByZXR1cm4gc3RyaW5nQnVpbGRlci50b1N0cmluZygpOwogICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIG1NYXNrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHN0cmluZ0J1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2Vucy50bwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQobGluZSArICJcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmUuc3BsaXQoIlxcfCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBsaW5lcyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMuYWRkKGxpbmUgKyAiXG4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>private String readTextFromUri(Uri uri) throws IOException {
-        InputStream inputStream = getContentResolver().openInputStream(uri);
-        BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
-        StringBuilder stringBuilder = new StringBuilder();
-        String line;
-        while ((line = reader.readLine()) != null) {
-            stringBuilder.append(line + &quot;\n&quot;);
-        }
-        inputStream.close();
-        reader.close();
-        return stringBuilder.toString();
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxpbmUuc3RhcnRzV2l0aChDTURfU0VORCkpewo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
