@@ -60,6 +60,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1497256916735">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="30" column="11" />
@@ -844,7 +850,7 @@
         <mark key="^" line="81" column="42" />
         <mark key="." line="81" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1497016356300">
+      <file name="/fragment.java" timestamp="1497255613251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
@@ -1789,7 +1795,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlZGl0VGV4dDEuYXBwZW5kKGNtZC5nZXRGaWVsZHNTaG9ydCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>mCommand</text>
@@ -1814,38 +1820,34 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlZGl0VGV4dDEuYXBwZW5kKGNtZC5nZXRGaWVsZHNTaG9ydCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCIgLy8iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKGNtZC5nZXRDb21tYW5kKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKGdldENvbW1lbnQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMjIEluc3RhbGwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>for (ScriptCmd cmd: cl) {
-
-                    editText1.append();
-                    
-                }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVkaXRUZXh0MS5hcHBlbmQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlZGl0VGV4dDEuYXBwZW5kKGNtZC5nZXRGaWVsZHNTaG9ydCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCIgLy8iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzbC5wYXJzZVNjcmlwdChzbC5yZWFkU2NyaXB0TGlzdCh1cmkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKGdldENvbW1lbnQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlZGl0VGV4dDEuc2V0VGV4dChzbC5wYXJzZVNjcmlwdFRvU3RyaW5nKHNsLnJlYWRTY3JpcHRMaXN0KHVyaSkpKTsK</text>
+        <text encoding="base64">ICAgICMjIEluc3RhbGwK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
