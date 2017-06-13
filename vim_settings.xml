@@ -273,12 +273,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1497358393430">
-        <mark key="'" line="115" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="120" column="7" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1497360682042">
+        <mark key="'" line="105" column="28" />
+        <mark key="[" line="105" column="16" />
+        <mark key="]" line="105" column="28" />
+        <mark key="^" line="105" column="28" />
+        <mark key="." line="105" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -421,8 +421,8 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" timestamp="1497358724261">
-        <mark key="'" line="112" column="8" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" timestamp="1497360886997">
+        <mark key="'" line="93" column="16" />
         <mark key="[" line="84" column="26" />
         <mark key="]" line="85" column="7" />
         <mark key="^" line="85" column="7" />
@@ -1716,8 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="28" filename="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MapsActivity.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/tssurmcallback.h" />
       <jump line="277" column="39" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="780" column="9" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="766" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
@@ -1813,13 +1811,15 @@
       <jump line="120" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="101" column="8" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="102" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
-      <jump line="105" column="40" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="119" column="42" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="115" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="118" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="105" column="28" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="93" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbU1haW5BcHAuc2F2ZVNjcmlwdChtTEdNU2NyaXB0KTsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1831,38 +1831,46 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBEQVRBOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbURhdGEgPSBmaWVsZHNbeF0ucmVwbGFjZUFsbCgiICIsIiIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU1haW5BcHAuc2F2ZVNjcmlwdChtTEdNU2NyaXB0KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZ20uYmxlYnJpZGdlbGliLkxHTUNvbW1hbmQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>try {
+                    ScriptLoader scl = new ScriptLoader(this);
+                    mLGMScript = scl.loadScript(uri).getValidCommands();
+                    mMainApp.saveScript(mLGMScript);
+
+
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sZ20uYmxlYnJpZGdlbGliLkxHTUNvbW1hbmQ7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5sZ20uYmxlYnJpZGdlbGliLlNjcmlwdFJ1bm5lcjsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5sZ20uYmxlYnJpZGdlLk1haW5BcHAiCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>ScriptRunner sr = new ScriptRunner(cl);
                     LGMScript fList = scl.getSelectedCommands(&quot;RECV&quot;);
                     fList.setCommand(5,new LGMCommand(&quot;RECV|1|00000000000000000000000000|1|&quot;));
                     sr.setTestResponses(fList);
                     sr.run();</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtTEdNU2NyaXB0ID0gCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMR01TY3JpcHQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0Owo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
