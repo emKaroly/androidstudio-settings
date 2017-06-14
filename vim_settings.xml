@@ -920,12 +920,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMScript.java" timestamp="1497272209397">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="10" column="55" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMScript.java" timestamp="1497432835003">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/SetPowerModeParameters.java" timestamp="1475412258443">
         <mark key="[" line="9" column="14" />
@@ -1689,12 +1689,12 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" timestamp="1497427876532">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" timestamp="1497432249418">
         <mark key="'" line="84" column="3" />
-        <mark key="[" line="29" column="54" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="51" column="7" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/TSSURMErrorMessage.h" timestamp="1492609384790">
         <mark key="[" line="4" column="18" />
@@ -1716,7 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="39" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="780" column="9" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="766" column="4" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
       <jump line="768" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/jni/TSSAPICoreJNI.cpp" />
@@ -1816,10 +1815,11 @@
       <jump line="118" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="105" column="28" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="93" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMScript.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU1haW5BcHAuc2F2ZVNjcmlwdChtTEdNU2NyaXB0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1828,49 +1828,37 @@
         <text>connect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBEQVRBOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbURhdGEgPSBmaWVsZHNbeF0ucmVwbGFjZUFsbCgiICIsIiIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1Db21tYW5kTGlzdCA9IG5ldyBBcnJheUxpc3Q8TEdNQ29tbWFuZD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU1haW5BcHAuc2F2ZVNjcmlwdChtTEdNU2NyaXB0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHVibGljIExHTVNjcmlwdChTdHJpbmcgc2NyaXB0KXsKICAgICAgICB0aGlzLm1TY3JpcHQgPSBzY3JpcHQ7CiAgICAgICAgdGhpcy5tQ29tbWFuZExpc3QgPSBuZXcgQXJyYXlMaXN0PExHTUNvbW1hbmQ+KCk7CiAgICB9</text>
       </register>
-      <register name="4" type="4">
-        <text>try {
-                    ScriptLoader scl = new ScriptLoader(this);
-                    mLGMScript = scl.loadScript(uri).getValidCommands();
-                    mMainApp.saveScript(mLGMScript);
-
-
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1Db21tYW5kTGlzdCA9IG5ldyBBcnJheUxpc3Q8TEdNQ29tbWFuZD4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZ20uYmxlYnJpZGdlbGliLkxHTUNvbW1hbmQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZ20uYmxlYnJpZGdlbGliLlNjcmlwdFJ1bm5lcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU1haW5BcHAuc2F2ZVNjcmlwdChtTEdNU2NyaXB0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5sZ20uYmxlYnJpZGdlLk1haW5BcHAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>ScriptRunner sr = new ScriptRunner(cl);
-                    LGMScript fList = scl.getSelectedCommands(&quot;RECV&quot;);
-                    fList.setCommand(5,new LGMCommand(&quot;RECV|1|00000000000000000000000000|1|&quot;));
-                    sr.setTestResponses(fList);
-                    sr.run();</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
