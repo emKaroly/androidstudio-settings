@@ -60,12 +60,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1497517787640">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498036904362">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
         <mark key="^" line="34" column="21" />
-        <mark key="." line="30" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
         <mark key="[" line="4" column="1" />
@@ -1882,7 +1882,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzci5ydW4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1894,34 +1894,34 @@
         <text>Device does not have the VSP service</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzci5ydW4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzci5zZXRUZXN0UmVzcG9uc2VzKGZMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBzci5ydW4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmTGlzdC5zZXRDb21tYW5kKDUsbmV3IExHTUNvbW1hbmQoIlJFQ1Z8MXwwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHwxfCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBzci5zZXRUZXN0UmVzcG9uc2VzKGZMaXN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBMR01TY3JpcHQgZkxpc3QgPSBzY2wuZ2V0U2VsZWN0ZWRDb21tYW5kcygiUkVDViIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBmTGlzdC5zZXRDb21tYW5kKDUsbmV3IExHTUNvbW1hbmQoIlJFQ1Z8MXwwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHwxfCIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBTY3JpcHRSdW5uZXIgc3IgPSBuZXcgU2NyaXB0UnVubmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBMR01TY3JpcHQgZkxpc3QgPSBzY2wuZ2V0U2VsZWN0ZWRDb21tYW5kcygiUkVDViIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIEFkZCBXYXJuaW5nIHRvIGFjdGl2aXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICBTY3JpcHRSdW5uZXIgc3IgPSBuZXcgU2NyaXB0UnVubmVyKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIEFkZCBXYXJuaW5nIHRvIGFjdGl2aXR5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
