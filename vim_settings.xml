@@ -60,12 +60,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498132642215">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="74" column="37" />
-        <mark key="]" line="62" column="49" />
-        <mark key="." line="62" column="49" />
-        <mark key="^" line="62" column="49" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498134345504">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="71" column="22" />
+        <mark key="]" line="71" column="15" />
+        <mark key="^" line="71" column="15" />
+        <mark key="." line="71" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
         <mark key="[" line="4" column="1" />
@@ -1895,54 +1895,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9eDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890</text>
+        <text>mB</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
       </register>
       <register name="0" type="4">
-        <text>ABCDEF1234567890ABCDEF1234567890</text>
+        <text>ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9eDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljICBpbnQgZ2V0Q3VycmVudEluZGV4KCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdXJyZW50SW5kZXg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3RoaXMud2FpdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1CTEVJbnRlcmZhY2Uuc2VuZERhdGEoaFN0cik7CiAgICAgICAgICAgICAgICBtQkxFSW50ZXJmYWNlLnNlbmREYXRhKCIwRDBBIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1JdGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLndhaXQoKTt9Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1CTEVJbnRlcmZhY2Uuc2VuZERhdGEoaFN0cik7CiAgICAgICAgICAgICAgICBtQkxFSW50ZXJmYWNlLnNlbmREYXRhKCIwRDBBIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1CTEVJbnRlcmZhY2Uuc2VuZERhdGEoIjBEMEEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9eDsK</text>
       </register>
-      <register name="9" type="4">
-        <text>try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
