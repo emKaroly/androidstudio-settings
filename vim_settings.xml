@@ -912,7 +912,7 @@
         <mark key="^" line="81" column="42" />
         <mark key="." line="81" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1497518875438">
+      <file name="/fragment.java" timestamp="1498120187533">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
@@ -1258,6 +1258,12 @@
         <mark key="]" line="7" column="19" />
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ProgressFragment.java" timestamp="1498120390325">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/res/layout/content_main.xml" timestamp="1491379124220">
         <mark key="[" line="65" column="50" />
@@ -1881,11 +1887,11 @@
       <jump line="67" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>super.onCreateView(inflater, container, savedInstanceState);</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>super.onCreateView(inflater, container, savedInstanceState);</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
@@ -1894,34 +1900,34 @@
         <text>Device does not have the VSP service</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzci5ydW4oKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzci5zZXRUZXN0UmVzcG9uc2VzKGZMaXN0KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmTGlzdC5zZXRDb21tYW5kKDUsbmV3IExHTUNvbW1hbmQoIlJFQ1Z8MXwwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHwxfCIpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBMR01TY3JpcHQgZkxpc3QgPSBzY2wuZ2V0U2VsZWN0ZWRDb21tYW5kcygiUkVDViIpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBTY3JpcHRSdW5uZXIgc3IgPSBuZXcgU2NyaXB0UnVubmVyKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIEFkZCBXYXJuaW5nIHRvIGFjdGl2aXR5Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBzci5ydW4oKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBzci5zZXRUZXN0UmVzcG9uc2VzKGZMaXN0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBmTGlzdC5zZXRDb21tYW5kKDUsbmV3IExHTUNvbW1hbmQoIlJFQ1Z8MXwwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHwxfCIpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBMR01TY3JpcHQgZkxpc3QgPSBzY2wuZ2V0U2VsZWN0ZWRDb21tYW5kcygiUkVDViIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICBTY3JpcHRSdW5uZXIgc3IgPSBuZXcgU2NyaXB0UnVubmVyKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIEFkZCBXYXJuaW5nIHRvIGFjdGl2aXR5Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
