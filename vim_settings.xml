@@ -60,12 +60,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498131368538">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="71" column="16" />
-        <mark key="]" line="68" column="16" />
-        <mark key="^" line="68" column="16" />
-        <mark key="." line="68" column="16" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498132642215">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="74" column="37" />
+        <mark key="]" line="62" column="49" />
+        <mark key="." line="62" column="49" />
+        <mark key="^" line="62" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
         <mark key="[" line="4" column="1" />
@@ -123,10 +123,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/res/values/strings.xml" timestamp="1497523427686">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketParser.h" timestamp="1469697566662">
         <mark key="[" line="0" column="0" />
@@ -979,12 +975,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMScript.java" timestamp="1497444478910">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMScript.java" timestamp="1498132370888">
         <mark key="'" line="81" column="32" />
-        <mark key="[" line="76" column="5" />
-        <mark key="]" line="77" column="3" />
-        <mark key="^" line="77" column="3" />
-        <mark key="." line="77" column="3" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/res/values/strings.xml" timestamp="1497523447764">
         <mark key="[" line="1" column="0" />
@@ -1899,8 +1894,8 @@
       <jump line="67" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9eDsK</text>
       </register>
       <register name="-" type="4">
         <text>ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890ABCDEF1234567890</text>
@@ -1912,38 +1907,42 @@
         <text>ABCDEF1234567890ABCDEF1234567890</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1CTEVJbnRlcmZhY2Uuc2VuZERhdGEoIjBEMEEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXg9eDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljICBpbnQgZ2V0Q3VycmVudEluZGV4KCl7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdXJyZW50SW5kZXg7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1JdGVyLgo=</text>
+      </register>
+      <register name="7" type="8">
+        <text>//
+//
+//
+//
+//</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1CTEVJbnRlcmZhY2Uuc2VuZERhdGEoIjBEMEEiKTsK</text>
+      </register>
+      <register name="9" type="4">
         <text>try {
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFVuc3VwcG9ydGVkRW5jb2RpbmdFeGNlcHRpb24gZSkgewo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBieXRlW10gYnRhID0gY21kLmdldERhdGEoKS5nZXRCeXRlcygiVVMtQVNDSUkiKTsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
