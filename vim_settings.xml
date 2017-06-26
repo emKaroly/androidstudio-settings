@@ -60,12 +60,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498141395235">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="72" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498468635759">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="74" column="28" />
+        <mark key="]" line="74" column="26" />
+        <mark key="^" line="74" column="26" />
+        <mark key="." line="74" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
         <mark key="[" line="4" column="1" />
@@ -281,8 +281,8 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1498139364714">
-        <mark key="'" line="164" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1498464663986">
+        <mark key="'" line="185" column="12" />
         <mark key="[" line="190" column="12" />
         <mark key="]" line="190" column="12" />
         <mark key="." line="190" column="12" />
@@ -635,8 +635,8 @@
         <mark key="." line="403" column="39" />
         <mark key="^" line="403" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" timestamp="1498141611297">
-        <mark key="'" line="137" column="31" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" timestamp="1498464927973">
+        <mark key="'" line="145" column="0" />
         <mark key="[" line="136" column="26" />
         <mark key="]" line="137" column="31" />
         <mark key="." line="137" column="31" />
@@ -1800,12 +1800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="516" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
-      <jump line="336" column="16" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
-      <jump line="108" column="16" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
-      <jump line="180" column="18" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
-      <jump line="181" column="21" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
-      <jump line="228" column="16" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="137" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
       <jump line="255" column="47" filename="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/src/main/java/eu/tsscompany/apidemo/MainActivity.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/res/values/colors.xml" />
@@ -1900,49 +1894,56 @@
       <jump line="67" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
       <jump line="134" column="10" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
       <jump line="137" column="31" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
+      <jump line="185" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
+      <jump line="145" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleD0wOwo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QgdG9hc3QgPSBUb2FzdC5tYWtlVGV4dChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIlNjcmlwdCBOb3QgTG9hZGVkIiwgVG9hc3QuTEVOR1RIX1NIT1JUKTsKICAgICAgICAgICAgdG9hc3Quc2V0R3Jhdml0eShHcmF2aXR5LkNFTlRFUiwwLDApOwogICAgICAgICAgICB0b2FzdC5zaG93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0ID0iMEQwQSAgIiArIEludGVnZXIudG9TdHJpbmcoaW5kZXgrKykrICJTRU5EICIgKyBjbWQuZ2V0RGF0YSgpIDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleD0wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1CTEV3LnNlbmREYXRhKCIwRDBBIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0ID1JbnRlZ2VyLnRvU3RyaW5nKGluZGV4KyspKyAiICIgKyAiIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1CTEVJbnRlcmZhY2UgPSBibGV3Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dChpc1Rlc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEJMRUludGVyZmFjZShJQkxFV3JhcHBlciBibGV3KXsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uVW5zdXBwb3J0ZWRFbmNvZGluZ0V4Y2VwdGlvbjsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSUJMRVdyYXBwZXIgbUJMRUludGVyZmFjZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9tU2VyaWFsTWFuYWdlci5zdGFydERhdGFUcmFuc2ZlcihkYXRhICsgIlAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1CTEVJbnRlcmZhY2Uuc2VuZERhdGEoIjBEMEEiKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIkJVRkZFUiBDT05URU5UOiAiICsgbUJ1ZmZlckRhdGEudG9TdHJpbmcoKSk7Cg==</text>
+      <register name="9" type="8">
+        <text>Interface.sendData(hStr);
+Interface.sendData(&quot;0D0A&quot;);</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
