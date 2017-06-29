@@ -66,12 +66,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498743516860">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="87" column="35" />
-        <mark key="]" line="87" column="51" />
-        <mark key="." line="87" column="51" />
-        <mark key="^" line="87" column="51" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498744496226">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="74" column="14" />
+        <mark key="]" line="74" column="45" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="66" column="9" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
         <mark key="[" line="4" column="1" />
@@ -1912,7 +1912,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIGlmKG1zQ0IgIT0gbnVsbCkgewogICAgICAgICAgIG1zQ0IuT25OZXh0KG1DdXJyZW50Q21kLmdldENvbW1hbmQoKSArICIgIiArIG1DdXJyZW50Q21kLmdldERhdGEoKSk7CiAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL21SZWNEYXRhID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1921,7 +1921,7 @@
         <text>connect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIGlmKG1zQ0IgIT0gbnVsbCkgewogICAgICAgICAgIG1zQ0IuT25OZXh0KG1DdXJyZW50Q21kLmdldENvbW1hbmQoKSArICIgIiArIG1DdXJyZW50Q21kLmdldERhdGEoKSk7CiAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL21SZWNEYXRhID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
