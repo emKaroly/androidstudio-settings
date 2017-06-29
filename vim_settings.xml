@@ -60,11 +60,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498730865393">
-        <mark key="'" line="130" column="17" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498739942986">
+        <mark key="'" line="162" column="12" />
+        <mark key="[" line="123" column="19" />
+        <mark key="]" line="124" column="11" />
+        <mark key="." line="124" column="11" />
+        <mark key="^" line="124" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
         <mark key="[" line="4" column="1" />
@@ -1802,7 +1803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="8" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" />
       <jump line="78" column="40" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" />
       <jump line="15" column="23" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptCmd.java" />
@@ -1902,10 +1902,11 @@
       <jump line="141" column="93" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="127" column="65" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="131" column="17" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
+      <jump line="157" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocmVjRGF0YVNpemUgPT0gMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1913,38 +1914,52 @@
       <register name="/" type="4">
         <text>connect</text>
       </register>
-      <register name="0" type="4">
-        <text>mReceivedData.toString().length();</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiT25EYXRhUmVjZWl2ZWQ6IFxuIgogICAgICAgICAgICAgICAgICAgICsgImJ1ZmY6ICIgKyBtUmVjZWl2ZWREYXRhLnRvU3RyaW5nKCkgKyAiXG4iCiAgICAgICAgICAgICAgICAgICAgKyAiZGF0YTogIiArIG1DdXJyZW50Q21kLmdldERhdGEoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocmVjRGF0YVNpemUgPT0gMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>int recDataSize = mReceivedData.toString().length();
+            int testDataSize = mCurrentTestCmd.getData().length();
+            int diff = testDataSize - recDataSize;
+
+            Random ran = new Random();
+
+            if(diff == 0){
+                Log.d(TAG,&quot;DIFF == 0&quot;);
+                Log.d(TAG, &quot;OnDataReceived: \n&quot;
+                        + &quot;buff: &quot; + mReceivedData.toString() + &quot;\n&quot;
+                        + &quot;data: &quot; + mCurrentCmd.getData());
+            }else{
+                int x = ran.nextInt(testDataSize - recDataSize);
+                mReceivedData.append(mCurrentTestCmd.getData().substring(recDataSize,recDataSize + x + 1));
+            }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHggPSAwOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICBpbnQgcmVjRGF0YVNpemUgPSBtUmVjZWl2ZWREYXRhLnRvU3RyaW5nKCkubGVuZ3RoKCk7CiAgICAgICAgICAgIGludCB0ZXN0RGF0YVNpemUgPSBtQ3VycmVudFRlc3RDbWQuZ2V0RGF0YSgpLmxlbmd0aCgpOwogICAgICAgICAgICBpbnQgZGlmZiA9IHRlc3REYXRhU2l6ZSAtIHJlY0RhdGFTaXplOwoKICAgICAgICAgICAgUmFuZG9tIHJhbiA9IG5ldyBSYW5kb20oKTsKCiAgICAgICAgICAgIGlmKGRpZmYgPT0gMCl7CiAgICAgICAgICAgICAgICBMb2cuZChUQUcsIkRJRkYgPT0gMCIpOwogICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAiT25EYXRhUmVjZWl2ZWQ6IFxuIgogICAgICAgICAgICAgICAgICAgICAgICArICJidWZmOiAiICsgbVJlY2VpdmVkRGF0YS50b1N0cmluZygpICsgIlxuIgogICAgICAgICAgICAgICAgICAgICAgICArICJkYXRhOiAiICsgbUN1cnJlbnRDbWQuZ2V0RGF0YSgpKTsKICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICBpbnQgeCA9IHJhbi5uZXh0SW50KHRlc3REYXRhU2l6ZSAtIHJlY0RhdGFTaXplKTsKICAgICAgICAgICAgICAgIG1SZWNlaXZlZERhdGEuYXBwZW5kKG1DdXJyZW50VGVzdENtZC5nZXREYXRhKCkuc3Vic3RyaW5nKHJlY0RhdGFTaXplLHJlY0RhdGFTaXplICsgeCArIDEpKTsKICAgICAgICAgICAgfQogICAgICAgIH1lbHNlewoKICAgICAgICAgICAgbVJlY2VpdmVkRGF0YS5hcHBlbmQoZGF0YSk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHggPSAwOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVJlY2VpdmVkRGF0YSA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1SZWNlaXZlZERhdGEgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVJlY2VpdmVkRGF0YSA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHggPSByZWNEYXRhU2l6ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodGVzdERhdGFTaXplIC0gcmVjRGF0YVNpemUgPT0gMCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHggPSByYW4ubmV4dEludCh0ZXN0RGF0YVNpemUgLSByZWNEYXRhU2l6ZSk7CgogICAgICAgICAgICBtUmVjZWl2ZWREYXRhLmFwcGVuZChtQ3VycmVudFRlc3RDbWQuZ2V0RGF0YSgpLnN1YnN0cmluZyhyZWNEYXRhU2l6ZSxyZWNEYXRhU2l6ZSArIHggKyAxKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
