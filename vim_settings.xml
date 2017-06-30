@@ -66,12 +66,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498823811973">
-        <mark key="'" line="219" column="28" />
-        <mark key="[" line="58" column="12" />
-        <mark key="]" line="58" column="12" />
-        <mark key="^" line="185" column="30" />
-        <mark key="." line="58" column="12" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1498824893816">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="70" column="16" />
+        <mark key="]" line="70" column="17" />
+        <mark key="^" line="70" column="17" />
+        <mark key="." line="70" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
         <mark key="[" line="4" column="1" />
@@ -1830,8 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="21" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="153" column="24" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="90" column="19" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="124" column="25" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
@@ -1930,13 +1928,15 @@
       <jump line="101" column="8" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="15" column="22" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/StringManipulation.java" />
       <jump line="221" column="28" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
+      <jump line="79" column="3" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mCurrentTestCmd</text>
       </register>
       <register name="/" type="4">
         <text>Destroy</text>
@@ -1947,31 +1947,41 @@
         }else {</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guYnQubWlzYy5EYXRhTWFuaXB1bGF0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMR01Db21tYW5kIHJldENtZCA9IG1DdXJyZW50Q21kOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtQ3VycmVudENtZCA9IAo=</text>
+      <register name="4" type="4">
+        <text>if(isTest) {
+                boolean succes = false;
+                mCurrentTestCmd = mTestIter.next();
+                if (mCurrentCmd.getData().equals(mCurrentTestCmd.getData())) {
+
+                    succes = true;
+                }
+
+                Log.d(TAG, &quot;Receiving: &quot; + mCurrentCmd.getFieldsShortest()
+                        + &quot; testData: &quot; + mCurrentTestCmd.getData() + &quot;: &quot; + succes);
+            }else {</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUJMRXcuc2V0Q2FsbGJhY2sobnVsbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUJMRXcuc2V0Q2FsbGJhY2sobnVsbCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guYnQubWlzYy5EYXRhTWFuaXB1bGF0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMR01Db21tYW5kIHJldENtZCA9IG1DdXJyZW50Q21kOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZighbUl0ZXIuaGFzTmV4dCgpKXsK</text>
+        <text encoding="base64">ICAgICAgICBtQ3VycmVudENtZCA9IAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUJMRXcuc2V0Q2FsbGJhY2sobnVsbCk7Cg==</text>
