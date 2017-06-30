@@ -287,12 +287,11 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1498804426465">
-        <mark key="'" line="210" column="13" />
-        <mark key="[" line="106" column="19" />
-        <mark key="]" line="107" column="21" />
-        <mark key="." line="107" column="21" />
-        <mark key="^" line="107" column="21" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1498805913622">
+        <mark key="'" line="209" column="13" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -808,7 +807,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498804102176">
+      <file name="/Dummy.txt" timestamp="1498806174753">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1915,7 +1914,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1927,28 +1926,28 @@
         <text encoding="base64">ICAgICAgICAvL21SZWNEYXRhID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVJlY0RhdGEucmVwbGFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVJlY0RhdGEucmVwbGFjZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaW5rZWRMaXN0Owo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1DdXJyZW50VGVzdENtZEFycmF5ID0gbmV3IExpbmtlZExpc3Q8U3RyaW5nPihBcnJheXMuYXNMaXN0KG1DdXJyZW50VGVzdENtZC5nZXREYXRhKCkuc3BsaXQoIiIpKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaW5rZWRMaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlua2VkTGlzdDxTdHJpbmc+IG1DdXJyZW50VGVzdENtZEFycmF5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1DdXJyZW50VGVzdENtZEFycmF5ID0gbmV3IExpbmtlZExpc3Q8U3RyaW5nPihBcnJheXMuYXNMaXN0KG1DdXJyZW50VGVzdENtZC5nZXREYXRhKCkuc3BsaXQoIiIpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlua2VkTGlzdDxTdHJpbmc+IG1DdXJyZW50VGVzdENtZEFycmF5Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
