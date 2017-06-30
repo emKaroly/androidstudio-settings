@@ -293,12 +293,10 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1498812443866">
-        <mark key="'" line="343" column="3" />
-        <mark key="[" line="236" column="11" />
-        <mark key="]" line="236" column="19" />
-        <mark key="^" line="236" column="19" />
-        <mark key="." line="236" column="19" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1498813593835">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="0" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -814,7 +812,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498806174753">
+      <file name="/Dummy.txt" timestamp="1498813482524">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1824,7 +1822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMScript.java" />
       <jump line="80" column="32" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMScript.java" />
       <jump line="105" column="17" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
@@ -1924,33 +1921,20 @@
       <jump line="108" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="315" column="21" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="340" column="3" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="239" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>if(mAsyncAPICaller.getStatus() == AsyncTask.Status.PENDING){
-
-            mAsyncAPICaller.execute(cmd);
-        }
-        if(mAsyncAPICaller.getStatus() == AsyncTask.Status.FINISHED) {
-            mAsyncAPICaller = new AsyncAPI();
-            mAsyncAPICaller.execute(cmd);
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>menuStatus.setTitle</text>
+        <text>mAsyncAPICaller</text>
       </register>
       <register name="/" type="4">
         <text>Destroy</text>
       </register>
-      <register name="0" type="4">
-        <text>if(mAsyncAPICaller.getStatus() == AsyncTask.Status.PENDING){
-
-            mAsyncAPICaller.execute(cmd);
-        }
-        if(mAsyncAPICaller.getStatus() == AsyncTask.Status.FINISHED) {
-            mAsyncAPICaller = new AsyncAPI();
-            mAsyncAPICaller.execute(cmd);
-        }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9Bc3luY1J1bm5lciBhc3IgPSBuZXcgQXN5bmNSdW5uZXIoKTsKICAgICAgICAgICAgLy9hc3IuZXhlY3V0ZShzcik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1958,29 +1942,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHZvaWQgc2V0U3RhdHUoKXsKICAgICAgICBydW5PblVpVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIGVkaXRUZXh0MS5zZXRUZXh0KG1DdXJyZW50Q21kICsgIlxuIiArIG1SZWNEYXRhICsgIlxuIik7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0K</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoYXNyLmdldFN0YXR1cygpID09IEFzeW5jVGFzay5TdGF0dXMuUlVOTklORykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsZXcuZGlzY29ubmVjdERldmljZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0YS5zdGFydEJsZVNjYW4oKTsKICAgICAgICAgICAgICAgIGZkZC5zaG93RGlhbG9nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXN5bmNSdW5uZXIgYXNyID0gbU1haW5BcHAuZ2V0QXN5bmNSdW5uZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoYXNyICE9IG51bGwpewo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51U3RhdHVzID0gKE1lbnVJdGVtKWZpbmRWaWV3QnlJZChSLmlkLm1lbnVTdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1NYWluQXBwLnNldEFzeW5jUnVubmVyKG5ldyBBc3luY1J1bm5lcigpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZW51U3RhdHVzID0gKE1lbnVJdGVtKWZpbmRWaWV3QnlJZChSLmlkLm1lbnVTdGF0dXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vQXN5bmNSdW5uZXIgYXNyID0gbmV3IEFzeW5jUnVubmVyKCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
