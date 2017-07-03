@@ -255,12 +255,12 @@
         <mark key="^" line="29" column="41" />
         <mark key="." line="29" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1497608155961">
-        <mark key="'" line="378" column="0" />
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="378" column="0" />
-        <mark key="^" line="152" column="9" />
-        <mark key="." line="378" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1499083034243">
+        <mark key="'" line="144" column="4" />
+        <mark key="[" line="240" column="12" />
+        <mark key="]" line="240" column="35" />
+        <mark key="^" line="240" column="35" />
+        <mark key="." line="240" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/GetReaderCapabilitiesParameters.java" timestamp="1475411633461">
         <mark key="[" line="9" column="14" />
@@ -1830,7 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="482" column="8" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="127" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
       <jump line="54" column="33" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
@@ -1930,6 +1929,7 @@
       <jump line="0" column="4" filename="/Dummy.txt" />
       <jump line="233" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="221" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
+      <jump line="144" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1939,7 +1939,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Destroy</text>
+        <text>Log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbXNDQi5Pbk5leHQobUN1cnJlbnRDbWQuZ2V0Q29tbWFuZCgpICsgIiAiICsgbUN1cnJlbnRDbWQuZ2V0RGF0YSgpKTsK</text>
@@ -1985,9 +1985,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Destroy</last-search>
+      <last-search>Log</last-search>
       <last-offset />
-      <last-pattern>Destroy</last-pattern>
+      <last-pattern>Log</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>urmsp_Start</last-substitute>
       <last-dir>1</last-dir>
@@ -1995,7 +1995,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onSend</entry>
         <entry>setstatus</entry>
         <entry>changed</entry>
         <entry>Changed</entry>
@@ -2015,6 +2014,7 @@
         <entry>urmsp_Start</entry>
         <entry>connect</entry>
         <entry>Destroy</entry>
+        <entry>Log</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
