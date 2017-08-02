@@ -293,10 +293,11 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501673495680">
-        <mark key="[" line="235" column="44" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501674164349">
+        <mark key="[" line="234" column="42" />
+        <mark key="]" line="235" column="27" />
+        <mark key="." line="235" column="27" />
+        <mark key="^" line="235" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -1939,8 +1940,8 @@
       <jump line="225" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2ltcGxlV2ViU2VydmVyIHNlcnZlciA9IG5ldyBTaW1wbGVXZWJTZXJ2ZXIobmV3IEZpbGUoIi4vIiksIDgwKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Zm9yKGludCB4ID0wIHggPCBhc3MubGVuZ3RoOyB4KyspewogICAgICAgICAgICAgICAgICAgIExvZy5kKFRBRyxhc3NbeF0pOwogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1951,35 +1952,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcGVuZChodG1sQ29sb3JUZXh0KGdldERpc3BsYXlOYW1lKFVyaS5wYXJzZShtU2NyaXB0VXJpKSksIndoaXRlIikpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2ltcGxlV2ViU2VydmVyIHNlcnZlciA9IG5ldyBTaW1wbGVXZWJTZXJ2ZXIobmV3IEZpbGUoIi4vIiksIDgwKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Zm9yKGludCB4ID0wIHggPCBhc3MubGVuZ3RoOyB4KyspewogICAgICAgICAgICAgICAgICAgIExvZy5kKFRBRyxhc3NbeF0pOwogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3cy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU2ltcGxlV2ViU2VydmVyIHNlcnZlciA9IG5ldyBTaW1wbGVXZWJTZXJ2ZXIobmV3IEZpbGUoIi4vIiksIDgwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNpbXBsZVdlYlNlcnZlciBzZXJ2ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3cy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFNpbXBsZVdlYlNlcnZlciBzZXJ2ZXI7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qaWJibGUuc2ltcGxld2Vic2VydmVyLio7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qaWJibGUuc2ltcGxld2Vic2VydmVyLio7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
