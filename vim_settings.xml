@@ -27,9 +27,6 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1498129075783">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/item_scanned.xml" timestamp="1478596682581">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="36" column="31" />
@@ -109,9 +106,6 @@
         <mark key="." line="202" column="48" />
         <mark key="^" line="202" column="48" />
       </file>
-      <file name="/LLDB" timestamp="1493286074713">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/results/C1G2KillOpSpecResult.java" timestamp="1475835682728">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="14" />
@@ -178,9 +172,6 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="89" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2LockPayloadLayout.java" timestamp="1493127205999">
-        <mark key="[" line="7" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/misc/ConnectionChecker.java" timestamp="1475927996305">
         <mark key="[" line="31" column="30" />
         <mark key="]" line="31" column="108" />
@@ -236,6 +227,10 @@
         <mark key="]" line="21" column="11" />
         <mark key="^" line="13" column="15" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/AndroidManifest.xml" timestamp="1501754841252">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2write.xml" timestamp="1478167090950">
         <mark key="[" line="46" column="12" />
@@ -299,11 +294,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501751975955">
-        <mark key="'" line="235" column="0" />
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="288" column="0" />
-        <mark key="." line="288" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501754753513">
+        <mark key="'" line="290" column="0" />
+        <mark key="[" line="78" column="20" />
+        <mark key="]" line="79" column="7" />
+        <mark key="." line="79" column="7" />
+        <mark key="^" line="79" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -601,12 +597,11 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501752232107">
-        <mark key="'" line="200" column="7" />
-        <mark key="[" line="187" column="7" />
-        <mark key="]" line="187" column="7" />
-        <mark key="." line="187" column="7" />
-        <mark key="^" line="186" column="9" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501754537297">
+        <mark key="'" line="208" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1498812441739">
         <mark key="'" line="294" column="16" />
@@ -621,8 +616,8 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/java/com/example/android/permissionrequest/PermissionRequestFragment.java" timestamp="1501752097265">
-        <mark key="'" line="69" column="6" />
+      <file name="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/java/com/example/android/permissionrequest/PermissionRequestFragment.java" timestamp="1501754670768">
+        <mark key="'" line="206" column="0" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
@@ -677,9 +672,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="169" column="26" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/RFTransmitterLayout.java" timestamp="1493127331031">
-        <mark key="[" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/gradle.properties" timestamp="1496049852842">
         <mark key="[" line="17" column="73" />
@@ -737,10 +729,10 @@
         <mark key="^" line="371" column="5" />
         <mark key="." line="371" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/AndroidManifest.xml" timestamp="1497276021450">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="48" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/AndroidManifest.xml" timestamp="1501754872657">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="65" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/ICore.h" timestamp="1486023507850">
         <mark key="[" line="12" column="67" />
@@ -948,9 +940,6 @@
         <mark key="]" line="24" column="7" />
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
-      </file>
-      <file name="/fragment.java" timestamp="1498808037890">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
         <mark key="[" line="4" column="15" />
@@ -1211,9 +1200,6 @@
         <mark key="." line="400" column="57" />
         <mark key="^" line="400" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/SetPowerModeLayout.java" timestamp="1493127343856">
-        <mark key="[" line="7" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/IBLEWrapper.java" timestamp="1498808760871">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1239,9 +1225,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2WriteLayout.java" timestamp="1493127315664">
-        <mark key="[" line="13" column="20" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICallback.java" timestamp="1469712761794">
         <mark key="[" line="9" column="42" />
         <mark key="]" line="9" column="69" />
@@ -1253,6 +1236,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/java/com/example/android/permissionrequest/SimpleWebServer.java" timestamp="1501754496444">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="225" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/build.gradle" timestamp="1483008258748">
         <mark key="[" line="42" column="46" />
@@ -1320,9 +1308,6 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/res/layout/content_main.xml" timestamp="1491379124220">
-        <mark key="[" line="65" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/settings.gradle" timestamp="1492694970132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1371,9 +1356,6 @@
         <mark key="]" line="4" column="63" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="28" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2ReadLayout.java" timestamp="1493127217073">
-        <mark key="[" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPIDemo_Android/app/build.gradle" timestamp="1495201690361">
         <mark key="[" line="34" column="37" />
@@ -1509,9 +1491,6 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="66" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/java/eu/tss/api/android/ui/commands/C1G2LockLayout.java" timestamp="1493127181431">
-        <mark key="[" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapiandroid/src/main/AndroidManifest.xml" timestamp="1496396965751">
         <mark key="[" line="7" column="0" />
@@ -1806,9 +1785,6 @@
         <mark key="." line="28" column="10" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="/fragment.mm" timestamp="1495180963995">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Freelancing/HangOuterOLD/app/src/main/java/com/samo/facedatefb/UsersNearby.java" timestamp="1491461165417">
         <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
@@ -1854,13 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="120" column="21" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="92" column="15" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="125" column="32" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="130" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="145" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="141" column="93" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="127" column="65" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="131" column="17" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
@@ -1954,10 +1923,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/java/com/example/android/permissionrequest/PermissionRequestFragment.java" />
       <jump line="69" column="6" filename="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/java/com/example/android/permissionrequest/PermissionRequestFragment.java" />
       <jump line="200" column="7" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/java/com/example/android/permissionrequest/SimpleWebServer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/java/com/example/android/permissionrequest/SimpleWebServer.java" />
+      <jump line="104" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
+      <jump line="243" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
+      <jump line="241" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
+      <jump line="206" column="0" filename="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/java/com/example/android/permissionrequest/PermissionRequestFragment.java" />
+      <jump line="287" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJMaXN0OiAiICsgZ2V0QXNzZXRzKCkubGlzdCgiLi8iKVswXSk7Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1966,54 +1942,246 @@
         <text>\cwarning</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICIxMjM0NTY3OEFCQ0QiLnRvU3RyaW5nKCkuZ2V0Qnl0ZXMoKTsK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJMaXN0OiAiICsgZ2V0QXNzZXRzKCkubGlzdCgiLi8iKVswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dzID0gbmV3IFNpbXBsZVdlYlNlcnZlcig4MDgwLGdldFJlc291cmNlcygpLmdldEFzc2V0cygpKTsKICAgICAgICAgICAgc3dzLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJQb3J0OiAiICsgc3dzLmdldFBvcnQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IChDKSAyMDE0IFRoZSBBbmRyb2lkIE9wZW4gU291cmNlIFByb2plY3QKICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiAqCiAqIFVubGVzcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdhcmUKICogZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNzIG9yIGltcGxpZWQuCiAqIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1YWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKICogbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwoKLyoKICogQ29weXJpZ2h0IChDKSAyMDE0IFRoZSBBbmRyb2lkIE9wZW4gU291cmNlIFByb2plY3QKICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiAqCiAqIFVubGVzcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdhcmUKICogZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNzIG9yIGltcGxpZWQuCiAqIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1YWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKICogbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiQVNTZXRzOiAiICsgZ2V0UmVzb3VyY2VzKCkuZ2V0QXNzZXRzKCkubGlzdCgiLi8iKVswXSk7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZXhhbXBsZS5hbmRyb2lkLnBlcm1pc3Npb25yZXF1ZXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20ubGdtLmJsZWJyaWRnZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dzLnJ1bigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="8" type="4">
+        <text>import android.content.res.AssetManager;
+import android.text.TextUtils;
+import android.util.Log;
+
+import java.io.BufferedReader;
+import java.io.ByteArrayOutputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.PrintStream;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.net.SocketException;
+
+/**
+ * Implementation of a very basic HTTP server. The contents are loaded from the assets folder. This
+ * server handles one request at a time. It only supports GET method.
+ */
+public class SimpleWebServer implements Runnable {
+
+    private static final String TAG = &quot;SimpleWebServer&quot;;
+
+    /**
+     * The port number we listen to
+     */
+    private final int mPort;
+
+    /**
+     * {@link android.content.res.AssetManager} for loading files to serve.
+     */
+    private final AssetManager mAssets;
+
+    /**
+     * True if the server is running.
+     */
+    private boolean mIsRunning;
+
+    /**
+     * The {@link java.net.ServerSocket} that we listen to.
+     */
+    private ServerSocket mServerSocket;
+
+    /**
+     * WebServer constructor.
+     */
+    public SimpleWebServer(int port, AssetManager assets) {
+        mPort = port;
+        mAssets = assets;
+    }
+
+    /**
+     * This method starts the web server listening to the specified port.
+     */
+    public void start() {
+        mIsRunning = true;
+        new Thread(this).start();
+    }
+
+    /**
+     * This method stops the web server
+     */
+    public void stop() {
+        try {
+            mIsRunning = false;
+            if (null != mServerSocket) {
+                mServerSocket.close();
+                mServerSocket = null;
+            }
+        } catch (IOException e) {
+            Log.e(TAG, &quot;Error closing the server socket.&quot;, e);
+        }
+    }
+
+    public int getPort() {
+        return mPort;
+    }
+
+    @Override
+    public void run() {
+        try {
+            mServerSocket = new ServerSocket(mPort);
+            while (mIsRunning) {
+                Socket socket = mServerSocket.accept();
+                handle(socket);
+                socket.close();
+            }
+        } catch (SocketException e) {
+            // The server was stopped; ignore.
+        } catch (IOException e) {
+            Log.e(TAG, &quot;Web server error.&quot;, e);
+        }
+    }
+
+    /**
+     * Respond to a request from a client.
+     *
+     * @param socket The client socket.
+     * @throws IOException
+     */
+    private void handle(Socket socket) throws IOException {
+        BufferedReader reader = null;
+        PrintStream output = null;
+        try {
+            String route = null;
+
+            // Read HTTP headers and parse out the route.
+            reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+            String line;
+            while (!TextUtils.isEmpty(line = reader.readLine())) {
+                if (line.startsWith(&quot;GET /&quot;)) {
+                    int start = line.indexOf('/') + 1;
+                    int end = line.indexOf(' ', start);
+                    route = line.substring(start, end);
+                    break;
+                }
+            }
+
+            // Output stream that we send the response to
+            output = new PrintStream(socket.getOutputStream());
+
+            // Prepare the content to send.
+            if (null == route) {
+                writeServerError(output);
+                return;
+            }
+            byte[] bytes = loadContent(route);
+            if (null == bytes) {
+                writeServerError(output);
+                return;
+            }
+
+            // Send out the content.
+            output.println(&quot;HTTP/1.0 200 OK&quot;);
+            output.println(&quot;Content-Type: &quot; + detectMimeType(route));
+            output.println(&quot;Content-Length: &quot; + bytes.length);
+            output.println();
+            output.write(bytes);
+            output.flush();
+        } finally {
+            if (null != output) {
+                output.close();
+            }
+            if (null != reader) {
+                reader.close();
+            }
+        }
+    }
+
+    /**
+     * Writes a server error response (HTTP/1.0 500) to the given output stream.
+     *
+     * @param output The output stream.
+     */
+    private void writeServerError(PrintStream output) {
+        output.println(&quot;HTTP/1.0 500 Internal Server Error&quot;);
+        output.flush();
+    }
+
+    /**
+     * Loads all the content of {@code fileName}.
+     *
+     * @param fileName The name of the file.
+     * @return The content of the file.
+     * @throws IOException
+     */
+    private byte[] loadContent(String fileName) throws IOException {
+
+        //return &quot;12345678ABCDABCDABCDABfjjjjjjjjjjjjjjjjjjjjjjjjlsdkjflksdjflksjdlfkjsdlkfjlsdkjf&quot;.toString().getBytes();
+        InputStream input = null;
+        try {
+            ByteArrayOutputStream output = new ByteArrayOutputStream();
+            input = mAssets.open(fileName);
+            byte[] buffer = new byte[1024];
+            int size;
+            while (-1 != (size = input.read(buffer))) {
+                output.write(buffer, 0, size);
+            }
+            output.flush();
+            return output.toByteArray();
+        } catch (FileNotFoundException e) {
+            return null;
+        } finally {
+            if (null != input) {
+                input.close();
+            }
+        }
+    }
+
+    /**
+     * Detects the MIME type from the {@code fileName}.
+     *
+     * @param fileName The name of the file.
+     * @return A MIME type.
+     */
+    private String detectMimeType(String fileName) {
+        if (TextUtils.isEmpty(fileName)) {
+            return null;
+        } else if (fileName.endsWith(&quot;.html&quot;)) {
+            return &quot;text/html&quot;;
+        } else if (fileName.endsWith(&quot;.js&quot;)) {
+            return &quot;application/javascript&quot;;
+        } else if (fileName.endsWith(&quot;.css&quot;)) {
+            return &quot;text/css&quot;;
+        } else {
+            return &quot;application/octet-stream&quot;;
+        }
+    }
+
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJMaXN0OiAiICsgZ2V0QXNzZXRzKCkubGlzdCgiLi8iKVswXSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
