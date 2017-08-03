@@ -294,12 +294,11 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501754753513">
-        <mark key="'" line="290" column="0" />
-        <mark key="[" line="78" column="20" />
-        <mark key="]" line="79" column="7" />
-        <mark key="." line="79" column="7" />
-        <mark key="^" line="79" column="7" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501755899473">
+        <mark key="'" line="293" column="0" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="240" column="28" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -597,11 +596,12 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501754537297">
-        <mark key="'" line="208" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501755847297">
+        <mark key="'" line="204" column="2" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="^" line="203" column="31" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1498812441739">
         <mark key="'" line="294" column="16" />
@@ -1804,9 +1804,9 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" timestamp="1497434047290">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptLoader.java" timestamp="1501755206624">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="85" />
         <mark key="^" line="25" column="16" />
         <mark key="." line="9" column="0" />
       </file>
@@ -1830,9 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="93" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="127" column="65" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="131" column="17" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="157" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="182" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="85" column="8" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
@@ -1930,258 +1927,52 @@
       <jump line="241" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
       <jump line="206" column="0" filename="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/java/com/example/android/permissionrequest/PermissionRequestFragment.java" />
       <jump line="287" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="215" column="8" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
+      <jump line="204" column="33" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
+      <jump line="217" column="2" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
+        <text encoding="base64">ICAgICAgICBzd3Muc3RhcnQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>xception e) {</text>
       </register>
       <register name="/" type="4">
         <text>\cwarning</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICBJbnB1dFN0cmVhbSBpbnB1dCA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgQnl0ZUFycmF5T3V0cHV0U3RyZWFtIG91dHB1dCA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgICAgICAgICAgaW5wdXQgPSBtQXNzZXRzLm9wZW4oZmlsZU5hbWUpOwogICAgICAgICAgICBieXRlW10gYnVmZmVyID0gbmV3IGJ5dGVbMTAyNF07CiAgICAgICAgICAgIGludCBzaXplOwogICAgICAgICAgICB3aGlsZSAoLTEgIT0gKHNpemUgPSBpbnB1dC5yZWFkKGJ1ZmZlcikpKSB7CiAgICAgICAgICAgICAgICBvdXRwdXQud3JpdGUoYnVmZmVyLCAwLCBzaXplKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBvdXRwdXQuZmx1c2goKTsKICAgICAgICAgICAgcmV0dXJuIG91dHB1dC50b0J5dGVBcnJheSgpOwogICAgICAgIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGlmIChudWxsICE9IGlucHV0KSB7CiAgICAgICAgICAgICAgICBpbnB1dC5jbG9zZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dzID0gbmV3IFNpbXBsZVdlYlNlcnZlcig4MDgwLGdldFJlc291cmNlcygpLmdldEFzc2V0cygpKTsKICAgICAgICAgICAgc3dzLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd3Muc3RhcnQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJQb3J0OiAiICsgc3dzLmdldFBvcnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgSW5wdXRTdHJlYW0gaW5wdXQgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBvdXRwdXQgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICAgICAgICAgIGJ5dGVbXSBidWZmZXIgPSBuZXcgYnl0ZVsxMDI0XTsKICAgICAgICAgICAgaW50IHNpemU7CiAgICAgICAgICAgIHdoaWxlICgtMSAhPSAoc2l6ZSA9IGlucHV0LnJlYWQoYnVmZmVyKSkpIHsKICAgICAgICAgICAgICAgIG91dHB1dC53cml0ZShidWZmZXIsIDAsIHNpemUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIG91dHB1dC5mbHVzaCgpOwogICAgICAgICAgICByZXR1cm4gb3V0cHV0LnRvQnl0ZUFycmF5KCk7CiAgICAgICAgfSBjYXRjaCAoRmlsZU5vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgaWYgKG51bGwgIT0gaW5wdXQpIHsKICAgICAgICAgICAgICAgIGlucHV0LmNsb3NlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoKICogQ29weXJpZ2h0IChDKSAyMDE0IFRoZSBBbmRyb2lkIE9wZW4gU291cmNlIFByb2plY3QKICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiAqCiAqIFVubGVzcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdhcmUKICogZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNzIG9yIGltcGxpZWQuCiAqIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1YWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKICogbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwoKLyoKICogQ29weXJpZ2h0IChDKSAyMDE0IFRoZSBBbmRyb2lkIE9wZW4gU291cmNlIFByb2plY3QKICoKICogTGljZW5zZWQgdW5kZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCAodGhlICJMaWNlbnNlIik7CiAqIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICogWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiAqCiAqIFVubGVzcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdhcmUKICogZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNzIG9yIGltcGxpZWQuCiAqIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1YWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKICogbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBtQ29udGV4dC5nZXRDb250ZW50UmVzb2x2ZXIoKS5vcGVuSW5wdXRTdHJlYW0odXJpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZXhhbXBsZS5hbmRyb2lkLnBlcm1pc3Npb25yZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBtQXNzZXRzLm9wZW4oZmlsZU5hbWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubGdtLmJsZWJyaWRnZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBtQXNzZXRzLm9wZW4oZmlsZU5hbWUpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>import android.content.res.AssetManager;
-import android.text.TextUtils;
-import android.util.Log;
-
-import java.io.BufferedReader;
-import java.io.ByteArrayOutputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.PrintStream;
-import java.net.ServerSocket;
-import java.net.Socket;
-import java.net.SocketException;
-
-/**
- * Implementation of a very basic HTTP server. The contents are loaded from the assets folder. This
- * server handles one request at a time. It only supports GET method.
- */
-public class SimpleWebServer implements Runnable {
-
-    private static final String TAG = &quot;SimpleWebServer&quot;;
-
-    /**
-     * The port number we listen to
-     */
-    private final int mPort;
-
-    /**
-     * {@link android.content.res.AssetManager} for loading files to serve.
-     */
-    private final AssetManager mAssets;
-
-    /**
-     * True if the server is running.
-     */
-    private boolean mIsRunning;
-
-    /**
-     * The {@link java.net.ServerSocket} that we listen to.
-     */
-    private ServerSocket mServerSocket;
-
-    /**
-     * WebServer constructor.
-     */
-    public SimpleWebServer(int port, AssetManager assets) {
-        mPort = port;
-        mAssets = assets;
-    }
-
-    /**
-     * This method starts the web server listening to the specified port.
-     */
-    public void start() {
-        mIsRunning = true;
-        new Thread(this).start();
-    }
-
-    /**
-     * This method stops the web server
-     */
-    public void stop() {
-        try {
-            mIsRunning = false;
-            if (null != mServerSocket) {
-                mServerSocket.close();
-                mServerSocket = null;
-            }
-        } catch (IOException e) {
-            Log.e(TAG, &quot;Error closing the server socket.&quot;, e);
-        }
-    }
-
-    public int getPort() {
-        return mPort;
-    }
-
-    @Override
-    public void run() {
-        try {
-            mServerSocket = new ServerSocket(mPort);
-            while (mIsRunning) {
-                Socket socket = mServerSocket.accept();
-                handle(socket);
-                socket.close();
-            }
-        } catch (SocketException e) {
-            // The server was stopped; ignore.
-        } catch (IOException e) {
-            Log.e(TAG, &quot;Web server error.&quot;, e);
-        }
-    }
-
-    /**
-     * Respond to a request from a client.
-     *
-     * @param socket The client socket.
-     * @throws IOException
-     */
-    private void handle(Socket socket) throws IOException {
-        BufferedReader reader = null;
-        PrintStream output = null;
-        try {
-            String route = null;
-
-            // Read HTTP headers and parse out the route.
-            reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-            String line;
-            while (!TextUtils.isEmpty(line = reader.readLine())) {
-                if (line.startsWith(&quot;GET /&quot;)) {
-                    int start = line.indexOf('/') + 1;
-                    int end = line.indexOf(' ', start);
-                    route = line.substring(start, end);
-                    break;
-                }
-            }
-
-            // Output stream that we send the response to
-            output = new PrintStream(socket.getOutputStream());
-
-            // Prepare the content to send.
-            if (null == route) {
-                writeServerError(output);
-                return;
-            }
-            byte[] bytes = loadContent(route);
-            if (null == bytes) {
-                writeServerError(output);
-                return;
-            }
-
-            // Send out the content.
-            output.println(&quot;HTTP/1.0 200 OK&quot;);
-            output.println(&quot;Content-Type: &quot; + detectMimeType(route));
-            output.println(&quot;Content-Length: &quot; + bytes.length);
-            output.println();
-            output.write(bytes);
-            output.flush();
-        } finally {
-            if (null != output) {
-                output.close();
-            }
-            if (null != reader) {
-                reader.close();
-            }
-        }
-    }
-
-    /**
-     * Writes a server error response (HTTP/1.0 500) to the given output stream.
-     *
-     * @param output The output stream.
-     */
-    private void writeServerError(PrintStream output) {
-        output.println(&quot;HTTP/1.0 500 Internal Server Error&quot;);
-        output.flush();
-    }
-
-    /**
-     * Loads all the content of {@code fileName}.
-     *
-     * @param fileName The name of the file.
-     * @return The content of the file.
-     * @throws IOException
-     */
-    private byte[] loadContent(String fileName) throws IOException {
-
-        //return &quot;12345678ABCDABCDABCDABfjjjjjjjjjjjjjjjjjjjjjjjjlsdkjflksdjflksjdlfkjsdlkfjlsdkjf&quot;.toString().getBytes();
-        InputStream input = null;
-        try {
-            ByteArrayOutputStream output = new ByteArrayOutputStream();
-            input = mAssets.open(fileName);
-            byte[] buffer = new byte[1024];
-            int size;
-            while (-1 != (size = input.read(buffer))) {
-                output.write(buffer, 0, size);
-            }
-            output.flush();
-            return output.toByteArray();
-        } catch (FileNotFoundException e) {
-            return null;
-        } finally {
-            if (null != input) {
-                input.close();
-            }
-        }
-    }
-
-    /**
-     * Detects the MIME type from the {@code fileName}.
-     *
-     * @param fileName The name of the file.
-     * @return A MIME type.
-     */
-    private String detectMimeType(String fileName) {
-        if (TextUtils.isEmpty(fileName)) {
-            return null;
-        } else if (fileName.endsWith(&quot;.html&quot;)) {
-            return &quot;text/html&quot;;
-        } else if (fileName.endsWith(&quot;.js&quot;)) {
-            return &quot;application/javascript&quot;;
-        } else if (fileName.endsWith(&quot;.css&quot;)) {
-            return &quot;text/css&quot;;
-        } else {
-            return &quot;application/octet-stream&quot;;
-        }
-    }
-
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSA9IG1Db250ZXh0LmdldENvbnRlbnRSZXNvbHZlcigpLm9wZW5JbnB1dFN0cmVhbSh1cmkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJMaXN0OiAiICsgZ2V0QXNzZXRzKCkubGlzdCgiLi8iKVswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSA9IG1Db250ZXh0LmdldENvbnRlbnRSZXNvbHZlcigpLm9wZW5JbnB1dFN0cmVhbSh1cmkpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
