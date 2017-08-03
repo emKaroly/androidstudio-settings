@@ -294,11 +294,11 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501755899473">
-        <mark key="'" line="293" column="0" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="240" column="28" />
-        <mark key="." line="238" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501765909742">
+        <mark key="'" line="306" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -596,11 +596,11 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501764207855">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501764787330">
         <mark key="'" line="206" column="25" />
-        <mark key="[" line="123" column="44" />
-        <mark key="]" line="123" column="44" />
-        <mark key="." line="123" column="44" />
+        <mark key="[" line="177" column="2" />
+        <mark key="]" line="177" column="2" />
+        <mark key="." line="177" column="2" />
         <mark key="^" line="123" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1498812441739">
@@ -824,7 +824,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501580294095">
+      <file name="/Dummy.txt" timestamp="1501765053228">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1926,46 +1926,72 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVNlcnZlclNvY2tldC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5GaWxlT3V0cHV0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>xception e) {</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>\cwarning</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICBJbnB1dFN0cmVhbSBpbnB1dCA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgQnl0ZUFycmF5T3V0cHV0U3RyZWFtIG91dHB1dCA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgICAgICAgICAgaW5wdXQgPSBtQXNzZXRzLm9wZW4oZmlsZU5hbWUpOwogICAgICAgICAgICBieXRlW10gYnVmZmVyID0gbmV3IGJ5dGVbMTAyNF07CiAgICAgICAgICAgIGludCBzaXplOwogICAgICAgICAgICB3aGlsZSAoLTEgIT0gKHNpemUgPSBpbnB1dC5yZWFkKGJ1ZmZlcikpKSB7CiAgICAgICAgICAgICAgICBvdXRwdXQud3JpdGUoYnVmZmVyLCAwLCBzaXplKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBvdXRwdXQuZmx1c2goKTsKICAgICAgICAgICAgcmV0dXJuIG91dHB1dC50b0J5dGVBcnJheSgpOwogICAgICAgIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGlmIChudWxsICE9IGlucHV0KSB7CiAgICAgICAgICAgICAgICBpbnB1dC5jbG9zZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+        <text>sdCard.getAbsolutePath()+ &quot;/kkt.txt&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVNlcnZlclNvY2tldC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5GaWxlT3V0cHV0KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qc291cDpqc291cDoxLjEwLjMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci53cml0ZSgiVGhpc1xuIGlzXG4gYW5cbiBleGFtcGxlXG4iKTsKICAgICAgICAgICAgICAgIHdyaXRlci5mbHVzaCgpOwogICAgICAgICAgICAgICAgd3JpdGVyLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzd3Muc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvYXN0LnNob3coKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvYXN0LnNldEdyYXZpdHkoR3Jhdml0eS5DRU5URVIsMCwwKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgSW5wdXRTdHJlYW0gaW5wdXQgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBvdXRwdXQgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICAgICAgICAgIGJ5dGVbXSBidWZmZXIgPSBuZXcgYnl0ZVsxMDI0XTsKICAgICAgICAgICAgaW50IHNpemU7CiAgICAgICAgICAgIHdoaWxlICgtMSAhPSAoc2l6ZSA9IGlucHV0LnJlYWQoYnVmZmVyKSkpIHsKICAgICAgICAgICAgICAgIG91dHB1dC53cml0ZShidWZmZXIsIDAsIHNpemUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIG91dHB1dC5mbHVzaCgpOwogICAgICAgICAgICByZXR1cm4gb3V0cHV0LnRvQnl0ZUFycmF5KCk7CiAgICAgICAgfSBjYXRjaCAoRmlsZU5vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgaWYgKG51bGwgIT0gaW5wdXQpIHsKICAgICAgICAgICAgICAgIGlucHV0LmNsb3NlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0IHRvYXN0ID0gVG9hc3QubWFrZVRleHQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJUZXN0IFRvYXN0IDpEIiwgVG9hc3QuTEVOR1RIX1NIT1JUKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBtQ29udGV4dC5nZXRDb250ZW50UmVzb2x2ZXIoKS5vcGVuSW5wdXRTdHJlYW0odXJpKTsK</text>
+      <register name="6" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBtQXNzZXRzLm9wZW4oZmlsZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVNlcnZlclNvY2tldC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qc291cDpqc291cDoxLjEwLjMnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBtQXNzZXRzLm9wZW4oZmlsZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzd3Muc3RhcnQoKTsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
