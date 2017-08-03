@@ -298,12 +298,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501767082443">
-        <mark key="'" line="195" column="36" />
-        <mark key="[" line="80" column="38" />
-        <mark key="]" line="80" column="13" />
-        <mark key="." line="80" column="13" />
-        <mark key="^" line="80" column="13" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501769420494">
+        <mark key="'" line="206" column="36" />
+        <mark key="[" line="197" column="67" />
+        <mark key="]" line="197" column="66" />
+        <mark key="." line="197" column="66" />
+        <mark key="^" line="197" column="66" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -601,9 +601,9 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501766923371">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501767950840">
         <mark key="'" line="218" column="27" />
-        <mark key="[" line="147" column="12" />
+        <mark key="[" line="218" column="39" />
         <mark key="]" line="147" column="12" />
         <mark key="." line="147" column="12" />
         <mark key="^" line="148" column="13" />
@@ -1931,7 +1931,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGh0bWw+CjxoZWFkPgogICAgPHRpdGxlPnNhbXBsZTwvdGl0bGU+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9InNhbXBsZS5jc3MiPgo8L2hlYWQ+Cjxib2R5PgoKPGRpdj4KICAgIDxidXR0b24gaWQ9InRvZ2dsZSI+U3RhcnQ8L2J1dHRvbj4KPC9kaXY+Cjx2aWRlbyBpZD0idmlkZW8iIGF1dG9wbGF5PjwvdmlkZW8+Cgo8c2NyaXB0IHNyYz0ic2FtcGxlLmpzIj48L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
