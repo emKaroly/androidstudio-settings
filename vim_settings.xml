@@ -15,12 +15,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/DataStorage.java" timestamp="1501842990665">
-        <mark key="'" line="38" column="34" />
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="13" />
-        <mark key="." line="37" column="13" />
-        <mark key="^" line="37" column="13" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/DataStorage.java" timestamp="1501854453279">
+        <mark key="'" line="39" column="34" />
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="59" column="4" />
+        <mark key="." line="51" column="4" />
+        <mark key="^" line="51" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/RFTransmitterParameters.java" timestamp="1474027935214">
         <mark key="[" line="56" column="3" />
@@ -314,12 +314,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501843491335">
-        <mark key="'" line="210" column="24" />
-        <mark key="[" line="199" column="38" />
-        <mark key="]" line="199" column="38" />
-        <mark key="." line="199" column="38" />
-        <mark key="^" line="199" column="38" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501854958656">
+        <mark key="'" line="204" column="24" />
+        <mark key="[" line="205" column="47" />
+        <mark key="]" line="204" column="24" />
+        <mark key="." line="204" column="24" />
+        <mark key="^" line="204" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -617,12 +617,12 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501854177240">
-        <mark key="'" line="222" column="27" />
-        <mark key="[" line="181" column="37" />
-        <mark key="]" line="181" column="34" />
-        <mark key="." line="181" column="34" />
-        <mark key="^" line="181" column="34" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501854502638">
+        <mark key="'" line="224" column="27" />
+        <mark key="[" line="245" column="25" />
+        <mark key="]" line="245" column="27" />
+        <mark key="." line="245" column="27" />
+        <mark key="^" line="245" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1498812441739">
         <mark key="'" line="294" column="16" />
@@ -1970,11 +1970,11 @@
       <jump line="210" column="24" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>new File(ds.getAbsolutePath(&quot;&quot;))</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>new File(ds.getAbsolutePath(&quot;&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>\cwarning</text>
@@ -1999,35 +1999,45 @@
             }
         }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="1" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsImxvYWRGaWxlOiAiICsgbUN0eC5nZXRGaWxlc0RpcigpLmdldEFic29sdXRlUGF0aCgpLnRvU3RyaW5nKCkgKyIvIiArIHBhdGgpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHByaXZhdGUgU3RyaW5nIGdldEFic29sdXRlUGF0aChTdHJpbmcgcmVsYXRpdmVQYXRoKSB7CiAgICAgICBGaWxlIGYgPSBuZXcgRmlsZShtQ3R4LmdldEZpbGVzRGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiLyIgKyByZWxhdGl2ZVBhdGgpOwogICAgICAgaWYoZi5leGlzdHMoKSl7CiAgICAgICAgICAgTG9nLmQoVEFHLCJFeGlzdCIpOwogICAgICAgICAgIHJldHVybiBmLmdldEFic29sdXRlUGF0aCgpOwogICAgICAgfQoKICAgICAgIHJldHVybiBudWxsOwogICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQgPSBtQ3R4Lm9wZW5GaWxlSW5wdXQoZmlsZU5hbWUpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIFN0cmluZwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldEZpbGVuYW1lCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIExvZy5kKFRBRywiRmlsZXMgZGlyOiAiICsgZ2V0RmlsZXNEaXIoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZpbGUgc2RDYXJkID0gRW52aXJvbm1lbnQuZ2V0RXh0ZXJuYWxTdG9yYWdlRGlyZWN0b3J5KCk7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>String s = &quot;sfkjsadlkfjlsakjflkjasdlkjflsdkjfalskjdlA&quot;;
+
+                DataStorage ds = new DataStorage(this,&quot;temp&quot;);
+                
+                try {
+                    ds.writeFile(&quot;kkt12.txt&quot;,s);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywgImdsczogIiArICk7Cg==</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywgImdsczogIiArIHRtcERpci5saXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsImxvYWRGaWxlOiAiICsgbUN0eC5nZXRGaWxlc0RpcigpLmdldEFic29sdXRlUGF0aCgpLnRvU3RyaW5nKCkgKyIvIiArIHBhdGgpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
