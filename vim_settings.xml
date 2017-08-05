@@ -15,12 +15,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/DataStorage.java" timestamp="1501854453279">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/DataStorage.java" timestamp="1501856415314">
         <mark key="'" line="39" column="34" />
-        <mark key="[" line="51" column="4" />
-        <mark key="]" line="59" column="4" />
-        <mark key="." line="51" column="4" />
-        <mark key="^" line="51" column="3" />
+        <mark key="[" line="59" column="43" />
+        <mark key="]" line="59" column="46" />
+        <mark key="." line="59" column="46" />
+        <mark key="^" line="59" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/RFTransmitterParameters.java" timestamp="1474027935214">
         <mark key="[" line="56" column="3" />
@@ -314,12 +314,10 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501855385662">
-        <mark key="'" line="204" column="24" />
-        <mark key="[" line="204" column="43" />
-        <mark key="]" line="205" column="46" />
-        <mark key="." line="205" column="46" />
-        <mark key="^" line="205" column="46" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501856477222">
+        <mark key="[" line="207" column="66" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -1971,73 +1969,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new File(ds.getAbsolutePath(&quot;&quot;))</text>
+        <text>mCtx.getFilesDir().getAbsolutePath() + &quot;/&quot; + relativePath</text>
       </register>
       <register name="-" type="4">
-        <text>new File(ds.getAbsolutePath(&quot;&quot;))</text>
+        <text>mCtx.getFilesDir().getAbsolutePath() + &quot;/&quot; + relativePath</text>
       </register>
       <register name="/" type="4">
         <text>\cwarning</text>
       </register>
-      <register name="0" type="4">
-        <text>InputStream input = null;
-        try {
-            ByteArrayOutputStream output = new ByteArrayOutputStream();
-            input = mCtx.openFileInput(fileName);
-            byte[] buffer = new byte[1024];
-            int size;
-            while (-1 != (size = input.read(buffer))) {
-                output.write(buffer, 0, size);
-            }
-            output.flush();
-            return output.toByteArray();
-        } catch (FileNotFoundException e) {
-            return null;
-        } finally {
-            if (null != input) {
-                input.close();
-            }
-        }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICBMb2cuZChUQUcsICJFeGlzdCIpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHByaXZhdGUgU3RyaW5nIGdldEFic29sdXRlUGF0aChTdHJpbmcgcmVsYXRpdmVQYXRoKSB7CiAgICAgICBGaWxlIGYgPSBuZXcgRmlsZShtQ3R4LmdldEZpbGVzRGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiLyIgKyByZWxhdGl2ZVBhdGgpOwogICAgICAgaWYoZi5leGlzdHMoKSl7CiAgICAgICAgICAgTG9nLmQoVEFHLCJFeGlzdCIpOwogICAgICAgICAgIHJldHVybiBmLmdldEFic29sdXRlUGF0aCgpOwogICAgICAgfQoKICAgICAgIHJldHVybiBudWxsOwogICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiZW1wdHkgcGF0aDogIiArIGRzLmdldEFic29sdXRlUGF0aCgidG1wIikpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIExvZy5kKFRBRywiRmlsZXMgZGlyOiAiICsgZ2V0RmlsZXNEaXIoKSk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IFN0cmluZyBhYnNQID0gZHMuZ2V0QWJzb2x1dGVQYXRoKCIiKTsKICAgICAgICAgICAgICAgIGlmKGFic1AgIT0gbnVsbCApewogICAgICAgICAgICAgICAgRmlsZSB4ID0gbmV3IEZpbGUoZHMuZ2V0QWJzb2x1dGVQYXRoKCJ0bXAiKSk7CiAgICAgICAgICAgICAgICBmb3IgKFN0cmluZyBmaWxlTjogeC5saXN0KCkpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJ0ZW1wOiAiKyAgZmlsZU4pOwogICAgICAgICAgICAgICAgfSAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEZpbGUgc2RDYXJkID0gRW52aXJvbm1lbnQuZ2V0RXh0ZXJuYWxTdG9yYWdlRGlyZWN0b3J5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIGZpbGVOOiBmaWxlTGlzdCgpKSB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAiRjogIisgIGZpbGVOKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>String s = &quot;sfkjsadlkfjlsakjflkjasdlkjflsdkjfalskjdlA&quot;;
-
-                DataStorage ds = new DataStorage(this,&quot;temp&quot;);
-                
-                try {
-                    ds.writeFile(&quot;kkt12.txt&quot;,s);
-                } catch (IOException e) {
-                    e.printStackTrace();
+        <text>File x = new File(ds.getAbsolutePath(&quot;tmp&quot;));
+                for (String fileN: x.list()) {
+                    Log.d(TAG, &quot;temp: &quot;+  fileN);
                 }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="8" type="8">
+        <text>//
+//
+//</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsImxvYWRGaWxlOiAiICsgbUN0eC5nZXRGaWxlc0RpcigpLmdldEFic29sdXRlUGF0aCgpLnRvU3RyaW5nKCkgKyIvIiArIHBhdGgpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHByaXZhdGUgU3RyaW5nIGdldEFic29sdXRlUGF0aChTdHJpbmcgcmVsYXRpdmVQYXRoKSB7CiAgICAgICBGaWxlIGYgPSBuZXcgRmlsZShtQ3R4LmdldEZpbGVzRGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiLyIgKyByZWxhdGl2ZVBhdGgpOwogICAgICAgaWYoZi5leGlzdHMoKSl7CiAgICAgICAgICAgTG9nLmQoVEFHLCJFeGlzdCIpOwogICAgICAgICAgIHJldHVybiBmLmdldEFic29sdXRlUGF0aCgpOwogICAgICAgfQoKICAgICAgIHJldHVybiBudWxsOwogICB9</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
