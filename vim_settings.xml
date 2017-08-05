@@ -314,10 +314,11 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501921271082">
-        <mark key="[" line="533" column="45" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501922482627">
+        <mark key="[" line="533" column="48" />
+        <mark key="]" line="533" column="45" />
+        <mark key="." line="533" column="45" />
+        <mark key="^" line="533" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -1866,7 +1867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="16" filename="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" />
       <jump line="189" column="13" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="74" column="21" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="122" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
@@ -1966,49 +1966,54 @@
       <jump line="37" column="34" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/DataStorage.java" />
       <jump line="229" column="15" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="210" column="24" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="538" column="29" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50QWxsKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLmdldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRyxmLmdldEFic29sdXRlUGF0aCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>mCtx.getFilesDir().getAbsolutePath() + &quot;/&quot; + relativePath</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\cwarning</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50QWxsKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLmdldEZpbGVzRGlyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ0l0KCJEaXJlY3Rvcnk6Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50QWxsKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLmdldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRyxmLmdldEFic29sdXRlUGF0aCgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50QWxsKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLmdldEV4dGVybmFsQ2FjaGVEaXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRzLnNldERpcigidG1wIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcihGaWxlIGYgOiAoKEZpbGUpb2JqKS5saXN0RmlsZXMoKSl7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>if((File) obj).isDirectory()){
+                printAll((File)((File) obj).listFiles());
+            }else{
+                ((File) obj).getAbsolutePath();
+            }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRyxzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihwYXRoICE9IG51bGwpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKChGaWxlKSBvYmopLmdldEFic29sdXRlUGF0aCgpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
