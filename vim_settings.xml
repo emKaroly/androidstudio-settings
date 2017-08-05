@@ -15,12 +15,12 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/DataStorage.java" timestamp="1501856415314">
-        <mark key="'" line="39" column="34" />
-        <mark key="[" line="59" column="43" />
-        <mark key="]" line="59" column="46" />
-        <mark key="." line="59" column="46" />
-        <mark key="^" line="59" column="46" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/DataStorage.java" timestamp="1501920656929">
+        <mark key="'" line="42" column="34" />
+        <mark key="[" line="27" column="44" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/RFTransmitterParameters.java" timestamp="1474027935214">
         <mark key="[" line="56" column="3" />
@@ -314,10 +314,10 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501856477222">
-        <mark key="[" line="207" column="66" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1501921271082">
+        <mark key="[" line="533" column="45" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -615,12 +615,12 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501854502638">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" timestamp="1501921261922">
         <mark key="'" line="224" column="27" />
-        <mark key="[" line="245" column="25" />
-        <mark key="]" line="245" column="27" />
-        <mark key="." line="245" column="27" />
-        <mark key="^" line="245" column="27" />
+        <mark key="[" line="244" column="48" />
+        <mark key="]" line="244" column="44" />
+        <mark key="." line="244" column="44" />
+        <mark key="^" line="244" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/app/src/main/java/eu/tss/apitest/MainActivity.java" timestamp="1498812441739">
         <mark key="'" line="294" column="16" />
@@ -1968,8 +1968,8 @@
       <jump line="210" column="24" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mCtx.getFilesDir().getAbsolutePath() + &quot;/&quot; + relativePath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50QWxsKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLmdldCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>mCtx.getFilesDir().getAbsolutePath() + &quot;/&quot; + relativePath</text>
@@ -1978,42 +1978,37 @@
         <text>\cwarning</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICBMb2cuZChUQUcsICJFeGlzdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50QWxsKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLmdldEZpbGVzRGlyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50QWxsKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLmdldCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiZW1wdHkgcGF0aDogIiArIGRzLmdldEFic29sdXRlUGF0aCgidG1wIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50QWxsKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLmdldEV4dGVybmFsQ2FjaGVEaXIoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRzLnNldERpcigidG1wIik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IFN0cmluZyBhYnNQID0gZHMuZ2V0QWJzb2x1dGVQYXRoKCIiKTsKICAgICAgICAgICAgICAgIGlmKGFic1AgIT0gbnVsbCApewogICAgICAgICAgICAgICAgRmlsZSB4ID0gbmV3IEZpbGUoZHMuZ2V0QWJzb2x1dGVQYXRoKCJ0bXAiKSk7CiAgICAgICAgICAgICAgICBmb3IgKFN0cmluZyBmaWxlTjogeC5saXN0KCkpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJ0ZW1wOiAiKyAgZmlsZU4pOwogICAgICAgICAgICAgICAgfSAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIGZpbGVOOiBmaWxlTGlzdCgpKSB7CiAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAiRjogIisgIGZpbGVOKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>File x = new File(ds.getAbsolutePath(&quot;tmp&quot;));
-                for (String fileN: x.list()) {
-                    Log.d(TAG, &quot;temp: &quot;+  fileN);
-                }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHByaXZhdGUgU3RyaW5nIGdldEFic29sdXRlUGF0aChTdHJpbmcgcmVsYXRpdmVQYXRoKSB7CiAgICAgICBGaWxlIGYgPSBuZXcgRmlsZShtQ3R4LmdldEZpbGVzRGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiLyIgKyByZWxhdGl2ZVBhdGgpOwogICAgICAgaWYoZi5leGlzdHMoKSl7CiAgICAgICAgICAgTG9nLmQoVEFHLCJFeGlzdCIpOwogICAgICAgICAgIHJldHVybiBmLmdldEFic29sdXRlUGF0aCgpOwogICAgICAgfQoKICAgICAgIHJldHVybiBudWxsOwogICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZihwYXRoICE9IG51bGwpewo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
