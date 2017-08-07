@@ -73,11 +73,11 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1502103025234">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1502109195330">
         <mark key="'" line="117" column="99" />
-        <mark key="[" line="117" column="27" />
-        <mark key="]" line="117" column="30" />
-        <mark key="." line="117" column="30" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
         <mark key="^" line="117" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
@@ -321,11 +321,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502108435488">
-        <mark key="'" line="96" column="20" />
-        <mark key="[" line="567" column="0" />
-        <mark key="]" line="567" column="0" />
-        <mark key="." line="567" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502109256260">
+        <mark key="'" line="380" column="16" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="53" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -1889,8 +1890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="22" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/StringManipulation.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="79" column="3" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="216" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="56" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
@@ -1989,13 +1988,15 @@
       <jump line="514" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="94" column="20" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="117" column="99" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
+      <jump line="563" column="18" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="380" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new AppStorage(getApplicationContext());</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>\cwarning</text>
@@ -2004,38 +2005,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN3cy5zdGFydCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YSBodHRwLWVxdWl2PSJyZWZyZXNoIiBjb250ZW50PSI1Ij4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTWFpbkFjdGl2aXR5IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRUFEX1JFUVVFU1RfQ09ERSA9IDQyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbG9nSXQoIkZpbGU6Iik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbG9nSXQoIkRpcmVjdG9yeTogIiArICgoRmlsZSkgb2JqKS5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbExvZyA9IG5ldyBIdG1sTG9nKGFzLmxvYWRBc3NldCgidGVtcGxhdGUuaHRtbCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdHIuZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3cy5zdGFydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8bWV0YSBodHRwLWVxdWl2PSJyZWZyZXNoIiBjb250ZW50PSI1Ij4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzd3MucnVuKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>try {
-            htmlLog = new HtmlLog(as.loadAsset(&quot;template.html&quot;));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcFN0b3JhZ2UgYXMgPSBuZXcgQXBwU3RvcmFnZShnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRtbExvZyA9IG5ldyBIdG1sTG9nKGFzLmxvYWRBc3NldCgidGVtcGxhdGUuaHRtbCIpKTsK</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
