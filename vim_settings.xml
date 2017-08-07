@@ -321,12 +321,11 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502101319911">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502108435488">
         <mark key="'" line="96" column="20" />
-        <mark key="[" line="86" column="45" />
-        <mark key="]" line="86" column="49" />
-        <mark key="." line="86" column="49" />
-        <mark key="^" line="86" column="49" />
+        <mark key="[" line="567" column="0" />
+        <mark key="]" line="567" column="0" />
+        <mark key="." line="567" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -1993,7 +1992,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YSBodHRwLWVxdWl2PSJyZWZyZXNoIiBjb250ZW50PSI1Ij4K</text>
+        <text encoding="base64">ICAgICAgICBzdHIuZ2V0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>new AppStorage(getApplicationContext());</text>
@@ -2005,38 +2004,38 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN3cy5zdGFydCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YSBodHRwLWVxdWl2PSJyZWZyZXNoIiBjb250ZW50PSI1Ij4K</text>
+        <text encoding="base64">ICAgICAgICBzdHIuZ2V0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWV0YSBodHRwLWVxdWl2PSJyZWZyZXNoIiBjb250ZW50PSI1Ij4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbExvZyA9IG5ldyBIdG1sTG9nKGFzLmxvYWRBc3NldCgidGVtcGxhdGUuaHRtbCIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3cy5zdGFydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHRtbExvZyA9IG5ldyBIdG1sTG9nKGFzLmxvYWRBc3NldCgidGVtcGxhdGUuaHRtbCIpKTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3cy5zdGFydCgpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzd3MucnVuKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>try {
             htmlLog = new HtmlLog(as.loadAsset(&quot;template.html&quot;));
         } catch (IOException e) {
             e.printStackTrace();
         }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcFN0b3JhZ2UgYXMgPSBuZXcgQXBwU3RvcmFnZShnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcFN0b3JhZ2UgYXMgPSBuZXcgQXBwU3RvcmFnZShnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
