@@ -1224,6 +1224,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects_Temp/TempFromVCS/Fragments/build.gradle" timestamp="1502272039907">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/jni/TSSCoreAPIWrapper.cpp" timestamp="1467107734189">
         <mark key="[" line="113" column="8" />
         <mark key="]" line="140" column="0" />
