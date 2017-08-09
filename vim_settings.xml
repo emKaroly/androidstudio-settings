@@ -376,6 +376,9 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="662" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects_Temp/TempFromVCS/Fragments/fragment_sample/src/main/java/com/example/myotive/blog_fragments_2017/ContentFragment.java" timestamp="1502273439933">
+        <mark key="'" line="91" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/parameters/C1G2LockParameters.java" timestamp="1490964809313">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="4" column="46" />
@@ -582,6 +585,9 @@
         <mark key="]" line="6" column="85" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="34" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects_Temp/TempFromVCS/Fragments/fragment_sample/src/main/java/com/example/myotive/blog_fragments_2017/RepositoryFragment.java" timestamp="1502273603596">
+        <mark key="'" line="103" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/TSSAPIWIFI.java" timestamp="1476364381813">
         <mark key="[" line="5" column="42" />
@@ -870,7 +876,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502102502583">
+      <file name="/Dummy.txt" timestamp="1502273904135">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1241,6 +1247,9 @@
         <mark key="]" line="110" column="50" />
         <mark key="." line="136" column="16" />
         <mark key="^" line="136" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects_Temp/TempFromVCS/Fragments/common/src/main/java/com/example/common/ui/adapters/RepositoryAdapter.java" timestamp="1502273593179">
+        <mark key="'" line="90" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICoreJNI.java" timestamp="1471545466106">
         <mark key="[" line="13" column="139" />
@@ -1897,10 +1906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="3" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="216" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="56" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="200" column="49" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="169" column="39" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="74" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
@@ -1997,6 +2002,10 @@
       <jump line="117" column="99" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="563" column="18" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="380" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/Projects_Temp/TempFromVCS/Fragments/fragment_sample/src/main/java/com/example/myotive/blog_fragments_2017/RepositoryFragment.java" />
+      <jump line="91" column="12" filename="$USER_HOME$/Projects_Temp/TempFromVCS/Fragments/fragment_sample/src/main/java/com/example/myotive/blog_fragments_2017/ContentFragment.java" />
+      <jump line="90" column="34" filename="$USER_HOME$/Projects_Temp/TempFromVCS/Fragments/common/src/main/java/com/example/common/ui/adapters/RepositoryAdapter.java" />
+      <jump line="103" column="24" filename="$USER_HOME$/Projects_Temp/TempFromVCS/Fragments/fragment_sample/src/main/java/com/example/myotive/blog_fragments_2017/RepositoryFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
