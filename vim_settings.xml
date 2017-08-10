@@ -214,10 +214,6 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/assets/sample.html" timestamp="1501767037730">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="30" column="6" />
-      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/TSSURMCore.cpp" timestamp="1486023609684">
         <mark key="[" line="40" column="66" />
         <mark key="]" line="40" column="69" />
@@ -255,10 +251,6 @@
         <mark key="]" line="21" column="11" />
         <mark key="^" line="13" column="15" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects_Temp/PermissionRequest/Application/src/main/AndroidManifest.xml" timestamp="1501754841252">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/command_c1g2write.xml" timestamp="1478167090950">
         <mark key="[" line="46" column="12" />
@@ -692,12 +684,12 @@
         <mark key="." line="403" column="39" />
         <mark key="^" line="403" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" timestamp="1501658014000">
-        <mark key="'" line="141" column="23" />
-        <mark key="[" line="90" column="33" />
-        <mark key="]" line="90" column="34" />
-        <mark key="^" line="90" column="34" />
-        <mark key="." line="90" column="34" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" timestamp="1502350180790">
+        <mark key="'" line="144" column="23" />
+        <mark key="[" line="57" column="55" />
+        <mark key="]" line="58" column="24" />
+        <mark key="^" line="58" column="24" />
+        <mark key="." line="58" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470912312501">
         <mark key="[" line="5" column="0" />
