@@ -314,12 +314,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502109256260">
-        <mark key="'" line="380" column="16" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="53" column="3" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502353216194">
+        <mark key="'" line="162" column="12" />
+        <mark key="[" line="166" column="17" />
+        <mark key="]" line="166" column="11" />
+        <mark key="." line="166" column="11" />
+        <mark key="^" line="166" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -1866,8 +1866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="234" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="258" column="37" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="0" column="4" filename="/Dummy.txt" />
       <jump line="233" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
@@ -1966,49 +1964,51 @@
       <jump line="103" column="24" filename="$USER_HOME$/Projects_Temp/TempFromVCS/Fragments/fragment_sample/src/main/java/com/example/myotive/blog_fragments_2017/RepositoryFragment.java" />
       <jump line="97" column="53" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-25/android/bluetooth/BluetoothManager.java" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/device/vsp/SerialManagerExt.java" />
+      <jump line="341" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="161" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZ20uYmxlYnJpZGdlbGliLkxHTVNjcmlwdDsK</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>\cwarning</text>
+        <text>Resume</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN3cy5zdGFydCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sZ20uYmxlYnJpZGdlbGliLkxHTVNjcmlwdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTWFpbkFjdGl2aXR5IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRUFEX1JFUVVFU1RfQ09ERSA9IDQyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbG9nSXQoIkZpbGU6Iik7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKG1QcmVmZXJlbmNlcy5nZXREZXZpY2VSZWNvbm5lY3QoKSkgewogICAgICAgICAgICAgICAgLy9JZiB0aGUgZGV2aWNlIHdhcyBjb25uZWN0ZWQgMnMgYmVmb3JlIHdlIGFzc3VtZSBpdHMganVzdCBhIHNjcmVlbiByb3RhdGlvbgogICAgICAgICAgICAgICAgLy9zbyB3ZSBhcmUgZG9pbmcgcXVpY2sgcmVjb25uZWN0LgogICAgICAgICAgICAgICAgaWYgKG1QcmVmZXJlbmNlcy5nZXREZXZpY2VTdGF0dXMoKSAmJiBtUHJlZmVyZW5jZXMuZ2V0RGV2aWNlTGFzdHNlZW4oKSA8IDIwMDApIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJRdWljayBSZWNvbm5lY3QiKTsKICAgICAgICAgICAgICAgICAgICByZWNvbm5lY3QoZmFsc2UpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJTbG93IFJlY29ubmVjdCIpOwogICAgICAgICAgICAgICAgICAgIHJlY29ubmVjdCh0cnVlKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbG9nSXQoIkRpcmVjdG9yeTogIiArICgoRmlsZSkgb2JqKS5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YSBodHRwLWVxdWl2PSJyZWZyZXNoIiBjb250ZW50PSI1Ij4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTWFpbkFjdGl2aXR5IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRUFEX1JFUVVFU1RfQ09ERSA9IDQyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbG9nSXQoIkZpbGU6Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbG9nSXQoIkRpcmVjdG9yeTogIiArICgoRmlsZSkgb2JqKS5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbExvZyA9IG5ldyBIdG1sTG9nKGFzLmxvYWRBc3NldCgidGVtcGxhdGUuaHRtbCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdHIuZ2V0Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
@@ -2021,9 +2021,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\cwarning</last-search>
+      <last-search>Resume</last-search>
       <last-offset />
-      <last-pattern>\cwarning</last-pattern>
+      <last-pattern>Resume</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>urmsp_Start</last-substitute>
       <last-dir>1</last-dir>
@@ -2031,7 +2031,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Changed</entry>
         <entry>long</entry>
         <entry>send</entry>
         <entry>aispec</entry>
@@ -2051,6 +2050,7 @@
         <entry>Log</entry>
         <entry>instance</entry>
         <entry>\cwarning</entry>
+        <entry>Resume</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
