@@ -314,12 +314,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502353216194">
-        <mark key="'" line="162" column="12" />
-        <mark key="[" line="166" column="17" />
-        <mark key="]" line="166" column="11" />
-        <mark key="." line="166" column="11" />
-        <mark key="^" line="166" column="11" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502355858207">
+        <mark key="'" line="192" column="0" />
+        <mark key="[" line="173" column="58" />
+        <mark key="]" line="173" column="42" />
+        <mark key="^" line="173" column="42" />
+        <mark key="." line="173" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -665,11 +665,11 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/AndroidManifest.xml" timestamp="1496731344637">
-        <mark key="[" line="12" column="79" />
-        <mark key="]" line="12" column="78" />
-        <mark key="^" line="12" column="78" />
-        <mark key="." line="12" column="78" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/AndroidManifest.xml" timestamp="1502354478097">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/Freelancing/HangOuter/app/src/main/java/com/samo/facedatefb/MapsActivity.java" timestamp="1492246671974">
         <mark key="'" line="81" column="28" />
@@ -1866,9 +1866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="37" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
-      <jump line="0" column="4" filename="/Dummy.txt" />
-      <jump line="233" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="221" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="144" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" />
       <jump line="81" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
@@ -1966,10 +1963,13 @@
       <jump line="107" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/device/vsp/SerialManagerExt.java" />
       <jump line="341" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="161" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="185" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="182" column="135" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZ20uYmxlYnJpZGdlbGliLkxHTVNjcmlwdDsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblJlcXVlc3RQZXJtaXNzaW9uc1Jlc3VsdChyZXF1ZXN0Q29kZSwgcGVybWlzc2lvbnMsIGdyYW50UmVzdWx0cyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1981,34 +1981,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN3cy5zdGFydCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZ20uYmxlYnJpZGdlbGliLkxHTVNjcmlwdDsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblJlcXVlc3RQZXJtaXNzaW9uc1Jlc3VsdChyZXF1ZXN0Q29kZSwgcGVybWlzc2lvbnMsIGdyYW50UmVzdWx0cyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkZXIuc2hvdygpO+KAqAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKG1QcmVmZXJlbmNlcy5nZXREZXZpY2VSZWNvbm5lY3QoKSkgewogICAgICAgICAgICAgICAgLy9JZiB0aGUgZGV2aWNlIHdhcyBjb25uZWN0ZWQgMnMgYmVmb3JlIHdlIGFzc3VtZSBpdHMganVzdCBhIHNjcmVlbiByb3RhdGlvbgogICAgICAgICAgICAgICAgLy9zbyB3ZSBhcmUgZG9pbmcgcXVpY2sgcmVjb25uZWN0LgogICAgICAgICAgICAgICAgaWYgKG1QcmVmZXJlbmNlcy5nZXREZXZpY2VTdGF0dXMoKSAmJiBtUHJlZmVyZW5jZXMuZ2V0RGV2aWNlTGFzdHNlZW4oKSA8IDIwMDApIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJRdWljayBSZWNvbm5lY3QiKTsKICAgICAgICAgICAgICAgICAgICByZWNvbm5lY3QoZmFsc2UpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJTbG93IFJlY29ubmVjdCIpOwogICAgICAgICAgICAgICAgICAgIHJlY29ubmVjdCh0cnVlKTsKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB94oCo4oCoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGXigKgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkRpc21pc3MoRGlhbG9nSW50ZXJmYWNlIGRpYWxvZykgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAiTWFpbkFjdGl2aXR5IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBSRUFEX1JFUVVFU1RfQ09ERSA9IDQyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdFBlcm1pc3Npb25zKG5ldyBTdHJpbmdbXXtNYW5pZmVzdC5wZXJtaXNzaW9uLkFDQ0VTU19DT0FSU0VfTE9DQVRJT059LCBQRVJNSVNTSU9OX1JFUVVFU1RfQ09BUlNFX0xPQ0FUSU9OKTvigKgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbG9nSXQoIkZpbGU6Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pO+KAqAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbG9nSXQoIkRpcmVjdG9yeTogIiArICgoRmlsZSkgb2JqKS5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBAVGFyZ2V0QXBpKDIzKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdHIuZ2V0Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoMjMpCiAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLk0pIHvigKgKICAgICAgICAgICAgLy8gQW5kcm9pZCBNIFBlcm1pc3Npb24gY2hlY2vigKgKICAgICAgICAgICAgaWYgKHRoaXMuY2hlY2tTZWxmUGVybWlzc2lvbihNYW5pZmVzdC5wZXJtaXNzaW9uLkFDQ0VTU19DT0FSU0VfTE9DQVRJT04pICE9IFBhY2thZ2VNYW5hZ2VyLlBFUk1JU1NJT05fR1JBTlRFRCkge+KAqAogICAgICAgICAgICAgICAgZmluYWwgQWxlcnREaWFsb2cuQnVpbGRlciBidWlsZGVyID0gbmV3IEFsZXJ0RGlhbG9nLkJ1aWxkZXIodGhpcyk74oCoCiAgICAgICAgICAgICAgICBidWlsZGVyLnNldFRpdGxlKCJUaGlzIGFwcCBuZWVkcyBsb2NhdGlvbiBhY2Nlc3MiKTsKICAgICAgICAgICAgICAgIGJ1aWxkZXIuc2V0TWVzc2FnZSgiUGxlYXNlIGdyYW50IGxvY2F0aW9uIGFjY2VzcyBzbyB0aGlzIGFwcCBjYW4gZGV0ZWN0IGJlYWNvbnMuIik7CiAgICAgICAgICAgICAgICBidWlsZGVyLnNldFBvc2l0aXZlQnV0dG9uKGFuZHJvaWQuUi5zdHJpbmcub2ssIG51bGwpO+KAqAogICAgICAgICAgICAgICAgYnVpbGRlci5zZXRPbkRpc21pc3NMaXN0ZW5lcihuZXcgRGlhbG9nSW50ZXJmYWNlLk9uRGlzbWlzc0xpc3RlbmVyKCkge+KAqOKAqAogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZeKAqAogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRGlzbWlzcyhEaWFsb2dJbnRlcmZhY2UgZGlhbG9nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVlc3RQZXJtaXNzaW9ucyhuZXcgU3RyaW5nW117TWFuaWZlc3QucGVybWlzc2lvbi5BQ0NFU1NfQ09BUlNFX0xPQ0FUSU9OfSwgUEVSTUlTU0lPTl9SRVFVRVNUX0NPQVJTRV9MT0NBVElPTik74oCoCiAgICAgICAgICAgICAgICAgICAgfeKAqOKAqAogICAgICAgICAgICAgICAgfSk74oCoCiAgICAgICAgICAgICAgICBidWlsZGVyLnNob3coKTvigKgKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
