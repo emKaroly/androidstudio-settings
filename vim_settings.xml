@@ -2017,7 +2017,7 @@
         <text>n</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>help</text>
       </register>
     </registers>
     <search>
@@ -2059,6 +2059,7 @@
         <entry>%s/$/;/</entry>
         <entry>diff</entry>
         <entry>w</entry>
+        <entry>help</entry>
       </history-cmd>
       <history-expr />
       <history-input />
