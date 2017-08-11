@@ -314,10 +314,10 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502431138589">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502440619974">
         <mark key="'" line="180" column="28" />
-        <mark key="[" line="188" column="18" />
-        <mark key="]" line="188" column="24" />
+        <mark key="[" line="186" column="24" />
+        <mark key="]" line="186" column="41" />
         <mark key="." line="188" column="24" />
         <mark key="^" line="188" column="24" />
       </file>
@@ -1969,8 +1969,8 @@
       <jump line="180" column="28" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIlBlcm1pc3Npb24gQ2hlY2siKTsK</text>
+      <register name="&quot;" type="4">
+        <text>requestPermissions</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1978,8 +1978,8 @@
       <register name="/" type="4">
         <text>Resume</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIlBlcm1pc3Npb24gQ2hlY2siKTsK</text>
+      <register name="0" type="4">
+        <text>requestPermissions</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
