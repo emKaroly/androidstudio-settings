@@ -276,6 +276,12 @@
         <mark key="." line="78" column="43" />
         <mark key="^" line="72" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/BleHelper.java" timestamp="1502801891327">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEUiCallback.java" timestamp="1502793150561">
         <mark key="[" line="8" column="48" />
         <mark key="]" line="8" column="48" />
@@ -332,10 +338,10 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502793650570">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502801830710">
         <mark key="'" line="293" column="0" />
-        <mark key="[" line="474" column="0" />
-        <mark key="]" line="474" column="0" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="275" column="28" />
         <mark key="^" line="330" column="46" />
         <mark key="." line="474" column="0" />
       </file>
@@ -989,7 +995,7 @@
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1502784722808">
+      <file name="/fragment.java" timestamp="1502799242633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
@@ -2031,48 +2037,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidGEuc3RvcEJsZVNjYW4oKTsKICAgICAgICBmZGQuZGlzbWlzc0RpYWxvZygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>IBleBaseActivityUiCallback</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPbkNsaWNrKFIuaWQuYnV0dG9uMSkK</text>
+        <text encoding="base64">ICAgICAgICBidGEuc3RvcEJsZVNjYW4oKTsKICAgICAgICBmZGQuZGlzbWlzc0RpYWxvZygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtQWN0aXZpdHkgPSBhY3Rpdml0eTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBidGEgPSBuZXcgQmx1ZXRvb3RoQWRhcHRlckhlbHBlcihtQWN0aXZpdHksdGhpcyk7CiAgICAgICAgZmRkID0gbmV3IEZvdW5kRGV2aWNlc0RpYWxvZyhtQWN0aXZpdHksdGhpcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQWN0aXZpdHkgbUFjdGl2aXR5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRNZW51U3RhdHVzKGZpbmFsIFN0cmluZyBzdGF0dXMpewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRNZW51U3RhdHVzKHN0YXR1cyk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGlhbG9nRm91bmREZXZpY2VzSXRlbUNsaWNrKEJsdWV0b290aERldmljZSBkZXZpY2UpIHsKICAgICAgICAKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGlhbG9nRm91bmREZXZpY2VzQ2FuY2VsKERpYWxvZ0ludGVyZmFjZSBhcmcwKSB7CgogICAgfQo=</text>
       </register>
       <register name="7" type="4">
-        <text>runOnUiThread(new Runnable() {
-            @Override
-            public void run() {
-                menuStatus.setTitle(status);
-            }
-        });</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGlzY292ZXJ5U3RvcCgpIHsKICAgICAgICAKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGlzY292ZXJ5RGV2aWNlRm91bmQoQmx1ZXRvb3RoRGV2aWNlIGRldmljZSwgaW50IHJzc2kpIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvbkJsZVN0b3BTY2FuKCkgewoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uQmxlRGV2aWNlRm91bmQoQmx1ZXRvb3RoRGV2aWNlIGRldmljZSwgaW50IHJzc2ksIGJ5dGVbXSBzY2FuUmVjb3JkKSB7CgogICAgfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvblVpQ29ubmVjdGVkKCkgewogICAgICAgIHNldE1lbnVTdGF0dXMoIkNvbm5lY3RlZCIpOwoKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVWlDb25uZWN0aW5nKCkgewogICAgICAgIHNldE1lbnVTdGF0dXMoIkNvbm5lY3RpbmciKTsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvblVpRGlzY29ubmVjdGVkKGludCBzdGF0dXMpIHsKICAgICAgICBzZXRNZW51U3RhdHVzKCJEaXNjb25uZWN0ZWQiKTsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvblVpRGlzY29ubmVjdGluZygpIHsKICAgICAgICBzZXRNZW51U3RhdHVzKCJEaXNjb25uZWN0aW5nIik7CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25VaUJhdHRlcnlSZWFkKFN0cmluZyB2YWx1ZUJhdHRlcnkpIHsKCiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvblVpUmVhZFJlbW90ZVJzc2koaW50IHZhbHVlUlNTSSkgewoKICAgIH0K</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
