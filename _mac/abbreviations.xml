@@ -4,6 +4,9 @@
       <action id="Android.SyncProject">
         <abbreviation name="gs" />
       </action>
+      <action id="com.andrewbrookins.idea.wrap.WrapParagraphAction">
+        <abbreviation name="gq" />
+      </action>
       <action id="Run">
         <abbreviation name="r" />
       </action>
