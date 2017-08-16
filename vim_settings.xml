@@ -272,7 +272,7 @@
         <mark key="." line="78" column="43" />
         <mark key="^" line="72" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/BleHelper.java" timestamp="1502803782409">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/BleHelper.java" timestamp="1502868864666">
         <mark key="[" line="45" column="24" />
         <mark key="]" line="45" column="27" />
         <mark key="^" line="45" column="27" />
@@ -1064,6 +1064,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="$USER_HOME$/Android/android-sdk-macosx/sources/android-25/android/bluetooth/le/BluetoothLeScanner.java" timestamp="1502869576225">
+        <mark key="'" line="506" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMScript.java" timestamp="1498132370888">
         <mark key="'" line="81" column="32" />
         <mark key="[" line="62" column="0" />
@@ -1753,6 +1756,9 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/Android/android-sdk-macosx/sources/android-25/android/bluetooth/BluetoothAdapter.java" timestamp="1502869323146">
+        <mark key="'" line="2137" column="32" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/qdebug2logcat.h" timestamp="1467879025878">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="22" column="0" />
@@ -1936,8 +1942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="33" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
-      <jump line="217" column="2" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
       <jump line="203" column="25" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
       <jump line="191" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="213" column="27" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/SimpleWebServer.java" />
@@ -2036,6 +2040,8 @@
       <jump line="311" column="35" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="47" column="14" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/HtmlLog.java" />
       <jump line="335" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="2137" column="32" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-25/android/bluetooth/BluetoothAdapter.java" />
+      <jump line="506" column="0" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-25/android/bluetooth/le/BluetoothLeScanner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
