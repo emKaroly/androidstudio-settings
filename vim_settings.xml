@@ -694,9 +694,9 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/AndroidManifest.xml" timestamp="1502354478097">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="9" column="3" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/AndroidManifest.xml" timestamp="1502866444830">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="80" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
@@ -784,6 +784,11 @@
         <mark key="]" line="371" column="5" />
         <mark key="^" line="371" column="5" />
         <mark key="." line="371" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/AndroidManifest.xml" timestamp="1502866454658">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="80" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/ICore.h" timestamp="1486023507850">
         <mark key="[" line="12" column="67" />
@@ -2034,7 +2039,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z0NvbXBpbGUgJ2NvbS5zcXVhcmV1cC5sZWFrY2FuYXJ5OmxlYWtjYW5hcnktYW5kcm9pZDoxLjUuMicKICAgICAgICByZWxlYXNlQ29tcGlsZSAnY29tLnNxdWFyZXVwLmxlYWtjYW5hcnk6bGVha2NhbmFyeS1hbmRyb2lkLW5vLW9wOjEuNS4yJwo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9FWFRFUk5BTF9TVE9SQUdFIiAvPgogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5XUklURV9FWFRFUk5BTF9TVE9SQUdFIiAvPgo=</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -2043,7 +2048,7 @@
         <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHN0YXJ0U2NhbigpewogICAgICAgIGJ0YS5zdGFydEJsZVNjYW4oKTsKICAgICAgICBmZGQuc2hvd0RpYWxvZygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9FWFRFUk5BTF9TVE9SQUdFIiAvPgogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5XUklURV9FWFRFUk5BTF9TVE9SQUdFIiAvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z0NvbXBpbGUgJ2NvbS5zcXVhcmV1cC5sZWFrY2FuYXJ5OmxlYWtjYW5hcnktYW5kcm9pZDoxLjUuMicKICAgICAgICByZWxlYXNlQ29tcGlsZSAnY29tLnNxdWFyZXVwLmxlYWtjYW5hcnk6bGVha2NhbmFyeS1hbmRyb2lkLW5vLW9wOjEuNS4yJwo=</text>
