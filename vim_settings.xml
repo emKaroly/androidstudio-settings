@@ -1251,12 +1251,12 @@
         <mark key="." line="136" column="16" />
         <mark key="^" line="136" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/ui/FoundDevicesDialog.java" timestamp="1502872378893">
-        <mark key="'" line="24" column="12" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/ui/FoundDevicesDialog.java" timestamp="1502873167157">
+        <mark key="'" line="94" column="18" />
         <mark key="[" line="94" column="17" />
-        <mark key="]" line="50" column="63" />
-        <mark key="." line="50" column="63" />
-        <mark key="^" line="50" column="63" />
+        <mark key="]" line="94" column="19" />
+        <mark key="." line="94" column="19" />
+        <mark key="^" line="94" column="19" />
       </file>
       <file name="$USER_HOME$/Projects_Temp/TempFromVCS/Fragments/common/src/main/java/com/example/common/ui/adapters/RepositoryAdapter.java" timestamp="1502273593179">
         <mark key="'" line="90" column="34" />
@@ -1949,7 +1949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="7" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/DataStorage.java" />
       <jump line="37" column="34" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/DataStorage.java" />
       <jump line="229" column="15" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="210" column="24" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
@@ -2049,6 +2048,7 @@
       <jump line="458" column="9" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/BluetoothAdapterHelperWeak.java" />
       <jump line="25" column="26" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/BleHelper.java" />
       <jump line="22" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/ui/FoundDevicesDialog.java" />
+      <jump line="94" column="18" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/ui/FoundDevicesDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
