@@ -340,12 +340,11 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502967518599">
-        <mark key="'" line="334" column="23" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="^" line="179" column="96" />
-        <mark key="." line="180" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502977153818">
+        <mark key="'" line="347" column="23" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -578,10 +577,10 @@
         <mark key="." line="29" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/res/layout/activity_main.xml" timestamp="1502875853259">
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="31" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2ReadOpSpecResult.java" timestamp="1478267635123">
         <mark key="[" line="62" column="49" />
@@ -803,10 +802,10 @@
         <mark key="^" line="371" column="5" />
         <mark key="." line="371" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/AndroidManifest.xml" timestamp="1502965006342">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/AndroidManifest.xml" timestamp="1502975103242">
+        <mark key="[" line="6" column="62" />
+        <mark key="]" line="6" column="65" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/ICore.h" timestamp="1486023507850">
         <mark key="[" line="12" column="67" />
@@ -898,7 +897,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502957362460">
+      <file name="/Dummy.txt" timestamp="1502977176595">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1045,11 +1044,11 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/build.gradle" timestamp="1502867664025">
-        <mark key="[" line="48" column="74" />
-        <mark key="]" line="48" column="73" />
-        <mark key="." line="48" column="73" />
-        <mark key="^" line="48" column="73" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/build.gradle" timestamp="1502976257895">
+        <mark key="[" line="28" column="59" />
+        <mark key="]" line="28" column="58" />
+        <mark key="^" line="28" column="58" />
+        <mark key="." line="28" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/APICallbackHandler.java" timestamp="1484299057441">
         <mark key="'" line="57" column="0" />
@@ -2063,46 +2062,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>mLogServer.getIpAddress();</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>onLong</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QgdG9hc3QgPSBUb2FzdC5tYWtlVGV4dChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIlNjcmlwdCBOb3QgTG9hZGVkIiwgVG9hc3QuTEVOR1RIX1NIT1JUKTsKICAgICAgICAgICAgdG9hc3Quc2V0R3Jhdml0eShHcmF2aXR5LkNFTlRFUiwwLDApOwogICAgICAgICAgICB0b2FzdC5zaG93KCk7Cg==</text>
+      <register name="0" type="4">
+        <text>$supportLibVersion</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dTZXJ2ZXIuZ2V0SXBBZGRyZXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNob3coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0IHRzID0gbmV3IFRvYXN0KHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmR1cmF0aW9uKER1cmF0aW9uLlNIT1JUKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVNlcnZlclNvY2tldC5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1lc3NhZ2UoIlByb2ZpbGUgdXBkYXRlZCBzdWNjZXNzZnVsbHkhIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnR5cGUoVHlwZS5TVUNDRVNTKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtTG9nU2VydmVyLmxvYWRMb2coaHRtbExvZy5nZXRDaGFyU2VxdWVuY2UoKSk7CiAgICAgICAgbUxvZ1NlcnZlci5zdGFydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNuYWNrYmFyLndpdGgodGhpcyxudWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERvY0hlbHBlci5zYXZlRG9jdW1lbnQodGhpcyxXUklURV9SRVFVRVNUX0NPREUsInRleHQveC1sb2ciLGdldFRpbWVzdGFtcCgpICsgIi5sb2ciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNuYWNrYmFyLm1ha2UodGhpcyxpcFN0ciwxMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>Snackbar.make(this, ipStr, Snackbar.LENGTH_LONG)
+                        .setAction(&quot;CLOSE&quot;, new View.OnClickListener() {
+                            @Override
+                            public void onClick(View view) {
+
+                            }
+                        })
+                        .setActionTextColor(getResources().getColor(android.R.color.holo_red_light ))
+                        .show();</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
