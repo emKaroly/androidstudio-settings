@@ -151,12 +151,12 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/SimpleWebServer.java" timestamp="1502967378591">
-        <mark key="'" line="205" column="59" />
-        <mark key="[" line="88" column="8" />
-        <mark key="]" line="88" column="14" />
-        <mark key="." line="88" column="14" />
-        <mark key="^" line="88" column="14" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/SimpleWebServer.java" timestamp="1502974021672">
+        <mark key="'" line="103" column="22" />
+        <mark key="[" line="91" column="27" />
+        <mark key="]" line="92" column="22" />
+        <mark key="." line="92" column="22" />
+        <mark key="^" line="92" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMPacketParser.h" timestamp="1469697566662">
         <mark key="[" line="0" column="0" />
@@ -1960,7 +1960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="35" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/helper/PermissionChecker.java" />
       <jump line="54" column="30" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/helper/PermissionChecker.java" />
       <jump line="91" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/helper/PermissionChecker.java" />
       <jump line="155" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
@@ -2060,6 +2059,7 @@
       <jump line="281" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="173" column="25" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="326" column="23" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="97" column="22" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/SimpleWebServer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
