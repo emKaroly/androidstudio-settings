@@ -337,9 +337,9 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1502977153818">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1503044208767">
         <mark key="'" line="347" column="23" />
-        <mark key="[" line="194" column="0" />
+        <mark key="[" line="193" column="78" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
       </file>
@@ -568,10 +568,10 @@
         <mark key="." line="29" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/res/layout/activity_main.xml" timestamp="1502875853259">
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="32" column="31" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="31" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2ReadOpSpecResult.java" timestamp="1478267635123">
         <mark key="[" line="62" column="49" />
@@ -885,7 +885,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502978256961">
+      <file name="/Dummy.txt" timestamp="1503044143475">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
