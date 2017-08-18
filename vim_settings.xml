@@ -337,11 +337,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1503044208767">
-        <mark key="'" line="347" column="23" />
-        <mark key="[" line="193" column="78" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1503046609112">
+        <mark key="'" line="354" column="23" />
+        <mark key="[" line="200" column="50" />
+        <mark key="]" line="200" column="48" />
+        <mark key="." line="200" column="48" />
+        <mark key="^" line="200" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -885,7 +886,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503044143475">
+      <file name="/Dummy.txt" timestamp="1503046305927">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2041,7 +2042,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludDpjb25zdHJhaW50LWxheW91dDoxLjAuMC1iZXRhMScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLnNldAo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -2053,42 +2054,34 @@
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludDpjb25zdHJhaW50LWxheW91dDoxLjAuMC1iZXRhMScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLnNldAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmR1cmF0aW9uKER1cmF0aW9uLlNIT1JUKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNob3coKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1lc3NhZ2UoIlByb2ZpbGUgdXBkYXRlZCBzdWNjZXNzZnVsbHkhIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmR1cmF0aW9uKER1cmF0aW9uLlNIT1JUKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnR5cGUoVHlwZS5TVUNDRVNTKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1lc3NhZ2UoIlByb2ZpbGUgdXBkYXRlZCBzdWNjZXNzZnVsbHkhIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNuYWNrYmFyLndpdGgodGhpcyxudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnR5cGUoVHlwZS5TVUNDRVNTKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNuYWNrYmFyLm1ha2UodGhpcyxpcFN0ciwxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNuYWNrYmFyLndpdGgodGhpcyxudWxsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNuYWNrYmFyLm1ha2UodGhpcyxpcFN0ciwxMCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Snackbar.make(this, ipStr, Snackbar.LENGTH_LONG)
-                        .setAction(&quot;CLOSE&quot;, new View.OnClickListener() {
-                            @Override
-                            public void onClick(View view) {
-
-                            }
-                        })
-                        .setActionTextColor(getResources().getColor(android.R.color.holo_red_light ))
-                        .show();</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
