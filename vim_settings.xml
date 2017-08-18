@@ -1044,9 +1044,9 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/build.gradle" timestamp="1502976257895">
-        <mark key="[" line="28" column="59" />
-        <mark key="]" line="28" column="58" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/build.gradle" timestamp="1503040799057">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="74" />
         <mark key="^" line="28" column="58" />
         <mark key="." line="28" column="58" />
       </file>
@@ -2062,7 +2062,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLgo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludDpjb25zdHJhaW50LWxheW91dDoxLjAuMC1iZXRhMScK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -2070,8 +2070,8 @@
       <register name="/" type="4">
         <text>onLong</text>
       </register>
-      <register name="0" type="4">
-        <text>$supportLibVersion</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludDpjb25zdHJhaW50LWxheW91dDoxLjAuMC1iZXRhMScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLgo=</text>
