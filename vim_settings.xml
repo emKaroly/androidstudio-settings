@@ -336,12 +336,12 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1503324735673">
-        <mark key="'" line="437" column="0" />
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="85" column="9" />
-        <mark key="^" line="85" column="9" />
-        <mark key="." line="85" column="9" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1503325158717">
+        <mark key="'" line="450" column="0" />
+        <mark key="[" line="434" column="51" />
+        <mark key="]" line="434" column="51" />
+        <mark key="." line="434" column="51" />
+        <mark key="^" line="434" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -484,12 +484,12 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" timestamp="1503321464825">
-        <mark key="'" line="109" column="16" />
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="89" column="8" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="87" column="25" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" timestamp="1503325701999">
+        <mark key="'" line="67" column="8" />
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssuielements/src/main/AndroidManifest.xml" timestamp="1493213189847">
         <mark key="[" line="2" column="8" />
@@ -891,7 +891,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503323023122">
+      <file name="/Dummy.txt" timestamp="1503325058489">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -1950,7 +1950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="424" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="195" column="43" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="444" column="9" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
@@ -2050,10 +2049,11 @@
       <jump line="434" column="27" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="426" column="8" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="437" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="62" column="8" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtRWRpdFRleHRTdGF0dXMgPSAoRWRpdFRleHQpZmluZFZpZXdCeUlkKFIuaWQuZWRpdFRleHRTdGF0dXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -2065,34 +2065,34 @@
         <text encoding="base64">aW50IGxlbiA9IGdldERhdGEoKS5sZW5ndGgoKTsKCiAgICAgICAgaWYobGVuIDwgcGFkZGluZyl7CgogICAgICAgICAgICByZXR1cm4gU3RyaW5nVXRpbHMucmlnaHRQYWQoZ2V0RGF0YSgpLHBhZGRpbmcsIkYiKTsKICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgaW50IHBkID0gbGVuICUgcGFkZGluZzsKICAgICAgICAgICAgcmV0dXJuIFN0cmluZ1V0aWxzLnJpZ2h0UGFkKGdldERhdGEoKSxsZW4gKyBwZCwiRiIpOwogICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtRWRpdFRleHRTdGF0dXMgPSAoRWRpdFRleHQpZmluZFZpZXdCeUlkKFIuaWQuZWRpdFRleHRTdGF0dXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGJsZXcuc2V0UGFkZGluZygyMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgIExvZy5kKFRBRywiU3dpdGNoIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBibGV3LnNldFBhZGRpbmcoMjApOwo=</text>
+        <text encoding="base64">ICAgICAgICBtRWRpdFRleHRTdGF0dXMgPSAoRWRpdFRleHQpZmluZFZpZXdCeUlkKFIuaWQuZWRpdFRleHRTdGF0dXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIlN3aXRjaCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtRWRpdFRleHRTdGF0dXMgPSAoRWRpdFRleHQpZmluZFZpZXdCeUlkKFIuaWQuZWRpdFRleHRTdGF0dXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHN3aXRjaFBhZGRpbmcoKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgQE9uQ2hlY2tlZENoYW5nZWQoUi5pZC5zd2l0Y2hQYWRkaW5nKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuU3dpdGNoQ29tcGF0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
