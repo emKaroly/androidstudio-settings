@@ -336,11 +336,11 @@
         <mark key="^" line="21" column="53" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1503060938816">
-        <mark key="'" line="258" column="25" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
-        <mark key="." line="457" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" timestamp="1503301929644">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="418" column="0" />
+        <mark key="]" line="418" column="0" />
+        <mark key="." line="418" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packetbuffer.h" timestamp="1467194862467">
         <mark key="[" line="8" column="8" />
@@ -884,7 +884,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503059582087">
+      <file name="/Dummy.txt" timestamp="1503300417239">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1937,7 +1937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="10" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/ui/FoundDevicesDialog.java" />
       <jump line="569" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="79" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
@@ -1988,7 +1987,6 @@
       <jump line="431" column="11" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="97" column="8" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="374" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="291" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="109" column="42" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="422" column="91" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
@@ -2037,10 +2035,12 @@
       <jump line="118" column="24" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="168" column="21" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="258" column="25" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="419" column="53" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0b3IucHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRhdHlwZUMK</text>
       </register>
       <register name="-" type="4">
         <text>savedInstanceState</text>
@@ -2052,37 +2052,37 @@
         <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIkxJRkVDWUNMRTogb25QYXVzZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0b3IucHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRhdHlwZUMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzLnRvQwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlewo=</text>
+        <text encoding="base64">ICAgICAgICBlZGl0b3IuCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlZGl0b3IucHV0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlewo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJMSUZFQ1lDTEU6IG8gPT0gbnVsbCIpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>if(savedInstanceState == null){
             Log.d(TAG,&quot;LIFECYCLE: onRestoreInstanceState == null&quot;);
             loadPreferences();
         }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzYXZlUHJlZmVyZW5jZXMoKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzYXZlZEluc3RhbmNlU3RhdGUgPT0gbnVsbCl7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
