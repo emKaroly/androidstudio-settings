@@ -84,8 +84,8 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1503392671747">
-        <mark key="[" line="125" column="90" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1503393742893">
+        <mark key="[" line="125" column="84" />
         <mark key="]" line="125" column="91" />
         <mark key="." line="125" column="91" />
         <mark key="^" line="125" column="91" />
@@ -478,12 +478,12 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" timestamp="1503392415937">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" timestamp="1503393723687">
         <mark key="'" line="69" column="8" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="88" column="14" />
+        <mark key="[" line="220" column="19" />
+        <mark key="]" line="220" column="15" />
+        <mark key="^" line="220" column="15" />
+        <mark key="." line="220" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssuielements/src/main/AndroidManifest.xml" timestamp="1493213189847">
         <mark key="[" line="2" column="8" />
@@ -2056,10 +2056,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiT25EYXRhUmVjZWl2ZWQ6IE1hdGNoXG4iICsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>mHeader</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
@@ -2074,28 +2074,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIk9uRGF0YVJlY2VpdmVkIik7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICJieXRlc1RvSGV4OiAiICsgcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSW50ZWdlci5wYXJzZUludChtRGF0YS5zdWJzdHJpbmcoNCwgNiksMTYpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldHIK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0RGF0YUxlbmd0aCgpewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBLeWxlIG9uIDE1LzA2LzE3Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUhlYWRlciA9IGRhdGEuc3Vic3RyaW5nKDAsNik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sZ20uYmxlYnJpZGdlbGliLmhlbHBlci5QZXJtaXNzaW9uQ2hlY2tlcjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIk9uRGF0YVJlY2VpdmVkIik7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
