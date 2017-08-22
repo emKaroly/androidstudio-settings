@@ -39,7 +39,7 @@
         <mark key="^" line="8" column="54" />
         <mark key="." line="8" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1502717092718">
+      <file name="/a.dummy" timestamp="1503389616333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/item_scanned.xml" timestamp="1478596682581">
@@ -1005,7 +1005,7 @@
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1503308050509">
+      <file name="/fragment.java" timestamp="1503389608516">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
@@ -2062,7 +2062,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>No</text>
+        <text encoding="base64">XDw6XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaShUQUcsICJPbiBCb25kaW5nLi4uIik7Cg==</text>
@@ -2108,17 +2108,16 @@
       </register>
     </registers>
     <search>
-      <last-search>No</last-search>
+      <last-search encoding="base64">XDw6XD4=</last-search>
       <last-offset />
-      <last-pattern>No</last-pattern>
+      <last-pattern encoding="base64">XDw6XD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>urmsp_Start</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Payload</entry>
         <entry>AISpec</entry>
         <entry>Read</entry>
         <entry>urmsp_C1G2Read</entry>
@@ -2138,6 +2137,7 @@
         <entry>LongCLick</entry>
         <entry>onLong</entry>
         <entry>No</entry>
+        <entry encoding="base64">XDw6XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
