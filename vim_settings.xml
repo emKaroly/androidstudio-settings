@@ -478,12 +478,12 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" timestamp="1503395155654">
-        <mark key="'" line="69" column="8" />
-        <mark key="[" line="228" column="47" />
-        <mark key="]" line="228" column="66" />
-        <mark key="^" line="228" column="66" />
-        <mark key="." line="228" column="66" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" timestamp="1503395470611">
+        <mark key="'" line="230" column="46" />
+        <mark key="[" line="205" column="32" />
+        <mark key="]" line="206" column="7" />
+        <mark key="^" line="206" column="7" />
+        <mark key="." line="206" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssuielements/src/main/AndroidManifest.xml" timestamp="1493213189847">
         <mark key="[" line="2" column="8" />
@@ -1953,7 +1953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="438" column="42" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="329" column="26" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="293" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
@@ -2053,6 +2052,7 @@
       <jump line="157" column="11" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
       <jump line="94" column="26" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
       <jump line="666" column="16" filename="$USER_HOME$/Android/android-sdk-macosx/sources/android-25/android/bluetooth/BluetoothGatt.java" />
+      <jump line="228" column="46" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
