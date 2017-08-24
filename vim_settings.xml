@@ -42,6 +42,12 @@
       <file name="/a.dummy" timestamp="1503389616333">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/res/layout/item_scanned.xml" timestamp="1503565514689">
+        <mark key="[" line="60" column="41" />
+        <mark key="]" line="60" column="38" />
+        <mark key="^" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/res/layout/item_scanned.xml" timestamp="1478596682581">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="36" column="31" />
@@ -894,7 +900,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503564427649">
+      <file name="/Dummy.txt" timestamp="1503565704422">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -1270,12 +1276,12 @@
         <mark key="." line="136" column="16" />
         <mark key="^" line="136" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/ui/FoundDevicesDialog.java" timestamp="1502873167157">
-        <mark key="'" line="94" column="18" />
-        <mark key="[" line="94" column="17" />
-        <mark key="]" line="94" column="19" />
-        <mark key="." line="94" column="19" />
-        <mark key="^" line="94" column="19" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/ui/FoundDevicesDialog.java" timestamp="1503565093180">
+        <mark key="'" line="93" column="18" />
+        <mark key="[" line="50" column="54" />
+        <mark key="]" line="50" column="65" />
+        <mark key="." line="50" column="65" />
+        <mark key="^" line="50" column="65" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apiandroid/TSSAPICoreJNI.java" timestamp="1471545466106">
         <mark key="[" line="13" column="139" />
