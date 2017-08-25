@@ -1536,12 +1536,12 @@
         <mark key="." line="35" column="9" />
         <mark key="^" line="35" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" timestamp="1503684986221">
-        <mark key="'" line="91" column="77" />
-        <mark key="[" line="91" column="78" />
-        <mark key="]" line="91" column="77" />
-        <mark key="." line="91" column="77" />
-        <mark key="^" line="91" column="77" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" timestamp="1503686510202">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="80" column="96" />
+        <mark key="]" line="80" column="43" />
+        <mark key="." line="80" column="43" />
+        <mark key="^" line="80" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/cpp/tssapicore/src/packet/TSSURMPacketer.cpp" timestamp="1492609131754">
         <mark key="[" line="2" column="18" />
@@ -2015,8 +2015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="23" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
-      <jump line="346" column="19" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="347" column="19" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="349" column="26" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
       <jump line="458" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
@@ -2115,10 +2113,12 @@
       <jump line="79" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="91" column="77" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
+      <jump line="87" column="33" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
+      <jump line="94" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMR01QYWNrZXQgcGNrdCA9IG5ldyBMR01QYWNrZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>X</text>
@@ -2126,50 +2126,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>private static final String testData[] = {
-            &quot;400003001001&quot;,
-            &quot;40011500010E0200040001020303F802FFF0011A00000000&quot;,
-            &quot;4002020000&quot;,
-            &quot;41000100&quot;,
-            &quot;4200020002&quot;,
-            &quot;6200050101010100&quot;,
-            &quot;6200050201010100&quot;,
-            &quot;42010100&quot;,
-            &quot;6200050200010100&quot;,
-            &quot;41010100&quot;,
-            &quot;4200020002&quot;,
-            &quot;41030100&quot;};</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzOiB0ZXN0SGV4U3RyaW5nKSB7CiAgICAgICAgICAgIExHTVBhY2tldCBwY2t0ID0gbmV3IExHTVBhY2tldChzLDQwKTsKICAgICAgICAgICAgYXNzZXJ0QXJyYXlFcXVhbHMoTEdNUGFja2V0LmhleFN0cmluZ1RvQnl0ZUFycmF5KHMuc3Vic3RyaW5nKDAsNCkpLHBja3QuZ2V0Q29tbWFuZCgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMR01QYWNrZXQgcGNrdCA9IG5ldyBMR01QYWNrZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBLeWxlIG9uIDI1LzA4LzE3Lgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKExHTVBhY2tldC5oZXhTdHJpbmdUb0J5dGVBcnJheShzKSxMR01QYWNrZXQuaGV4U3RyaW5nVG9CeXRlQXJyYXkoTEdNUGFja2V0LmJ5dGVBcnJheVRvSGV4U3RyaW5nKCkpKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9Mb2cuZChUQUcsIEludGVnZXIudG9TdHJpbmcocGFja2V0TGVuZ3RoKSArICI6ICIgKyBJbnRlZ2VyLnRvU3RyaW5nKHBkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBzOiB0ZXN0SGV4U3RyaW5nKSB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
