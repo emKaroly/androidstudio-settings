@@ -1555,12 +1555,12 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" timestamp="1503651037257">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" timestamp="1503653111380">
         <mark key="'" line="30" column="7" />
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="9" />
-        <mark key="." line="52" column="9" />
-        <mark key="^" line="52" column="9" />
+        <mark key="[" line="66" column="84" />
+        <mark key="]" line="66" column="81" />
+        <mark key="." line="66" column="81" />
+        <mark key="^" line="66" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/CommandLayout.java" timestamp="1475480489078">
         <mark key="[" line="34" column="5" />
