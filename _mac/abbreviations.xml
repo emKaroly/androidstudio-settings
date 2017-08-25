@@ -10,6 +10,9 @@
       <action id="Run">
         <abbreviation name="r" />
       </action>
+      <action id="ChooseRunConfiguration">
+        <abbreviation name="ru" />
+      </action>
     </abbreviations>
   </component>
 </application>
