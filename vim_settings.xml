@@ -1017,7 +1017,7 @@
         <mark key="." line="24" column="7" />
         <mark key="^" line="24" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1503650258301">
+      <file name="/fragment.java" timestamp="1503651235338">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
@@ -1555,12 +1555,12 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" timestamp="1503649138045">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" timestamp="1503651037257">
         <mark key="'" line="30" column="7" />
-        <mark key="[" line="42" column="7" />
-        <mark key="]" line="42" column="8" />
-        <mark key="." line="42" column="8" />
-        <mark key="^" line="42" column="8" />
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="9" />
+        <mark key="." line="52" column="9" />
+        <mark key="^" line="52" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/CommandLayout.java" timestamp="1475480489078">
         <mark key="[" line="34" column="5" />
@@ -1831,9 +1831,9 @@
         <mark key="^" line="27" column="9" />
         <mark key="." line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" timestamp="1503649515491">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" timestamp="1503651131515">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
+        <mark key="[" line="57" column="5" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="11" column="60" />
         <mark key="." line="3" column="0" />
@@ -2081,11 +2081,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiT25EYXRhUmVjZWl2ZWQ6IFBhY2tldDogIiArIHBhY2tldCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
