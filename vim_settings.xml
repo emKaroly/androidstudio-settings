@@ -1584,12 +1584,12 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" timestamp="1503910985870">
-        <mark key="'" line="53" column="45" />
-        <mark key="[" line="48" column="100" />
-        <mark key="]" line="48" column="95" />
-        <mark key="^" line="48" column="95" />
-        <mark key="." line="48" column="95" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" timestamp="1503915376590">
+        <mark key="'" line="52" column="45" />
+        <mark key="[" line="69" column="42" />
+        <mark key="]" line="69" column="19" />
+        <mark key="^" line="69" column="19" />
+        <mark key="." line="69" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/CommandLayout.java" timestamp="1475480489078">
         <mark key="[" line="34" column="5" />
@@ -2118,46 +2118,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wZCA9IHBja3QK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>(packet.matches(curCmd) ? &quot;Match!&quot; : &quot;Not Match!&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBhY2tldExlbmd0aCArIG1QYWRkaW5nIC0gcGQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wZCA9IHBja3QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIkFmdGVyOiAiICsgbVBhY2tldGVyLmdldEJ1ZmZlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wZCA9IDAgYW5kIHBja3QgPSBwYWRkaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMR01TY3JpcHQgY21kTGlzdCA9IGNtZGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBrawo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTEdNU2NyaXB0IG1UZXN0UmN2TGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICBpZihtUCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIGlzVGVzdCA/ICJUZXN0UnVuIiA6ICJSdW4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywiUGFja2V0IGxlbmd0aCBPSyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1Rlc3QgPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
