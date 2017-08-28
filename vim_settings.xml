@@ -1891,12 +1891,12 @@
         <mark key="^" line="30" column="23" />
         <mark key="." line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" timestamp="1503907445927">
-        <mark key="'" line="59" column="55" />
-        <mark key="[" line="78" column="44" />
-        <mark key="]" line="78" column="59" />
-        <mark key="." line="78" column="59" />
-        <mark key="^" line="78" column="59" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" timestamp="1503921918392">
+        <mark key="'" line="56" column="55" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="75" column="59" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1471613663306">
         <mark key="[" line="262" column="2" />
@@ -2118,7 +2118,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYnVmZmVyTGVuZ3RoID0gbUJ1ZmZlci5sZW5ndGgoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -2130,34 +2130,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBhY2tldExlbmd0aCArIG1QYWRkaW5nIC0gcGQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYnVmZmVyTGVuZ3RoID0gbUJ1ZmZlci5sZW5ndGgoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaWN1LnRleHQuTnVtYmVyaW5nU3lzdGVtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLkJ5dGVCdWZmZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYnVmZmVyTGVuZ3RoID0gbUJ1ZmZlci5sZW5ndGgoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSEVBREVSX0xFTkdIVCArIGdldERhdGFMZW5ndGgoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0UGFja2V0TGVuZ3RoKCl7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSEVBREVSX0xFTkdIVCArIGdldERhdGFMZW5ndGgoKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgaW50IGdldFBhZGRlZFBhY2tldExlbmd0aCgpewogICAgICAgIGludCBwYWNrZXRMZW5ndGggPSBnZXRQYWNrZXRMZW5ndGgoKTsKCiAgICAgICAgaWYocGFja2V0TGVuZ3RoIDw9IG1QYWRkaW5nKXsKCiAgICAgICAgICAgIHJldHVybiBtUGFkZGluZzsKICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgaW50IHBkID0gcGFja2V0TGVuZ3RoICUgbVBhZGRpbmc7CiAgICAgICAgICAgIHJldHVybiBwYWNrZXRMZW5ndGggKyBtUGFkZGluZyAtIHBkOwogICAgICAgIH0KICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0UGFja2V0TGVuZ3RoKCl7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
