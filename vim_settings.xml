@@ -90,12 +90,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1503654112991">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1503904925318">
         <mark key="'" line="131" column="34" />
-        <mark key="[" line="131" column="18" />
-        <mark key="]" line="131" column="22" />
-        <mark key="^" line="131" column="22" />
-        <mark key="." line="131" column="22" />
+        <mark key="[" line="130" column="15" />
+        <mark key="]" line="130" column="15" />
+        <mark key="^" line="130" column="15" />
+        <mark key="." line="130" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
         <mark key="[" line="4" column="1" />
@@ -1584,12 +1584,12 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" timestamp="1503903686341">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" timestamp="1503904807230">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="54" column="19" />
-        <mark key="]" line="54" column="15" />
-        <mark key="^" line="54" column="15" />
-        <mark key="." line="54" column="15" />
+        <mark key="[" line="33" column="65" />
+        <mark key="]" line="33" column="46" />
+        <mark key="^" line="33" column="46" />
+        <mark key="." line="33" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/CommandLayout.java" timestamp="1475480489078">
         <mark key="[" line="34" column="5" />
@@ -2117,8 +2117,8 @@
       <jump line="22" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAvLyBMR01QYWNrZXQgcCA9IG5ldyBMR01QYWNrZXQobUJ1ZmZlci50b1N0cmluZygpLDIwKTsKICAgICAgIC8vIExvZy5kKFRBRywiQ29udGVudDogIiArIHAudG9IZXhTdHJpbmcoKSk7CiAgICAgICAvLyBMb2cuZChUQUcsIkxlbmd0aDogIiArIEludGVnZXIudG9TdHJpbmcocC5nZXRMZW5ndGgoKSkpOwogICAgICAgLy8gU3RyaW5nIHBja3QgPSBtQnVmZmVyLnN1YnN0cmluZygwLHAuZ2V0UGFkZGVkUGFja2V0TGVuZ3RoKCkqMik7CiAgICAgICAvLyBMb2cuZChUQUcscGNrdCArICI6ICIgKyBJbnRlZ2VyLnRvU3RyaW5nKHAuZ2V0UGFkZGVkUGFja2V0TGVuZ3RoKCkpKTsKICAgICAgIC8vIHAgPSBuZXcgTEdNUGFja2V0KHBja3QsMjApOwogICAgICAgLy8gaWYocC5pc1ZhbGlkKCkpewogICAgICAgLy8gICAgIG1CdWZmZXIuZGVsZXRlKDAscC5nZXRQYWRkZWRQYWNrZXRMZW5ndGgoKSoyKTsKICAgICAgIC8vICAgICByZXR1cm4gcC50b0hleFN0cmluZygpOwogICAgICAgLy8gfQogICAgICAgIC8vbUJ1ZmZlci5kZWxldGUoMCxwYWRkZWRQYWNrZXRMZW5naHQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>hexStringValid</text>
@@ -2129,35 +2129,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIjQwMCIsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAvLyBMR01QYWNrZXQgcCA9IG5ldyBMR01QYWNrZXQobUJ1ZmZlci50b1N0cmluZygpLDIwKTsKICAgICAgIC8vIExvZy5kKFRBRywiQ29udGVudDogIiArIHAudG9IZXhTdHJpbmcoKSk7CiAgICAgICAvLyBMb2cuZChUQUcsIkxlbmd0aDogIiArIEludGVnZXIudG9TdHJpbmcocC5nZXRMZW5ndGgoKSkpOwogICAgICAgLy8gU3RyaW5nIHBja3QgPSBtQnVmZmVyLnN1YnN0cmluZygwLHAuZ2V0UGFkZGVkUGFja2V0TGVuZ3RoKCkqMik7CiAgICAgICAvLyBMb2cuZChUQUcscGNrdCArICI6ICIgKyBJbnRlZ2VyLnRvU3RyaW5nKHAuZ2V0UGFkZGVkUGFja2V0TGVuZ3RoKCkpKTsKICAgICAgIC8vIHAgPSBuZXcgTEdNUGFja2V0KHBja3QsMjApOwogICAgICAgLy8gaWYocC5pc1ZhbGlkKCkpewogICAgICAgLy8gICAgIG1CdWZmZXIuZGVsZXRlKDAscC5nZXRQYWRkZWRQYWNrZXRMZW5ndGgoKSoyKTsKICAgICAgIC8vICAgICByZXR1cm4gcC50b0hleFN0cmluZygpOwogICAgICAgLy8gfQogICAgICAgIC8vbUJ1ZmZlci5kZWxldGUoMCxwYWRkZWRQYWNrZXRMZW5naHQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGJ1ZmZlckxlbmd0aCA9IG1CdWZmZXIubGVuZ3RoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGJ1ZmZlckxlbmd0aCA9IG1CdWZmZXIubGVuZ3RoKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYobVBhZGRpbmcgPiAwKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWVsc2V7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobVBhZGRpbmcgPiAwKXsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3JldHVybiBwYWNrZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1CdWZmZXIubGVuZ3RoKCkgPT0gZ2V0UGFja2V0TGVuZ3RoKG1CdWZmZXIudG9TdHJpbmcoKSkpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3JldHVybiBwYWNrZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1CdWZmZXIubGVuZ3RoKCkgPT0gZ2V0UGFja2V0TGVuZ3RoKG1CdWZmZXIudG9TdHJpbmcoKSkpewo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
