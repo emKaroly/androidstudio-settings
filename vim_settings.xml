@@ -527,6 +527,11 @@
         <mark key="^" line="36" column="59" />
         <mark key="." line="36" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketParserInterface.java" timestamp="1503991116576">
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1476696050521">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1018,12 +1023,11 @@
       <file name="/fragment.java" timestamp="1503943381112">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketBuilder.java" timestamp="1503943524418">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="13" column="34" />
-        <mark key="." line="13" column="34" />
-        <mark key="^" line="13" column="34" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketBuilder.java" timestamp="1503991096966">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketParser.java" timestamp="1503943595885">
         <mark key="[" line="24" column="5" />
@@ -2125,10 +2129,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcGVyYXRpb24gd2l0aFBhZGRpbmcoaW50IHBhZGRpbmcpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcGVyYXRpb24gYWRkUGFkZGluZyhpbnQgcGFkZGluZykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhY2tldCBnZXQoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9</text>
+        <text>Operation</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Operation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
@@ -2136,16 +2140,31 @@
       <register name="0" type="4">
         <text>PacketBuilder.operation</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcGVyYXRpb24gd2l0aFBhZGRpbmcoaW50IHBhZGRpbmcpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcGVyYXRpb24gYWRkUGFkZGluZyhpbnQgcGFkZGluZykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhY2tldCBnZXQoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGludGVyZmFjZSBQYWRkaW5nIHsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIE9wZXJhdGlvbiB3aXRoUGFkZGluZyhpbnQgcGFkZGluZyk7CiAgICBPcGVyYXRpb24gYWRkUGFkZGluZyhpbnQgcGFkZGluZyk7Cgo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcGVyYXRpb24gd2l0aFBhZGRpbmcoaW50IHBhZGRpbmcpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcGVyYXRpb24gYWRkUGFkZGluZyhpbnQgcGFkZGluZykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhY2tldCBnZXQoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>e
     public void copy() {
         
@@ -2155,21 +2174,6 @@
     public void remove() {
 
     }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIGZyb20gKFN0cmluZ0J1aWxkZXIgc291cmNlKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZnJvbSAoU3RyaW5nIHNvdXJjZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZnJvbSAoU3RyaW5nQnVpbGRlciBzb3VyY2UpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
