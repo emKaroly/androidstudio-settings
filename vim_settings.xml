@@ -527,10 +527,12 @@
         <mark key="^" line="36" column="59" />
         <mark key="." line="36" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketParserInterface.java" timestamp="1503991116576">
-        <mark key="]" line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketParserInterface.java" timestamp="1503993943506">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMReader.h" timestamp="1476696050521">
         <mark key="[" line="13" column="0" />
@@ -1029,11 +1031,11 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketParser.java" timestamp="1503943595885">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketParser.java" timestamp="1503994327960">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMDataStructures.h" timestamp="1470645705145">
         <mark key="[" line="4" column="15" />
@@ -1590,12 +1592,12 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" timestamp="1503924937287">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="30" column="30" />
-        <mark key="." line="30" column="30" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packeter.java" timestamp="1503994648949">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/CommandLayout.java" timestamp="1475480489078">
         <mark key="[" line="34" column="5" />
@@ -1782,11 +1784,11 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGPacket.java" timestamp="1503943328133">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="59" />
-        <mark key="." line="6" column="59" />
-        <mark key="^" line="6" column="59" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGPacket.java" timestamp="1503994601411">
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapiandroid/src/main/java/eu/tss/api/results/C1G2WriteOpSpecResult.java" timestamp="1478267684624">
         <mark key="[" line="46" column="49" />
@@ -2026,8 +2028,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="37" filename="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/lgm/blebridge/MainActivity.java" />
-      <jump line="160" column="29" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="88" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/BLEWrapper.java" />
       <jump line="57" column="44" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
@@ -2126,13 +2126,15 @@
       <jump line="142" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGPacket.java" />
       <jump line="9" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketBuilder.java" />
       <jump line="147" column="8" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGPacket.java" />
+      <jump line="23" column="12" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketParserInterface.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/PacketParserInterface.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Operation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Operation</text>
+        <text>Padding</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw6XD4=</text>
@@ -2141,42 +2143,34 @@
         <text>PacketBuilder.operation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludGVyZmFjZSBQYWRkaW5nIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTb3VyY2Ugd2l0aFBhZGRpbmcoaW50IHBhZGRpbmcpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE9wZXJhdGlvbiB3aXRoUGFkZGluZyhpbnQgcGFkZGluZyk7CiAgICBPcGVyYXRpb24gYWRkUGFkZGluZyhpbnQgcGFkZGluZyk7Cgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcGVyYXRpb24gd2l0aFBhZGRpbmcoaW50IHBhZGRpbmcpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBPcGVyYXRpb24gYWRkUGFkZGluZyhpbnQgcGFkZGluZykgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhY2tldCBnZXQoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTb3VyY2Ugd2l0aFBhZGRpbmcoaW50IHBhZGRpbmcpIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text>e
-    public void copy() {
-        
-    }
-
-    @Override
-    public void remove() {
-
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTb3VyY2Ugd2l0aFBhZGRpbmcoaW50IHBhZGRpbmcpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
