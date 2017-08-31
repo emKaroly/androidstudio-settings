@@ -47,6 +47,7 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="NextSplitter" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
@@ -64,6 +65,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="alt tab" />
   </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt v" />
