@@ -22,8 +22,12 @@
         <mark key="^" line="28" column="20" />
         <mark key="." line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/script/LGMPacket.java" timestamp="1504258976070">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/script/LGMPacket.java" timestamp="1504522151873">
         <mark key="'" line="4" column="0" />
+        <mark key="[" line="82" column="8" />
+        <mark key="]" line="82" column="9" />
+        <mark key="^" line="82" column="9" />
+        <mark key="." line="82" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/CloudClient_Android/app/src/main/java/eu/tsscompany/cloudclient/bindings/RFTransmitterParameters.java" timestamp="1474027935214">
         <mark key="[" line="56" column="3" />
@@ -88,12 +92,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1504520650059">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="64" column="75" />
-        <mark key="]" line="64" column="75" />
-        <mark key="^" line="64" column="75" />
-        <mark key="." line="64" column="75" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" timestamp="1504522375016">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="63" column="67" />
+        <mark key="^" line="63" column="67" />
+        <mark key="." line="63" column="67" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Hello-libs/app/build.gradle" timestamp="1468935454121">
         <mark key="[" line="4" column="1" />
@@ -1906,12 +1910,12 @@
         <mark key="^" line="27" column="9" />
         <mark key="." line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" timestamp="1504521727084">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" timestamp="1504521804585">
         <mark key="'" line="91" column="0" />
         <mark key="[" line="70" column="31" />
-        <mark key="]" line="69" column="40" />
-        <mark key="^" line="69" column="40" />
-        <mark key="." line="69" column="40" />
+        <mark key="]" line="70" column="30" />
+        <mark key="^" line="70" column="30" />
+        <mark key="." line="70" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMScriptCmd.java" timestamp="1497272131940">
         <mark key="[" line="6" column="25" />
@@ -2163,11 +2167,11 @@
       <jump line="44" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/misc/FifoQueue.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRBcnJheUVxdWFscyhyZWYsIFN0cmluZ1Rvb2wuaGV4U3RyaW5nVG9CeXRlQXJyYXkoaW4pKTsK</text>
+      <register name="&quot;" type="4">
+        <text>StringTool.byteArrayToHexString(ba)</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>StringTool.byteArrayToHexString(ba)</text>
       </register>
       <register name="/" type="4">
         <text>Data was</text>
