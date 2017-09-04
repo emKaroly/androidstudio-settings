@@ -15,11 +15,6 @@
         <mark key="." line="10" column="33" />
         <mark key="^" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/res/layout/dialogs.xml" timestamp="1502777929987">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/java/com/mk/tools/DataStorage.java" timestamp="1501929052526">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="28" column="15" />
@@ -636,7 +631,8 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/misc/FifoQueue.java" timestamp="1504262951348">
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/misc/FifoQueue.java" timestamp="1504516694089">
+        <mark key="'" line="44" column="16" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -819,11 +815,6 @@
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/src/main/AndroidManifest.xml" timestamp="1502975103242">
-        <mark key="[" line="6" column="62" />
-        <mark key="]" line="6" column="65" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/tssapicore/src/main/jni/ICore.h" timestamp="1486023507850">
         <mark key="[" line="12" column="67" />
@@ -1620,11 +1611,6 @@
         <mark key="^" line="257" column="18" />
         <mark key="." line="257" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/misc/DataManipulation.java" timestamp="1503383237903">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPI_Android/tssapicore/src/main/AndroidManifest.xml" timestamp="1493213223462">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="42" />
@@ -1786,7 +1772,6 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/proguard-rules.pro" timestamp="1504263594904" />
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMBuffer.h" timestamp="1467209332739">
         <mark key="[" line="20" column="9" />
         <mark key="]" line="20" column="9" />
@@ -2070,7 +2055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" />
       <jump line="267" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" />
       <jump line="279" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" />
@@ -2170,6 +2154,7 @@
       <jump line="81" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/script/LGMPacket.java" />
       <jump line="167" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" />
       <jump line="598" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" />
+      <jump line="44" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/misc/FifoQueue.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
