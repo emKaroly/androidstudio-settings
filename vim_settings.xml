@@ -1906,12 +1906,12 @@
         <mark key="^" line="27" column="9" />
         <mark key="." line="27" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" timestamp="1504521028711">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="70" column="35" />
-        <mark key="]" line="68" column="40" />
-        <mark key="^" line="68" column="40" />
-        <mark key="." line="68" column="40" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" timestamp="1504521727084">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="70" column="31" />
+        <mark key="]" line="69" column="40" />
+        <mark key="^" line="69" column="40" />
+        <mark key="." line="69" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMScriptCmd.java" timestamp="1497272131940">
         <mark key="[" line="6" column="25" />
@@ -2163,8 +2163,8 @@
       <jump line="44" column="16" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lairdtech/bt/misc/FifoQueue.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KGJ5dGUpMHhmZiwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRBcnJheUVxdWFscyhyZWYsIFN0cmluZ1Rvb2wuaGV4U3RyaW5nVG9CeXRlQXJyYXkoaW4pKTsK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -2172,8 +2172,8 @@
       <register name="/" type="4">
         <text>Data was</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KGJ5dGUpMHhmZiwg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRBcnJheUVxdWFscyhyZWYsIFN0cmluZ1Rvb2wuaGV4U3RyaW5nVG9CeXRlQXJyYXkoaW4pKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0ID0gaW4ucmVwbGFjZUFsbCgiW14qXSIsIkYiKTsK</text>
