@@ -258,7 +258,7 @@
         <mark key="^" line="38" column="26" />
         <mark key="." line="38" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/build.gradle" timestamp="1511445907501">
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/build.gradle" timestamp="1511447701490">
         <mark key="[" line="67" column="29" />
         <mark key="]" line="67" column="29" />
         <mark key="^" line="67" column="29" />
@@ -2217,11 +2217,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="8">
-        <text>$USER_HOME$/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp</text>
+        <text>../
+../
+../
+../
+../
+../
+../
+../
+../
+../
+../
+../
+../</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -2233,27 +2241,49 @@
         <text>phTmlNfc.h</text>
       </register>
       <register name="1" type="8">
-        <text>$USER_HOME$/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp</text>
+        <text>../
+../
+../
+../
+../
+../
+../
+../
+../
+../
+../
+../
+../</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
-        <text>$USER_HOME$/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp</text>
+        <text>../
+../
+../
+../
+../</text>
       </register>
       <register name="3" type="8">
         <text>$USER_HOME$/Projects_Temp
 /Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp
+/Users/Kyle/Projects_Temp</text>
+      </register>
+      <register name="4" type="8">
+        <text>$USER_HOME$/Projects_Temp
+/Users/Kyle/Projects_Temp
+/Users/Kyle/Projects_Temp
+/Users/Kyle/Projects_Temp
+/Users/Kyle/Projects_Temp</text>
+      </register>
+      <register name="5" type="8">
+        <text>$USER_HOME$/Projects_Temp
+/Users/Kyle/Projects_Temp
+/Users/Kyle/Projects_Temp
+/Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp
@@ -2264,13 +2294,13 @@
 /Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAvd2VhcmFibGVfcmVmX2RldmljZQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB3c2RrID0gIi9Vc2Vycy9LeWxlL1Byb2plY3RzX1RlbXAvV2VhcmFibGVDb3JlU0RLIgo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}
@@ -2285,18 +2315,12 @@ ${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImRhdGFfdHlwZXMuaCIK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
