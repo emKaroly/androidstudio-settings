@@ -258,11 +258,11 @@
         <mark key="^" line="38" column="26" />
         <mark key="." line="38" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/build.gradle" timestamp="1511437973501">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/build.gradle" timestamp="1511443329784">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="67" column="29" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/TSSURMHost.cpp" timestamp="1476440058937">
         <mark key="[" line="19" column="4" />
@@ -713,6 +713,10 @@
         <mark key="]" line="330" column="8" />
         <mark key="." line="105" column="7" />
         <mark key="^" line="105" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/jni/NXP-jni.c" timestamp="1511443520687">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/apicommon/C1G2Epc.java" timestamp="1470139814292">
         <mark key="[" line="29" column="0" />
@@ -2213,46 +2217,62 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>phTmlNfc.h</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Data was</text>
       </register>
       <register name="0" type="4">
-        <text>PhNXPJniHelper</text>
+        <text>phTmlNfc.h</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImRhdGFfdHlwZXMuaCIK</text>
+        <text encoding="base64">ICAgICAgICB3c2RrID0gIi9Vc2Vycy9LeWxlL1Byb2plY3RzX1RlbXAvV2VhcmFibGVDb3JlU0RLIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="8">
+        <text>${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImRhdGFfdHlwZXMuaCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z3sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>a</text>
