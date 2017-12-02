@@ -776,6 +776,9 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" timestamp="1512137437570">
+        <mark key="'" line="401" column="49" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470912312501">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -919,6 +922,9 @@
         <mark key="]" line="3" column="34" />
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" timestamp="1512137556932">
+        <mark key="'" line="49" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.h" timestamp="1470834423687">
         <mark key="[" line="12" column="0" />
@@ -1318,6 +1324,9 @@
         <mark key="]" line="9" column="14" />
         <mark key="^" line="30" column="56" />
         <mark key="." line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/ssdp/btclient/BluetoothClient.java" timestamp="1512137629802">
+        <mark key="'" line="395" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.h" timestamp="1466759192842">
         <mark key="[" line="23" column="113" />
@@ -2114,13 +2123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" />
-      <jump line="131" column="34" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/ScriptRunner.java" />
-      <jump line="61" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" />
-      <jump line="65" column="39" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" />
-      <jump line="66" column="43" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" />
-      <jump line="67" column="32" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/PacketerTest.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packet.java" />
       <jump line="94" column="44" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
       <jump line="89" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
@@ -2214,6 +2216,13 @@
       <jump line="33" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/bluetooth/BLEWrapper.java" />
       <jump line="27" column="15" filename="$USER_HOME$/Projects/LGM/NXPDTA/app/build.gradle" />
       <jump line="151" column="0" filename="$USER_HOME$/Projects/LGM/NXPDTA/app/src/main/java/com/phdtaui/customdialogs/PhCustomSNEPRTD.java" />
+      <jump line="1346" column="0" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" />
+      <jump line="468" column="24" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" />
+      <jump line="307" column="26" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" />
+      <jump line="401" column="49" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" />
+      <jump line="49" column="13" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/ssdp/btclient/BluetoothClient.java" />
+      <jump line="395" column="0" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/ssdp/btclient/BluetoothClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -2235,7 +2244,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Data was</text>
+        <text>native</text>
       </register>
       <register name="0" type="4">
         <text>phTmlNfc.h</text>
@@ -2333,9 +2342,9 @@ ${System.env.Wearable_SRC}</text>
       </register>
     </registers>
     <search>
-      <last-search>Data was</last-search>
+      <last-search>native</last-search>
       <last-offset />
-      <last-pattern>Data was</last-pattern>
+      <last-pattern>native</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>urmsp_Start</last-substitute>
       <last-dir>1</last-dir>
@@ -2343,8 +2352,6 @@ ${System.env.Wearable_SRC}</text>
     </search>
     <history>
       <history-search>
-        <entry>Read</entry>
-        <entry>urmsp_C1G2Read</entry>
         <entry>urmsp_GetReader</entry>
         <entry>urmsp_RFTrans</entry>
         <entry>urmsp_SetPowerMode</entry>
@@ -2363,6 +2370,8 @@ ${System.env.Wearable_SRC}</text>
         <entry>No</entry>
         <entry encoding="base64">XDw6XD4=</entry>
         <entry>Data was</entry>
+        <entry>button</entry>
+        <entry>native</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
