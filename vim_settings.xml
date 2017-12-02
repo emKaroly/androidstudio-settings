@@ -705,7 +705,8 @@
         <mark key="." line="105" column="7" />
         <mark key="^" line="105" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/jni/NXP-jni.c" timestamp="1511443520687">
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/jni/NXP-jni.c" timestamp="1512216509568">
+        <mark key="'" line="322" column="47" />
         <mark key="[" line="19" column="10" />
         <mark key="]" line="19" column="19" />
       </file>
@@ -911,8 +912,8 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" timestamp="1512137556932">
-        <mark key="'" line="49" column="13" />
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" timestamp="1512217187080">
+        <mark key="'" line="464" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.h" timestamp="1470834423687">
         <mark key="[" line="12" column="0" />
@@ -2093,9 +2094,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
-      <jump line="100" column="23" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
       <jump line="79" column="15" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
       <jump line="13" column="3" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packet.java" />
       <jump line="12" column="2" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packet.java" />
@@ -2193,6 +2191,9 @@
       <jump line="395" column="0" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/ssdp/btclient/BluetoothClient.java" />
       <jump line="48" column="8" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/jniclient/JniExecutionTask.java" />
       <jump line="389" column="4" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/ssdp/btclient/BluetoothClient.java" />
+      <jump line="322" column="47" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/jni/NXP-jni.c" />
+      <jump line="445" column="28" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" />
+      <jump line="464" column="36" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
