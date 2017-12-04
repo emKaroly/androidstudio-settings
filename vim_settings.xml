@@ -498,6 +498,9 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/quintic/libqpp/QppApi.java" timestamp="1512378061231">
+        <mark key="'" line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMCommand.java" timestamp="1504005630675">
         <mark key="'" line="192" column="0" />
         <mark key="[" line="79" column="0" />
@@ -625,6 +628,10 @@
         <mark key="]" line="6" column="85" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="34" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/quintic/libqpp/iQppCallback.java" timestamp="1512377954064">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/api/TSSAPIWIFI.java" timestamp="1476364381813">
         <mark key="[" line="5" column="42" />
@@ -768,8 +775,8 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" timestamp="1512137437570">
-        <mark key="'" line="401" column="49" />
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" timestamp="1512377030827">
+        <mark key="'" line="415" column="86" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacket.cpp" timestamp="1470912312501">
         <mark key="[" line="5" column="0" />
@@ -1314,8 +1321,8 @@
         <mark key="^" line="30" column="56" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/ssdp/btclient/BluetoothClient.java" timestamp="1512211106384">
-        <mark key="'" line="389" column="4" />
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/ssdp/btclient/BluetoothClient.java" timestamp="1512377882197">
+        <mark key="'" line="128" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.h" timestamp="1466759192842">
         <mark key="[" line="23" column="113" />
@@ -2094,11 +2101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="15" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
-      <jump line="13" column="3" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packet.java" />
-      <jump line="12" column="2" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/Packet.java" />
-      <jump line="4" column="22" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
-      <jump line="73" column="56" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
       <jump line="81" column="18" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
       <jump line="113" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
@@ -2194,31 +2196,24 @@
       <jump line="322" column="47" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/jni/NXP-jni.c" />
       <jump line="445" column="28" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" />
       <jump line="464" column="36" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" />
+      <jump line="73" column="4" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" />
+      <jump line="211" column="103" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" />
+      <jump line="415" column="86" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" />
+      <jump line="128" column="16" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/ssdp/btclient/BluetoothClient.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/quintic/libqpp/QppApi.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>../
-../
-../
-../
-../
-../
-../
-../
-../
-../
-../
-../
-../</text>
+      <register name="&quot;" type="4">
+        <text>Quintic</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>native</text>
+        <text>nci</text>
       </register>
       <register name="0" type="4">
-        <text>phTmlNfc.h</text>
+        <text>Quintic</text>
       </register>
       <register name="1" type="8">
         <text>../
@@ -2313,9 +2308,9 @@ ${System.env.Wearable_SRC}</text>
       </register>
     </registers>
     <search>
-      <last-search>native</last-search>
+      <last-search>nci</last-search>
       <last-offset />
-      <last-pattern>native</last-pattern>
+      <last-pattern>nci</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>urmsp_Start</last-substitute>
       <last-dir>1</last-dir>
@@ -2323,7 +2318,6 @@ ${System.env.Wearable_SRC}</text>
     </search>
     <history>
       <history-search>
-        <entry>urmsp_GetReader</entry>
         <entry>urmsp_RFTrans</entry>
         <entry>urmsp_SetPowerMode</entry>
         <entry>urmsp_Start</entry>
@@ -2343,6 +2337,7 @@ ${System.env.Wearable_SRC}</text>
         <entry>Data was</entry>
         <entry>button</entry>
         <entry>native</entry>
+        <entry>nci</entry>
       </history-search>
       <history-cmd>
         <entry>s/\%VQbyteArray/void/g</entry>
