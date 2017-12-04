@@ -417,6 +417,9 @@
         <mark key="^" line="66" column="6" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/jni/IChannel/ble_ichannel.c" timestamp="1512397175049">
+        <mark key="'" line="605" column="8" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/packet/TSSURMPacketer.h" timestamp="1470390910365">
         <mark key="[" line="10" column="90" />
         <mark key="]" line="5" column="0" />
@@ -919,8 +922,8 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" timestamp="1512217187080">
-        <mark key="'" line="464" column="36" />
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" timestamp="1512397123053">
+        <mark key="'" line="470" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapicore/src/main/jni/misc/ByteTool.h" timestamp="1470834423687">
         <mark key="[" line="12" column="0" />
@@ -1171,8 +1174,8 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/jniclient/JniExecutionTask.java" timestamp="1512210694493">
-        <mark key="'" line="48" column="8" />
+      <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/jniclient/JniExecutionTask.java" timestamp="1512397289689">
+        <mark key="'" line="123" column="50" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/tssapiandroid/src/main/java/eu/tss/parameters/SetPowerModeParameters.java" timestamp="1475412258443">
         <mark key="[" line="9" column="14" />
@@ -2101,9 +2104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="18" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/LGMPacket.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="91" column="77" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="87" column="33" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
@@ -2201,6 +2201,9 @@
       <jump line="415" column="86" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/MainActivity.java" />
       <jump line="128" column="16" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/ssdp/btclient/BluetoothClient.java" />
       <jump line="86" column="0" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/quintic/libqpp/QppApi.java" />
+      <jump line="470" column="42" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" />
+      <jump line="605" column="8" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/jni/IChannel/ble_ichannel.c" />
+      <jump line="123" column="50" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/jniclient/JniExecutionTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
