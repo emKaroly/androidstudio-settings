@@ -1327,6 +1327,9 @@
       <file name="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/ssdp/btclient/BluetoothClient.java" timestamp="1512377882197">
         <mark key="'" line="128" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/Freelancing/LusteriaChat/app/src/main/java/com/beszamolok/vtr/adapters/SearchListAdapter.java" timestamp="1512735529988">
+        <mark key="'" line="296" column="8" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/tssAPITest/callbackjni/src/main/jni/hello-jnicallback.h" timestamp="1466759192842">
         <mark key="[" line="23" column="113" />
         <mark key="]" line="23" column="22" />
@@ -2104,7 +2107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="91" column="77" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="87" column="33" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
@@ -2204,6 +2206,7 @@
       <jump line="470" column="42" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/activities/BaseActivity.java" />
       <jump line="605" column="8" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/jni/IChannel/ble_ichannel.c" />
       <jump line="123" column="50" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/jniclient/JniExecutionTask.java" />
+      <jump line="296" column="8" filename="$USER_HOME$/Projects/Freelancing/LusteriaChat/app/src/main/java/com/beszamolok/vtr/adapters/SearchListAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
