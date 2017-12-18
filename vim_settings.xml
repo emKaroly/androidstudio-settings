@@ -1117,11 +1117,11 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/build.gradle" timestamp="1513616240556">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-        <mark key="." line="31" column="26" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/build.gradle" timestamp="1513617543011">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/APICallbackHandler.java" timestamp="1484299057441">
         <mark key="'" line="57" column="0" />
@@ -2210,10 +2210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSBwcm9qZWN0KHBhdGg6ICc6YmxlYnJpZGdlbGliJykK</text>
+        <text encoding="base64">ICAgICAgICBtYXRjaGluZ0ZhbGxiYWNrcyA9IFsncmVsZWFzZSddCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>implementation</text>
       </register>
       <register name="/" type="4">
         <text>nci</text>
@@ -2221,20 +2221,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vY29tcGlsZSBwcm9qZWN0KHBhdGg6ICc6YmxlYnJpZGdlbGliJykK</text>
       </register>
-      <register name="1" type="8">
-        <text>../
-../
-../
-../
-../
-../
-../
-../
-../
-../
-../
-../
-../</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtYXRjaGluZ0ZhbGxiYWNrcyA9IFsncmVsZWFzZSddCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2244,14 +2232,22 @@
 ../
 ../
 ../
+../
+../
+../
+../
+../
+../
+../
+../
 ../</text>
       </register>
       <register name="3" type="8">
-        <text>$USER_HOME$/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp
-/Users/Kyle/Projects_Temp</text>
+        <text>../
+../
+../
+../
+../</text>
       </register>
       <register name="4" type="8">
         <text>$USER_HOME$/Projects_Temp
@@ -2265,6 +2261,13 @@
 /Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp
+/Users/Kyle/Projects_Temp</text>
+      </register>
+      <register name="6" type="8">
+        <text>$USER_HOME$/Projects_Temp
+/Users/Kyle/Projects_Temp
+/Users/Kyle/Projects_Temp
+/Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp
@@ -2275,29 +2278,22 @@
 /Users/Kyle/Projects_Temp
 /Users/Kyle/Projects_Temp</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAvd2VhcmFibGVfcmVmX2RldmljZQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3c2RrID0gIi9Vc2Vycy9LeWxlL1Byb2plY3RzX1RlbXAvV2VhcmFibGVDb3JlU0RLIgo=</text>
-      </register>
-      <register name="8" type="8">
-        <text>${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}
-${System.env.Wearable_SRC}</text>
       </register>
       <register name="9" type="8">
         <text>${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
+${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}
 ${System.env.Wearable_SRC}
