@@ -1117,11 +1117,11 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/build.gradle" timestamp="1504533922800">
-        <mark key="[" line="53" column="11" />
-        <mark key="]" line="53" column="11" />
-        <mark key="^" line="53" column="11" />
-        <mark key="." line="53" column="11" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/app/build.gradle" timestamp="1513616240556">
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/TSS/TSSAPITest_Android/app/src/main/java/eu/tss/apitest/APICallbackHandler.java" timestamp="1484299057441">
         <mark key="'" line="57" column="0" />
@@ -2209,8 +2209,8 @@
       <jump line="296" column="8" filename="$USER_HOME$/Projects/Freelancing/LusteriaChat/app/src/main/java/com/beszamolok/vtr/adapters/SearchListAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Quintic</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vY29tcGlsZSBwcm9qZWN0KHBhdGg6ICc6YmxlYnJpZGdlbGliJykK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -2218,8 +2218,8 @@
       <register name="/" type="4">
         <text>nci</text>
       </register>
-      <register name="0" type="4">
-        <text>Quintic</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vY29tcGlsZSBwcm9qZWN0KHBhdGg6ICc6YmxlYnJpZGdlbGliJykK</text>
       </register>
       <register name="1" type="8">
         <text>../
