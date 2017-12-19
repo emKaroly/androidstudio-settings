@@ -268,8 +268,8 @@
         <mark key="." line="816" column="0" />
         <mark key="^" line="838" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/script/LGMCommand.java" timestamp="1504261325197">
-        <mark key="'" line="120" column="0" />
+      <file name="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/script/LGMCommand.java" timestamp="1513625074581">
+        <mark key="'" line="183" column="4" />
         <mark key="[" line="176" column="46" />
         <mark key="]" line="176" column="43" />
         <mark key="." line="176" column="43" />
@@ -2107,7 +2107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="77" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="87" column="33" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
       <jump line="83" column="67" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/test/java/com/lgm/blebridgelib/LGMPacketTest.java" />
@@ -2207,6 +2206,7 @@
       <jump line="605" column="8" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/jni/IChannel/ble_ichannel.c" />
       <jump line="123" column="50" filename="$USER_HOME$/Projects_Temp/LoaderService20DemoConnDev/app/src/main/java/com/nxp/loaderserviceconndev/jniclient/JniExecutionTask.java" />
       <jump line="296" column="8" filename="$USER_HOME$/Projects/Freelancing/LusteriaChat/app/src/main/java/com/beszamolok/vtr/adapters/SearchListAdapter.java" />
+      <jump line="183" column="4" filename="$USER_HOME$/Projects/LGM/BLEBridge/blebridgelib/src/main/java/com/lgm/blebridgelib/script/LGMCommand.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
